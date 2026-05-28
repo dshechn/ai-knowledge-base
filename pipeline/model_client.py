@@ -262,6 +262,9 @@ class OpenAICompatibleProvider(LLMProvider):
             elapsed_ms,
         )
 
+        # 自动记录到全局 CostTracker
+        cost_tracker.record(usage, provider=self._provider_name)
+
         return LLMResponse(
             content=content,
             usage=usage,
@@ -336,6 +339,122 @@ async def chat_with_retry(
 
     # 所有重试均失败
     raise last_exception  # type: ignore[misc]
+
+
+# ---------------------------------------------------------------------------
+# CostTracker：追踪 LLM 调用的 token 消耗和成本
+# ---------------------------------------------------------------------------
+
+# 国产模型定价表：(输入价格 元/百万tokens, 输出价格 元/百万tokens)
+CN_MODEL_PRICING: dict[str, tuple[float, float]] = {
+    "zhipu": (1.0, 2.0),
+    "qwen": (4.0, 12.0),
+}
+
+
+class CostTracker:
+    """追踪 LLM 调用的 token 消耗和成本。
+
+    Example:
+        >>> tracker = CostTracker()
+        >>> tracker.record(usage, provider="zhipu")
+        >>> print(tracker.estimated_cost("zhipu"))
+        >>> tracker.report()
+    """
+
+    def __init__(self) -> None:
+        # provider -> 累计用量
+        self._records: dict[str, dict[str, int]] = {}
+        self._call_count: dict[str, int] = {}
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """记录一次 API 调用的 token 消耗。
+
+        Args:
+            usage: Token 用量统计。
+            provider: 提供商名称（如 "zhipu"、"qwen"）。
+        """
+        if provider not in self._records:
+            self._records[provider] = {
+                "prompt_tokens": 0,
+                "completion_tokens": 0,
+                "total_tokens": 0,
+            }
+            self._call_count[provider] = 0
+
+        self._records[provider]["prompt_tokens"] += usage.prompt_tokens
+        self._records[provider]["completion_tokens"] += usage.completion_tokens
+        self._records[provider]["total_tokens"] += usage.total_tokens
+        self._call_count[provider] += 1
+
+    def estimated_cost(self, provider: str) -> float:
+        """返回指定提供商的估算成本（元）。
+
+        Args:
+            provider: 提供商名称。
+
+        Returns:
+            估算成本（人民币元），精确到小数点后 6 位。
+            如果提供商不在价格表或无记录，返回 0.0。
+        """
+        record = self._records.get(provider)
+        if not record:
+            return 0.0
+
+        pricing = CN_MODEL_PRICING.get(provider)
+        if not pricing:
+            logger.warning("Provider %r not in CN pricing table, cost=0.0", provider)
+            return 0.0
+
+        input_price, output_price = pricing  # 元/百万tokens
+        cost = (
+            record["prompt_tokens"] * input_price / 1_000_000
+            + record["completion_tokens"] * output_price / 1_000_000
+        )
+        return round(cost, 6)
+
+    def total_cost(self) -> float:
+        """返回所有提供商的总成本（元）。"""
+        return sum(self.estimated_cost(p) for p in self._records)
+
+    def report(self, provider: str | None = None) -> str:
+        """生成成本报告并打印。
+
+        Args:
+            provider: 指定提供商，为 None 时报告所有提供商。
+
+        Returns:
+            格式化的报告字符串。
+        """
+        lines = ["=" * 50, "  LLM Cost Report", "=" * 50]
+
+        providers = [provider] if provider else list(self._records.keys())
+
+        for p in providers:
+            record = self._records.get(p)
+            if not record:
+                continue
+            calls = self._call_count.get(p, 0)
+            cost = self.estimated_cost(p)
+            lines.append(f"  Provider: {p}")
+            lines.append(f"    Calls:             {calls}")
+            lines.append(f"    Prompt tokens:     {record['prompt_tokens']:,}")
+            lines.append(f"    Completion tokens: {record['completion_tokens']:,}")
+            lines.append(f"    Total tokens:      {record['total_tokens']:,}")
+            lines.append(f"    Estimated cost:    ¥{cost:.6f}")
+            lines.append("")
+
+        total = self.total_cost()
+        lines.append(f"  Total cost: ¥{total:.6f}")
+        lines.append("=" * 50)
+
+        report_text = "\n".join(lines)
+        logger.info("\n%s", report_text)
+        return report_text
+
+
+# 全局 CostTracker 实例，供整个 pipeline 使用
+cost_tracker = CostTracker()
 
 
 # ---------------------------------------------------------------------------
