@@ -380,7 +380,11 @@ def _parse_llm_response(text: str) -> dict[str, Any]:
     return {"summary": "解析失败", "score": 5.0, "tags": ["unknown"]}
 
 
-async def step_analyze(items: list[RawItem], dry_run: bool = False) -> list[AnalyzedItem]:
+async def step_analyze(
+    items: list[RawItem],
+    dry_run: bool = False,
+    provider_name: str | None = None,
+) -> list[AnalyzedItem]:
     """Step 2: LLM 分析每条内容。"""
     logger.info("=" * 60)
     logger.info("Step 2: ANALYZE (%d items, dry_run=%s)", len(items), dry_run)
@@ -408,7 +412,7 @@ async def step_analyze(items: list[RawItem], dry_run: bool = False) -> list[Anal
 
     # 创建 LLM provider
     try:
-        provider = create_provider()
+        provider = create_provider(provider_name=provider_name)
     except ValueError as exc:
         logger.error("Cannot create LLM provider: %s", exc)
         logger.warning("Falling back to dry-run mode for analysis step")
@@ -784,11 +788,13 @@ async def run_pipeline(
     sources: list[str],
     limit: int = 20,
     dry_run: bool = False,
+    provider_name: str | None = None,
 ) -> dict[str, Any]:
     """执行完整的四步流水线。"""
     start_time = time.perf_counter()
 
-    logger.info("Pipeline started: sources=%s, limit=%d, dry_run=%s", sources, limit, dry_run)
+    logger.info("Pipeline started: sources=%s, limit=%d, dry_run=%s, provider=%s",
+                sources, limit, dry_run, provider_name or "auto")
 
     # Step 1: 采集
     raw_items = await step_collect(sources, limit)
@@ -797,7 +803,7 @@ async def run_pipeline(
         return {"collected": 0, "analyzed": 0, "organized": 0, "saved": 0}
 
     # Step 2: 分析
-    analyzed_items = await step_analyze(raw_items, dry_run=dry_run)
+    analyzed_items = await step_analyze(raw_items, dry_run=dry_run, provider_name=provider_name)
 
     # Step 3: 整理
     articles = step_organize(analyzed_items)
@@ -845,6 +851,7 @@ examples:
   python pipeline/pipeline.py --sources github,rss --limit 20
   python pipeline/pipeline.py --sources github --limit 5 --dry-run
   python pipeline/pipeline.py --sources rss --limit 10 --verbose
+  python pipeline/pipeline.py --limit 5 --provider deepseek
         """,
     )
     parser.add_argument(
@@ -858,6 +865,12 @@ examples:
         type=int,
         default=20,
         help="采集条目数上限，默认: 20",
+    )
+    parser.add_argument(
+        "--provider",
+        type=str,
+        default=None,
+        help="LLM 提供商 (如 zhipu, qwen, deepseek)，默认从环境变量 LLM_PROVIDER 读取",
     )
     parser.add_argument(
         "--dry-run",
@@ -886,7 +899,12 @@ def main() -> None:
             raise SystemExit(1)
 
     # 运行流水线
-    asyncio.run(run_pipeline(sources=sources, limit=args.limit, dry_run=args.dry_run))
+    asyncio.run(run_pipeline(
+        sources=sources,
+        limit=args.limit,
+        dry_run=args.dry_run,
+        provider_name=args.provider,
+    ))
 
 
 if __name__ == "__main__":
