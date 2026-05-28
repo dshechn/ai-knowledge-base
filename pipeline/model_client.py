@@ -84,7 +84,7 @@ MODEL_PRICING: dict[str, tuple[float, float]] = {
 PROVIDER_CONFIGS: dict[str, dict[str, str]] = {
     "zhipu": {
         "base_url": "https://open.bigmodel.cn/api/paas/v4",
-        "default_model": "glm-4-flash",
+        "default_model": "glm-4.7-flash",
         "api_key_env": "ZHIPU_API_KEY",
     },
     "qwen": {
