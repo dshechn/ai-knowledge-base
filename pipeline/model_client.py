@@ -84,7 +84,7 @@ MODEL_PRICING: dict[str, tuple[float, float]] = {
 PROVIDER_CONFIGS: dict[str, dict[str, str]] = {
     "zhipu": {
         "base_url": "https://open.bigmodel.cn/api/paas/v4",
-        "default_model": "glm-4.7-flash",
+        "default_model": "glm-4-flash",
         "api_key_env": "ZHIPU_API_KEY",
     },
     "qwen": {
@@ -239,9 +239,13 @@ class OpenAICompatibleProvider(LLMProvider):
         elapsed_ms = (time.perf_counter() - start_time) * 1000
         data = response.json()
 
-        # 解析响应
+        # 解析响应（兼容推理模型：content 为空时回退到 reasoning_content）
         choice = data.get("choices", [{}])[0]
-        content = choice.get("message", {}).get("content", "")
+        message = choice.get("message", {})
+        content = message.get("content", "") or ""
+        if not content.strip():
+            # 推理模型（如 glm-4.7-flash）将输出放在 reasoning_content 中
+            content = message.get("reasoning_content", "") or ""
         usage_data = data.get("usage", {})
 
         usage = Usage(
