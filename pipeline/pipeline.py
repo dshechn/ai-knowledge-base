@@ -538,8 +538,11 @@ TAG_ALIASES: dict[str, str] = {
 }
 
 
-def _normalize_tags(tags: list[str]) -> list[str]:
-    """标准化标签：小写、去空白、去重，映射到标准标签，最多 3 个。"""
+def _normalize_tags(tags: list[str], source: str = "", title: str = "") -> list[str]:
+    """标准化标签：小写、去空白、去重，映射到标准标签，最多 3 个。
+
+    当所有标签都无法匹配标准列表时，根据 source 和 title 推断兜底标签。
+    """
     result = []
     seen: set[str] = set()
 
@@ -563,6 +566,31 @@ def _normalize_tags(tags: list[str]) -> list[str]:
 
         if len(result) >= 3:
             break
+
+    # 兜底：如果没有匹配到任何标准标签，根据上下文推断
+    if not result:
+        context = f"{source} {title}".lower()
+        fallback_rules = [
+            (["llm", "gpt", "language-model", "chat"], "llm"),
+            (["ai", "agent", "intelligent", "ml", "machine"], "ai"),
+            (["python", "py"], "python"),
+            (["javascript", "js", "node", "react", "vue"], "javascript"),
+            (["typescript", "ts"], "typescript"),
+            (["rust"], "rust"),
+            (["go", "golang"], "go"),
+            (["docker", "container"], "docker"),
+            (["kubernetes", "k8s"], "kubernetes"),
+            (["web", "http", "html"], "web"),
+            (["database", "db", "sql"], "database"),
+        ]
+        for keywords, fallback_tag in fallback_rules:
+            if any(kw in context for kw in keywords):
+                result.append(fallback_tag)
+                break
+
+        # 最终兜底
+        if not result:
+            result.append("open-source")
 
     return result
 
@@ -680,7 +708,7 @@ def step_organize(items: list[AnalyzedItem]) -> list[Article]:
             source=item.source,
             summary=enriched_summary,
             score=score,
-            tags=_normalize_tags(item.tags),
+            tags=_normalize_tags(item.tags, source=item.source, title=item.title),
             status="draft",
             created_at=now,
             published_at=item.published_at,
