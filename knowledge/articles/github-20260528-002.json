@@ -1,0 +1,18 @@
+{
+  "id": "github-20260528-002",
+  "title": "apecloud/Aletheia",
+  "source_url": "https://github.com/apecloud/Aletheia",
+  "source": "github",
+  "summary": "Aletheia是一个基于AI的多代理编排框架，旨在自动化将传统关系数据库（RDBMS）转换为丰富、以对象为中心的业务本体。该框架利用模型和算法进行数据转换，支持分布式架构和微服务设计，适用于需要高性能和并发处理的应用场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "database"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-28T12:09:38.448101+00:00",
+  "published_at": "2026-05-28T12:06:08Z",
+  "collected_at": "2026-05-28T12:09:38.448101+00:00",
+  "description": "Aletheia is an AI-native, Multi-Agent orchestration framework designed to automate the transformation of traditional Relational Databases (RDBMS) into rich, object-centric Business Ontologies."
+}

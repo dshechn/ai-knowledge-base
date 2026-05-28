@@ -1,0 +1,18 @@
+{
+  "id": "github-20260528-008",
+  "title": "roshini0108/InferSim",
+  "source_url": "https://github.com/roshini0108/InferSim",
+  "source": "github",
+  "summary": "InferSim 是一个轻量级、无依赖的 Python 工具，用于模拟大型语言模型（LLM）的推理性能，以识别瓶颈并优化模型。该工具可以帮助开发者评估和优化模型的性能，适用于深度学习领域。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "deep-learning",
+    "performance"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-28T12:09:38.448101+00:00",
+  "published_at": "2026-05-28T11:31:58Z",
+  "collected_at": "2026-05-28T12:09:38.448101+00:00",
+  "description": "🔍 Simulate LLM inference performance to identify bottlenecks and optimize models with InferSim, a lightweight and dependency-free Python tool."
+}

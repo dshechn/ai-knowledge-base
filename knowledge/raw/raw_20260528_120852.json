@@ -1,0 +1,145 @@
+[
+  {
+    "title": "raybird/tao-of-coding",
+    "url": "https://github.com/raybird/tao-of-coding",
+    "source": "github",
+    "description": "這是一套專為 AI 代理設計的多代理協作框架 (Multi-Agent Orchestration Framework)，將開發任務的混亂轉化為有條不紊的秩序。",
+    "published_at": "2026-05-28T12:08:09Z",
+    "extra": {
+      "stars": 0,
+      "language": "Shell",
+      "topics": []
+    }
+  },
+  {
+    "title": "apecloud/Aletheia",
+    "url": "https://github.com/apecloud/Aletheia",
+    "source": "github",
+    "description": "Aletheia is an AI-native, Multi-Agent orchestration framework designed to automate the transformation of traditional Relational Databases (RDBMS) into rich, object-centric Business Ontologies.",
+    "published_at": "2026-05-28T12:06:08Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-05-28T11:58:00Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "mercurycontaminated-sandarac557/KnapsackRL",
+    "url": "https://github.com/mercurycontaminated-sandarac557/KnapsackRL",
+    "source": "github",
+    "description": "🎯 Optimize exploration budgets in Reinforcement Learning with KnapsackRL for more effective trajectory discovery in Large Language Models (LLMs).",
+    "published_at": "2026-05-28T11:49:17Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "algorithms",
+        "data-science",
+        "data-structures",
+        "deep-learning",
+        "dynamic-programming",
+        "knapsack-problem",
+        "machine-learning",
+        "open-source",
+        "optimization",
+        "python",
+        "reinforcement-learning",
+        "research",
+        "simulation",
+        "tool"
+      ]
+    }
+  },
+  {
+    "title": "vijaykmr18/RagGpt",
+    "url": "https://github.com/vijaykmr18/RagGpt",
+    "source": "github",
+    "description": "\"A serverless-ready RAG (Retrieval-Augmented Generation) web application built with Flask and OpenRouter. Allows users to upload PDF documents and chat with their own content using an intelligent LLM-powered assistant.",
+    "published_at": "2026-05-28T12:06:28Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "mrsk93/lexilift",
+    "url": "https://github.com/mrsk93/lexilift",
+    "source": "github",
+    "description": "AI-powered document ingestion and RAG (Retrieval-Augmented Generation) chat platform",
+    "published_at": "2026-05-28T12:07:47Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-05-28T11:56:37Z",
+    "extra": {
+      "stars": 13753,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "roshini0108/InferSim",
+    "url": "https://github.com/roshini0108/InferSim",
+    "source": "github",
+    "description": "🔍 Simulate LLM inference performance to identify bottlenecks and optimize models with InferSim, a lightweight and dependency-free Python tool.",
+    "published_at": "2026-05-28T11:31:58Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "deepseek",
+        "llm",
+        "llm-inference",
+        "qwen3",
+        "simulator"
+      ]
+    }
+  }
+]

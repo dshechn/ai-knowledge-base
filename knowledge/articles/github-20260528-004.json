@@ -1,0 +1,18 @@
+{
+  "id": "github-20260528-004",
+  "title": "mercurycontaminated-sandarac557/KnapsackRL",
+  "source_url": "https://github.com/mercurycontaminated-sandarac557/KnapsackRL",
+  "source": "github",
+  "summary": "KnapsackRL是一个用于强化学习中的探索预算优化的工具，旨在提高大型语言模型（LLMs）中的轨迹发现效率。该项目使用Python编写，通过优化算法和架构设计，实现了在分布式系统中对LLMs的并发控制和性能提升。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-28T12:09:38.448101+00:00",
+  "published_at": "2026-05-28T11:49:17Z",
+  "collected_at": "2026-05-28T12:09:38.448101+00:00",
+  "description": "🎯 Optimize exploration budgets in Reinforcement Learning with KnapsackRL for more effective trajectory discovery in Large Language Models (LLMs)."
+}
