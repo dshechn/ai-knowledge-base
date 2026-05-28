@@ -823,6 +823,10 @@ async def run_pipeline(
     logger.info("  Time:       %.1fs", summary["elapsed_seconds"])
     logger.info("=" * 60)
 
+    # 打印 LLM 成本报告
+    from model_client import cost_tracker
+    cost_tracker.report()
+
     return summary
 
 
