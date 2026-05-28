@@ -1,0 +1,197 @@
+[
+  {
+    "title": "AlexNthLab/nth-team-layer",
+    "url": "https://github.com/AlexNthLab/nth-team-layer",
+    "source": "github",
+    "description": "Pluggable team-collaboration layer for any AI agent framework — Hermes, Claude Code, OpenClaw, Codex, OpenHands, custom",
+    "published_at": "2026-05-28T13:13:54Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "michael-ebering/resgov",
+    "url": "https://github.com/michael-ebering/resgov",
+    "source": "github",
+    "description": "Resource Governance Framework (RGF) for AI Agents",
+    "published_at": "2026-05-28T13:13:04Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "bsl",
+        "budget-control",
+        "circuit-breaker",
+        "cost-governance",
+        "docker",
+        "fastapi",
+        "mcp",
+        "multi-agent",
+        "opensource",
+        "python",
+        "resource-governance",
+        "sqlite"
+      ]
+    }
+  },
+  {
+    "title": "mazextest2026/llm-training-toolkit",
+    "url": "https://github.com/mazextest2026/llm-training-toolkit",
+    "source": "github",
+    "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures.",
+    "published_at": "2026-05-28T13:13:55Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "donitb934/1Cat-vLLM",
+    "url": "https://github.com/donitb934/1Cat-vLLM",
+    "source": "github",
+    "description": "Optimize Tesla V100 GPUs for AWQ 4-bit inference with improved speed, stability, and support for modern large models like Qwen3.5 and MoE.",
+    "published_at": "2026-05-28T13:05:40Z",
+    "extra": {
+      "stars": 4,
+      "language": "Python",
+      "topics": [
+        "4x",
+        "api",
+        "cats",
+        "civ",
+        "cli",
+        "compiler",
+        "distributed",
+        "git",
+        "java",
+        "language",
+        "large-language-models",
+        "machine-learning",
+        "monitoring",
+        "realtime",
+        "tool",
+        "v"
+      ]
+    }
+  },
+  {
+    "title": "Azure/GPT-RAG",
+    "url": "https://github.com/Azure/GPT-RAG",
+    "source": "github",
+    "description": "Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+    "published_at": "2026-05-28T13:12:01Z",
+    "extra": {
+      "stars": 1153,
+      "language": "Python",
+      "topics": [
+        "azd-templates",
+        "azure",
+        "gpt-3",
+        "gpt-4",
+        "openai"
+      ]
+    }
+  },
+  {
+    "title": "Unfed-parenthesisfreenotation627/cag-service",
+    "url": "https://github.com/Unfed-parenthesisfreenotation627/cag-service",
+    "source": "github",
+    "description": "Serve Cache-Augmented Generation as a service with zero retrieval latency for bounded knowledge bases",
+    "published_at": "2026-05-28T13:11:43Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "aiops",
+        "anthropic",
+        "cag",
+        "fastapi",
+        "huggingface",
+        "knowledge-base",
+        "llm",
+        "nlp",
+        "ollama",
+        "ollama-api",
+        "openai",
+        "python",
+        "rag"
+      ]
+    }
+  },
+  {
+    "title": "SidharthKriplani/genai-systems-lab",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab",
+    "source": "github",
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation, inference optimization, agent loops, evals, MCP, and production system reasoning.",
+    "published_at": "2026-05-28T13:07:41Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agents",
+        "ai-engineering",
+        "ai-pm",
+        "ai-systems",
+        "evals",
+        "generative-ai",
+        "inference",
+        "interactive-learning",
+        "javascript",
+        "llm",
+        "machine-learning",
+        "portfolio",
+        "production-ai",
+        "prompt-engineering",
+        "rag",
+        "react",
+        "system-design",
+        "tailwindcss",
+        "vector-database",
+        "vite"
+      ]
+    }
+  },
+  {
+    "title": "donitb934/1Cat-vLLM",
+    "url": "https://github.com/donitb934/1Cat-vLLM",
+    "source": "github",
+    "description": "Optimize Tesla V100 GPUs for AWQ 4-bit inference with improved speed, stability, and support for modern large models like Qwen3.5 and MoE.",
+    "published_at": "2026-05-28T13:05:40Z",
+    "extra": {
+      "stars": 4,
+      "language": "Python",
+      "topics": [
+        "4x",
+        "api",
+        "cats",
+        "civ",
+        "cli",
+        "compiler",
+        "distributed",
+        "git",
+        "java",
+        "language",
+        "large-language-models",
+        "machine-learning",
+        "monitoring",
+        "realtime",
+        "tool",
+        "v"
+      ]
+    }
+  },
+  {
+    "title": "GCC Establishes Working Group to Decide on AI/LLM Policy",
+    "url": "https://www.phoronix.com/news/GCC-Working-Group-AI-Policy",
+    "source": "rss",
+    "description": "Article URL: https://www.phoronix.com/news/GCC-Working-Group-AI-Policy\nComments URL: https://news.ycombinator.com/item?id=47898043\nPoints: 2\n# Comments: 0",
+    "published_at": "Sat, 25 Apr 2026 02:18:46 +0000",
+    "extra": {}
+  }
+]

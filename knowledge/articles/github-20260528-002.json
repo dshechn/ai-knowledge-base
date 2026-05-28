@@ -1,18 +1,18 @@
 {
   "id": "github-20260528-002",
-  "title": "apecloud/Aletheia",
-  "source_url": "https://github.com/apecloud/Aletheia",
+  "title": "michael-ebering/resgov",
+  "source_url": "https://github.com/michael-ebering/resgov",
   "source": "github",
-  "summary": "Aletheia是一个基于AI的多代理编排框架，旨在自动化将传统关系数据库（RDBMS）转换为丰富、以对象为中心的业务本体。该框架利用模型和算法进行数据转换，支持分布式架构和微服务设计，适用于需要高性能和并发处理的应用场景。",
+  "summary": "Resource Governance Framework (RGF) 是一个用于AI代理的资源管理框架，通过模型训练和推理优化资源分配，实现预算控制和断路器机制，适用于分布式系统中微服务的性能和并发管理。",
   "score": 8.0,
   "tags": [
     "python",
     "ai",
-    "database"
+    "architecture"
   ],
   "status": "draft",
-  "created_at": "2026-05-28T12:09:38.448101+00:00",
-  "published_at": "2026-05-28T12:06:08Z",
-  "collected_at": "2026-05-28T12:09:38.448101+00:00",
-  "description": "Aletheia is an AI-native, Multi-Agent orchestration framework designed to automate the transformation of traditional Relational Databases (RDBMS) into rich, object-centric Business Ontologies."
+  "created_at": "2026-05-28T13:15:01.249007+00:00",
+  "published_at": "2026-05-28T13:13:04Z",
+  "collected_at": "2026-05-28T13:15:01.249007+00:00",
+  "description": "Resource Governance Framework (RGF) for AI Agents"
 }

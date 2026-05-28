@@ -1,18 +1,17 @@
 {
   "id": "github-20260528-006",
-  "title": "mrsk93/lexilift",
-  "source_url": "https://github.com/mrsk93/lexilift",
+  "title": "Unfed-parenthesisfreenotation627/cag-service",
+  "source_url": "https://github.com/Unfed-parenthesisfreenotation627/cag-service",
   "source": "github",
-  "summary": "Lexilift 是一个基于 TypeScript 开发的 AI 驱动的文档摄入和检索增强生成聊天平台。该平台利用模型进行训练和推理，通过向量索引和缓存机制优化性能，并采用微服务架构以支持高并发和分布式部署。",
+  "summary": "Unfed-parenthesisfreenotation627/cag-service 是一个基于 Python 和 FastAPI 框架的缓存增强生成服务，专为有限知识库设计，提供零检索延迟的缓存增强生成功能，适用于需要快速推理和算法性能的场景。",
   "score": 8.0,
   "tags": [
-    "typescript",
     "ai",
-    "microservices"
+    "python"
   ],
   "status": "draft",
-  "created_at": "2026-05-28T12:09:38.448101+00:00",
-  "published_at": "2026-05-28T12:07:47Z",
-  "collected_at": "2026-05-28T12:09:38.448101+00:00",
-  "description": "AI-powered document ingestion and RAG (Retrieval-Augmented Generation) chat platform"
+  "created_at": "2026-05-28T13:15:01.249007+00:00",
+  "published_at": "2026-05-28T13:11:43Z",
+  "collected_at": "2026-05-28T13:15:01.249007+00:00",
+  "description": "Serve Cache-Augmented Generation as a service with zero retrieval latency for bounded knowledge bases"
 }

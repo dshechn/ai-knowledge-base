@@ -1,17 +1,18 @@
 {
   "id": "github-20260528-007",
-  "title": "NVIDIA/TensorRT-LLM",
-  "source_url": "https://github.com/NVIDIA/TensorRT-LLM",
+  "title": "SidharthKriplani/genai-systems-lab",
+  "source_url": "https://github.com/SidharthKriplani/genai-systems-lab",
   "source": "github",
-  "summary": "TensorRT-LLM 提供了一个易于使用的 Python API 来定义大型语言模型（LLMs），并支持针对 NVIDIA GPU 的推理性能优化。它包含用于高效执行推理的 Python 和 C++ 运行时组件，适用于需要高效处理大规模语言模型的场景。",
-  "score": 9.0,
+  "summary": "该开源项目提供了一个交互式实验室，用于AI工程师和项目经理学习AI系统配置、故障分析、推理优化、代理循环、评估、MCP（多模型选择器）和生产系统推理。项目使用JavaScript语言，涉及模型、推理、算法、架构和性能等关键技术，适用于AI系统设计和优化。",
+  "score": 8.0,
   "tags": [
     "ai",
-    "deep-learning"
+    "algorithm",
+    "architecture"
   ],
   "status": "draft",
-  "created_at": "2026-05-28T12:09:38.448101+00:00",
-  "published_at": "2026-05-28T11:56:37Z",
-  "collected_at": "2026-05-28T12:09:38.448101+00:00",
-  "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execut"
+  "created_at": "2026-05-28T13:15:01.249007+00:00",
+  "published_at": "2026-05-28T13:07:41Z",
+  "collected_at": "2026-05-28T13:15:01.249007+00:00",
+  "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation, inference optimization, agent loops, evals, MCP, and production system reasoning."
 }

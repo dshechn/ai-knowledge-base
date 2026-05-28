@@ -1,18 +1,18 @@
 {
   "id": "github-20260528-005",
-  "title": "vijaykmr18/RagGpt",
-  "source_url": "https://github.com/vijaykmr18/RagGpt",
+  "title": "Azure/GPT-RAG",
+  "source_url": "https://github.com/Azure/GPT-RAG",
   "source": "github",
-  "summary": "RagGpt 是一个基于 Flask 和 OpenRouter 的无服务器 RAG (检索增强生成) Web 应用，支持用户上传 PDF 文档并使用智能 LLM 助手与其内容进行交互。该应用利用高效的模型推理和缓存机制，提供流畅的用户体验，适用于需要内容检索和生成的场景。",
+  "summary": "Azure/GPT-RAG 是一个在 Azure 上运行的检索增强生成模式，利用 Azure Cognitive Search 进行检索，并使用 Azure OpenAI 大型语言模型提供 ChatGPT 风格的对话和问答体验。该项目通过在 Azure 企业规模上安全地实现 OpenAI，展示了其高性能、高并发和分布式架构。",
   "score": 8.0,
   "tags": [
-    "python",
     "ai",
-    "deep-learning"
+    "azure",
+    "microservices"
   ],
   "status": "draft",
-  "created_at": "2026-05-28T12:09:38.448101+00:00",
-  "published_at": "2026-05-28T12:06:28Z",
-  "collected_at": "2026-05-28T12:09:38.448101+00:00",
-  "description": "\"A serverless-ready RAG (Retrieval-Augmented Generation) web application built with Flask and OpenRouter. Allows users to upload PDF documents and chat with their own content using an intelligent LLM-powered assistant."
+  "created_at": "2026-05-28T13:15:01.249007+00:00",
+  "published_at": "2026-05-28T13:12:01Z",
+  "collected_at": "2026-05-28T13:15:01.249007+00:00",
+  "description": "Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and "
 }

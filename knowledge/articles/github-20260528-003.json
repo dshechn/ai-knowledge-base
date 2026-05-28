@@ -1,18 +1,18 @@
 {
   "id": "github-20260528-003",
-  "title": "Jame0077/mcp-code-mode",
-  "source_url": "https://github.com/Jame0077/mcp-code-mode",
+  "title": "mazextest2026/llm-training-toolkit",
+  "source_url": "https://github.com/mazextest2026/llm-training-toolkit",
   "source": "github",
-  "summary": "该项目通过Code Execution MCP Server实现AI代码生成，将大型语言模型与模型上下文协议集成，以实现工具的无缝使用。它利用Python语言，结合了模型训练、推理、API和SDK等技术，适用于需要代码自动生成的场景。",
+  "summary": "本项目是一个用于理解和实验不同架构下大型语言模型训练和微调的学习项目。它涵盖了模型训练、推理、算法优化以及分布式架构设计等关键技术，旨在提升模型性能和并发处理能力。",
   "score": 8.0,
   "tags": [
-    "python",
     "ai",
-    "api"
+    "deep-learning",
+    "distributed-systems"
   ],
   "status": "draft",
-  "created_at": "2026-05-28T12:09:38.448101+00:00",
-  "published_at": "2026-05-28T11:58:00Z",
-  "collected_at": "2026-05-28T12:09:38.448101+00:00",
-  "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use."
+  "created_at": "2026-05-28T13:15:01.249007+00:00",
+  "published_at": "2026-05-28T13:13:55Z",
+  "collected_at": "2026-05-28T13:15:01.249007+00:00",
+  "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures."
 }
