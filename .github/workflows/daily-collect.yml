@@ -31,7 +31,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run collection pipeline
-        run: python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
+        run: python pipeline/pipeline.py --sources github,rss --limit 10 --verbose
 
       - name: Validate articles
         run: |
