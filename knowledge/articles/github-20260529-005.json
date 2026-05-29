@@ -1,0 +1,18 @@
+{
+  "id": "github-20260529-005",
+  "title": "Ishan007-bot/Synapse",
+  "source_url": "https://github.com/Ishan007-bot/Synapse",
+  "source": "github",
+  "summary": "Synapse是一个基于知识图谱增强的检索增强生成系统，使用Neo4j构建知识图谱，结合图遍历和向量搜索，能够回答传统向量RAG无法处理的跨跳问题。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-29T11:20:27.601884+00:00",
+  "published_at": "2026-05-29T11:18:25Z",
+  "collected_at": "2026-05-29T11:20:27.601884+00:00",
+  "description": "A knowledge-graph-augmented Retrieval-Augmented Generation (Graph RAG) system. Ingests documents (a curated Wikipedia corpus on the modern AI field), builds a Neo4j knowledge graph, combines graph traversal with vector search, and answers multi-hop questions a plain vector RAG can't"
+}

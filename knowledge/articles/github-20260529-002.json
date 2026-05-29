@@ -1,0 +1,17 @@
+{
+  "id": "github-20260529-002",
+  "title": "cordum-io/cordum",
+  "source_url": "https://github.com/cordum-io/cordum",
+  "source": "github",
+  "summary": "Cordum 是一个开源的智能代理控制平面，通过预执行策略执行、审批门和审计跟踪来管理自主人工智能代理。它支持与 LangChain、CrewAI、MCP 以及任何框架集成，适用于需要智能代理管理和治理的场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-29T11:20:27.601884+00:00",
+  "published_at": "2026-05-29T11:17:44Z",
+  "collected_at": "2026-05-29T11:20:27.601884+00:00",
+  "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework."
+}

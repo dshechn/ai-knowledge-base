@@ -1,0 +1,18 @@
+{
+  "id": "github-20260529-003",
+  "title": "Harmpleomorphism9956/ovo-local-llm",
+  "source_url": "https://github.com/Harmpleomorphism9956/ovo-local-llm",
+  "source": "github",
+  "summary": "Ovo-local-llm 是一款高效的本地部署工具，允许用户在个人机器上运行大型语言模型。该工具优化了模型训练和推理性能，支持向量索引和缓存机制，适用于需要高性能和低延迟的场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-29T11:20:27.601884+00:00",
+  "published_at": "2026-05-29T10:48:05Z",
+  "collected_at": "2026-05-29T11:20:27.601884+00:00",
+  "description": "Run large language models locally on your machine with this efficient deployment tool."
+}

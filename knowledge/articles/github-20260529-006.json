@@ -1,0 +1,18 @@
+{
+  "id": "github-20260529-006",
+  "title": "zhaolin-amd/llm-paper-radar",
+  "source_url": "https://github.com/zhaolin-amd/llm-paper-radar",
+  "source": "github",
+  "summary": "该项目提供每日大型语言模型（LLM）推理优化论文的摘要和雷达图，旨在帮助研究人员和开发者跟踪最新的LLM推理优化技术。通过Python实现，该项目利用模型、训练和推理算法，结合向量索引和缓存机制，优化LLM的性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "python"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-29T11:20:27.601884+00:00",
+  "published_at": "2026-05-29T11:12:05Z",
+  "collected_at": "2026-05-29T11:20:27.601884+00:00",
+  "description": "Daily LLM inference optimization paper digest"
+}

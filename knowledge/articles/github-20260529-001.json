@@ -1,0 +1,16 @@
+{
+  "id": "github-20260529-001",
+  "title": "pageel/para-workspace",
+  "source_url": "https://github.com/pageel/para-workspace",
+  "source": "github",
+  "summary": "PARA Workspace是一个开源的工作空间框架，它定义了人类和AI代理如何组织知识和协作完成项目。该框架包含内核（宪法）、命令行工具和模板，用于生成实际工作的工作空间，支持AI代理和人类协作，适用于开发工具和流程管理。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-29T11:20:27.601884+00:00",
+  "published_at": "2026-05-29T11:18:30Z",
+  "collected_at": "2026-05-29T11:20:27.601884+00:00",
+  "description": "🌌 PARA Workspace is an open-source workspace framework that defines how humans and AI agents organize knowledge and collaborate on projects. It ships as a repo containing a kernel (constitution), CLI tools, and templates — which generates workspaces where you actually work."
+}

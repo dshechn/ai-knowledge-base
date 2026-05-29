@@ -1,0 +1,177 @@
+[
+  {
+    "title": "pageel/para-workspace",
+    "url": "https://github.com/pageel/para-workspace",
+    "source": "github",
+    "description": "🌌 PARA Workspace is an open-source workspace framework that defines how humans and AI agents organize knowledge and collaborate on projects. It ships as a repo containing a kernel (constitution), CLI tools, and templates — which generates workspaces where you actually work.",
+    "published_at": "2026-05-29T11:18:30Z",
+    "extra": {
+      "stars": 45,
+      "language": "HTML",
+      "topics": [
+        "agentic-workflow",
+        "ai-agents",
+        "antigravity",
+        "dev-tools",
+        "para-method",
+        "personal-knowledge-management",
+        "pkm",
+        "productivity",
+        "second-brain",
+        "standard",
+        "structure",
+        "workspace-framework",
+        "workspace-template"
+      ]
+    }
+  },
+  {
+    "title": "cordum-io/cordum",
+    "url": "https://github.com/cordum-io/cordum",
+    "source": "github",
+    "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
+    "published_at": "2026-05-29T11:17:44Z",
+    "extra": {
+      "stars": 481,
+      "language": "Go",
+      "topics": [
+        "agent-framework",
+        "agentic-ai",
+        "ai-agent",
+        "ai-governance",
+        "ai-orchestration",
+        "ai-safety",
+        "audit-trail",
+        "autonomous-agents",
+        "control-plane",
+        "devops",
+        "governance",
+        "human-in-the-loop",
+        "llm",
+        "llm-agents",
+        "mcp",
+        "model-context-protocol",
+        "nats",
+        "policy-engine",
+        "safety-kernel",
+        "workflow-engine"
+      ]
+    }
+  },
+  {
+    "title": "Harmpleomorphism9956/ovo-local-llm",
+    "url": "https://github.com/Harmpleomorphism9956/ovo-local-llm",
+    "source": "github",
+    "description": "Run large language models locally on your machine with this efficient deployment tool.",
+    "published_at": "2026-05-29T10:48:05Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "agentic-ide",
+        "apple-silicon",
+        "claude-code",
+        "deepseek",
+        "diffusers",
+        "gemma",
+        "huggingface",
+        "llama",
+        "lm-studio-alternative",
+        "local-llm",
+        "macos",
+        "mistral",
+        "mlx",
+        "ollama-alternative",
+        "on-device-ai",
+        "privacy-first",
+        "qwen",
+        "rust"
+      ]
+    }
+  },
+  {
+    "title": "donitb934/1Cat-vLLM",
+    "url": "https://github.com/donitb934/1Cat-vLLM",
+    "source": "github",
+    "description": "Optimize Tesla V100 GPUs for AWQ 4-bit inference with improved speed, stability, and support for modern large models like Qwen3.5 and MoE.",
+    "published_at": "2026-05-29T10:24:11Z",
+    "extra": {
+      "stars": 4,
+      "language": "Python",
+      "topics": [
+        "4x",
+        "api",
+        "cats",
+        "civ",
+        "cli",
+        "compiler",
+        "distributed",
+        "git",
+        "java",
+        "language",
+        "large-language-models",
+        "machine-learning",
+        "monitoring",
+        "realtime",
+        "tool",
+        "v"
+      ]
+    }
+  },
+  {
+    "title": "jcarlosvelasco/ragnostic",
+    "url": "https://github.com/jcarlosvelasco/ragnostic",
+    "source": "github",
+    "description": "A production-grade Retrieval-Augmented Generation (RAG) pipeline for querying LangChain documentation in natural language",
+    "published_at": "2026-05-29T11:18:53Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Ishan007-bot/Synapse",
+    "url": "https://github.com/Ishan007-bot/Synapse",
+    "source": "github",
+    "description": "A knowledge-graph-augmented Retrieval-Augmented Generation (Graph RAG) system. Ingests documents (a curated Wikipedia corpus on the modern AI field), builds a Neo4j knowledge graph, combines graph traversal with vector search, and answers multi-hop questions a plain vector RAG can't",
+    "published_at": "2026-05-29T11:18:25Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "zhaolin-amd/llm-paper-radar",
+    "url": "https://github.com/zhaolin-amd/llm-paper-radar",
+    "source": "github",
+    "description": "Daily LLM inference optimization paper digest",
+    "published_at": "2026-05-29T11:12:05Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Vitalrubbish/Lattice",
+    "url": "https://github.com/Vitalrubbish/Lattice",
+    "source": "github",
+    "description": "An LLM inference engine that applies OS-level optimizations across the full inference stack.",
+    "published_at": "2026-05-29T11:09:34Z",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": []
+    }
+  },
+  {
+    "title": "How We Test AI: LLM and GenAI Security Methodology at Anvil Secure",
+    "url": "https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html",
+    "source": "rss",
+    "description": "Article URL: https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html\nComments URL: https://news.ycombinator.com/item?id=48311391\nPoints: 3\n# Comments: 0",
+    "published_at": "Thu, 28 May 2026 16:34:01 +0000",
+    "extra": {}
+  }
+]
