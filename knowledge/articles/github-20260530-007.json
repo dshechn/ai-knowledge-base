@@ -1,0 +1,16 @@
+{
+  "id": "github-20260530-007",
+  "title": "Yash-1335/qwen600",
+  "source_url": "https://github.com/Yash-1335/qwen600",
+  "source": "github",
+  "summary": "该项目使用CUDA构建了一个快速推理引擎，针对QWEN3-0.6B模型进行优化，以实现高效的训练和实践，同时保持最小依赖。通过CUDA技术提升模型推理性能，适用于需要高性能计算的场景。",
+  "score": 8.0,
+  "tags": [
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T09:51:09.890073+00:00",
+  "published_at": "2026-05-30T09:31:33Z",
+  "collected_at": "2026-05-30T09:51:09.890073+00:00",
+  "description": "🚀 Build a fast inference engine for the QWEN3-0.6B model using CUDA, optimizing performance with minimal dependencies for efficient learning and practice."
+}

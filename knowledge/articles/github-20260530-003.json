@@ -1,0 +1,18 @@
+{
+  "id": "github-20260530-003",
+  "title": "Yusuf270200101/DeepAnalyze",
+  "source_url": "https://github.com/Yusuf270200101/DeepAnalyze",
+  "source": "github",
+  "summary": "DeepAnalyze 是一款利用大型语言模型进行自动化数据分析和洞察生成的工具，旨在赋能数据科学家。该工具通过模型训练和推理，结合向量索引和缓存机制，优化了数据分析的性能和并发处理能力，适用于分布式微服务架构。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T09:51:09.890073+00:00",
+  "published_at": "2026-05-30T09:49:17Z",
+  "collected_at": "2026-05-30T09:51:09.890073+00:00",
+  "description": "🔍 Empower data scientists with DeepAnalyze, a tool that leverages large language models for automated data analysis and insights generation."
+}

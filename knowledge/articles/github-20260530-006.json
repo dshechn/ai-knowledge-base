@@ -1,0 +1,18 @@
+{
+  "id": "github-20260530-006",
+  "title": "jahnavi-16-12/Creator_Lens",
+  "source_url": "https://github.com/jahnavi-16-12/Creator_Lens",
+  "source": "github",
+  "summary": "CreatorLens AI 是一款基于 AI 的视频表现分析工具，利用检索增强生成（RAG）、LangGraph 和 Gemini 模型比较 YouTube 视频和 Instagram Reels。该工具通过算法分析视频内容，提供性能比较和洞察，适用于内容创作者和分析师。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "performance"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T09:51:09.890073+00:00",
+  "published_at": "2026-05-30T09:43:46Z",
+  "collected_at": "2026-05-30T09:51:09.890073+00:00",
+  "description": "CreatorLens AI — AI-powered video performance analyzer to compare YouTube videos and Instagram Reels using Retrieval-Augmented Generation (RAG), LangGraph, and Gemini."
+}

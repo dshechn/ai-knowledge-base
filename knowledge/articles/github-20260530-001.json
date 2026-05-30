@@ -1,0 +1,18 @@
+{
+  "id": "github-20260530-001",
+  "title": "blackeagle686/phoenix-ai",
+  "source_url": "https://github.com/blackeagle686/phoenix-ai",
+  "source": "github",
+  "summary": "Phoenix AI 是一个专为AI后端服务设计的模块化后端基础设施SDK，支持FastAPI、Django等框架，简化了重复的后端设置，适用于生产环境，具备缓存和AI模型推理功能，适用于构建高效的后端服务。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T09:51:09.890073+00:00",
+  "published_at": "2026-05-30T09:49:36Z",
+  "collected_at": "2026-05-30T09:51:09.890073+00:00",
+  "description": "🐦‍🔥 A production-ready, modular backend infrastructure SDK designed for AI-powered Python backend services.  Whether you are building with FastAPI, Django, or a custom event-driven service, Phoenix AI eliminates repetitive backend setup."
+}

@@ -1,0 +1,186 @@
+[
+  {
+    "title": "blackeagle686/phoenix-ai",
+    "url": "https://github.com/blackeagle686/phoenix-ai",
+    "source": "github",
+    "description": "🐦‍🔥 A production-ready, modular backend infrastructure SDK designed for AI-powered Python backend services.  Whether you are building with FastAPI, Django, or a custom event-driven service, Phoenix AI eliminates repetitive backend setup.",
+    "published_at": "2026-05-30T09:49:36Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "cache",
+        "framework",
+        "llm",
+        "python",
+        "rag",
+        "sdk",
+        "semantic-cache",
+        "services",
+        "stt",
+        "tools",
+        "tts",
+        "vlm"
+      ]
+    }
+  },
+  {
+    "title": "vankhaivn/Claudart",
+    "url": "https://github.com/vankhaivn/Claudart",
+    "source": "github",
+    "description": "A modular and self-evolving rules framework to optimize context windows for Claude and other AI coding agents.",
+    "published_at": "2026-05-30T09:49:05Z",
+    "extra": {
+      "stars": 9,
+      "language": "Shell",
+      "topics": []
+    }
+  },
+  {
+    "title": "Yusuf270200101/DeepAnalyze",
+    "url": "https://github.com/Yusuf270200101/DeepAnalyze",
+    "source": "github",
+    "description": "🔍 Empower data scientists with DeepAnalyze, a tool that leverages large language models for automated data analysis and insights generation.",
+    "published_at": "2026-05-30T09:49:17Z",
+    "extra": {
+      "stars": 3,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-ai",
+        "ai",
+        "ai-scientist",
+        "chatbot",
+        "cms",
+        "data",
+        "data-analysis",
+        "data-engineering",
+        "data-science",
+        "data-visualization",
+        "database",
+        "gpt",
+        "llama",
+        "llm",
+        "structured-data",
+        "vllm"
+      ]
+    }
+  },
+  {
+    "title": "AKURHULA/LLMSecurityGuide",
+    "url": "https://github.com/AKURHULA/LLMSecurityGuide",
+    "source": "github",
+    "description": "🛡️ Explore tools for securing Large Language Models, uncovering their strengths and weaknesses in the realm of offensive and defensive security.",
+    "published_at": "2026-05-30T09:47:30Z",
+    "extra": {
+      "stars": 3,
+      "language": null,
+      "topics": [
+        "ai-safety",
+        "ai-security",
+        "ai-security-tool",
+        "generative-ai-security",
+        "generative-ai-security-assurance",
+        "llm-security",
+        "llm-security-compliance-prompt-injection",
+        "llm-vulnerabilities",
+        "offensive-security",
+        "prompt-injection",
+        "prompt-injection-defense",
+        "prompt-injection-llm-security",
+        "red-teaming"
+      ]
+    }
+  },
+  {
+    "title": "Milesdexter/docschat-rag",
+    "url": "https://github.com/Milesdexter/docschat-rag",
+    "source": "github",
+    "description": "📚 Enhance technical documentation queries with DocsChat RAG, a robust Retrieval-Augmented Generation system featuring hybrid search and precise citations.",
+    "published_at": "2026-05-30T09:48:04Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "chromadb",
+        "generative-ai",
+        "hybrid-search",
+        "langchain",
+        "llm",
+        "machine-learning",
+        "nlp",
+        "openai",
+        "python",
+        "rag",
+        "reranking",
+        "retrieval-augmented-generation",
+        "semantic-search",
+        "streamlit-webapp",
+        "vector-database"
+      ]
+    }
+  },
+  {
+    "title": "jahnavi-16-12/Creator_Lens",
+    "url": "https://github.com/jahnavi-16-12/Creator_Lens",
+    "source": "github",
+    "description": "CreatorLens AI — AI-powered video performance analyzer to compare YouTube videos and Instagram Reels using Retrieval-Augmented Generation (RAG), LangGraph, and Gemini.",
+    "published_at": "2026-05-30T09:43:46Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "roshini0108/InferSim",
+    "url": "https://github.com/roshini0108/InferSim",
+    "source": "github",
+    "description": "🔍 Simulate LLM inference performance to identify bottlenecks and optimize models with InferSim, a lightweight and dependency-free Python tool.",
+    "published_at": "2026-05-30T09:41:57Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "deepseek",
+        "llm",
+        "llm-inference",
+        "qwen3",
+        "simulator"
+      ]
+    }
+  },
+  {
+    "title": "Yash-1335/qwen600",
+    "url": "https://github.com/Yash-1335/qwen600",
+    "source": "github",
+    "description": "🚀 Build a fast inference engine for the QWEN3-0.6B model using CUDA, optimizing performance with minimal dependencies for efficient learning and practice.",
+    "published_at": "2026-05-30T09:31:33Z",
+    "extra": {
+      "stars": 0,
+      "language": "Cuda",
+      "topics": [
+        "cuda",
+        "cuda-programming",
+        "gpu",
+        "llamacpp",
+        "llm",
+        "llm-inference",
+        "qwen",
+        "qwen3",
+        "transformer"
+      ]
+    }
+  },
+  {
+    "title": "How We Test AI: LLM and GenAI Security Methodology at Anvil Secure",
+    "url": "https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html",
+    "source": "rss",
+    "description": "Article URL: https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html\nComments URL: https://news.ycombinator.com/item?id=48311391\nPoints: 3\n# Comments: 0",
+    "published_at": "Thu, 28 May 2026 16:34:01 +0000",
+    "extra": {}
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260530-004",
+  "title": "AKURHULA/LLMSecurityGuide",
+  "source_url": "https://github.com/AKURHULA/LLMSecurityGuide",
+  "source": "github",
+  "summary": "AKURHULA/LLMSecurityGuide 提供了用于保障大型语言模型安全的工具，分析了其在网络安全领域的优缺点，涉及模型训练、推理、算法和架构等方面。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "security"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T09:51:09.890073+00:00",
+  "published_at": "2026-05-30T09:47:30Z",
+  "collected_at": "2026-05-30T09:51:09.890073+00:00",
+  "description": "🛡️ Explore tools for securing Large Language Models, uncovering their strengths and weaknesses in the realm of offensive and defensive security."
+}
