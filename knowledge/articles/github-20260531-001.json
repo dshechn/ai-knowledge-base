@@ -1,0 +1,18 @@
+{
+  "id": "github-20260531-001",
+  "title": "diazMelgarejo/Perpetua-Tools",
+  "source_url": "https://github.com/diazMelgarejo/Perpetua-Tools",
+  "source": "github",
+  "summary": "Perpetua-Tools是一个基于Python的标准化多代理编排框架，支持使用并行处理跨旗舰AI模型进行编码项目，优先考虑本地优先策略。该框架旨在提高模型训练和推理的性能，适用于需要分布式架构和微服务架构的场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-31T10:08:11.538830+00:00",
+  "published_at": "2026-05-31T10:05:29Z",
+  "collected_at": "2026-05-31T10:08:11.538830+00:00",
+  "description": "Standardized multi-agent orchestration framework for coding projects using parallel processing across flagship AI models, preferably local-first."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "github-20260531-003",
+  "title": "yosh95/llm-secure-cli",
+  "source_url": "https://github.com/yosh95/llm-secure-cli",
+  "source": "github",
+  "summary": "llm-secure-cli 是一个基于 Rust 开发的命令行工具，用于与大型语言模型（LLMs）交互。它为 OpenAI 兼容的 API 提供统一、稳定的接口，包括 OpenRouter、OpenAI、Ollama 和 LiteLLM，强调认知专注、安全执行和可扩展自动化，适用于需要高安全性和稳定性的场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "security"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-31T10:08:11.538830+00:00",
+  "published_at": "2026-05-31T09:56:14Z",
+  "collected_at": "2026-05-31T10:08:11.538830+00:00",
+  "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Models (LLMs). It provides a unified, stable interface for any OpenAI-compatible API, including OpenRouter, OpenAI, Ollama, and LiteLLM, prioritizing cognitive focus, secure executio"
+}

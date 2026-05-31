@@ -1,0 +1,169 @@
+[
+  {
+    "title": "diazMelgarejo/Perpetua-Tools",
+    "url": "https://github.com/diazMelgarejo/Perpetua-Tools",
+    "source": "github",
+    "description": "Standardized multi-agent orchestration framework for coding projects using parallel processing across flagship AI models, preferably local-first.",
+    "published_at": "2026-05-31T10:05:29Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "objectstack-ai/framework",
+    "url": "https://github.com/objectstack-ai/framework",
+    "source": "github",
+    "description": "ObjectStack is a metadata-driven backend for building business applications that AI agents can understand, operate, and audit safely.",
+    "published_at": "2026-05-31T10:04:23Z",
+    "extra": {
+      "stars": 6,
+      "language": "TypeScript",
+      "topics": [
+        "json-schema",
+        "protocol",
+        "standard",
+        "typescript-interfaces"
+      ]
+    }
+  },
+  {
+    "title": "yosh95/llm-secure-cli",
+    "url": "https://github.com/yosh95/llm-secure-cli",
+    "source": "github",
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Models (LLMs). It provides a unified, stable interface for any OpenAI-compatible API, including OpenRouter, OpenAI, Ollama, and LiteLLM, prioritizing cognitive focus, secure execution, and extensible automation.",
+    "published_at": "2026-05-31T09:56:14Z",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": [
+        "cli-app",
+        "llm-agent",
+        "llm-security",
+        "pqc",
+        "rust",
+        "zero-trust"
+      ]
+    }
+  },
+  {
+    "title": "Harmpleomorphism9956/ovo-local-llm",
+    "url": "https://github.com/Harmpleomorphism9956/ovo-local-llm",
+    "source": "github",
+    "description": "Run large language models locally on your machine with this efficient deployment tool.",
+    "published_at": "2026-05-31T09:50:40Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "agentic-ide",
+        "apple-silicon",
+        "claude-code",
+        "deepseek",
+        "diffusers",
+        "gemma",
+        "huggingface",
+        "llama",
+        "lm-studio-alternative",
+        "local-llm",
+        "macos",
+        "mistral",
+        "mlx",
+        "ollama-alternative",
+        "on-device-ai",
+        "privacy-first",
+        "qwen",
+        "rust"
+      ]
+    }
+  },
+  {
+    "title": "param20h/PDF-Assistant-RAG",
+    "url": "https://github.com/param20h/PDF-Assistant-RAG",
+    "source": "github",
+    "description": "PDF-Assistant-RAG is a complete, production-ready AI document assistant that lets users upload complex PDFs, financial reports, legal contracts, and research papers — then chat with an AI that provides accurate, cited answers powered by a multi-stage Retrieval-Augmented Generation pipeline.",
+    "published_at": "2026-05-31T10:06:35Z",
+    "extra": {
+      "stars": 18,
+      "language": "TypeScript",
+      "topics": [
+        "fastapi",
+        "nextjs",
+        "pdf-rag",
+        "python"
+      ]
+    }
+  },
+  {
+    "title": "ruba6/RAG_Chatbot",
+    "url": "https://github.com/ruba6/RAG_Chatbot",
+    "source": "github",
+    "description": "Production-style RAG (Retrieval-Augmented Generation) chatbot using modern GenAI and DevOps tools.",
+    "published_at": "2026-05-31T10:04:32Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "SidharthKriplani/genai-systems-lab",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab",
+    "source": "github",
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation, inference optimization, agent loops, evals, MCP, and production system reasoning.",
+    "published_at": "2026-05-31T10:02:48Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agents",
+        "ai-engineering",
+        "ai-pm",
+        "ai-systems",
+        "evals",
+        "generative-ai",
+        "inference",
+        "interactive-learning",
+        "javascript",
+        "llm",
+        "machine-learning",
+        "portfolio",
+        "production-ai",
+        "prompt-engineering",
+        "rag",
+        "react",
+        "system-design",
+        "tailwindcss",
+        "vector-database",
+        "vite"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-05-31T10:00:45Z",
+    "extra": {
+      "stars": 13772,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "How We Test AI: LLM and GenAI Security Methodology at Anvil Secure",
+    "url": "https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html",
+    "source": "rss",
+    "description": "Article URL: https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html\nComments URL: https://news.ycombinator.com/item?id=48311391\nPoints: 3\n# Comments: 0",
+    "published_at": "Thu, 28 May 2026 16:34:01 +0000",
+    "extra": {}
+  }
+]

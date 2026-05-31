@@ -1,0 +1,17 @@
+{
+  "id": "github-20260531-004",
+  "title": "param20h/PDF-Assistant-RAG",
+  "source_url": "https://github.com/param20h/PDF-Assistant-RAG",
+  "source": "github",
+  "summary": "PDF-Assistant-RAG是一个基于TypeScript的AI文档助手，支持用户上传复杂PDF文件，通过多阶段检索增强生成（RAG）管道与AI进行对话，提供准确引用的答案。该项目适用于处理财务报告、法律合同和研究论文等文档，具有生产就绪的架构和良好的性能。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-31T10:08:11.538830+00:00",
+  "published_at": "2026-05-31T10:06:35Z",
+  "collected_at": "2026-05-31T10:08:11.538830+00:00",
+  "description": "PDF-Assistant-RAG is a complete, production-ready AI document assistant that lets users upload complex PDFs, financial reports, legal contracts, and research papers — then chat with an AI that provides accurate, cited answers powered by a multi-stage Retrieval-Augmented Generation pipeline."
+}

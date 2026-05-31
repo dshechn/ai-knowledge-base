@@ -1,0 +1,18 @@
+{
+  "id": "github-20260531-005",
+  "title": "ruba6/RAG_Chatbot",
+  "source_url": "https://github.com/ruba6/RAG_Chatbot",
+  "source": "github",
+  "summary": "RAG_Chatbot 是一个基于现代生成式人工智能和DevOps工具的生产级检索增强生成聊天机器人。它利用先进的模型训练和推理技术，结合向量索引和缓存机制，以优化性能和并发处理，支持分布式架构和微服务设计。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-31T10:08:11.538830+00:00",
+  "published_at": "2026-05-31T10:04:32Z",
+  "collected_at": "2026-05-31T10:08:11.538830+00:00",
+  "description": "Production-style RAG (Retrieval-Augmented Generation) chatbot using modern GenAI and DevOps tools."
+}

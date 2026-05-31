@@ -1,0 +1,18 @@
+{
+  "id": "github-20260531-002",
+  "title": "objectstack-ai/framework",
+  "source_url": "https://github.com/objectstack-ai/framework",
+  "source": "github",
+  "summary": "ObjectStack 是一个基于元数据的后端框架，用于构建AI代理能够理解、操作和审计的业务应用程序。该框架使用TypeScript编写，支持JSON Schema和协议标准，适用于构建安全、可扩展的AI驱动应用。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-31T10:08:11.538830+00:00",
+  "published_at": "2026-05-31T10:04:23Z",
+  "collected_at": "2026-05-31T10:08:11.538830+00:00",
+  "description": "ObjectStack is a metadata-driven backend for building business applications that AI agents can understand, operate, and audit safely."
+}
