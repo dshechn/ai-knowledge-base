@@ -1,0 +1,18 @@
+{
+  "id": "github-20260601-007",
+  "title": "GetNyrex/strix-halo-guide",
+  "source_url": "https://github.com/GetNyrex/strix-halo-guide",
+  "source": "github",
+  "summary": "该项目提供了一种在AMD-powered mini PCs上快速、本地化进行大型语言模型推理的指南，无需云服务或订阅费用，实现了高达65-87 t/s的推理速度，适用于需要高性能、低延迟的AI应用。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "performance"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-01T13:29:12.028659+00:00",
+  "published_at": "2026-06-01T13:21:08Z",
+  "collected_at": "2026-06-01T13:29:12.028659+00:00",
+  "description": "Unlock fast, local LLM inference on AMD-powered mini PCs delivering 65-87 t/s for large models without cloud or subscription costs"
+}

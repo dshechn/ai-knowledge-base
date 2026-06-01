@@ -1,0 +1,18 @@
+{
+  "id": "github-20260601-001",
+  "title": "agentkit-seo/agentkit-seo",
+  "source_url": "https://github.com/agentkit-seo/agentkit-seo",
+  "source": "github",
+  "summary": "agentkit-seo是一个开源框架，旨在优化跨平台算法、搜索引擎和AI代理的专业可发现性。它涵盖了简历解析、LinkedIn、GitHub、个人网站、X平台以及代理上下文优化（ACO）。该框架利用JavaScript语言实现，适用于提升个人或组织在AI时代的信息可见性和搜索排名。",
+  "score": 8.0,
+  "tags": [
+    "javascript",
+    "ai",
+    "open-source"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-01T13:29:12.028659+00:00",
+  "published_at": "2026-06-01T12:37:42Z",
+  "collected_at": "2026-06-01T13:29:12.028659+00:00",
+  "description": "An open-source framework for engineering your professional discoverability across platform algorithms, search engines, and AI agents. Covers CV/ATS, LinkedIn, GitHub, personal websites, X, and Agent Context Optimization (ACO)."
+}

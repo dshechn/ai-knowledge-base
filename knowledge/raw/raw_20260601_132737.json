@@ -1,0 +1,184 @@
+[
+  {
+    "title": "agentkit-seo/agentkit-seo",
+    "url": "https://github.com/agentkit-seo/agentkit-seo",
+    "source": "github",
+    "description": "An open-source framework for engineering your professional discoverability across platform algorithms, search engines, and AI agents. Covers CV/ATS, LinkedIn, GitHub, personal websites, X, and Agent Context Optimization (ACO).",
+    "published_at": "2026-06-01T12:37:42Z",
+    "extra": {
+      "stars": 16,
+      "language": "JavaScript",
+      "topics": [
+        "agent-context",
+        "agent-skill",
+        "ai-agents",
+        "ai-optimization",
+        "antigravity-cli",
+        "antigravity-cli-extensions",
+        "ats",
+        "career",
+        "claude-code-skills",
+        "codex-skills",
+        "context-engineering",
+        "cv",
+        "gemini-cli-extensions",
+        "gemini-cli-skills",
+        "linkedin",
+        "llm-wiki",
+        "opencode-skills",
+        "personal-branding",
+        "resume",
+        "seo"
+      ]
+    }
+  },
+  {
+    "title": "markjspivey-xwisee/interego",
+    "url": "https://github.com/markjspivey-xwisee/interego",
+    "source": "github",
+    "description": "Context Graphs 1.0 — compositional framework for typed graph contexts over RDF 1.2 Named Graphs. Includes Solid pod federation, MCP server for AI agents, owner/agent delegation.",
+    "published_at": "2026-06-01T13:26:12Z",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "donitb934/1Cat-vLLM",
+    "url": "https://github.com/donitb934/1Cat-vLLM",
+    "source": "github",
+    "description": "Optimize Tesla V100 GPUs for AWQ 4-bit inference with improved speed, stability, and support for modern large models like Qwen3.5 and MoE.",
+    "published_at": "2026-06-01T13:19:39Z",
+    "extra": {
+      "stars": 4,
+      "language": "Python",
+      "topics": [
+        "4x",
+        "api",
+        "cats",
+        "civ",
+        "cli",
+        "compiler",
+        "distributed",
+        "git",
+        "java",
+        "language",
+        "large-language-models",
+        "machine-learning",
+        "monitoring",
+        "realtime",
+        "tool",
+        "v"
+      ]
+    }
+  },
+  {
+    "title": "Aaqilv2458/billus-model-skill-library",
+    "url": "https://github.com/Aaqilv2458/billus-model-skill-library",
+    "source": "github",
+    "description": "Provide model engineering skills for training, tuning, and modifying large language and vision models using PyTorch, Hugging Face, and related tools.",
+    "published_at": "2026-06-01T13:18:24Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "codex",
+        "deepspeed",
+        "diffusion",
+        "fsdp",
+        "huggingface",
+        "llm",
+        "multimodal",
+        "peft",
+        "qlora",
+        "skill",
+        "training",
+        "vl"
+      ]
+    }
+  },
+  {
+    "title": "ParamasivamJ/Enterprise-Knowledge-Assistant",
+    "url": "https://github.com/ParamasivamJ/Enterprise-Knowledge-Assistant",
+    "source": "github",
+    "description": "A production-ready Retrieval-Augmented Generation (RAG) system built with FastAPI, Next.js, and Qdrant. Features automated document ingestion, citation-grounded answers with low-latency streaming, and a comprehensive admin evaluation dashboard.",
+    "published_at": "2026-06-01T13:27:09Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Adi-0-0/RAG-Projects-",
+    "url": "https://github.com/Adi-0-0/RAG-Projects-",
+    "source": "github",
+    "description": "A Retrieval-Augmented Generation (RAG) based Python tutoring assistant",
+    "published_at": "2026-06-01T13:24:19Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "jd-opensource/xllm",
+    "url": "https://github.com/jd-opensource/xllm",
+    "source": "github",
+    "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators.",
+    "published_at": "2026-06-01T13:24:03Z",
+    "extra": {
+      "stars": 1312,
+      "language": "C++",
+      "topics": [
+        "deepseek",
+        "glm",
+        "inference",
+        "inference-engine",
+        "large-language-models",
+        "llm-inference",
+        "qwen"
+      ]
+    }
+  },
+  {
+    "title": "GetNyrex/strix-halo-guide",
+    "url": "https://github.com/GetNyrex/strix-halo-guide",
+    "source": "github",
+    "description": "Unlock fast, local LLM inference on AMD-powered mini PCs delivering 65-87 t/s for large models without cloud or subscription costs",
+    "published_at": "2026-06-01T13:21:08Z",
+    "extra": {
+      "stars": 1,
+      "language": "Shell",
+      "topics": [
+        "amd",
+        "asus-rog",
+        "beelink",
+        "cachyos",
+        "gfx1151",
+        "gguf",
+        "inference",
+        "linux-gaming",
+        "llama-cpp",
+        "llm",
+        "local-llm",
+        "mini-pc",
+        "ollama",
+        "optimization",
+        "rdna3",
+        "rocm",
+        "strix-halo",
+        "unified-memory"
+      ]
+    }
+  },
+  {
+    "title": "How We Test AI: LLM and GenAI Security Methodology at Anvil Secure",
+    "url": "https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html",
+    "source": "rss",
+    "description": "Article URL: https://www.anvilsecure.com/blog/llm-genai-security-methodology-at-anvil-secure.html\nComments URL: https://news.ycombinator.com/item?id=48311391\nPoints: 3\n# Comments: 0",
+    "published_at": "Thu, 28 May 2026 16:34:01 +0000",
+    "extra": {}
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260601-003",
+  "title": "Aaqilv2458/billus-model-skill-library",
+  "source_url": "https://github.com/Aaqilv2458/billus-model-skill-library",
+  "source": "github",
+  "summary": "该库利用PyTorch和Hugging Face工具，提供大型语言和视觉模型的训练、调优和修改的模型工程技能。支持分布式训练和微服务架构，优化性能和并发处理。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-01T13:29:12.028659+00:00",
+  "published_at": "2026-06-01T13:18:24Z",
+  "collected_at": "2026-06-01T13:29:12.028659+00:00",
+  "description": "Provide model engineering skills for training, tuning, and modifying large language and vision models using PyTorch, Hugging Face, and related tools."
+}
