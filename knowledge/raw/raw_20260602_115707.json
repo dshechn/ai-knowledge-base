@@ -1,0 +1,194 @@
+[
+  {
+    "title": "wsbs20/claude-code-aso-skill",
+    "url": "https://github.com/wsbs20/claude-code-aso-skill",
+    "source": "github",
+    "description": "🚀 Optimize App Store visibility with AI agents in the Claude Code framework for enhanced performance and growth.",
+    "published_at": "2026-06-02T11:56:10Z",
+    "extra": {
+      "stars": 38,
+      "language": "Python",
+      "topics": [
+        "aeo",
+        "agentic-framework",
+        "android",
+        "app-store-optimization",
+        "appstore",
+        "claude-ai",
+        "claude-code",
+        "claude-skill",
+        "ios",
+        "playstore"
+      ]
+    }
+  },
+  {
+    "title": "suhopark1-tech/hachillesworld",
+    "url": "https://github.com/suhopark1-tech/hachillesworld",
+    "source": "github",
+    "description": "World Model diagnosis & optimization platform | AI Agent diagnostics based on Levels x Laws framework",
+    "published_at": "2026-06-02T11:55:43Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": [
+        "agent-diagnostics",
+        "agentops",
+        "ai-agents",
+        "anthropic",
+        "harness-engineering",
+        "levels-laws",
+        "llm",
+        "python",
+        "world-model"
+      ]
+    }
+  },
+  {
+    "title": "mercurycontaminated-sandarac557/KnapsackRL",
+    "url": "https://github.com/mercurycontaminated-sandarac557/KnapsackRL",
+    "source": "github",
+    "description": "🎯 Optimize exploration budgets in Reinforcement Learning with KnapsackRL for more effective trajectory discovery in Large Language Models (LLMs).",
+    "published_at": "2026-06-02T11:52:41Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "algorithms",
+        "data-science",
+        "data-structures",
+        "deep-learning",
+        "dynamic-programming",
+        "knapsack-problem",
+        "machine-learning",
+        "open-source",
+        "optimization",
+        "python",
+        "reinforcement-learning",
+        "research",
+        "simulation",
+        "tool"
+      ]
+    }
+  },
+  {
+    "title": "Yusuf270200101/DeepAnalyze",
+    "url": "https://github.com/Yusuf270200101/DeepAnalyze",
+    "source": "github",
+    "description": "🔍 Empower data scientists with DeepAnalyze, a tool that leverages large language models for automated data analysis and insights generation.",
+    "published_at": "2026-06-02T11:42:42Z",
+    "extra": {
+      "stars": 4,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-ai",
+        "ai",
+        "ai-scientist",
+        "chatbot",
+        "cms",
+        "data",
+        "data-analysis",
+        "data-engineering",
+        "data-science",
+        "data-visualization",
+        "database",
+        "gpt",
+        "llama",
+        "llm",
+        "structured-data",
+        "vllm"
+      ]
+    }
+  },
+  {
+    "title": "Carricacha/local-rag-system",
+    "url": "https://github.com/Carricacha/local-rag-system",
+    "source": "github",
+    "description": "🤖 Build your own local Retrieval-Augmented Generation system for private, offline AI memory without ongoing costs or data privacy concerns.",
+    "published_at": "2026-06-02T11:56:33Z",
+    "extra": {
+      "stars": 3,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-privacy",
+        "ai-security",
+        "chromadb",
+        "infoserver",
+        "llm",
+        "local",
+        "local-rag",
+        "multi-agent",
+        "ollama",
+        "pii-detection",
+        "rag",
+        "rag-security",
+        "retreival-augmented-generation",
+        "shtf",
+        "streamlit-ai",
+        "vector-database",
+        "vuetify3"
+      ]
+    }
+  },
+  {
+    "title": "honcyeung/AI-Powered-SEC-Filing-Analysis",
+    "url": "https://github.com/honcyeung/AI-Powered-SEC-Filing-Analysis",
+    "source": "github",
+    "description": "This project automates the analysis of SEC filings (10-K, 10-Q) using a Retrieval-Augmented Generation (RAG) pipeline. It fetches financial data, processes it, and uses a Gemini model to answer financial questions, with outputs saved as markdown files.",
+    "published_at": "2026-06-02T11:55:21Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "Vitalrubbish/Lattice",
+    "url": "https://github.com/Vitalrubbish/Lattice",
+    "source": "github",
+    "description": "An LLM inference engine that applies OS-level optimizations across the full inference stack.",
+    "published_at": "2026-06-02T11:56:57Z",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": []
+    }
+  },
+  {
+    "title": "SidharthKriplani/genai-systems-lab",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab",
+    "source": "github",
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation, inference optimization, agent loops, evals, MCP, and production system reasoning.",
+    "published_at": "2026-06-02T11:39:35Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agents",
+        "ai-engineering",
+        "ai-pm",
+        "ai-systems",
+        "evals",
+        "generative-ai",
+        "inference",
+        "interactive-learning",
+        "javascript",
+        "llm",
+        "machine-learning",
+        "portfolio",
+        "production-ai",
+        "prompt-engineering",
+        "rag",
+        "react",
+        "system-design",
+        "tailwindcss",
+        "vector-database",
+        "vite"
+      ]
+    }
+  }
+]

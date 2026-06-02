@@ -1,0 +1,18 @@
+{
+  "id": "github-20260602-004",
+  "title": "Carricacha/local-rag-system",
+  "source_url": "https://github.com/Carricacha/local-rag-system",
+  "source": "github",
+  "summary": "Carricacha/local-rag-system 是一个基于 Python 的本地检索增强生成系统，旨在为用户提供一个无需持续成本和数据隐私担忧的离线 AI 记忆解决方案。该系统利用模型训练和推理技术，结合向量索引和缓存机制，提供高效的检索增强生成服务，适用于构建私有、离线的人工智能应用。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-02T11:58:13.412510+00:00",
+  "published_at": "2026-06-02T11:56:33Z",
+  "collected_at": "2026-06-02T11:58:13.412510+00:00",
+  "description": "🤖 Build your own local Retrieval-Augmented Generation system for private, offline AI memory without ongoing costs or data privacy concerns."
+}

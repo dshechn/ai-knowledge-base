@@ -1,0 +1,18 @@
+{
+  "id": "github-20260602-001",
+  "title": "wsbs20/claude-code-aso-skill",
+  "source_url": "https://github.com/wsbs20/claude-code-aso-skill",
+  "source": "github",
+  "summary": "该开源项目利用Claude Code框架中的AI代理优化应用商店可见性，通过模型训练和推理提升性能和增长。项目采用分布式架构，支持并发处理，并集成了缓存和索引机制，适用于移动应用市场优化。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "mobile"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-02T11:58:13.412510+00:00",
+  "published_at": "2026-06-02T11:56:10Z",
+  "collected_at": "2026-06-02T11:58:13.412510+00:00",
+  "description": "🚀 Optimize App Store visibility with AI agents in the Claude Code framework for enhanced performance and growth."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260602-005",
+  "title": "honcyeung/AI-Powered-SEC-Filing-Analysis",
+  "source_url": "https://github.com/honcyeung/AI-Powered-SEC-Filing-Analysis",
+  "source": "github",
+  "summary": "该项目通过RAG管道自动化分析SEC文件（如10-K，10-Q），使用Gemini模型处理财务数据并回答相关问题，输出结果以markdown文件保存。核心技术包括模型训练、推理和向量索引，适用于金融数据分析领域。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-02T11:58:13.412510+00:00",
+  "published_at": "2026-06-02T11:55:21Z",
+  "collected_at": "2026-06-02T11:58:13.412510+00:00",
+  "description": "This project automates the analysis of SEC filings (10-K, 10-Q) using a Retrieval-Augmented Generation (RAG) pipeline. It fetches financial data, processes it, and uses a Gemini model to answer financial questions, with outputs saved as markdown files."
+}
