@@ -1,0 +1,18 @@
+{
+  "id": "github-20260603-006",
+  "title": "riawat511/club-5060ti",
+  "source_url": "https://github.com/riawat511/club-5060ti",
+  "source": "github",
+  "summary": "该项目针对RTX 5060 Ti硬件配置优化本地LLM推理和基准测试方案，涉及模型训练、推理性能优化、分布式架构和微服务设计，适用于需要高性能LLM服务的场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-03T12:31:19.626190+00:00",
+  "published_at": "2026-06-03T12:23:02Z",
+  "collected_at": "2026-06-03T12:31:19.626190+00:00",
+  "description": "Optimize local LLM inference and benchmarking recipes for RTX 5060 Ti hardware configurations."
+}

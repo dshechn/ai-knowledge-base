@@ -1,0 +1,18 @@
+{
+  "id": "github-20260603-005",
+  "title": "tanishqnikose9302/Academic-RAG-System",
+  "source_url": "https://github.com/tanishqnikose9302/Academic-RAG-System",
+  "source": "github",
+  "summary": "该系统基于Retrieval-Augmented Generation (RAG)技术，利用Python、Streamlit、FAISS、Sentence Transformers和大型语言模型（如Gemma/Llama）构建学术问答系统，实现智能文档理解。系统通过索引和向量搜索加速文档检索，并利用缓存机制提高推理性能，适用于学术研究和教育领域。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-03T12:31:19.626190+00:00",
+  "published_at": "2026-06-03T12:28:54Z",
+  "collected_at": "2026-06-03T12:31:19.626190+00:00",
+  "description": "Retrieval-Augmented Generation (RAG) based Academic Question Answering System using Python, Streamlit, FAISS, Sentence Transformers, and Large Language Models (Gemma/Llama) for intelligent document understanding."
+}

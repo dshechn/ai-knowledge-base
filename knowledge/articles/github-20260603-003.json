@@ -1,0 +1,18 @@
+{
+  "id": "github-20260603-003",
+  "title": "bartolomeouneasy166/Schola-Herv",
+  "source_url": "https://github.com/bartolomeouneasy166/Schola-Herv",
+  "source": "github",
+  "summary": "Schola-Herv 是一个基于 Python 的命令行工具，用于大规模下载学术论文，构建用于语言模型和系统综述的大型研究语料库。该工具利用异步编程和缓存机制提高性能，适用于学术研究和数据科学领域。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "tooling"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-03T12:31:19.626190+00:00",
+  "published_at": "2026-06-03T12:24:49Z",
+  "collected_at": "2026-06-03T12:31:19.626190+00:00",
+  "description": "Download academic papers at scale using a command-line tool designed for building large research corpora for language models and systematic reviews."
+}

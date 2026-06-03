@@ -1,0 +1,18 @@
+{
+  "id": "github-20260603-004",
+  "title": "naminc/DA14_AI_Dental_Agent",
+  "source_url": "https://github.com/naminc/DA14_AI_Dental_Agent",
+  "source": "github",
+  "summary": "DA14_AI_Dental_Agent 是一款基于 RAG 架构的智能牙科助手，采用 FAISS + BM25 混合搜索和多层抗幻觉机制，支持本地 LLM (Ollama) 和云端 LLM (OpenAI)。项目基于 FastAPI 和 Next.js 构建，并使用 MySQL 数据库，适用于牙科领域的智能问答和辅助决策。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-03T12:31:19.626190+00:00",
+  "published_at": "2026-06-03T12:29:03Z",
+  "collected_at": "2026-06-03T12:31:19.626190+00:00",
+  "description": "Trợ lý nha khoa thông minh sử dụng kiến trúc RAG (Retrieval-Augmented Generation) với tìm kiếm lai (FAISS + BM25), mở rộng đa truy vấn và cơ chế chống ảo giác đa tầng. Hỗ trợ cả LLM cục bộ (Ollama) lẫn đám mây (OpenAI). Xây dựng trên FastAPI, Next.js và MySQL."
+}

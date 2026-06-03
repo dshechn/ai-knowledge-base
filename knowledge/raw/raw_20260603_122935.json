@@ -1,0 +1,186 @@
+[
+  {
+    "title": "danielzoa/dandi-bot",
+    "url": "https://github.com/danielzoa/dandi-bot",
+    "source": "github",
+    "description": "🤖 DanDi Bot - AI Trading Assistant com TradingAgents multi-agent framework",
+    "published_at": "2026-06-03T12:28:45Z",
+    "extra": {
+      "stars": 0,
+      "language": "Dart",
+      "topics": []
+    }
+  },
+  {
+    "title": "harshitha-8/multimodal-self-evaluating-agents",
+    "url": "https://github.com/harshitha-8/multimodal-self-evaluating-agents",
+    "source": "github",
+    "description": "Research framework for multimodal reasoning, agent metacognition, and real-world AI systems",
+    "published_at": "2026-06-03T12:28:43Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "bartolomeouneasy166/Schola-Herv",
+    "url": "https://github.com/bartolomeouneasy166/Schola-Herv",
+    "source": "github",
+    "description": "Download academic papers at scale using a command-line tool designed for building large research corpora for language models and systematic reviews.",
+    "published_at": "2026-06-03T12:24:49Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "academic-papers",
+        "arxiv",
+        "async",
+        "cli-tool",
+        "corpus-builder",
+        "crossref",
+        "data-collection",
+        "literature-review",
+        "llm",
+        "nlp",
+        "ollama",
+        "open-access",
+        "openalex",
+        "pdf-downloader",
+        "pubmed",
+        "python",
+        "research-tools",
+        "scientific-data"
+      ]
+    }
+  },
+  {
+    "title": "Harmpleomorphism9956/ovo-local-llm",
+    "url": "https://github.com/Harmpleomorphism9956/ovo-local-llm",
+    "source": "github",
+    "description": "Run large language models locally on your machine with this efficient deployment tool.",
+    "published_at": "2026-06-03T12:18:00Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "agentic-ide",
+        "apple-silicon",
+        "claude-code",
+        "deepseek",
+        "diffusers",
+        "gemma",
+        "huggingface",
+        "llama",
+        "lm-studio-alternative",
+        "local-llm",
+        "macos",
+        "mistral",
+        "mlx",
+        "ollama-alternative",
+        "on-device-ai",
+        "privacy-first",
+        "qwen",
+        "rust"
+      ]
+    }
+  },
+  {
+    "title": "naminc/DA14_AI_Dental_Agent",
+    "url": "https://github.com/naminc/DA14_AI_Dental_Agent",
+    "source": "github",
+    "description": "Trợ lý nha khoa thông minh sử dụng kiến trúc RAG (Retrieval-Augmented Generation) với tìm kiếm lai (FAISS + BM25), mở rộng đa truy vấn và cơ chế chống ảo giác đa tầng. Hỗ trợ cả LLM cục bộ (Ollama) lẫn đám mây (OpenAI). Xây dựng trên FastAPI, Next.js và MySQL.",
+    "published_at": "2026-06-03T12:29:03Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "tanishqnikose9302/Academic-RAG-System",
+    "url": "https://github.com/tanishqnikose9302/Academic-RAG-System",
+    "source": "github",
+    "description": "Retrieval-Augmented Generation (RAG) based Academic Question Answering System using Python, Streamlit, FAISS, Sentence Transformers, and Large Language Models (Gemma/Llama) for intelligent document understanding.",
+    "published_at": "2026-06-03T12:28:54Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "riawat511/club-5060ti",
+    "url": "https://github.com/riawat511/club-5060ti",
+    "source": "github",
+    "description": "Optimize local LLM inference and benchmarking recipes for RTX 5060 Ti hardware configurations.",
+    "published_at": "2026-06-03T12:23:02Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": [
+        "agent-context",
+        "agora",
+        "cloud-native",
+        "clubhouse-client",
+        "clubhouse-lib",
+        "cpp",
+        "database",
+        "distributed-transactions",
+        "model-deployment",
+        "model-monitoring",
+        "mongodb",
+        "mysql",
+        "mysql-compatibility",
+        "scale",
+        "swift",
+        "tinywebserver",
+        "voice-chat",
+        "vue-router",
+        "webbench",
+        "webserver"
+      ]
+    }
+  },
+  {
+    "title": "lergah/qwen36-27b-single-3090",
+    "url": "https://github.com/lergah/qwen36-27b-single-3090",
+    "source": "github",
+    "description": "Run Qwen3.6-27B models on a single RTX 3090 GPU using optimized inference configs. See club-3090 for active developments and updated configurations.",
+    "published_at": "2026-06-03T12:18:58Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "ab-testing",
+        "agent",
+        "agentscope-runtime",
+        "canary",
+        "chatgpt-api",
+        "customnodes",
+        "danmaku",
+        "flash-attention",
+        "kubernetes",
+        "large-language-models",
+        "llm",
+        "pretrained-models",
+        "progressive-delivery",
+        "qwen",
+        "qwen3-vl",
+        "react-native",
+        "tongyi",
+        "typescript",
+        "video-player",
+        "videodownload"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

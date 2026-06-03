@@ -1,0 +1,17 @@
+{
+  "id": "github-20260603-007",
+  "title": "lergah/qwen36-27b-single-3090",
+  "source_url": "https://github.com/lergah/qwen36-27b-single-3090",
+  "source": "github",
+  "summary": "该项目在单个RTX 3090 GPU上运行Qwen3.6-27B模型，通过优化的推理配置实现。项目提供Qwen3.6-27B模型的单卡部署方案，适用于需要高性能推理的场景，如实时对话系统等。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-03T12:31:19.626190+00:00",
+  "published_at": "2026-06-03T12:18:58Z",
+  "collected_at": "2026-06-03T12:31:19.626190+00:00",
+  "description": "Run Qwen3.6-27B models on a single RTX 3090 GPU using optimized inference configs. See club-3090 for active developments and updated configurations."
+}

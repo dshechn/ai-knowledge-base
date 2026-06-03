@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260603-008",
+  "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+  "source_url": "https://news.ycombinator.com/item?id=48376612",
+  "source": "rss",
+  "summary": "讨论了在帖子/评论中标记/灰显关于AI/LLM使用的抱怨评论。提出了一种处理此类评论的方法，并引发了对类似过去关于付费墙抱怨的讨论。涉及的技术关键词包括模型、算法、架构。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-03T12:31:19.626190+00:00",
+  "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+  "collected_at": "2026-06-03T12:31:19.626190+00:00",
+  "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612"
+}
