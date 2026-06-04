@@ -1,0 +1,18 @@
+{
+  "id": "github-20260604-001",
+  "title": "yomorun/yomo",
+  "source_url": "https://github.com/yomorun/yomo",
+  "source": "github",
+  "summary": "yomo是一个基于Rust构建的无服务器AI代理框架，支持地理分布式的边缘AI基础设施。该框架通过分布式架构和高效的缓存机制，实现了模型的训练、推理和算法的高性能执行，适用于需要高性能和低延迟的AI应用场景。",
+  "score": 8.0,
+  "tags": [
+    "rust",
+    "ai",
+    "distributed-systems"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-04T10:54:55.312401+00:00",
+  "published_at": "2026-06-04T10:53:48Z",
+  "collected_at": "2026-06-04T10:54:55.312401+00:00",
+  "description": "🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra."
+}

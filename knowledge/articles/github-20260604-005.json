@@ -1,0 +1,18 @@
+{
+  "id": "github-20260604-005",
+  "title": "CODE-NUBAID/Financial-Document-RAG-Assistant",
+  "source_url": "https://github.com/CODE-NUBAID/Financial-Document-RAG-Assistant",
+  "source": "github",
+  "summary": "CODE-NUBAID/Financial-Document-RAG-Assistant 是一个生产级别的检索增强生成（RAG）系统，允许用户上传任何发票或财务PDF文件，并对其提出自然语言问题，所有答案均来自文档，确保准确性。该系统采用先进的模型训练和推理技术，结合向量索引和缓存机制，优化了性能和并发处理，适用于分布式架构和微服务环境。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-04T10:54:55.312401+00:00",
+  "published_at": "2026-06-04T10:50:42Z",
+  "collected_at": "2026-06-04T10:54:55.312401+00:00",
+  "description": "A production-quality Retrieval Augmented Generation (RAG) system that lets you upload any invoice or financial PDF and ask natural language questions about it — answered only from the document, never hallucinated."
+}

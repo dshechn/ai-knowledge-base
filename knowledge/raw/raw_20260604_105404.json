@@ -1,0 +1,178 @@
+[
+  {
+    "title": "yomorun/yomo",
+    "url": "https://github.com/yomorun/yomo",
+    "source": "github",
+    "description": "🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
+    "published_at": "2026-06-04T10:53:48Z",
+    "extra": {
+      "stars": 1906,
+      "language": "Rust",
+      "topics": [
+        "a2a-protocol",
+        "chatgpt",
+        "claude-code",
+        "cursor",
+        "distributed-cloud",
+        "function-calling",
+        "geodistributedsystems",
+        "low-latency",
+        "mcp",
+        "openai",
+        "quic",
+        "realtime",
+        "serverless",
+        "stream-processing",
+        "yomo"
+      ]
+    }
+  },
+  {
+    "title": "micro/go-micro",
+    "url": "https://github.com/micro/go-micro",
+    "source": "github",
+    "description": "A Go microservices framework for AI agents",
+    "published_at": "2026-06-04T10:53:35Z",
+    "extra": {
+      "stars": 22757,
+      "language": "Go",
+      "topics": [
+        "distributed-systems",
+        "go",
+        "golang",
+        "micro",
+        "microservices",
+        "rpc"
+      ]
+    }
+  },
+  {
+    "title": "bob-ros2/bob_llm",
+    "url": "https://github.com/bob-ros2/bob_llm",
+    "source": "github",
+    "description": "This ROS 2 package provides a highly flexible node that acts as an interface to Large Language Models (LLMs). The bob_llm node connects to any OpenAI-compatible API, manages conversational history, and exposes a powerful, dynamically-loadable tool system that allows the LLM to interact with a robot's functions.",
+    "published_at": "2026-06-04T10:39:29Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "donitb934/1Cat-vLLM",
+    "url": "https://github.com/donitb934/1Cat-vLLM",
+    "source": "github",
+    "description": "Optimize Tesla V100 GPUs for AWQ 4-bit inference with improved speed, stability, and support for modern large models like Qwen3.5 and MoE.",
+    "published_at": "2026-06-04T10:38:18Z",
+    "extra": {
+      "stars": 4,
+      "language": "Python",
+      "topics": [
+        "4x",
+        "api",
+        "cats",
+        "civ",
+        "cli",
+        "compiler",
+        "distributed",
+        "git",
+        "java",
+        "language",
+        "large-language-models",
+        "machine-learning",
+        "monitoring",
+        "realtime",
+        "tool",
+        "v"
+      ]
+    }
+  },
+  {
+    "title": "riyaashiju/RAG-Intership_Project",
+    "url": "https://github.com/riyaashiju/RAG-Intership_Project",
+    "source": "github",
+    "description": "Retrieval Augmented Generation intership project using Groq,Gemini ,LangChain and ChromaDB",
+    "published_at": "2026-06-04T10:52:34Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "CODE-NUBAID/Financial-Document-RAG-Assistant",
+    "url": "https://github.com/CODE-NUBAID/Financial-Document-RAG-Assistant",
+    "source": "github",
+    "description": "A production-quality Retrieval Augmented Generation (RAG) system that lets you upload any invoice or financial PDF and ask natural language questions about it — answered only from the document, never hallucinated.",
+    "published_at": "2026-06-04T10:50:42Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "raketenkater/llm-server",
+    "url": "https://github.com/raketenkater/llm-server",
+    "source": "github",
+    "description": "Smart launcher for llama.cpp / ik_llama.cpp — auto-detects GPUs, optimizes MoE placement, crash recovery",
+    "published_at": "2026-06-04T10:45:08Z",
+    "extra": {
+      "stars": 218,
+      "language": "Go",
+      "topics": [
+        "apple-silicon",
+        "cli",
+        "cuda",
+        "gguf",
+        "ik-llama-cpp",
+        "inference",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "metal",
+        "moe",
+        "multi-gpu"
+      ]
+    }
+  },
+  {
+    "title": "GetNyrex/strix-halo-guide",
+    "url": "https://github.com/GetNyrex/strix-halo-guide",
+    "source": "github",
+    "description": "Unlock fast, local LLM inference on AMD-powered mini PCs delivering 65-87 t/s for large models without cloud or subscription costs",
+    "published_at": "2026-06-04T10:39:47Z",
+    "extra": {
+      "stars": 2,
+      "language": "Shell",
+      "topics": [
+        "amd",
+        "asus-rog",
+        "beelink",
+        "cachyos",
+        "gfx1151",
+        "gguf",
+        "inference",
+        "linux-gaming",
+        "llama-cpp",
+        "llm",
+        "local-llm",
+        "mini-pc",
+        "ollama",
+        "optimization",
+        "rdna3",
+        "rocm",
+        "strix-halo",
+        "unified-memory"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
