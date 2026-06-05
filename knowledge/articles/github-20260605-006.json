@@ -1,0 +1,18 @@
+{
+  "id": "github-20260605-006",
+  "title": "roberto729a/OllamaRAG",
+  "source_url": "https://github.com/roberto729a/OllamaRAG",
+  "source": "github",
+  "summary": "OllamaRAG 是一个基于 Ollama 的检索增强生成框架，通过从任何网站学习构建智能 AI 助手。该框架利用本地模型进行推理，支持缓存和向量索引，适用于构建知识库和智能问答系统。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "ml",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-05T11:18:30.599880+00:00",
+  "published_at": "2026-06-05T11:13:39Z",
+  "collected_at": "2026-06-05T11:18:30.599880+00:00",
+  "description": "🤖 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local models powered by Ollama."
+}

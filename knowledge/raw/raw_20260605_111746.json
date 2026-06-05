@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Omg1221/search_evals",
+    "url": "https://github.com/Omg1221/search_evals",
+    "source": "github",
+    "description": "🔍 Evaluate web search APIs with our framework, testing accuracy and relevance across multiple AI agents and benchmarks for better information retrieval.",
+    "published_at": "2026-06-05T11:17:04Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "algorithm-evaluation",
+        "automated-testing",
+        "data-analysis",
+        "data-collection",
+        "evaluations",
+        "information-retrieval",
+        "machine-learning",
+        "natural-language-processing",
+        "performance-metrics",
+        "results-visualization",
+        "search",
+        "search-optimization",
+        "software-development",
+        "text-search",
+        "user-feedback"
+      ]
+    }
+  },
+  {
+    "title": "Boundaryeohatchet78/cli-455",
+    "url": "https://github.com/Boundaryeohatchet78/cli-455",
+    "source": "github",
+    "description": "Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
+    "published_at": "2026-06-05T11:16:18Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "aliyun",
+        "cli",
+        "happyhorse",
+        "modelstudio",
+        "qwen",
+        "skills"
+      ]
+    }
+  },
+  {
+    "title": "pomnza003/Ado-Chat",
+    "url": "https://github.com/pomnza003/Ado-Chat",
+    "source": "github",
+    "description": "🤖 Build advanced AI agents with Ado Chat, a flexible chat interface for experimenting with various large language models and powerful tools.",
+    "published_at": "2026-06-05T11:08:02Z",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "ai-agents",
+        "chatbot",
+        "google-gemini",
+        "langchain",
+        "llm",
+        "llm-ui",
+        "ollama",
+        "ollama-webui",
+        "python",
+        "rag",
+        "react",
+        "web-search"
+      ]
+    }
+  },
+  {
+    "title": "MarkKilong/agent-tool-caller",
+    "url": "https://github.com/MarkKilong/agent-tool-caller",
+    "source": "github",
+    "description": "Agents initiate function calling through large language models (LLM) to connect to external data and systems",
+    "published_at": "2026-06-05T11:00:56Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "junior99wa/RAG-Anything",
+    "url": "https://github.com/junior99wa/RAG-Anything",
+    "source": "github",
+    "description": "🚀 Build and deploy advanced multimodal retrieval-augmented generation systems with RAG-Anything, your all-in-one framework for enhanced AI solutions.",
+    "published_at": "2026-06-05T11:16:31Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "anythingllm",
+        "btech-project",
+        "buy-project",
+        "chatbot",
+        "csharp",
+        "embeddings",
+        "final-year-project",
+        "lm",
+        "lmstudio",
+        "maui",
+        "ml-projects",
+        "mobile-app",
+        "openai",
+        "pinecone",
+        "project-with-code",
+        "rag",
+        "retrieval-augmented-generation"
+      ]
+    }
+  },
+  {
+    "title": "roberto729a/OllamaRAG",
+    "url": "https://github.com/roberto729a/OllamaRAG",
+    "source": "github",
+    "description": "🤖 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local models powered by Ollama.",
+    "published_at": "2026-06-05T11:13:39Z",
+    "extra": {
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "ai-framework",
+        "beautifulsoup",
+        "chromadb",
+        "gemma-2b",
+        "knowledge-base",
+        "langchain",
+        "large-language-models",
+        "llm",
+        "nlp",
+        "nomic-embed-text",
+        "phi3",
+        "python",
+        "rag",
+        "retrieval-augmented-generation",
+        "streamlit",
+        "vector-database",
+        "web-crawler",
+        "web-scraper"
+      ]
+    }
+  },
+  {
+    "title": "Yash-1335/qwen600",
+    "url": "https://github.com/Yash-1335/qwen600",
+    "source": "github",
+    "description": "🚀 Build a fast inference engine for the QWEN3-0.6B model using CUDA, optimizing performance with minimal dependencies for efficient learning and practice.",
+    "published_at": "2026-06-05T11:07:13Z",
+    "extra": {
+      "stars": 0,
+      "language": "Cuda",
+      "topics": [
+        "cuda",
+        "cuda-programming",
+        "gpu",
+        "llamacpp",
+        "llm",
+        "llm-inference",
+        "qwen",
+        "qwen3",
+        "transformer"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-06-05T10:40:58Z",
+    "extra": {
+      "stars": 13807,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

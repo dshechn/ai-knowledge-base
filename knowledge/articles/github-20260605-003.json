@@ -1,0 +1,17 @@
+{
+  "id": "github-20260605-003",
+  "title": "pomnza003/Ado-Chat",
+  "source_url": "https://github.com/pomnza003/Ado-Chat",
+  "source": "github",
+  "summary": "Ado-Chat是一个灵活的聊天界面，用于实验各种大型语言模型和强大工具，构建高级AI代理。它支持多种模型训练、推理和向量索引，具有缓存机制和API接口，适用于构建微服务架构的聊天机器人。",
+  "score": 8.0,
+  "tags": [
+    "javascript",
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-05T11:18:30.599880+00:00",
+  "published_at": "2026-06-05T11:08:02Z",
+  "collected_at": "2026-06-05T11:18:30.599880+00:00",
+  "description": "🤖 Build advanced AI agents with Ado Chat, a flexible chat interface for experimenting with various large language models and powerful tools."
+}

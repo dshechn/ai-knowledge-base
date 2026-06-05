@@ -1,0 +1,18 @@
+{
+  "id": "github-20260605-002",
+  "title": "Boundaryeohatchet78/cli-455",
+  "source_url": "https://github.com/Boundaryeohatchet78/cli-455",
+  "source": "github",
+  "summary": "阿里云百炼 CLI 是一款专为 AI Agent 框架设计的官方 Model Studio CLI，提供模型管理、搜索、多模态交互和工作流处理等能力，通过结构化工具调用实现，适用于 Python 语言。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "tooling"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-05T11:18:30.599880+00:00",
+  "published_at": "2026-06-05T11:16:18Z",
+  "collected_at": "2026-06-05T11:18:30.599880+00:00",
+  "description": "Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls."
+}
