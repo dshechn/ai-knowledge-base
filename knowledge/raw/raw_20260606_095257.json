@@ -1,0 +1,237 @@
+[
+  {
+    "title": "huidev2025/CSF",
+    "url": "https://github.com/huidev2025/CSF",
+    "source": "github",
+    "description": "A human–AI collaboration framework that works with LLM nature, not around it — natural language and purpose make RAG and agent orchestration unnecessary. Home of the Pang Principle.",
+    "published_at": "2026-06-06T09:52:30Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "agentic-workflow",
+        "ai-agents",
+        "ai-collaboration",
+        "ai-development",
+        "ai-methodology",
+        "chinese",
+        "collaboration-specification-framework",
+        "context-engineering",
+        "csf",
+        "dogfooding",
+        "human-ai-collaboration",
+        "llm",
+        "llm-engineering",
+        "manifesto",
+        "multi-agent",
+        "no-rag",
+        "pang-principle",
+        "prompt-engineering",
+        "rag-alternative",
+        "software-engineering"
+      ]
+    }
+  },
+  {
+    "title": "Samuray49/awesome-ai-agent-testing",
+    "url": "https://github.com/Samuray49/awesome-ai-agent-testing",
+    "source": "github",
+    "description": "🤖 Explore vital resources for testing AI agents, including frameworks, tools, and best practices to enhance reliability and performance.",
+    "published_at": "2026-06-06T09:52:08Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": [
+        "agent-evaluation",
+        "ai-agents",
+        "benchmark",
+        "censorship",
+        "chaos-engineering",
+        "china",
+        "covid-19",
+        "dictator",
+        "dictatorship",
+        "gfw",
+        "great-firewall",
+        "machine-learning",
+        "shadowsocks",
+        "socks5",
+        "tiananmen",
+        "vtuber",
+        "vup",
+        "xi-jinping"
+      ]
+    }
+  },
+  {
+    "title": "ritartistry/HAL",
+    "url": "https://github.com/ritartistry/HAL",
+    "source": "github",
+    "description": "HAL is a secure HTTP API Layer for Large Language Models, enabling seamless web API interactions and automatic tool generation from OpenAPI specs. 🚀🌐",
+    "published_at": "2026-06-06T09:44:47Z",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "analyze",
+        "compiler",
+        "cryptocurrency",
+        "cryptography",
+        "dsl",
+        "embedded",
+        "face-animation",
+        "fpga",
+        "go",
+        "gpu",
+        "halo",
+        "image-animation",
+        "integrated-circuits",
+        "javascript",
+        "network",
+        "objective-c",
+        "security",
+        "source-code"
+      ]
+    }
+  },
+  {
+    "title": "bartolomeouneasy166/Schola-Herv",
+    "url": "https://github.com/bartolomeouneasy166/Schola-Herv",
+    "source": "github",
+    "description": "Download academic papers at scale using a command-line tool designed for building large research corpora for language models and systematic reviews.",
+    "published_at": "2026-06-06T09:19:08Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "academic-papers",
+        "arxiv",
+        "async",
+        "cli-tool",
+        "corpus-builder",
+        "crossref",
+        "data-collection",
+        "literature-review",
+        "llm",
+        "nlp",
+        "ollama",
+        "open-access",
+        "openalex",
+        "pdf-downloader",
+        "pubmed",
+        "python",
+        "research-tools",
+        "scientific-data"
+      ]
+    }
+  },
+  {
+    "title": "umbertogriffo/rag-chatbot",
+    "url": "https://github.com/umbertogriffo/rag-chatbot",
+    "source": "github",
+    "description": "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a collection of Markdown files.",
+    "published_at": "2026-06-06T09:52:45Z",
+    "extra": {
+      "stars": 421,
+      "language": "Python",
+      "topics": [
+        "chatbot",
+        "chromadb",
+        "gpu",
+        "lamacpp",
+        "llama3",
+        "llm",
+        "qwen3-5",
+        "rag",
+        "sqlite",
+        "vector-database"
+      ]
+    }
+  },
+  {
+    "title": "PrajwalChopade/KubeAssist",
+    "url": "https://github.com/PrajwalChopade/KubeAssist",
+    "source": "github",
+    "description": "KubeAssist is a focused Retrieval-Augmented Generation (RAG) assistant for Kubernetes support and documentation retrieval.",
+    "published_at": "2026-06-06T09:49:40Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "riawat511/club-5060ti",
+    "url": "https://github.com/riawat511/club-5060ti",
+    "source": "github",
+    "description": "Optimize local LLM inference and benchmarking recipes for RTX 5060 Ti hardware configurations.",
+    "published_at": "2026-06-06T09:17:02Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": [
+        "agent-context",
+        "agora",
+        "cloud-native",
+        "clubhouse-client",
+        "clubhouse-lib",
+        "cpp",
+        "database",
+        "distributed-transactions",
+        "model-deployment",
+        "model-monitoring",
+        "mongodb",
+        "mysql",
+        "mysql-compatibility",
+        "scale",
+        "swift",
+        "tinywebserver",
+        "voice-chat",
+        "vue-router",
+        "webbench",
+        "webserver"
+      ]
+    }
+  },
+  {
+    "title": "lergah/qwen36-27b-single-3090",
+    "url": "https://github.com/lergah/qwen36-27b-single-3090",
+    "source": "github",
+    "description": "Run Qwen3.6-27B models on a single RTX 3090 GPU using optimized inference configs. See club-3090 for active developments and updated configurations.",
+    "published_at": "2026-06-06T09:13:06Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "ab-testing",
+        "agent",
+        "agentscope-runtime",
+        "canary",
+        "chatgpt-api",
+        "customnodes",
+        "danmaku",
+        "flash-attention",
+        "kubernetes",
+        "large-language-models",
+        "llm",
+        "pretrained-models",
+        "progressive-delivery",
+        "qwen",
+        "qwen3-vl",
+        "react-native",
+        "tongyi",
+        "typescript",
+        "video-player",
+        "videodownload"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

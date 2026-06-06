@@ -1,0 +1,18 @@
+{
+  "id": "github-20260606-003",
+  "title": "ritartistry/HAL",
+  "source_url": "https://github.com/ritartistry/HAL",
+  "source": "github",
+  "summary": "HAL是一个安全的HTTP API层，用于大型语言模型，支持从OpenAPI规范自动生成工具，实现无缝的Web API交互。该框架结合了模型推理、API设计和安全性，适用于需要高性能和并发处理的分布式架构。",
+  "score": 8.0,
+  "tags": [
+    "javascript",
+    "api",
+    "security"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-06T09:53:57.412845+00:00",
+  "published_at": "2026-06-06T09:44:47Z",
+  "collected_at": "2026-06-06T09:53:57.412845+00:00",
+  "description": "HAL is a secure HTTP API Layer for Large Language Models, enabling seamless web API interactions and automatic tool generation from OpenAPI specs. 🚀🌐"
+}

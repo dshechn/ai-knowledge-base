@@ -1,0 +1,17 @@
+{
+  "id": "github-20260606-001",
+  "title": "huidev2025/CSF",
+  "source_url": "https://github.com/huidev2025/CSF",
+  "source": "github",
+  "summary": "CSF是一个基于LLM的自然人机协作框架，通过自然语言和目的性设计，消除了RAG和代理编排的需求，旨在提高AI开发效率和协作体验。该框架采用Pang原则，提供了一种全新的AI方法论。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-06T09:53:57.412845+00:00",
+  "published_at": "2026-06-06T09:52:30Z",
+  "collected_at": "2026-06-06T09:53:57.412845+00:00",
+  "description": "A human–AI collaboration framework that works with LLM nature, not around it — natural language and purpose make RAG and agent orchestration unnecessary. Home of the Pang Principle."
+}
