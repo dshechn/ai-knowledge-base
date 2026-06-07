@@ -1,0 +1,18 @@
+{
+  "id": "github-20260607-001",
+  "title": "iaryan08/agentic-ev-tariff-optimizer",
+  "source_url": "https://github.com/iaryan08/agentic-ev-tariff-optimizer",
+  "source": "github",
+  "summary": "iaryan08/agentic-ev-tariff-optimizer 是一个基于 Agentic AI 的框架，用于电动汽车充电网络的动态电费优化和需求预测。该框架采用 LightGBM 模型进行占用/负载预测，并通过自适应闭环反馈学习循环优化收入、平衡电网压力和减少驾驶员等待时间。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-07T10:22:01.281810+00:00",
+  "published_at": "2026-06-07T10:21:01Z",
+  "collected_at": "2026-06-07T10:22:01.281810+00:00",
+  "description": "An Agentic AI framework for dynamic tariff optimization and demand forecasting in EV charging networks. Features LightGBM occupancy/load predictions and adaptive closed-loop feedback learning loops to optimize revenue, balance grid strain, and reduce driver waiting times."
+}

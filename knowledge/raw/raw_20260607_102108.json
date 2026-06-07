@@ -1,0 +1,130 @@
+[
+  {
+    "title": "iaryan08/agentic-ev-tariff-optimizer",
+    "url": "https://github.com/iaryan08/agentic-ev-tariff-optimizer",
+    "source": "github",
+    "description": "An Agentic AI framework for dynamic tariff optimization and demand forecasting in EV charging networks. Features LightGBM occupancy/load predictions and adaptive closed-loop feedback learning loops to optimize revenue, balance grid strain, and reduce driver waiting times.",
+    "published_at": "2026-06-07T10:21:01Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "Jaato-framework-and-examples/jaato",
+    "url": "https://github.com/Jaato-framework-and-examples/jaato",
+    "source": "github",
+    "description": "Just Another Agentic Tool Orchestrator — A production-grade framework for building agentic AI applications",
+    "published_at": "2026-06-07T10:20:48Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Eroc65/auto-gpt",
+    "url": "https://github.com/Eroc65/auto-gpt",
+    "source": "github",
+    "description": "Auto-GPT is an experimental open-source framework that transforms large language models like GPT into autonomous agents capable of self-directed reasoning, recursive goal execution, and dynamic tool use. Unlike traditional chat interfaces",
+    "published_at": "2026-06-07T10:04:23Z",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "bartolomeouneasy166/Schola-Herv",
+    "url": "https://github.com/bartolomeouneasy166/Schola-Herv",
+    "source": "github",
+    "description": "Download academic papers at scale using a command-line tool designed for building large research corpora for language models and systematic reviews.",
+    "published_at": "2026-06-07T09:56:34Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "academic-papers",
+        "arxiv",
+        "async",
+        "cli-tool",
+        "corpus-builder",
+        "crossref",
+        "data-collection",
+        "literature-review",
+        "llm",
+        "nlp",
+        "ollama",
+        "open-access",
+        "openalex",
+        "pdf-downloader",
+        "pubmed",
+        "python",
+        "research-tools",
+        "scientific-data"
+      ]
+    }
+  },
+  {
+    "title": "Alirezrz/Doc-QA",
+    "url": "https://github.com/Alirezrz/Doc-QA",
+    "source": "github",
+    "description": "Django-based Document Q&A system using RAG (Retrieval Augmented Generation). Upload Word documents, ask questions in natural language, and get AI-powered answers — built with LangChain, sentence-transformers, and OpenRouter.",
+    "published_at": "2026-06-07T10:19:41Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "param20h/PDF-Assistant-RAG",
+    "url": "https://github.com/param20h/PDF-Assistant-RAG",
+    "source": "github",
+    "description": "PDF-Assistant-RAG is a complete, production-ready AI document assistant that lets users upload complex PDFs, financial reports, legal contracts, and research papers — then chat with an AI that provides accurate, cited answers powered by a multi-stage Retrieval-Augmented Generation pipeline.",
+    "published_at": "2026-06-07T10:18:09Z",
+    "extra": {
+      "stars": 32,
+      "language": "Python",
+      "topics": [
+        "fastapi",
+        "nextjs",
+        "pdf-rag",
+        "python"
+      ]
+    }
+  },
+  {
+    "title": "vijayarjun7/pqc-kv-cache-demo",
+    "url": "https://github.com/vijayarjun7/pqc-kv-cache-demo",
+    "source": "github",
+    "description": "Simulates post-quantum cryptography overhead on LLM KV-cache inference — with a QuantRot-inspired optimization demo and Streamlit dashboard",
+    "published_at": "2026-06-07T10:20:05Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "lounishamroun/tiny-inference-optimization-lab",
+    "url": "https://github.com/lounishamroun/tiny-inference-optimization-lab",
+    "source": "github",
+    "description": "A from-scratch LLM inference optimization playground: PyTorch baseline → torch.compile → Triton kernels → profiling → KV-cache experiments.",
+    "published_at": "2026-06-07T10:15:00Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

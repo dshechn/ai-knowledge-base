@@ -1,0 +1,18 @@
+{
+  "id": "github-20260607-005",
+  "title": "vijayarjun7/pqc-kv-cache-demo",
+  "source_url": "https://github.com/vijayarjun7/pqc-kv-cache-demo",
+  "source": "github",
+  "summary": "该项目模拟了在LLM KV-cache推理中后量子密码学的开销，并包含一个基于QuantRot的优化演示和Streamlit仪表板。它结合了模型训练、推理和缓存技术，适用于探索量子计算对现有加密架构的影响。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "algorithm",
+    "security"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-07T10:22:01.281810+00:00",
+  "published_at": "2026-06-07T10:20:05Z",
+  "collected_at": "2026-06-07T10:22:01.281810+00:00",
+  "description": "Simulates post-quantum cryptography overhead on LLM KV-cache inference — with a QuantRot-inspired optimization demo and Streamlit dashboard"
+}

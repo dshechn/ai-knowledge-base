@@ -1,0 +1,18 @@
+{
+  "id": "github-20260607-003",
+  "title": "Eroc65/auto-gpt",
+  "source_url": "https://github.com/Eroc65/auto-gpt",
+  "source": "github",
+  "summary": "Auto-GPT 是一个实验性的开源框架，将大型语言模型如 GPT 转换为能够自我导向推理、递归目标执行和动态工具使用的自主代理。该框架利用模型推理、算法架构和性能优化，适用于需要智能交互和自动化处理的场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-07T10:22:01.281810+00:00",
+  "published_at": "2026-06-07T10:04:23Z",
+  "collected_at": "2026-06-07T10:22:01.281810+00:00",
+  "description": "Auto-GPT is an experimental open-source framework that transforms large language models like GPT into autonomous agents capable of self-directed reasoning, recursive goal execution, and dynamic tool use. Unlike traditional chat interfaces"
+}
