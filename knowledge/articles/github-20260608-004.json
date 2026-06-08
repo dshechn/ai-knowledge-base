@@ -1,0 +1,18 @@
+{
+  "id": "github-20260608-004",
+  "title": "ahmadkhanraj01/RAG-UET-Chatbot",
+  "source_url": "https://github.com/ahmadkhanraj01/RAG-UET-Chatbot",
+  "source": "github",
+  "summary": "RAG-UET-Chatbot 是一个基于 Python 开发的本地托管聊天机器人，利用检索增强生成技术，为乌尔都斯坦工程大学（UET）的学生提供关于学费、招生、课程、奖学金、宿舍规则和高等教育委员会计算机科学课程的信息查询服务。该聊天机器人通过实际源文档提供答案，并附有页面引用。，采用模块化架构，关注性能和算法优化",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-08T12:21:40.767136+00:00",
+  "published_at": "2026-06-08T12:20:32Z",
+  "collected_at": "2026-06-08T12:21:40.767136+00:00",
+  "description": "A locally-hosted RAG (Retrieval-Augmented Generation) chatbot for UET Peshawar students. Ask questions about fees, admissions, courses, scholarships, hostel rules, and the HEC CS curriculum — answered from the actual source documents, with page citations."
+}

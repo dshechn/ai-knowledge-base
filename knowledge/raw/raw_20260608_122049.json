@@ -1,0 +1,176 @@
+[
+  {
+    "title": "mastra-ai/mastra",
+    "url": "https://github.com/mastra-ai/mastra",
+    "source": "github",
+    "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+    "published_at": "2026-06-08T12:19:24Z",
+    "extra": {
+      "stars": 24877,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "chatbots",
+        "evals",
+        "javascript",
+        "llm",
+        "mcp",
+        "nextjs",
+        "nodejs",
+        "reactjs",
+        "tts",
+        "typescript",
+        "workflows"
+      ]
+    }
+  },
+  {
+    "title": "kknipe2k/AgentFramework",
+    "url": "https://github.com/kknipe2k/AgentFramework",
+    "source": "github",
+    "description": "Local Tauri desktop runtime for agentic AI workflows",
+    "published_at": "2026-06-08T12:19:07Z",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": [
+        "rust-tauri-react-agentic-ai-anthropic-claude-local"
+      ]
+    }
+  },
+  {
+    "title": "mercurycontaminated-sandarac557/KnapsackRL",
+    "url": "https://github.com/mercurycontaminated-sandarac557/KnapsackRL",
+    "source": "github",
+    "description": "🎯 Optimize exploration budgets in Reinforcement Learning with KnapsackRL for more effective trajectory discovery in Large Language Models (LLMs).",
+    "published_at": "2026-06-08T12:18:32Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "algorithms",
+        "data-science",
+        "data-structures",
+        "deep-learning",
+        "dynamic-programming",
+        "knapsack-problem",
+        "machine-learning",
+        "open-source",
+        "optimization",
+        "python",
+        "reinforcement-learning",
+        "research",
+        "simulation",
+        "tool"
+      ]
+    }
+  },
+  {
+    "title": "Yusuf270200101/DeepAnalyze",
+    "url": "https://github.com/Yusuf270200101/DeepAnalyze",
+    "source": "github",
+    "description": "🔍 Empower data scientists with DeepAnalyze, a tool that leverages large language models for automated data analysis and insights generation.",
+    "published_at": "2026-06-08T12:08:59Z",
+    "extra": {
+      "stars": 4,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-ai",
+        "ai",
+        "ai-scientist",
+        "chatbot",
+        "cms",
+        "data",
+        "data-analysis",
+        "data-engineering",
+        "data-science",
+        "data-visualization",
+        "database",
+        "gpt",
+        "llama",
+        "llm",
+        "structured-data",
+        "vllm"
+      ]
+    }
+  },
+  {
+    "title": "Dani36034550/langchain_bedrock_lambda",
+    "url": "https://github.com/Dani36034550/langchain_bedrock_lambda",
+    "source": "github",
+    "description": "🚀 Build a secure, scalable Retrieval-Augmented Generation microservice with LangChain, AWS Bedrock, and Pinecone using serverless architecture.",
+    "published_at": "2026-06-08T12:20:37Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "aws",
+        "aws-lambda",
+        "bedrock",
+        "docker",
+        "dynamodb",
+        "generative-ai",
+        "lambda",
+        "langchain",
+        "pinecone",
+        "rag",
+        "sam",
+        "serverless"
+      ]
+    }
+  },
+  {
+    "title": "ahmadkhanraj01/RAG-UET-Chatbot",
+    "url": "https://github.com/ahmadkhanraj01/RAG-UET-Chatbot",
+    "source": "github",
+    "description": "A locally-hosted RAG (Retrieval-Augmented Generation) chatbot for UET Peshawar students. Ask questions about fees, admissions, courses, scholarships, hostel rules, and the HEC CS curriculum — answered from the actual source documents, with page citations.",
+    "published_at": "2026-06-08T12:20:32Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "DenzoSOFTHub/LLMPlayer",
+    "url": "https://github.com/DenzoSOFTHub/LLMPlayer",
+    "source": "github",
+    "description": "Pure Java LLM inference engine — runs GGUF models locally with MoE-optimized GPU placement. Zero dependencies.",
+    "published_at": "2026-06-08T12:16:36Z",
+    "extra": {
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    }
+  },
+  {
+    "title": "roshini0108/InferSim",
+    "url": "https://github.com/roshini0108/InferSim",
+    "source": "github",
+    "description": "🔍 Simulate LLM inference performance to identify bottlenecks and optimize models with InferSim, a lightweight and dependency-free Python tool.",
+    "published_at": "2026-06-08T12:01:45Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "deepseek",
+        "llm",
+        "llm-inference",
+        "qwen3",
+        "simulator"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
