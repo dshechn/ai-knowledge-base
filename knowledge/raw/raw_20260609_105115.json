@@ -1,0 +1,198 @@
+[
+  {
+    "title": "narsinghlaga124/ARIS-in-AI-Offer",
+    "url": "https://github.com/narsinghlaga124/ARIS-in-AI-Offer",
+    "source": "github",
+    "description": "Streamline your AI research and campus recruiting tasks with the ARIS agent framework to secure job offers.",
+    "published_at": "2026-06-09T10:50:44Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "ai-interview",
+        "aris",
+        "autumn-recruiting",
+        "cheatsheet",
+        "chinese",
+        "claude-code",
+        "deep-learning",
+        "diffusion",
+        "flow-matching",
+        "interview-prep",
+        "llm",
+        "machine-learning",
+        "moe",
+        "nerf",
+        "pytorch",
+        "quantization",
+        "rlhf",
+        "transformer",
+        "video-generation"
+      ]
+    }
+  },
+  {
+    "title": "inkamrais-hub/Orion-Agent",
+    "url": "https://github.com/inkamrais-hub/Orion-Agent",
+    "source": "github",
+    "description": "Modular Rust AI Agent framework - private deployable, high performance, secure",
+    "published_at": "2026-06-09T10:49:57Z",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": []
+    }
+  },
+  {
+    "title": "Harmpleomorphism9956/ovo-local-llm",
+    "url": "https://github.com/Harmpleomorphism9956/ovo-local-llm",
+    "source": "github",
+    "description": "Run large language models locally on your machine with this efficient deployment tool.",
+    "published_at": "2026-06-09T10:49:08Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "agentic-ide",
+        "apple-silicon",
+        "claude-code",
+        "deepseek",
+        "diffusers",
+        "gemma",
+        "huggingface",
+        "llama",
+        "lm-studio-alternative",
+        "local-llm",
+        "macos",
+        "mistral",
+        "mlx",
+        "ollama-alternative",
+        "on-device-ai",
+        "privacy-first",
+        "qwen",
+        "rust"
+      ]
+    }
+  },
+  {
+    "title": "howiechow/llm-training-toolkit",
+    "url": "https://github.com/howiechow/llm-training-toolkit",
+    "source": "github",
+    "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures",
+    "published_at": "2026-06-09T10:46:04Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "vaisakh488/ProductionRAGwithFastAPI",
+    "url": "https://github.com/vaisakh488/ProductionRAGwithFastAPI",
+    "source": "github",
+    "description": "A production-grade Retrieval-Augmented Generation (RAG) system built to handle 5,000+ PDFs with hybrid retrieval, async ingestion, persistent conversation memory, and full observability. Not a tutorial — a real deployment.",
+    "published_at": "2026-06-09T10:49:34Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "syntactic-orleanism949/logal-rag",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag",
+    "source": "github",
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from uploaded documents.",
+    "published_at": "2026-06-09T10:51:11Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": [
+        "agentic-ai",
+        "ai-logging-library",
+        "ai-privacy",
+        "ai-security",
+        "audit-logging",
+        "chatbot",
+        "ebpf",
+        "evaluation-framework",
+        "large-language-models",
+        "llmops",
+        "logging",
+        "multi-agent",
+        "openclaw",
+        "prampramelonmusk",
+        "presto",
+        "prompt-injection",
+        "retrieval-augmented-generation",
+        "telegram"
+      ]
+    }
+  },
+  {
+    "title": "riawat511/club-5060ti",
+    "url": "https://github.com/riawat511/club-5060ti",
+    "source": "github",
+    "description": "Optimize local LLM inference and benchmarking recipes for RTX 5060 Ti hardware configurations.",
+    "published_at": "2026-06-09T10:50:13Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": [
+        "agent-context",
+        "agora",
+        "cloud-native",
+        "clubhouse-client",
+        "clubhouse-lib",
+        "cpp",
+        "database",
+        "distributed-transactions",
+        "model-deployment",
+        "model-monitoring",
+        "mongodb",
+        "mysql",
+        "mysql-compatibility",
+        "scale",
+        "swift",
+        "tinywebserver",
+        "voice-chat",
+        "vue-router",
+        "webbench",
+        "webserver"
+      ]
+    }
+  },
+  {
+    "title": "lergah/qwen36-27b-single-3090",
+    "url": "https://github.com/lergah/qwen36-27b-single-3090",
+    "source": "github",
+    "description": "Run Qwen3.6-27B models on a single RTX 3090 GPU using optimized inference configs. See club-3090 for active developments and updated configurations.",
+    "published_at": "2026-06-09T10:47:26Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "ab-testing",
+        "agent",
+        "agentscope-runtime",
+        "canary",
+        "chatgpt-api",
+        "customnodes",
+        "danmaku",
+        "flash-attention",
+        "kubernetes",
+        "large-language-models",
+        "llm",
+        "pretrained-models",
+        "progressive-delivery",
+        "qwen",
+        "qwen3-vl",
+        "react-native",
+        "tongyi",
+        "typescript",
+        "video-player",
+        "videodownload"
+      ]
+    }
+  }
+]

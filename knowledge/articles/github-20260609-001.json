@@ -1,0 +1,17 @@
+{
+  "id": "github-20260609-001",
+  "title": "narsinghlaga124/ARIS-in-AI-Offer",
+  "source_url": "https://github.com/narsinghlaga124/ARIS-in-AI-Offer",
+  "source": "github",
+  "summary": "ARIS-in-AI-Offer 是一个用于简化人工智能研究和校园招聘任务的代理框架，通过该框架可以更有效地获取工作机会。该框架利用模型进行训练和推理，采用向量索引和缓存机制提高性能，并支持分布式架构以实现并发处理。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "python"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-09T10:52:08.682727+00:00",
+  "published_at": "2026-06-09T10:50:44Z",
+  "collected_at": "2026-06-09T10:52:08.682727+00:00",
+  "description": "Streamline your AI research and campus recruiting tasks with the ARIS agent framework to secure job offers."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260609-002",
+  "title": "inkamrais-hub/Orion-Agent",
+  "source_url": "https://github.com/inkamrais-hub/Orion-Agent",
+  "source": "github",
+  "summary": "Orion-Agent 是一个模块化的 Rust AI 代理框架，支持私有部署，具有高性能和安全性。该框架采用分布式架构，支持并发处理，并提供了高效的缓存和索引机制，适用于需要高性能和可扩展性的AI应用。",
+  "score": 8.0,
+  "tags": [
+    "rust",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-09T10:52:08.682727+00:00",
+  "published_at": "2026-06-09T10:49:57Z",
+  "collected_at": "2026-06-09T10:52:08.682727+00:00",
+  "description": "Modular Rust AI Agent framework - private deployable, high performance, secure"
+}
