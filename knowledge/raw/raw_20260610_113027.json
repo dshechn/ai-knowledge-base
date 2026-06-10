@@ -1,0 +1,203 @@
+[
+  {
+    "title": "SuperSeriousLab/TeleTUI.jl",
+    "url": "https://github.com/SuperSeriousLab/TeleTUI.jl",
+    "source": "github",
+    "description": "AI-agent-first Julia TUI framework — hard fork of Tachikoma.jl with FRANK instrumentation, ET-Transport, and agent attach API",
+    "published_at": "2026-06-10T11:29:15Z",
+    "extra": {
+      "stars": 1,
+      "language": "Julia",
+      "topics": []
+    }
+  },
+  {
+    "title": "SynapCores/synapcores-agent",
+    "url": "https://github.com/SynapCores/synapcores-agent",
+    "source": "github",
+    "description": "Real, framework-free AI support agent where SynapCores is the brain — memory, RAG, tool routing, generation in one database. Browser chat widget + live Brain debug sidebar. Fork and run in 30s.",
+    "published_at": "2026-06-10T11:28:54Z",
+    "extra": {
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "agentic-memory",
+        "ai-agent",
+        "chatbot",
+        "framework-free",
+        "llm",
+        "mcp",
+        "memory",
+        "python",
+        "rag",
+        "support-agent",
+        "synapcores",
+        "vector-database"
+      ]
+    }
+  },
+  {
+    "title": "alanlesc1/idempiere-ai",
+    "url": "https://github.com/alanlesc1/idempiere-ai",
+    "source": "github",
+    "description": "This plugin serves as the AI core for the iDempiere. It acts as a **Central Orchestrator**, connecting the user interface to Large Language Models (LLMs) and enabling the AI to perform real-world actions within the ERP through automated tools.",
+    "published_at": "2026-06-10T11:29:34Z",
+    "extra": {
+      "stars": 1,
+      "language": "Java",
+      "topics": []
+    }
+  },
+  {
+    "title": "xxxihrmn/llmops",
+    "url": "https://github.com/xxxihrmn/llmops",
+    "source": "github",
+    "description": "🚀 Discover top tools and resources for Large Language Model Operations (LLMOps) to enhance your workflow and boost productivity.",
+    "published_at": "2026-06-10T11:22:22Z",
+    "extra": {
+      "stars": 0,
+      "language": "Shell",
+      "topics": [
+        "clearml",
+        "data-engineering",
+        "deep-learning",
+        "devops",
+        "experiment",
+        "genai",
+        "llm",
+        "llm-evaluation",
+        "llm-playground",
+        "llm-tools",
+        "llmops-platform",
+        "ml-system-design",
+        "openai",
+        "rag-evaluation",
+        "version-control"
+      ]
+    }
+  },
+  {
+    "title": "Ashok007-cmd/Production-Grade-RAG",
+    "url": "https://github.com/Ashok007-cmd/Production-Grade-RAG",
+    "source": "github",
+    "description": " A modular, extensible Retrieval-Augmented Generation (RAG) system built for production, with three progressive phases of sophistication.",
+    "published_at": "2026-06-10T11:30:12Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "bm25",
+        "chromadb",
+        "cross-encoder",
+        "llm",
+        "machine-learning",
+        "nlp",
+        "openai",
+        "python",
+        "rag",
+        "retrieval-augmented-generation"
+      ]
+    }
+  },
+  {
+    "title": "asadali031/ai-studies",
+    "url": "https://github.com/asadali031/ai-studies",
+    "source": "github",
+    "description": "🤖 Build professional AI systems from scratch with a complete roadmap for Retrieval-Augmented Generation (RAG) studies and applications.",
+    "published_at": "2026-06-10T11:27:03Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": [
+        "ai",
+        "awesome",
+        "azure-ai-engineer",
+        "azure-ai-engineer-ai-102",
+        "azure-ai-engineer-exam",
+        "azure-ai-engineers",
+        "business-process-automation",
+        "customer-engagement",
+        "customer-support",
+        "data-science",
+        "free",
+        "low-code",
+        "lowcode",
+        "machine-learning",
+        "process-automation",
+        "python",
+        "sam",
+        "segment-anything",
+        "social-network-analysis",
+        "workflow-automation"
+      ]
+    }
+  },
+  {
+    "title": "kamalrss88/FlashMLA",
+    "url": "https://github.com/kamalrss88/FlashMLA",
+    "source": "github",
+    "description": "🚀 Accelerate attention mechanisms with FlashMLA, featuring optimized kernels for DeepSeek models, enhancing performance through sparse and dense attention.",
+    "published_at": "2026-06-10T11:29:08Z",
+    "extra": {
+      "stars": 1,
+      "language": "C++",
+      "topics": [
+        "cuda",
+        "cuda-core",
+        "decoding-attention",
+        "deepseek",
+        "flash-attention",
+        "flashinfer",
+        "flashmla",
+        "gpu",
+        "inference",
+        "llm",
+        "mla",
+        "mqa",
+        "multi-head-attention",
+        "nvidia",
+        "nvidia-cuda",
+        "windows"
+      ]
+    }
+  },
+  {
+    "title": "aymanelrody/FlashMLA",
+    "url": "https://github.com/aymanelrody/FlashMLA",
+    "source": "github",
+    "description": "⚡ Optimize attention mechanisms with FlashMLA, a library of advanced sparse and dense kernels for DeepSeek models, improving performance and efficiency.",
+    "published_at": "2026-06-10T11:28:39Z",
+    "extra": {
+      "stars": 1,
+      "language": "C++",
+      "topics": [
+        "cuda",
+        "cuda-core",
+        "decoding-attention",
+        "deepseek",
+        "flash-attention",
+        "flashinfer",
+        "flashmla",
+        "gpu",
+        "gqa",
+        "inference",
+        "llm",
+        "mha",
+        "mla",
+        "mqa",
+        "multi-head-attention",
+        "nvidia",
+        "windows"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

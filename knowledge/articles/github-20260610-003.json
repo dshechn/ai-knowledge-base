@@ -1,0 +1,18 @@
+{
+  "id": "github-20260610-003",
+  "title": "alanlesc1/idempiere-ai",
+  "source_url": "https://github.com/alanlesc1/idempiere-ai",
+  "source": "github",
+  "summary": "iDempiere-ai 插件作为 iDempiere 的 AI 核心组件，连接用户界面与大型语言模型（LLMs），通过自动化工具在 ERP 系统中实现 AI 的实际操作，支持模型训练、推理和架构优化。",
+  "score": 8.0,
+  "tags": [
+    "java",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T11:31:37.311948+00:00",
+  "published_at": "2026-06-10T11:29:34Z",
+  "collected_at": "2026-06-10T11:31:37.311948+00:00",
+  "description": "This plugin serves as the AI core for the iDempiere. It acts as a **Central Orchestrator**, connecting the user interface to Large Language Models (LLMs) and enabling the AI to perform real-world actions within the ERP through automated tools."
+}

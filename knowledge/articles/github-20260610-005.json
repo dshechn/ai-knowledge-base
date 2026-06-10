@@ -1,0 +1,18 @@
+{
+  "id": "github-20260610-005",
+  "title": "Ashok007-cmd/Production-Grade-RAG",
+  "source_url": "https://github.com/Ashok007-cmd/Production-Grade-RAG",
+  "source": "github",
+  "summary": "Ashok007-cmd/Production-Grade-RAG 是一个模块化、可扩展的检索增强生成（RAG）系统，适用于生产环境，具有三个逐步提高的复杂度阶段。该系统利用模型进行训练和推理，采用向量索引和缓存机制，支持分布式架构和微服务设计，提供API和SDK接口，旨在提升算法性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T11:31:37.311948+00:00",
+  "published_at": "2026-06-10T11:30:12Z",
+  "collected_at": "2026-06-10T11:31:37.311948+00:00",
+  "description": "A modular, extensible Retrieval-Augmented Generation (RAG) system built for production, with three progressive phases of sophistication."
+}

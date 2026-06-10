@@ -1,0 +1,17 @@
+{
+  "id": "github-20260610-008",
+  "title": "aymanelrody/FlashMLA",
+  "source_url": "https://github.com/aymanelrody/FlashMLA",
+  "source": "github",
+  "summary": "FlashMLA是一个C++库，用于优化DeepSeek模型的注意力机制，通过提供高级稀疏和密集内核，显著提升性能和效率。该库适用于需要高性能注意力处理的应用场景。",
+  "score": 8.0,
+  "tags": [
+    "deep-learning",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T11:31:37.311948+00:00",
+  "published_at": "2026-06-10T11:28:39Z",
+  "collected_at": "2026-06-10T11:31:37.311948+00:00",
+  "description": "⚡ Optimize attention mechanisms with FlashMLA, a library of advanced sparse and dense kernels for DeepSeek models, improving performance and efficiency."
+}

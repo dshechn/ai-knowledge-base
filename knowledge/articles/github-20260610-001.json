@@ -1,0 +1,17 @@
+{
+  "id": "github-20260610-001",
+  "title": "SuperSeriousLab/TeleTUI.jl",
+  "source_url": "https://github.com/SuperSeriousLab/TeleTUI.jl",
+  "source": "github",
+  "summary": "TeleTUI.jl 是基于 Julia 语言的 AI-agent-first TUI（文本用户界面）框架，它是 Tachikoma.jl 的改进版本，集成了 FRANK 仪器化工具、ET-Transport 和代理附加 API。该框架旨在提供高效的模型训练、推理和算法性能，适用于分布式和微服务架构。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T11:31:37.311948+00:00",
+  "published_at": "2026-06-10T11:29:15Z",
+  "collected_at": "2026-06-10T11:31:37.311948+00:00",
+  "description": "AI-agent-first Julia TUI framework — hard fork of Tachikoma.jl with FRANK instrumentation, ET-Transport, and agent attach API"
+}

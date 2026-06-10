@@ -1,0 +1,17 @@
+{
+  "id": "github-20260610-002",
+  "title": "SynapCores/synapcores-agent",
+  "source_url": "https://github.com/SynapCores/synapcores-agent",
+  "source": "github",
+  "summary": "SynapCores/synapcores-agent 是一个无需框架的AI支持代理，SynapCores作为大脑，集内存、RAG、工具路由和生成于一体。提供浏览器聊天小部件和实时大脑调试侧边栏。30秒内即可Fork并运行。该项目利用Python实现，具有框架自由、AI代理和聊天机器人等特性。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T11:31:37.311948+00:00",
+  "published_at": "2026-06-10T11:28:54Z",
+  "collected_at": "2026-06-10T11:31:37.311948+00:00",
+  "description": "Real, framework-free AI support agent where SynapCores is the brain — memory, RAG, tool routing, generation in one database. Browser chat widget + live Brain debug sidebar. Fork and run in 30s."
+}

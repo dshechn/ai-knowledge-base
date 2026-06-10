@@ -1,0 +1,18 @@
+{
+  "id": "github-20260610-006",
+  "title": "asadali031/ai-studies",
+  "source_url": "https://github.com/asadali031/ai-studies",
+  "source": "github",
+  "summary": "该项目提供了一个完整的路线图，用于从头开始构建专业的AI系统，专注于检索增强生成（RAG）的研究和应用。它涵盖了模型训练、推理、算法架构和性能优化等方面，适用于AI研究和开发人员。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T11:31:37.311948+00:00",
+  "published_at": "2026-06-10T11:27:03Z",
+  "collected_at": "2026-06-10T11:31:37.311948+00:00",
+  "description": "🤖 Build professional AI systems from scratch with a complete roadmap for Retrieval-Augmented Generation (RAG) studies and applications."
+}
