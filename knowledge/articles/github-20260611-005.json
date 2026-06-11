@@ -1,0 +1,18 @@
+{
+  "id": "github-20260611-005",
+  "title": "ramr0ck-2006/Internal-Developer-Productivity-Copilot",
+  "source_url": "https://github.com/ramr0ck-2006/Internal-Developer-Productivity-Copilot",
+  "source": "github",
+  "summary": "Internal Dev Copilot 是一个基于 RAG（检索增强生成）技术的问答机器人，能够从公司知识库中回答技术问题。该项目使用 LangChain、ChromaDB、HuggingFace 嵌入和 Groq 的 Llama 3.1 模型进行构建，旨在提高内部开发者的生产力。它提供了一个实时演示，展示了其技术实现和应用场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T12:04:21.265504+00:00",
+  "published_at": "2026-06-11T11:58:42Z",
+  "collected_at": "2026-06-11T12:04:21.265504+00:00",
+  "description": "🚀 Internal Dev Copilot – a RAG‑powered Q&A bot that answers technical questions from your company’s knowledge base. Built with LangChain, ChromaDB, HuggingFace embeddings, and Groq’s Llama 3.1 for retrieval‑augmented generation. Live demo inside."
+}

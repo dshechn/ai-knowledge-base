@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Efhbbhu/AI-BOOKING-AGENT",
+    "url": "https://github.com/Efhbbhu/AI-BOOKING-AGENT",
+    "source": "github",
+    "description": "🗓️ Simplify booking with this AI service agent that processes queries, finds local options, and offers immediate slots and notifications.",
+    "published_at": "2026-06-11T12:02:28Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agents",
+        "ai-chat-bots",
+        "ai-chatbot",
+        "appointment-scheduler",
+        "assistant",
+        "booking",
+        "booking-bot",
+        "chatbot",
+        "composio",
+        "conversational-ai",
+        "framework",
+        "langchain",
+        "mongodb",
+        "multiagent",
+        "python",
+        "rag",
+        "vector-database"
+      ]
+    }
+  },
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-06-11T12:01:24Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "marco1900445/genera",
+    "url": "https://github.com/marco1900445/genera",
+    "source": "github",
+    "description": "🤖 Build generative large language models to simulate human-like behavior with intuitive tools and notebooks for easy local or cloud setup.",
+    "published_at": "2026-06-11T11:57:02Z",
+    "extra": {
+      "stars": 2,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "ai",
+        "api",
+        "azure",
+        "cloud",
+        "code-generator",
+        "generative-ai",
+        "generativeai",
+        "gpt",
+        "java",
+        "kubernetes",
+        "large-language-models",
+        "llm",
+        "python",
+        "pytorch",
+        "rest-client",
+        "restful-api",
+        "sdk",
+        "typescript"
+      ]
+    }
+  },
+  {
+    "title": "MabasaBee603163/BankOps-AI-MCP-Server",
+    "url": "https://github.com/MabasaBee603163/BankOps-AI-MCP-Server",
+    "source": "github",
+    "description": "BankOps AI MCP Server is a secure, AI-assisted banking operations prototype built with Python and the Model Context Protocol. The project demonstrates how a large language model can safely interact with operational banking infrastructure through controlled tools, role-based permissions, audit logging, workflow orchestration.",
+    "published_at": "2026-06-11T11:55:25Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "ramr0ck-2006/Internal-Developer-Productivity-Copilot",
+    "url": "https://github.com/ramr0ck-2006/Internal-Developer-Productivity-Copilot",
+    "source": "github",
+    "description": "🚀 Internal Dev Copilot – a RAG‑powered Q&A bot that answers technical questions from your company’s knowledge base. Built with LangChain, ChromaDB, HuggingFace embeddings, and Groq’s Llama 3.1 for retrieval‑augmented generation. Live demo inside.",
+    "published_at": "2026-06-11T11:58:42Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": []
+    }
+  },
+  {
+    "title": "bouhlet0/cve-rag",
+    "url": "https://github.com/bouhlet0/cve-rag",
+    "source": "github",
+    "description": "Hybrid retrieval-augmented generation system for CVE intelligence combining BM25 and vector search via Reciprocal Rank Fusion, with local LLM inference, hallucination validation, and FastAPI-based serving.",
+    "published_at": "2026-06-11T11:55:18Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "roshini0108/InferSim",
+    "url": "https://github.com/roshini0108/InferSim",
+    "source": "github",
+    "description": "🔍 Simulate LLM inference performance to identify bottlenecks and optimize models with InferSim, a lightweight and dependency-free Python tool.",
+    "published_at": "2026-06-11T11:55:27Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "deepseek",
+        "llm",
+        "llm-inference",
+        "qwen3",
+        "simulator"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-06-11T11:57:17Z",
+    "extra": {
+      "stars": 13850,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

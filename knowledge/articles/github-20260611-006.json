@@ -1,0 +1,18 @@
+{
+  "id": "github-20260611-006",
+  "title": "bouhlet0/cve-rag",
+  "source_url": "https://github.com/bouhlet0/cve-rag",
+  "source": "github",
+  "summary": "CVE情报的混合检索增强生成系统，结合BM25和向量搜索通过互逆排名融合，实现本地LLM推理、幻觉验证，并基于FastAPI提供服务。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T12:04:21.265504+00:00",
+  "published_at": "2026-06-11T11:55:18Z",
+  "collected_at": "2026-06-11T12:04:21.265504+00:00",
+  "description": "Hybrid retrieval-augmented generation system for CVE intelligence combining BM25 and vector search via Reciprocal Rank Fusion, with local LLM inference, hallucination validation, and FastAPI-based serving."
+}
