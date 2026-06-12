@@ -1,0 +1,18 @@
+{
+  "id": "github-20260612-005",
+  "title": "jeslor/uganda_health_assistant_rag",
+  "source_url": "https://github.com/jeslor/uganda_health_assistant_rag",
+  "source": "github",
+  "summary": "jeslor/uganda_health_assistant_rag 是一个企业级检索增强生成（RAG）医疗保健平台，用于临床知识检索。该平台具备文档摄取、语义搜索、向量存储和引用感知的AI助手功能，支持完全本地、断网部署。它利用了先进的模型训练和推理技术，适用于分布式架构和微服务架构，旨在提升医疗保健领域的性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-12T11:35:21.480394+00:00",
+  "published_at": "2026-06-12T11:31:15Z",
+  "collected_at": "2026-06-12T11:35:21.480394+00:00",
+  "description": "Enterprise-grade Retrieval-Augmented Generation (RAG) healthcare platform for clinical knowledge retrieval, featuring document ingestion, semantic search, vector storage, and citation-aware AI assistants with fully local, air-gapped deployments."
+}

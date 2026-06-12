@@ -1,0 +1,163 @@
+[
+  {
+    "title": "Rose22/openlumara",
+    "url": "https://github.com/Rose22/openlumara",
+    "source": "github",
+    "description": "AI agent framework, written from scratch (not based on openclaw), focused on stripping it down to the bare necessities, optimizing token count, reducing security risks. modular so you can enable only exactly what you need.",
+    "published_at": "2026-06-12T11:33:25Z",
+    "extra": {
+      "stars": 261,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Blazity/atlas",
+    "url": "https://github.com/Blazity/atlas",
+    "source": "github",
+    "description": "Framework-agnostic AI documentation scaffold — one command gives any repo the shared instructions, memory, and gates coding agents need to work safely.",
+    "published_at": "2026-06-12T11:33:20Z",
+    "extra": {
+      "stars": 9,
+      "language": "JavaScript",
+      "topics": [
+        "agents-md",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor",
+        "developer-tools",
+        "documentation",
+        "scaffolding"
+      ]
+    }
+  },
+  {
+    "title": "msgmesriranjan/ResuMetrics-AI-Smart-Resume-Analyzer-ATS-Optimization-Engine",
+    "url": "https://github.com/msgmesriranjan/ResuMetrics-AI-Smart-Resume-Analyzer-ATS-Optimization-Engine",
+    "source": "github",
+    "description": "An AI-powered resume screening tool designed to help job seekers bridge the gap between their resumes and Applicant Tracking Systems (ATS). By leveraging Large Language Models (LLMs) and advanced text processing, ResuMetrics AI parses resumes, calculates a real-time ATS compatibility score, and extracts key technical skills.",
+    "published_at": "2026-06-12T11:10:13Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "bartolomeouneasy166/Schola-Herv",
+    "url": "https://github.com/bartolomeouneasy166/Schola-Herv",
+    "source": "github",
+    "description": "Download academic papers at scale using a command-line tool designed for building large research corpora for language models and systematic reviews.",
+    "published_at": "2026-06-12T11:00:42Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "academic-papers",
+        "arxiv",
+        "async",
+        "cli-tool",
+        "corpus-builder",
+        "crossref",
+        "data-collection",
+        "literature-review",
+        "llm",
+        "nlp",
+        "ollama",
+        "open-access",
+        "openalex",
+        "pdf-downloader",
+        "pubmed",
+        "python",
+        "research-tools",
+        "scientific-data"
+      ]
+    }
+  },
+  {
+    "title": "Aikaksh-Singh-Routela/pdf-rag-chatbot",
+    "url": "https://github.com/Aikaksh-Singh-Routela/pdf-rag-chatbot",
+    "source": "github",
+    "description": "📄 Ask questions about your PDF documents using RAG (Retrieval-Augmented Generation) with Groq LLM. Upload PDFs and get accurate answers based on their content.",
+    "published_at": "2026-06-12T11:33:29Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "jeslor/uganda_health_assistant_rag",
+    "url": "https://github.com/jeslor/uganda_health_assistant_rag",
+    "source": "github",
+    "description": "Enterprise-grade Retrieval-Augmented Generation (RAG) healthcare platform for clinical knowledge retrieval, featuring document ingestion, semantic search, vector storage, and citation-aware AI assistants with fully local, air-gapped deployments.",
+    "published_at": "2026-06-12T11:31:15Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-06-12T11:34:09Z",
+    "extra": {
+      "stars": 13857,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "riawat511/club-5060ti",
+    "url": "https://github.com/riawat511/club-5060ti",
+    "source": "github",
+    "description": "Optimize local LLM inference and benchmarking recipes for RTX 5060 Ti hardware configurations.",
+    "published_at": "2026-06-12T10:58:43Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": [
+        "agent-context",
+        "agora",
+        "cloud-native",
+        "clubhouse-client",
+        "clubhouse-lib",
+        "cpp",
+        "database",
+        "distributed-transactions",
+        "model-deployment",
+        "model-monitoring",
+        "mongodb",
+        "mysql",
+        "mysql-compatibility",
+        "scale",
+        "swift",
+        "tinywebserver",
+        "voice-chat",
+        "vue-router",
+        "webbench",
+        "webserver"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

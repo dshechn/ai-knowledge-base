@@ -1,0 +1,18 @@
+{
+  "id": "github-20260612-003",
+  "title": "msgmesriranjan/ResuMetrics-AI-Smart-Resume-Analyzer-ATS-Optimization-Engine",
+  "source_url": "https://github.com/msgmesriranjan/ResuMetrics-AI-Smart-Resume-Analyzer-ATS-Optimization-Engine",
+  "source": "github",
+  "summary": "ResuMetrics AI 是一款基于人工智能的简历筛选工具，利用大型语言模型和高级文本处理技术，解析简历，计算实时 ATS 兼容性评分，并提取关键技术技能，帮助求职者优化简历以适应 ATS 系统。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "python",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-12T11:35:21.480394+00:00",
+  "published_at": "2026-06-12T11:10:13Z",
+  "collected_at": "2026-06-12T11:35:21.480394+00:00",
+  "description": "An AI-powered resume screening tool designed to help job seekers bridge the gap between their resumes and Applicant Tracking Systems (ATS). By leveraging Large Language Models (LLMs) and advanced text processing, ResuMetrics AI parses resumes, calculates a real-time ATS compatibility score, and extr"
+}

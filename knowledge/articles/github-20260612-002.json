@@ -1,0 +1,17 @@
+{
+  "id": "github-20260612-002",
+  "title": "Blazity/atlas",
+  "source_url": "https://github.com/Blazity/atlas",
+  "source": "github",
+  "summary": "Blazity/atlas是一个框架无关的AI文档框架，通过一条命令为任何仓库提供共享指令、内存和门控，使编码代理能够安全地工作。该工具利用模型训练、推理和向量索引技术，支持缓存和分布式架构，适用于微服务环境。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "tooling"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-12T11:35:21.480394+00:00",
+  "published_at": "2026-06-12T11:33:20Z",
+  "collected_at": "2026-06-12T11:35:21.480394+00:00",
+  "description": "Framework-agnostic AI documentation scaffold — one command gives any repo the shared instructions, memory, and gates coding agents need to work safely."
+}

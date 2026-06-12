@@ -1,0 +1,18 @@
+{
+  "id": "github-20260612-004",
+  "title": "Aikaksh-Singh-Routela/pdf-rag-chatbot",
+  "source_url": "https://github.com/Aikaksh-Singh-Routela/pdf-rag-chatbot",
+  "source": "github",
+  "summary": "该项目利用RAG（检索增强生成）技术，结合Groq LLM，实现了一个基于PDF文档内容的问答系统。用户可以上传PDF文件，系统通过训练好的模型进行推理，返回与文档内容相关的准确答案。该系统适用于需要快速检索和分析PDF文档的场景，如学术研究、法律咨询等。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-12T11:35:21.480394+00:00",
+  "published_at": "2026-06-12T11:33:29Z",
+  "collected_at": "2026-06-12T11:35:21.480394+00:00",
+  "description": "📄 Ask questions about your PDF documents using RAG (Retrieval-Augmented Generation) with Groq LLM. Upload PDFs and get accurate answers based on their content."
+}
