@@ -1,0 +1,17 @@
+{
+  "id": "github-20260613-006",
+  "title": "chenxingqiang/YiRage",
+  "source_url": "https://github.com/chenxingqiang/YiRage",
+  "source": "github",
+  "summary": "YiRage是一个多后端LLM推理优化引擎，扩展了Mirage，支持CUDA、MPS、CPU、Triton、NKI、cuDNN和MKL后端，旨在提升模型推理性能和效率。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-13T10:21:43.291770+00:00",
+  "published_at": "2026-06-13T10:13:26Z",
+  "collected_at": "2026-06-13T10:21:43.291770+00:00",
+  "description": "YiRage (Yield Revolutionary AGile Engine) - Multi-Backend LLM Inference Optimization. Extends Mirage with comprehensive support for CUDA, MPS, CPU, Triton, NKI, cuDNN, and MKL backends."
+}

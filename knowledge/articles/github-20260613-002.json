@@ -1,0 +1,18 @@
+{
+  "id": "github-20260613-002",
+  "title": "Mak9996/ai-driven-book",
+  "source_url": "https://github.com/Mak9996/ai-driven-book",
+  "source": "github",
+  "summary": "《AI驱动的软件开发》通过实践工具和方法，利用大型语言模型快速构建高效应用。核心技术包括模型训练、推理算法和架构设计，适用于需要快速开发AI应用的场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "typescript",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-13T10:21:43.291770+00:00",
+  "published_at": "2026-06-13T10:18:45Z",
+  "collected_at": "2026-06-13T10:21:43.291770+00:00",
+  "description": "📘 Explore AI-driven software development with practical tools and methods to build efficient applications faster using Large Language Models."
+}

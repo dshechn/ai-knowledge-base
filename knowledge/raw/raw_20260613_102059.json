@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-06-13T10:20:38Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "webjsdev/webjs",
+    "url": "https://github.com/webjsdev/webjs",
+    "source": "github",
+    "description": "The web framework built for AI agents",
+    "published_at": "2026-06-13T10:20:29Z",
+    "extra": {
+      "stars": 101,
+      "language": "JavaScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "Mak9996/ai-driven-book",
+    "url": "https://github.com/Mak9996/ai-driven-book",
+    "source": "github",
+    "description": "📘 Explore AI-driven software development with practical tools and methods to build efficient applications faster using Large Language Models.",
+    "published_at": "2026-06-13T10:18:45Z",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "book",
+        "chatbot",
+        "chatgpt",
+        "codemirror",
+        "education",
+        "gpt",
+        "gpt4",
+        "honojs",
+        "ide",
+        "interactive-visualizations",
+        "prompt-engineering",
+        "react",
+        "showcase",
+        "toturial",
+        "ty",
+        "typescript",
+        "vue"
+      ]
+    }
+  },
+  {
+    "title": "c2siorg/acf-sdk",
+    "url": "https://github.com/c2siorg/acf-sdk",
+    "source": "github",
+    "description": "The Cognitive Firewall is a Zero Trust control layer for agentic systems that protects the reasoning control plane of large language model (LLM) agents. It prevents prompt injection, context manipulation, memory poisoning, and unsafe tool-output re-injection by enforcing policy-driven validation before any input enters model context. ",
+    "published_at": "2026-06-13T10:16:25Z",
+    "extra": {
+      "stars": 18,
+      "language": "Go",
+      "topics": []
+    }
+  },
+  {
+    "title": "charlesbulabula/enterprise-rag-system",
+    "url": "https://github.com/charlesbulabula/enterprise-rag-system",
+    "source": "github",
+    "description": "Production-grade Retrieval-Augmented Generation system for enterprise knowledge bases",
+    "published_at": "2026-06-13T10:19:24Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "anthropic",
+        "langchain",
+        "llm",
+        "pinecone",
+        "python",
+        "rag",
+        "vector-search"
+      ]
+    }
+  },
+  {
+    "title": "AK-Jeevan/production-rag-system",
+    "url": "https://github.com/AK-Jeevan/production-rag-system",
+    "source": "github",
+    "description": "Production‑ready Retrieval‑Augmented Generation (RAG) system built for scalability, modularity, and real‑world deployment. Integrates efficient document ingestion, vector search, caching, and monitoring to deliver reliable, low‑latency AI responses in enterprise workflows.",
+    "published_at": "2026-06-13T10:18:57Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "cicd-pipeline",
+        "faiss-vector-database",
+        "huggingface-models",
+        "mlops-project",
+        "openai",
+        "rag",
+        "vector-database"
+      ]
+    }
+  },
+  {
+    "title": "chenxingqiang/YiRage",
+    "url": "https://github.com/chenxingqiang/YiRage",
+    "source": "github",
+    "description": "YiRage (Yield Revolutionary AGile Engine) - Multi-Backend LLM Inference Optimization. Extends Mirage with comprehensive support for CUDA, MPS, CPU, Triton, NKI, cuDNN, and MKL backends.",
+    "published_at": "2026-06-13T10:13:26Z",
+    "extra": {
+      "stars": 233,
+      "language": "C++",
+      "topics": []
+    }
+  },
+  {
+    "title": "jd-opensource/xllm",
+    "url": "https://github.com/jd-opensource/xllm",
+    "source": "github",
+    "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators.",
+    "published_at": "2026-06-13T09:46:15Z",
+    "extra": {
+      "stars": 1327,
+      "language": "C++",
+      "topics": [
+        "deepseek",
+        "glm",
+        "inference",
+        "inference-engine",
+        "large-language-models",
+        "llm-inference",
+        "qwen"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

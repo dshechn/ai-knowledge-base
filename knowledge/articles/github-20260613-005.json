@@ -1,0 +1,17 @@
+{
+  "id": "github-20260613-005",
+  "title": "AK-Jeevan/production-rag-system",
+  "source_url": "https://github.com/AK-Jeevan/production-rag-system",
+  "source": "github",
+  "summary": "AK-Jeevan/production-rag-system 是一个专为可扩展性、模块化和实际部署而构建的生产就绪检索增强生成 (RAG) 系统。该系统集成了高效的文档摄取、向量搜索、缓存和监控，以在企业工作流程中提供可靠、低延迟的AI响应。，基于模型推理的架构",
+  "score": 9.0,
+  "tags": [
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-13T10:21:43.291770+00:00",
+  "published_at": "2026-06-13T10:18:57Z",
+  "collected_at": "2026-06-13T10:21:43.291770+00:00",
+  "description": "Production‑ready Retrieval‑Augmented Generation (RAG) system built for scalability, modularity, and real‑world deployment. Integrates efficient document ingestion, vector search, caching, and monitoring to deliver reliable, low‑latency AI responses in enterprise workflows."
+}

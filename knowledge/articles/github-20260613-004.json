@@ -1,0 +1,18 @@
+{
+  "id": "github-20260613-004",
+  "title": "charlesbulabula/enterprise-rag-system",
+  "source_url": "https://github.com/charlesbulabula/enterprise-rag-system",
+  "source": "github",
+  "summary": "该系统是一个针对企业知识库的高质量检索增强生成系统，采用Python编写，利用大型语言模型进行训练和推理，支持向量索引和缓存机制，适用于构建企业级知识库应用。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "python",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-13T10:21:43.291770+00:00",
+  "published_at": "2026-06-13T10:19:24Z",
+  "collected_at": "2026-06-13T10:21:43.291770+00:00",
+  "description": "Production-grade Retrieval-Augmented Generation system for enterprise knowledge bases"
+}
