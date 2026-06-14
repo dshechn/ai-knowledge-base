@@ -1,0 +1,18 @@
+{
+  "id": "github-20260614-005",
+  "title": "KnVark/dojutsu-for-ai",
+  "source_url": "https://github.com/KnVark/dojutsu-for-ai",
+  "source": "github",
+  "summary": "Dojutsu-for-ai 是一个强大的检索增强生成框架，允许AI模型通过兼容多种提供商的方式访问、查询和检索知识。该框架利用模型训练和推理技术，结合向量索引和缓存机制，优化了AI的性能和并发处理能力，适用于分布式和微服务架构。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T09:37:06.590457+00:00",
+  "published_at": "2026-06-14T09:32:57Z",
+  "collected_at": "2026-06-14T09:37:06.590457+00:00",
+  "description": "Enable AI models to access, query, and retrieve knowledge using a robust retrieval-augmented generation framework compatible with multiple providers."
+}

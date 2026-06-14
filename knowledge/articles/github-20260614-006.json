@@ -1,0 +1,18 @@
+{
+  "id": "github-20260614-006",
+  "title": "MEXIHACKER/genesis-kernel",
+  "source_url": "https://github.com/MEXIHACKER/genesis-kernel",
+  "source": "github",
+  "summary": "Genesis Kernel通过融合NF4 dequantization和矩阵乘法优化本地LLM推理，实现高效的CPU执行，无需编译器。该项目适用于需要高性能CPU推理的场景，如机器学习和深度学习。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "deep-learning",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T09:37:06.590457+00:00",
+  "published_at": "2026-06-14T09:27:00Z",
+  "collected_at": "2026-06-14T09:37:06.590457+00:00",
+  "description": "Optimize local LLM inference with Genesis Kernel, which fuses NF4 dequantization and matrix multiplication for efficient CPU execution without compilers."
+}

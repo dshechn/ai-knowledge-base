@@ -1,0 +1,17 @@
+{
+  "id": "github-20260614-001",
+  "title": "mazda4940original/PortWorld",
+  "source_url": "https://github.com/mazda4940original/PortWorld",
+  "source": "github",
+  "summary": "PortWorld 是一个开源框架，通过 FastAPI 驱动，实现将 Meta 眼镜与 AI 连接，提供实时视觉、语音交互和定制代理响应。该框架支持快速模型推理，并具备良好的性能和并发处理能力，适用于分布式和微服务架构。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T09:37:06.590457+00:00",
+  "published_at": "2026-06-14T09:35:34Z",
+  "collected_at": "2026-06-14T09:37:06.590457+00:00",
+  "description": "Connect Meta glasses to AI for real-time vision, voice interaction, and custom agent responses via a FastAPI-powered open source framework."
+}

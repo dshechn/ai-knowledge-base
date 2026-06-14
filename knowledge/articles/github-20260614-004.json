@@ -1,0 +1,18 @@
+{
+  "id": "github-20260614-004",
+  "title": "brianketaren14/RAG-Panduan-S-1-Skripsi-Ilmu-Komputer-USU",
+  "source_url": "https://github.com/brianketaren14/RAG-Panduan-S-1-Skripsi-Ilmu-Komputer-USU",
+  "source": "github",
+  "summary": "该开源项目是一个基于大型语言模型（LLM）的问答系统，利用检索增强生成（RAG）技术，旨在帮助计算机科学专业的学生理解和使用印尼苏北大学（USU）的官方本科论文（Skripsi S-1）指南。系统通过向量索引和缓存机制提高性能，支持并发访问，并采用微服务架构以实现分布式部署。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "ml",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T09:37:06.590457+00:00",
+  "published_at": "2026-06-14T09:34:42Z",
+  "collected_at": "2026-06-14T09:37:06.590457+00:00",
+  "description": "An LLM-powered question-answering system built with Retrieval-Augmented Generation (RAG) to help Computer Science students at Universitas Sumatera Utara (USU) understand and navigate  the official undergraduate thesis (Skripsi S-1) guidelines."
+}

@@ -1,0 +1,199 @@
+[
+  {
+    "title": "mazda4940original/PortWorld",
+    "url": "https://github.com/mazda4940original/PortWorld",
+    "source": "github",
+    "description": "Connect Meta glasses to AI for real-time vision, voice interaction, and custom agent responses via a FastAPI-powered open source framework.",
+    "published_at": "2026-06-14T09:35:34Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "http-proxy",
+        "inference",
+        "kit-for-ai",
+        "language",
+        "laravel",
+        "macos",
+        "proxy",
+        "security",
+        "socks5",
+        "som-with",
+        "speech-analysis",
+        "speech-synthesis",
+        "speech-to-text",
+        "states",
+        "transformer",
+        "transparent-proxy",
+        "vocoder"
+      ]
+    }
+  },
+  {
+    "title": "sidiishan/soul.py",
+    "url": "https://github.com/sidiishan/soul.py",
+    "source": "github",
+    "description": "Build intelligent agents using soul.py, a Python framework that simplifies creating adaptable and autonomous AI-driven systems.",
+    "published_at": "2026-06-14T09:35:31Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "amazon-web-services",
+        "aws-lambda",
+        "backend",
+        "game-transactions",
+        "music",
+        "nicotine-plus",
+        "p2p",
+        "python",
+        "serverless",
+        "slsk",
+        "soulseek"
+      ]
+    }
+  },
+  {
+    "title": "xxxihrmn/llmops",
+    "url": "https://github.com/xxxihrmn/llmops",
+    "source": "github",
+    "description": "🚀 Discover top tools and resources for Large Language Model Operations (LLMOps) to enhance your workflow and boost productivity.",
+    "published_at": "2026-06-14T09:05:05Z",
+    "extra": {
+      "stars": 0,
+      "language": "Shell",
+      "topics": [
+        "clearml",
+        "data-engineering",
+        "deep-learning",
+        "devops",
+        "experiment",
+        "genai",
+        "llm",
+        "llm-evaluation",
+        "llm-playground",
+        "llm-tools",
+        "llmops-platform",
+        "ml-system-design",
+        "openai",
+        "rag-evaluation",
+        "version-control"
+      ]
+    }
+  },
+  {
+    "title": "jhon1995-04/gigacheck",
+    "url": "https://github.com/jhon1995-04/gigacheck",
+    "source": "github",
+    "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets.",
+    "published_at": "2026-06-14T08:51:34Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "abft",
+        "cuda",
+        "matrix-multiplication"
+      ]
+    }
+  },
+  {
+    "title": "brianketaren14/RAG-Panduan-S-1-Skripsi-Ilmu-Komputer-USU",
+    "url": "https://github.com/brianketaren14/RAG-Panduan-S-1-Skripsi-Ilmu-Komputer-USU",
+    "source": "github",
+    "description": "An LLM-powered question-answering system built with Retrieval-Augmented Generation (RAG) to help Computer Science students at Universitas Sumatera Utara (USU) understand and navigate  the official undergraduate thesis (Skripsi S-1) guidelines.",
+    "published_at": "2026-06-14T09:34:42Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "KnVark/dojutsu-for-ai",
+    "url": "https://github.com/KnVark/dojutsu-for-ai",
+    "source": "github",
+    "description": "Enable AI models to access, query, and retrieve knowledge using a robust retrieval-augmented generation framework compatible with multiple providers.",
+    "published_at": "2026-06-14T09:32:57Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "allpath-runner",
+        "byakugan",
+        "code-generation",
+        "coding-agent",
+        "github-config",
+        "llm",
+        "precision-absolute",
+        "python",
+        "rag",
+        "senjutsu",
+        "skills"
+      ]
+    }
+  },
+  {
+    "title": "MEXIHACKER/genesis-kernel",
+    "url": "https://github.com/MEXIHACKER/genesis-kernel",
+    "source": "github",
+    "description": "Optimize local LLM inference with Genesis Kernel, which fuses NF4 dequantization and matrix multiplication for efficient CPU execution without compilers.",
+    "published_at": "2026-06-14T09:27:00Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agent-systems",
+        "blockchain-technology",
+        "cryptography",
+        "distributed-systems",
+        "eira",
+        "ethereum-dapp",
+        "execution-time",
+        "fusion-energy",
+        "genesis",
+        "immutable-kernel",
+        "ipfs",
+        "low-latency",
+        "machine-speed",
+        "meta-science",
+        "open-source",
+        "php",
+        "public",
+        "science",
+        "technical",
+        "zero-trust"
+      ]
+    }
+  },
+  {
+    "title": "Mizistein/omlx",
+    "url": "https://github.com/Mizistein/omlx",
+    "source": "github",
+    "description": "🤖 Optimize LLM inference on Mac with continuous batching and SSD caching managed from your menu bar for efficient performance.",
+    "published_at": "2026-06-14T09:25:06Z",
+    "extra": {
+      "stars": 8,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "chatbot",
+        "inference-server",
+        "llm",
+        "macos",
+        "mlx",
+        "model-serving",
+        "openai-api"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
