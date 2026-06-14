@@ -35,6 +35,9 @@ class KBState(TypedDict):
     # 当前审核循环次数（最多 3 次，超出后强制通过并标记）
     iteration: int
 
+    # 是否需要人工审核（HumanFlag 节点设为 True，表示审核循环超限）
+    needs_human_review: bool
+
     # Token 用量追踪
     # 包含: prompt_tokens, completion_tokens, total_tokens, estimated_cost_usd
     cost_tracker: dict

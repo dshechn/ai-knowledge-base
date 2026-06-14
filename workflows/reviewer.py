@@ -61,6 +61,14 @@ def _compute_weighted_score(scores: dict[str, float]) -> float:
     total = 0.0
     for dimension, weight in DIMENSION_WEIGHTS.items():
         score = scores.get(dimension, 0.0)
+        # 防御：LLM 可能返回非数值类型（如 dict、list）
+        if not isinstance(score, (int, float)):
+            logger.warning(
+                "[ReviewNode] 维度 %s 的值不是数值: %s，按 5.0 计",
+                dimension,
+                type(score).__name__,
+            )
+            score = 5.0
         # 将分值限制在 1-10 范围内
         clamped = max(1.0, min(10.0, float(score)))
         total += clamped * weight
@@ -123,23 +131,19 @@ def review_node(state: KBState) -> dict:
 
     system_prompt = (
         "你是 AI/LLM 领域知识库的质量审核员。\n"
-        "请从以下 5 个维度对提交的知识分析条目进行评分，每维 1-10 分（整数）：\n"
-        "1. summary_quality（摘要质量）：摘要是否准确、完整、有信息量\n"
-        "2. technical_depth（技术深度）：技术内容的专业性和深度\n"
-        "3. relevance（相关性）：与 AI/LLM/Agent 领域的契合程度\n"
-        "4. originality（原创性）：内容的独特视角和新颖程度\n"
-        "5. formatting（格式规范）：字段完整性、标签格式、分类合理性\n\n"
-        "请输出 JSON 格式：\n"
-        "{\n"
-        '  "scores": {\n'
-        '    "summary_quality": 1-10,\n'
-        '    "technical_depth": 1-10,\n'
-        '    "relevance": 1-10,\n'
-        '    "originality": 1-10,\n'
-        '    "formatting": 1-10\n'
-        "  },\n"
-        '  "feedback": "具体改进建议，若质量良好则写简要确认"\n'
-        "}\n"
+        "你将收到一批知识分析条目，请对这批条目进行**整体**评分（不要逐条打分）。\n\n"
+        "评分维度（每维 1-10 的整数）：\n"
+        "1. summary_quality：摘要是否准确、完整、有信息量\n"
+        "2. technical_depth：技术内容的专业性和深度\n"
+        "3. relevance：与 AI/LLM/Agent 领域的契合程度\n"
+        "4. originality：内容的独特视角和新颖程度\n"
+        "5. formatting：字段完整性、标签格式、分类合理性\n\n"
+        "严格按以下 JSON 格式输出，scores 的每个值必须是整数，不要嵌套对象：\n"
+        "```\n"
+        '{"scores": {"summary_quality": 8, "technical_depth": 7, '
+        '"relevance": 9, "originality": 6, "formatting": 8}, '
+        '"feedback": "整体改进建议"}\n'
+        "```\n"
         "请直接输出 JSON，不要包含 markdown 代码块标记。"
     )
 

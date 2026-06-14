@@ -5,7 +5,9 @@
                           ↓
                passed? ──→ organize → save → END
                   ↓
-                False → analyze（回到分析节点修正）
+           iteration < 3 → revise → review（循环改写）
+                  ↓
+           iteration >= 3 → human_flag → END（人工介入）
 """
 
 import logging
@@ -19,6 +21,7 @@ if _project_root not in sys.path:
 
 from langgraph.graph import END, StateGraph
 
+from workflows.human_flag import human_flag_node
 from workflows.nodes import (
     analyze_node,
     collect_node,
@@ -26,23 +29,31 @@ from workflows.nodes import (
     save_node,
 )
 from workflows.reviewer import review_node
+from workflows.reviser import revise_node
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
 
 
-def _review_router(state: KBState) -> str:
-    """审核结果路由：根据 review_passed 决定下一步。
+def route_after_review(state: KBState) -> str:
+    """审核结果 3 路路由：通过 / 修订 / 人工介入。
+
+    路由逻辑：
+    - 审核通过 → "organize"（进入整理流程）
+    - 未通过且 iteration < 3 → "revise"（LLM 改写后重新审核）
+    - 未通过且 iteration >= 3 → "human_flag"（转人工，终止循环）
 
     Args:
         state: 当前工作流状态。
 
     Returns:
-        "organize" 如果审核通过，否则 "analyze" 回到分析节点修正。
+        下一个节点名称。
     """
     if state.get("review_passed", False):
         return "organize"
-    return "analyze"
+    if state.get("iteration", 0) < 3:
+        return "revise"
+    return "human_flag"
 
 
 def build_graph() -> object:
@@ -56,8 +67,10 @@ def build_graph() -> object:
     # 注册节点
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
-    graph.add_node("organize", organize_node)
     graph.add_node("review", review_node)
+    graph.add_node("revise", revise_node)
+    graph.add_node("human_flag", human_flag_node)
+    graph.add_node("organize", organize_node)
     graph.add_node("save", save_node)
 
     # 设置入口点
@@ -67,15 +80,22 @@ def build_graph() -> object:
     graph.add_edge("collect", "analyze")
     graph.add_edge("analyze", "review")
 
-    # 条件边：review 之后根据 review_passed 分支
+    # 条件边：review 之后 3 路分支
     graph.add_conditional_edges(
         "review",
-        _review_router,
+        route_after_review,
         {
             "organize": "organize",
-            "analyze": "analyze",
+            "revise": "revise",
+            "human_flag": "human_flag",
         },
     )
+
+    # 修订循环：revise → review
+    graph.add_edge("revise", "review")
+
+    # 异常终点：human_flag → END
+    graph.add_edge("human_flag", END)
 
     # 线性边：organize → save → END
     graph.add_edge("organize", "save")
@@ -106,6 +126,7 @@ if __name__ == "__main__":
         "review_feedback": "",
         "review_passed": False,
         "iteration": 0,
+        "needs_human_review": False,
         "cost_tracker": {
             "prompt_tokens": 0,
             "completion_tokens": 0,
@@ -143,6 +164,16 @@ if __name__ == "__main__":
                 )
                 if feedback:
                     logger.info("  反馈: %s", feedback[:100])
+
+            elif node_name == "revise":
+                count = len(node_output.get("analyses", []))
+                logger.info("  修订完成 %d 条", count)
+
+            elif node_name == "human_flag":
+                logger.warning("  ⚠ 转入人工审核")
+                fb = node_output.get("review_feedback", "")
+                if fb:
+                    logger.info("  说明: %s", fb[:100])
 
             elif node_name == "save":
                 count = len(node_output.get("articles", []))
