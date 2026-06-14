@@ -32,7 +32,7 @@ GITHUB_SEARCH_PARAMS = "?" + urllib.parse.urlencode({
     "q": GITHUB_SEARCH_QUERY,
     "sort": "updated",
     "order": "desc",
-    "per_page": "20",
+    "per_page": "5",
 })
 
 

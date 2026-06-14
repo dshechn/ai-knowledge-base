@@ -1,11 +1,11 @@
-"""LangGraph 工作流编排：组装采集→分析→整理→审核→保存的状态图。
+"""LangGraph 工作流编排：组装采集→分析→审核→整理→保存的状态图。
 
 工作流结构：
-    collect → analyze → organize → review
-                                     ↓
-                          passed? ──→ save → END
-                             ↓
-                           False → organize（回到整理节点修正）
+    collect → analyze → review
+                          ↓
+               passed? ──→ organize → save → END
+                  ↓
+                False → analyze（回到分析节点修正）
 """
 
 import logging
@@ -23,9 +23,9 @@ from workflows.nodes import (
     analyze_node,
     collect_node,
     organize_node,
-    review_node,
     save_node,
 )
+from workflows.reviewer import review_node
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
@@ -38,11 +38,11 @@ def _review_router(state: KBState) -> str:
         state: 当前工作流状态。
 
     Returns:
-        "save" 如果审核通过，否则 "organize" 进入修正循环。
+        "organize" 如果审核通过，否则 "analyze" 回到分析节点修正。
     """
     if state.get("review_passed", False):
-        return "save"
-    return "organize"
+        return "organize"
+    return "analyze"
 
 
 def build_graph() -> object:
@@ -63,22 +63,22 @@ def build_graph() -> object:
     # 设置入口点
     graph.set_entry_point("collect")
 
-    # 线性边：collect → analyze → organize → review
+    # 线性边：collect → analyze → review
     graph.add_edge("collect", "analyze")
-    graph.add_edge("analyze", "organize")
-    graph.add_edge("organize", "review")
+    graph.add_edge("analyze", "review")
 
     # 条件边：review 之后根据 review_passed 分支
     graph.add_conditional_edges(
         "review",
         _review_router,
         {
-            "save": "save",
             "organize": "organize",
+            "analyze": "analyze",
         },
     )
 
-    # 终止边：save → END
+    # 线性边：organize → save → END
+    graph.add_edge("organize", "save")
     graph.add_edge("save", END)
 
     # 编译

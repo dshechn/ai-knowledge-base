@@ -70,12 +70,17 @@ def _usage_to_dict(usage: Usage) -> dict[str, int]:
     }
 
 
-def chat(prompt: str, system: str = "你是一个有帮助的AI助手。") -> tuple[str, dict]:
+def chat(
+    prompt: str,
+    system: str = "你是一个有帮助的AI助手。",
+    temperature: float = 0.7,
+) -> tuple[str, dict]:
     """同步调用 LLM 并返回文本响应。
 
     Args:
         prompt: 用户输入的问题或指令。
         system: 系统提示词。
+        temperature: 采样温度，范围 [0, 2]，默认 0.7。
 
     Returns:
         (text, usage) 元组：
@@ -90,7 +95,9 @@ def chat(prompt: str, system: str = "你是一个有帮助的AI助手。") -> tu
                 {"role": "system", "content": system},
                 {"role": "user", "content": prompt},
             ]
-            return await chat_with_retry(provider, messages)
+            return await chat_with_retry(
+                provider, messages, temperature=temperature
+            )
         finally:
             await provider.close()
 
@@ -99,7 +106,9 @@ def chat(prompt: str, system: str = "你是一个有帮助的AI助手。") -> tu
 
 
 def chat_json(
-    prompt: str, system: str = "你是一个有帮助的AI助手。"
+    prompt: str,
+    system: str = "你是一个有帮助的AI助手。",
+    temperature: float = 0.7,
 ) -> tuple[Any, dict]:
     """同步调用 LLM 并将响应解析为 JSON。
 
@@ -109,13 +118,14 @@ def chat_json(
     Args:
         prompt: 用户输入的问题或指令。
         system: 系统提示词（应包含 JSON 输出要求）。
+        temperature: 采样温度，范围 [0, 2]，默认 0.7。
 
     Returns:
         (parsed_json, usage) 元组：
             - parsed_json: 解析后的 Python 对象（dict/list），解析失败时为 None。
             - usage: Token 用量字典。
     """
-    text, usage = chat(prompt, system=system)
+    text, usage = chat(prompt, system=system, temperature=temperature)
 
     # 尝试提取 JSON（兼容 markdown 代码块包裹）
     content = text.strip()
