@@ -14,6 +14,10 @@ class KBState(TypedDict):
     节点间传递的是经过提炼的结构化结果，而非未加工的原始内容。
     """
 
+    # Planner 输出的采集策略
+    # 包含: keywords, sources, max_items, focus_areas 等调度参数
+    plan: dict
+
     # 采集到的原始数据摘要列表
     # 每个 dict 包含: title, source, source_url, description, collected_at
     sources: list[dict]

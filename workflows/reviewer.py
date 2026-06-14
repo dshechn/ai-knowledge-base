@@ -96,19 +96,23 @@ def review_node(state: KBState) -> dict:
         包含 review_passed, review_feedback, iteration, cost_tracker
         的部分状态更新。
     """
+    plan = state.get("plan") or {}
+    max_iterations = int(plan.get("max_iterations", MAX_ITERATIONS))
+
     iteration = state.get("iteration", 0) + 1
     analyses = state.get("analyses", [])
     tracker = dict(state.get("cost_tracker") or {})
 
     logger.info(
-        "[ReviewNode] 第 %d 轮审核，共 %d 条 analyses",
+        "[ReviewNode] 第 %d 轮审核，共 %d 条 analyses (max_iterations=%d)",
         iteration,
         len(analyses),
+        max_iterations,
     )
 
     # 强制通过：避免无限循环
-    if iteration >= MAX_ITERATIONS:
-        logger.info("[ReviewNode] 已达最大迭代次数 (%d)，强制通过", MAX_ITERATIONS)
+    if iteration >= max_iterations:
+        logger.info("[ReviewNode] 已达最大迭代次数 (%d)，强制通过", max_iterations)
         return {
             "review_passed": True,
             "review_feedback": "已达最大审核次数，强制通过。",

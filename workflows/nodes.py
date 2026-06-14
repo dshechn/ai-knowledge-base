@@ -28,16 +28,12 @@ ARTICLES_DIR = Path("knowledge/articles")
 # GitHub Search API 相关常量
 GITHUB_SEARCH_URL = "https://api.github.com/search/repositories"
 GITHUB_SEARCH_QUERY = "AI OR LLM OR agent OR large-language-model"
-GITHUB_SEARCH_PARAMS = "?" + urllib.parse.urlencode({
-    "q": GITHUB_SEARCH_QUERY,
-    "sort": "updated",
-    "order": "desc",
-    "per_page": "2",
-})
 
 
 def collect_node(state: KBState) -> dict:
     """采集节点：调用 GitHub Search API 获取 AI 相关仓库信息。
+
+    从 state["plan"]["per_source_limit"] 读取每源采集上限（默认 10）。
 
     Args:
         state: 当前工作流状态。
@@ -45,9 +41,21 @@ def collect_node(state: KBState) -> dict:
     Returns:
         包含 sources 列表的部分状态更新。
     """
-    logger.info("[CollectNode] 开始采集 GitHub AI 相关仓库")
+    plan = state.get("plan") or {}
+    per_source_limit = int(plan.get("per_source_limit", 10))
 
-    url = f"{GITHUB_SEARCH_URL}{GITHUB_SEARCH_PARAMS}"
+    logger.info(
+        "[CollectNode] 开始采集 GitHub AI 相关仓库 (per_source_limit=%d)",
+        per_source_limit,
+    )
+
+    params = urllib.parse.urlencode({
+        "q": GITHUB_SEARCH_QUERY,
+        "sort": "updated",
+        "order": "desc",
+        "per_page": str(per_source_limit),
+    })
+    url = f"{GITHUB_SEARCH_URL}?{params}"
     req = urllib.request.Request(
         url,
         headers={
@@ -82,7 +90,10 @@ def collect_node(state: KBState) -> dict:
 
 
 def analyze_node(state: KBState) -> dict:
-    """分析节点：用 LLM 对每条数据生成中文摘要、标签、评分。
+    """分析节点：用 LLM 批量分析数据，生成中文摘要、标签、评分。
+
+    将所有 sources 打包为一次 LLM 调用（批量模式），大幅减少 API 请求次数，
+    避免逐条串行导致的超时问题。
 
     Args:
         state: 当前工作流状态。
@@ -90,44 +101,58 @@ def analyze_node(state: KBState) -> dict:
     Returns:
         包含 analyses 列表和 cost_tracker 更新的部分状态。
     """
-    logger.info("[AnalyzeNode] 开始分析 %d 条数据", len(state["sources"]))
+    sources = state["sources"]
+    logger.info("[AnalyzeNode] 开始分析 %d 条数据（批量模式）", len(sources))
+
+    if not sources:
+        return {"analyses": [], "cost_tracker": state.get("cost_tracker") or {}}
 
     tracker = dict(state.get("cost_tracker") or {})
-    analyses: list[dict] = []
 
     system_prompt = (
-        "你是一位 AI/LLM 领域的技术分析师。"
-        "请对以下 GitHub 仓库信息进行分析，输出 JSON 格式，包含：\n"
+        "你是一位 AI/LLM 领域的技术分析师。\n"
+        "请对以下多个 GitHub 仓库进行批量分析，为每个仓库输出一个 JSON 对象。\n"
+        "每个对象包含：\n"
         "- title: 项目名称\n"
-        "- summary: 200-500 字的中文技术摘要，说明项目用途、核心特性和技术亮点\n"
+        "- summary: 100-200 字的中文技术摘要，说明项目用途和核心特性\n"
         "- tags: 标签列表（小写英文，3-5 个）\n"
-        "- category: 分类，从 framework/model/paper/tool/tutorial 中选一个\n"
-        "- relevance_score: 与 AI/LLM/Agent 领域的相关性评分（0.0-1.0）\n"
-        "请直接输出 JSON，不要包含 markdown 代码块标记。"
+        "- category: 从 framework/model/paper/tool/tutorial 中选一个\n"
+        "- relevance_score: 与 AI/LLM/Agent 领域的相关性评分（0.0-1.0）\n\n"
+        "严格输出 JSON 数组，每个元素对应一个仓库，顺序与输入一致。\n"
+        "请直接输出 JSON 数组，不要包含 markdown 代码块标记。"
     )
 
-    for source in state["sources"]:
-        prompt = (
-            f"仓库名称: {source['title']}\n"
-            f"描述: {source['description']}\n"
-            f"语言: {source.get('language', 'N/A')}\n"
-            f"Stars: {source.get('stars', 0)}\n"
-            f"链接: {source['source_url']}"
+    # 构造批量输入
+    items_text = []
+    for idx, source in enumerate(sources, start=1):
+        items_text.append(
+            f"{idx}. 仓库: {source['title']}\n"
+            f"   描述: {source['description'][:150]}\n"
+            f"   语言: {source.get('language', 'N/A')} | "
+            f"Stars: {source.get('stars', 0)}"
         )
 
-        result, usage = chat_json(prompt, system=system_prompt)
-        accumulate_usage(tracker, usage)
+    prompt = (
+        f"以下是 {len(sources)} 个 GitHub 仓库，请逐一分析：\n\n"
+        + "\n".join(items_text)
+    )
 
-        if result:
+    result, usage = chat_json(prompt, system=system_prompt)
+    accumulate_usage(tracker, usage)
+
+    analyses: list[dict] = []
+    if isinstance(result, list):
+        for idx, item in enumerate(result):
+            if not isinstance(item, dict) or not item.get("title"):
+                continue
             # 补充来源信息
-            result["source"] = source["source"]
-            result["source_url"] = source["source_url"]
-            result["collected_at"] = source["collected_at"]
-            analyses.append(result)
-        else:
-            logger.warning(
-                "[AnalyzeNode] 解析失败，跳过: %s", source["title"]
-            )
+            source = sources[idx] if idx < len(sources) else sources[-1]
+            item["source"] = source["source"]
+            item["source_url"] = source["source_url"]
+            item["collected_at"] = source["collected_at"]
+            analyses.append(item)
+    else:
+        logger.warning("[AnalyzeNode] LLM 返回非数组，批量分析失败")
 
     logger.info("[AnalyzeNode] 分析完成，成功 %d 条", len(analyses))
     return {"analyses": analyses, "cost_tracker": tracker}
@@ -137,9 +162,11 @@ def organize_node(state: KBState) -> dict:
     """整理节点：过滤低分条目、去重、根据审核反馈修正。
 
     处理逻辑：
-    1. 过滤 relevance_score < 0.6 的条目
+    1. 过滤 relevance_score < plan.relevance_threshold 的条目
     2. 按 source_url 去重（保留最新）
     3. 若有审核反馈（iteration > 0），调用 LLM 定向修正
+
+    从 state["plan"]["relevance_threshold"] 读取过滤阈值（默认 0.5）。
 
     Args:
         state: 当前工作流状态。
@@ -149,12 +176,16 @@ def organize_node(state: KBState) -> dict:
     """
     logger.info("[OrganizeNode] 开始整理，当前迭代: %d", state["iteration"])
 
+    plan = state.get("plan") or {}
+    relevance_threshold = float(plan.get("relevance_threshold", 0.5))
+
     tracker = dict(state.get("cost_tracker") or {})
     analyses = state["analyses"]
 
     # 1. 过滤低分条目
     filtered = [
-        item for item in analyses if item.get("relevance_score", 0) >= 0.6
+        item for item in analyses
+        if item.get("relevance_score", 0) >= relevance_threshold
     ]
     logger.info(
         "[OrganizeNode] 过滤后剩余 %d 条（原 %d 条）",
@@ -174,12 +205,13 @@ def organize_node(state: KBState) -> dict:
         "[OrganizeNode] 去重后剩余 %d 条", len(deduplicated)
     )
 
-    # 3. 若有审核反馈，调用 LLM 定向修正
+    # 3. 若审核未通过且有反馈，调用 LLM 定向修正
     articles = deduplicated
     feedback = state.get("review_feedback", "")
     iteration = state.get("iteration", 0)
+    review_passed = state.get("review_passed", False)
 
-    if iteration > 0 and feedback:
+    if iteration > 0 and feedback and not review_passed:
         logger.info("[OrganizeNode] 根据审核反馈进行 LLM 修正")
         system_prompt = (
             "你是知识库质量审核修正专家。"
@@ -230,7 +262,9 @@ def review_node(state: KBState) -> dict:
     """审核节点：LLM 四维度评分，决定是否通过。
 
     评分维度：摘要质量、标签准确性、分类合理性、一致性。
-    iteration >= 2 时强制通过，避免无限循环。
+    iteration >= plan.max_iterations 时强制通过，避免无限循环。
+
+    从 state["plan"]["max_iterations"] 读取最大迭代次数（默认 3）。
 
     Args:
         state: 当前工作流状态。
@@ -238,11 +272,14 @@ def review_node(state: KBState) -> dict:
     Returns:
         包含审核结果和迭代计数的部分状态更新。
     """
+    plan = state.get("plan") or {}
+    max_iterations = int(plan.get("max_iterations", 3))
+
     iteration = state.get("iteration", 0) + 1
     logger.info("[ReviewNode] 第 %d 轮审核，共 %d 条", iteration, len(state["articles"]))
 
     # 强制通过：避免无限循环
-    if iteration >= 3:
+    if iteration >= max_iterations:
         logger.info("[ReviewNode] 已达最大迭代次数，强制通过")
         return {
             "review_passed": True,

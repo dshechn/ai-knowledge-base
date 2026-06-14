@@ -1,13 +1,13 @@
-"""LangGraph 工作流编排：组装采集→分析→审核→整理→保存的状态图。
+"""LangGraph 工作流编排：完整 7 节点状态图。
 
 工作流结构：
-    collect → analyze → review
-                          ↓
-               passed? ──→ organize → save → END
-                  ↓
-           iteration < 3 → revise → review（循环改写）
-                  ↓
-           iteration >= 3 → human_flag → END（人工介入）
+    plan → collect → analyze → review
+                                 ↓
+                      passed? ──→ organize → save → END
+                         ↓
+              iter < max_iterations → revise → review（循环改写）
+                         ↓
+              iter >= max_iterations → human_flag → END（人工介入）
 """
 
 import logging
@@ -28,6 +28,7 @@ from workflows.nodes import (
     organize_node,
     save_node,
 )
+from workflows.planner import planner_node
 from workflows.reviewer import review_node
 from workflows.reviser import revise_node
 from workflows.state import KBState
@@ -38,10 +39,10 @@ logger = logging.getLogger(__name__)
 def route_after_review(state: KBState) -> str:
     """审核结果 3 路路由：通过 / 修订 / 人工介入。
 
-    路由逻辑：
+    路由逻辑（max_iterations 从 plan 中读取，不再硬编码）：
     - 审核通过 → "organize"（进入整理流程）
-    - 未通过且 iteration < 3 → "revise"（LLM 改写后重新审核）
-    - 未通过且 iteration >= 3 → "human_flag"（转人工，终止循环）
+    - 未通过且 iteration < max_iterations → "revise"（LLM 改写后重新审核）
+    - 未通过且 iteration >= max_iterations → "human_flag"（转人工，终止循环）
 
     Args:
         state: 当前工作流状态。
@@ -51,7 +52,12 @@ def route_after_review(state: KBState) -> str:
     """
     if state.get("review_passed", False):
         return "organize"
-    if state.get("iteration", 0) < 3:
+
+    plan = state.get("plan") or {}
+    max_iter = int(plan.get("max_iterations", 3))
+    iteration = state.get("iteration", 0)
+
+    if iteration < max_iter:
         return "revise"
     return "human_flag"
 
@@ -65,6 +71,7 @@ def build_graph() -> object:
     graph = StateGraph(KBState)
 
     # 注册节点
+    graph.add_node("plan", planner_node)
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("review", review_node)
@@ -74,9 +81,10 @@ def build_graph() -> object:
     graph.add_node("save", save_node)
 
     # 设置入口点
-    graph.set_entry_point("collect")
+    graph.set_entry_point("plan")
 
-    # 线性边：collect → analyze → review
+    # 线性边：plan → collect → analyze → review
+    graph.add_edge("plan", "collect")
     graph.add_edge("collect", "analyze")
     graph.add_edge("analyze", "review")
 
@@ -108,6 +116,11 @@ def build_graph() -> object:
 
 
 if __name__ == "__main__":
+    # 未设置环境变量时默认用 lite 模式（快速测试）
+    import os
+
+    os.environ.setdefault("PLANNER_TARGET_COUNT", "5")
+
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s [%(levelname)s] %(message)s",
@@ -120,6 +133,7 @@ if __name__ == "__main__":
 
     # 初始状态
     initial_state: KBState = {
+        "plan": {},
         "sources": [],
         "analyses": [],
         "articles": [],
@@ -141,7 +155,15 @@ if __name__ == "__main__":
             logger.info("=" * 60)
             logger.info("节点完成: %s", node_name)
 
-            if node_name == "collect":
+            if node_name == "plan":
+                plan = node_output.get("plan", {})
+                logger.info(
+                    "  策略: %s (target=%s)",
+                    plan.get("tier", "unknown"),
+                    plan.get("target_count", "?"),
+                )
+
+            elif node_name == "collect":
                 count = len(node_output.get("sources", []))
                 logger.info("  采集到 %d 条原始数据", count)
 
