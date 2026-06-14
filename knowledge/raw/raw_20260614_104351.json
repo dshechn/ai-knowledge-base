@@ -1,0 +1,148 @@
+[
+  {
+    "title": "hq-cml/agno-agent",
+    "url": "https://github.com/hq-cml/agno-agent",
+    "source": "github",
+    "description": "an ai agent based on agno framework",
+    "published_at": "2026-06-14T10:43:38Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-06-14T10:41:46Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "mdkorker/llm-training-toolkit",
+    "url": "https://github.com/mdkorker/llm-training-toolkit",
+    "source": "github",
+    "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures.",
+    "published_at": "2026-06-14T10:39:58Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "pinthoz/attention-atlas",
+    "url": "https://github.com/pinthoz/attention-atlas",
+    "source": "github",
+    "description": "This repository hosts the code, experiments, and prototype developed for my Master’s thesis: Interpretable Large Language Models through Attention Mechanism Visualization. It provides tools for exploring attention patterns, assessing bias, and validating interpretability in LLMs.",
+    "published_at": "2026-06-14T10:38:16Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "nagu1137/RAG_Medibot",
+    "url": "https://github.com/nagu1137/RAG_Medibot",
+    "source": "github",
+    "description": "MediBot is an Enterprise Retrieval-Augmented Generation (RAG) Assistant for healthcare organizations.",
+    "published_at": "2026-06-14T10:41:36Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Harsh251005/Evident-AI",
+    "url": "https://github.com/Harsh251005/Evident-AI",
+    "source": "github",
+    "description": "Evident AI is a reliability-focused Retrieval-Augmented Generation (RAG) system that answers questions over PDFs with evidence-backed responses, built-in evaluation, and production-grade observability.",
+    "published_at": "2026-06-14T10:40:50Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "riawat511/club-5060ti",
+    "url": "https://github.com/riawat511/club-5060ti",
+    "source": "github",
+    "description": "Optimize local LLM inference and benchmarking recipes for RTX 5060 Ti hardware configurations.",
+    "published_at": "2026-06-14T10:12:24Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": [
+        "agent-context",
+        "agora",
+        "cloud-native",
+        "clubhouse-client",
+        "clubhouse-lib",
+        "cpp",
+        "database",
+        "distributed-transactions",
+        "model-deployment",
+        "model-monitoring",
+        "mongodb",
+        "mysql",
+        "mysql-compatibility",
+        "scale",
+        "swift",
+        "tinywebserver",
+        "voice-chat",
+        "vue-router",
+        "webbench",
+        "webserver"
+      ]
+    }
+  },
+  {
+    "title": "lergah/qwen36-27b-single-3090",
+    "url": "https://github.com/lergah/qwen36-27b-single-3090",
+    "source": "github",
+    "description": "Run Qwen3.6-27B models on a single RTX 3090 GPU using optimized inference configs. See club-3090 for active developments and updated configurations.",
+    "published_at": "2026-06-14T10:08:35Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "ab-testing",
+        "agent",
+        "agentscope-runtime",
+        "canary",
+        "chatgpt-api",
+        "customnodes",
+        "danmaku",
+        "flash-attention",
+        "kubernetes",
+        "large-language-models",
+        "llm",
+        "pretrained-models",
+        "progressive-delivery",
+        "qwen",
+        "qwen3-vl",
+        "react-native",
+        "tongyi",
+        "typescript",
+        "video-player",
+        "videodownload"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

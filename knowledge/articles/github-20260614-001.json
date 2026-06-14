@@ -1,17 +1,17 @@
 {
   "id": "github-20260614-001",
-  "title": "mazda4940original/PortWorld",
-  "source_url": "https://github.com/mazda4940original/PortWorld",
+  "title": "hq-cml/agno-agent",
+  "source_url": "https://github.com/hq-cml/agno-agent",
   "source": "github",
-  "summary": "PortWorld 是一个开源框架，通过 FastAPI 驱动，实现将 Meta 眼镜与 AI 连接，提供实时视觉、语音交互和定制代理响应。该框架支持快速模型推理，并具备良好的性能和并发处理能力，适用于分布式和微服务架构。",
+  "summary": "Agno-Agent 是基于 Agno 框架开发的 AI 代理，采用分布式架构，支持模型训练、推理和算法优化，适用于高性能计算和微服务环境。",
   "score": 8.0,
   "tags": [
     "ai",
-    "microservices"
+    "distributed-systems"
   ],
   "status": "draft",
-  "created_at": "2026-06-14T09:37:06.590457+00:00",
-  "published_at": "2026-06-14T09:35:34Z",
-  "collected_at": "2026-06-14T09:37:06.590457+00:00",
-  "description": "Connect Meta glasses to AI for real-time vision, voice interaction, and custom agent responses via a FastAPI-powered open source framework."
+  "created_at": "2026-06-14T10:45:11.914522+00:00",
+  "published_at": "2026-06-14T10:43:38Z",
+  "collected_at": "2026-06-14T10:45:11.914522+00:00",
+  "description": "an ai agent based on agno framework"
 }

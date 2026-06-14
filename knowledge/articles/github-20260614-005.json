@@ -1,18 +1,18 @@
 {
   "id": "github-20260614-005",
-  "title": "KnVark/dojutsu-for-ai",
-  "source_url": "https://github.com/KnVark/dojutsu-for-ai",
+  "title": "Harsh251005/Evident-AI",
+  "source_url": "https://github.com/Harsh251005/Evident-AI",
   "source": "github",
-  "summary": "Dojutsu-for-ai 是一个强大的检索增强生成框架，允许AI模型通过兼容多种提供商的方式访问、查询和检索知识。该框架利用模型训练和推理技术，结合向量索引和缓存机制，优化了AI的性能和并发处理能力，适用于分布式和微服务架构。",
+  "summary": "Evident AI 是一个以可靠性为中心的检索增强生成（RAG）系统，通过PDF文件提供有证据支持的回答，内置评估和生产级可观察性。该系统使用Python语言构建，集成了模型训练、推理、向量索引和缓存机制，适用于需要高精度问答和证据支持的场景。",
   "score": 8.0,
   "tags": [
+    "python",
     "ai",
-    "algorithm",
-    "microservices"
+    "ml"
   ],
   "status": "draft",
-  "created_at": "2026-06-14T09:37:06.590457+00:00",
-  "published_at": "2026-06-14T09:32:57Z",
-  "collected_at": "2026-06-14T09:37:06.590457+00:00",
-  "description": "Enable AI models to access, query, and retrieve knowledge using a robust retrieval-augmented generation framework compatible with multiple providers."
+  "created_at": "2026-06-14T10:45:11.914522+00:00",
+  "published_at": "2026-06-14T10:40:50Z",
+  "collected_at": "2026-06-14T10:45:11.914522+00:00",
+  "description": "Evident AI is a reliability-focused Retrieval-Augmented Generation (RAG) system that answers questions over PDFs with evidence-backed responses, built-in evaluation, and production-grade observability."
 }

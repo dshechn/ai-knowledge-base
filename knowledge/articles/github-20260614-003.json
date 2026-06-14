@@ -1,18 +1,18 @@
 {
   "id": "github-20260614-003",
-  "title": "jhon1995-04/gigacheck",
-  "source_url": "https://github.com/jhon1995-04/gigacheck",
+  "title": "pinthoz/attention-atlas",
+  "source_url": "https://github.com/pinthoz/attention-atlas",
   "source": "github",
-  "summary": "GigaCheck 是一款用于检测和分类大型语言模型的工具，通过优化工具和数据集，简化了对 AI 输出的理解和分析过程，支持 CUDA 加速矩阵乘法运算，适用于大型语言模型的性能评估和监控。",
+  "summary": "该仓库包含用于解释性大型语言模型（LLM）的注意力机制可视化工具，用于探索注意力模式、评估偏差和验证可解释性。核心技术包括注意力机制模型、可视化工具和评估方法，适用于LLM研究和应用。，基于模型推理的架构",
   "score": 8.0,
   "tags": [
     "ai",
     "deep-learning",
-    "performance"
+    "nlp"
   ],
   "status": "draft",
-  "created_at": "2026-06-14T09:37:06.590457+00:00",
-  "published_at": "2026-06-14T08:51:34Z",
-  "collected_at": "2026-06-14T09:37:06.590457+00:00",
-  "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets."
+  "created_at": "2026-06-14T10:45:11.914522+00:00",
+  "published_at": "2026-06-14T10:38:16Z",
+  "collected_at": "2026-06-14T10:45:11.914522+00:00",
+  "description": "This repository hosts the code, experiments, and prototype developed for my Master’s thesis: Interpretable Large Language Models through Attention Mechanism Visualization. It provides tools for exploring attention patterns, assessing bias, and validating interpretability in LLMs."
 }
