@@ -1,0 +1,18 @@
+{
+  "id": "github-20260615-004",
+  "title": "BillKladis/Vectorless-RAG-for-Reasoning-Based-Extraction",
+  "source_url": "https://github.com/BillKladis/Vectorless-RAG-for-Reasoning-Based-Extraction",
+  "source": "github",
+  "summary": "Vectorless RAG 是一种基于推理的提取系统，它通过推理驱动提取而非向量嵌入来实现检索增强生成，优化了模型训练和推理性能，适用于需要高效处理大量文本数据的场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T13:47:15.877524+00:00",
+  "published_at": "2026-06-15T13:45:03Z",
+  "collected_at": "2026-06-15T13:47:15.877524+00:00",
+  "description": "Vectorless RAG for Reasoning-Based Extraction — a retrieval-augmented generation system that bypasses vector embeddings in favor of reasoning-driven extraction."
+}

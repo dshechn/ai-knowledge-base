@@ -1,0 +1,18 @@
+{
+  "id": "github-20260615-001",
+  "title": "AniketMunde/Agentic-RL-Manufacturing",
+  "source_url": "https://github.com/AniketMunde/Agentic-RL-Manufacturing",
+  "source": "github",
+  "summary": "该开源项目提供了一个混合智能体AI和强化学习框架，用于自适应制造任务规划和自主机器人导航。该框架利用模型训练和推理技术，通过向量索引和缓存机制优化性能，支持分布式架构和微服务设计，适用于高性能并发场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T13:47:15.877524+00:00",
+  "published_at": "2026-06-15T13:46:16Z",
+  "collected_at": "2026-06-15T13:47:15.877524+00:00",
+  "description": "Hybrid Agentic AI and Reinforcement Learning framework for adaptive manufacturing task planning and autonomous robot navigation."
+}

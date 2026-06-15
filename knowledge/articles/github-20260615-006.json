@@ -1,0 +1,18 @@
+{
+  "id": "github-20260615-006",
+  "title": "cfregly/claude-perf-tune",
+  "source_url": "https://github.com/cfregly/claude-perf-tune",
+  "source": "github",
+  "summary": "cfregly/claude-perf-tune 是一个用于 Claude Code 的 GPU 推理性能分析和优化的 Python 工具，集成了 MCP 服务器，支持 31 种 GPU 性能调优技巧，适用于大规模分布式推理场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T13:47:15.877524+00:00",
+  "published_at": "2026-06-15T13:37:45Z",
+  "collected_at": "2026-06-15T13:47:15.877524+00:00",
+  "description": "31 GPU inference profiling and optimization skills for Claude Code, with a bundled MCP server"
+}

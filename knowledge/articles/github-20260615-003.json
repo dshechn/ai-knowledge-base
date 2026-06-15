@@ -1,0 +1,18 @@
+{
+  "id": "github-20260615-003",
+  "title": "Harshitamiddha05/WanderNest",
+  "source_url": "https://github.com/Harshitamiddha05/WanderNest",
+  "source": "github",
+  "summary": "WanderNest 是一个基于 TypeScript 的 Web 端客评情感分析工具，为生态民宿运营商提供即时的人工智能情感分类、主题标签和推荐管理回应。该平台利用大型语言模型 (LLM) API 实现对客评的深度分析，适用于提升民宿服务质量。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T13:47:15.877524+00:00",
+  "published_at": "2026-06-15T13:12:23Z",
+  "collected_at": "2026-06-15T13:47:15.877524+00:00",
+  "description": "WanderNest is a webbased guest review sentiment analysis tool built for eco-homestay operators like Trishul Eco-Homestays. The platform enables staff to paste one or multiple guest reviews and instantly receive AI-generated sentiment classification, theme tagging, and a suggested management response"
+}

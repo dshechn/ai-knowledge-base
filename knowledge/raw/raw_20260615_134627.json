@@ -1,0 +1,149 @@
+[
+  {
+    "title": "AniketMunde/Agentic-RL-Manufacturing",
+    "url": "https://github.com/AniketMunde/Agentic-RL-Manufacturing",
+    "source": "github",
+    "description": "Hybrid Agentic AI and Reinforcement Learning framework for adaptive manufacturing task planning and autonomous robot navigation.",
+    "published_at": "2026-06-15T13:46:16Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "MaximLeopold/AI-Implementation-Partner",
+    "url": "https://github.com/MaximLeopold/AI-Implementation-Partner",
+    "source": "github",
+    "description": "A custom agent framework and skillset for AI use-case ideation and MVP implementation in M&A workflows and tasks ",
+    "published_at": "2026-06-15T13:45:42Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Harshitamiddha05/WanderNest",
+    "url": "https://github.com/Harshitamiddha05/WanderNest",
+    "source": "github",
+    "description": "WanderNest is a webbased guest review sentiment analysis tool built for eco-homestay operators like Trishul Eco-Homestays. The platform enables staff to paste one or multiple guest reviews and instantly receive AI-generated sentiment classification, theme tagging, and a suggested management response  all powered by a Large Language Model (LLM) API.",
+    "published_at": "2026-06-15T13:12:23Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "bartolomeouneasy166/Schola-Herv",
+    "url": "https://github.com/bartolomeouneasy166/Schola-Herv",
+    "source": "github",
+    "description": "Download academic papers at scale using a command-line tool designed for building large research corpora for language models and systematic reviews.",
+    "published_at": "2026-06-15T12:53:56Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "academic-papers",
+        "arxiv",
+        "async",
+        "cli-tool",
+        "corpus-builder",
+        "crossref",
+        "data-collection",
+        "literature-review",
+        "llm",
+        "nlp",
+        "ollama",
+        "open-access",
+        "openalex",
+        "pdf-downloader",
+        "pubmed",
+        "python",
+        "research-tools",
+        "scientific-data"
+      ]
+    }
+  },
+  {
+    "title": "BillKladis/Vectorless-RAG-for-Reasoning-Based-Extraction",
+    "url": "https://github.com/BillKladis/Vectorless-RAG-for-Reasoning-Based-Extraction",
+    "source": "github",
+    "description": "Vectorless RAG for Reasoning-Based Extraction — a retrieval-augmented generation system that bypasses vector embeddings in favor of reasoning-driven extraction.",
+    "published_at": "2026-06-15T13:45:03Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "tanvir35web/RAG-Frontend",
+    "url": "https://github.com/tanvir35web/RAG-Frontend",
+    "source": "github",
+    "description": "PDF Intelligence : A production-quality React frontend for a Retrieval-Augmented Generation (RAG) API. Upload PDFs, ask questions in plain text, and get AI-generated answers grounded in your documents — complete with source citations.",
+    "published_at": "2026-06-15T13:44:47Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "fastapi",
+        "gemini-api",
+        "llm",
+        "pinecone-vector-database",
+        "python",
+        "rag-chatbot"
+      ]
+    }
+  },
+  {
+    "title": "cfregly/claude-perf-tune",
+    "url": "https://github.com/cfregly/claude-perf-tune",
+    "source": "github",
+    "description": "31 GPU inference profiling and optimization skills for Claude Code, with a bundled MCP server",
+    "published_at": "2026-06-15T13:37:45Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "cuda",
+        "gpu",
+        "inference",
+        "llm",
+        "mcp",
+        "performance"
+      ]
+    }
+  },
+  {
+    "title": "jd-opensource/xllm",
+    "url": "https://github.com/jd-opensource/xllm",
+    "source": "github",
+    "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators.",
+    "published_at": "2026-06-15T13:25:13Z",
+    "extra": {
+      "stars": 1331,
+      "language": "C++",
+      "topics": [
+        "deepseek",
+        "glm",
+        "inference",
+        "inference-engine",
+        "large-language-models",
+        "llm-inference",
+        "qwen"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

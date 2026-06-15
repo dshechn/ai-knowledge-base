@@ -1,0 +1,18 @@
+{
+  "id": "github-20260615-005",
+  "title": "tanvir35web/RAG-Frontend",
+  "source_url": "https://github.com/tanvir35web/RAG-Frontend",
+  "source": "github",
+  "summary": "RAG-Frontend 是一个基于 TypeScript 的 React 前端框架，用于检索增强生成（RAG）API。它支持上传 PDF 文档，以纯文本形式提问，并获取基于文档的 AI 生成的答案，包括源引用。该项目利用了 FastAPI 和 Gemini API，结合了 Pinecone 向量数据库和 Python 的高效性能。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "llm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T13:47:15.877524+00:00",
+  "published_at": "2026-06-15T13:44:47Z",
+  "collected_at": "2026-06-15T13:47:15.877524+00:00",
+  "description": "PDF Intelligence : A production-quality React frontend for a Retrieval-Augmented Generation (RAG) API. Upload PDFs, ask questions in plain text, and get AI-generated answers grounded in your documents — complete with source citations."
+}
