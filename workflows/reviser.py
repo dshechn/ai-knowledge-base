@@ -83,7 +83,10 @@ def revise_node(state: KBState) -> dict:
 
     try:
         result, usage = chat_json(
-            prompt, system=system_prompt, temperature=REVISE_TEMPERATURE
+            prompt,
+            system=system_prompt,
+            temperature=REVISE_TEMPERATURE,
+            node_name="revise",
         )
         accumulate_usage(tracker, usage)
     except Exception as exc:

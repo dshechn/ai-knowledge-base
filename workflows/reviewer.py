@@ -172,7 +172,10 @@ def review_node(state: KBState) -> dict:
     # LLM 调用，失败时自动通过（不阻塞流程）
     try:
         result, usage = chat_json(
-            prompt, system=system_prompt, temperature=REVIEW_TEMPERATURE
+            prompt,
+            system=system_prompt,
+            temperature=REVIEW_TEMPERATURE,
+            node_name="review",
         )
         accumulate_usage(tracker, usage)
     except Exception as exc:

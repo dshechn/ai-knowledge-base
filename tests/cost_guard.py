@@ -156,6 +156,11 @@ class CostGuard:
             if record.model and record.model not in node_report["models"]:
                 node_report["models"].append(record.model)
 
+        cost_by_node = {
+            node_name: node_report["cost_yuan"]
+            for node_name, node_report in nodes.items()
+        }
+
         return {
             "budget_yuan": self.budget_yuan,
             "alert_threshold": self.alert_threshold,
@@ -165,6 +170,8 @@ class CostGuard:
             "total_cost_yuan": self.total_cost_yuan,
             "usage_ratio": self._usage_ratio(),
             "record_count": len(self.records),
+            "total_calls": len(self.records),
+            "cost_by_node": cost_by_node,
             "nodes": nodes,
             "records": [asdict(record) for record in self.records],
         }

@@ -12,6 +12,8 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+from tests.security import filter_output, sanitize_input
+
 # 确保项目根目录在 sys.path 中
 _project_root = str(Path(__file__).resolve().parent.parent)
 if _project_root not in sys.path:
@@ -85,8 +87,32 @@ def collect_node(state: KBState) -> dict:
             "collected_at": now,
         })
 
-    logger.info("[CollectNode] 采集完成，共 %d 条", len(sources))
-    return {"sources": sources}
+    cleaned_sources: list[dict] = []
+    total_warnings = 0
+    for source in sources:
+        for field in ("title", "description"):
+            value = source.get(field)
+            if isinstance(value, str):
+                cleaned, warnings = sanitize_input(value)
+                source[field] = cleaned
+                total_warnings += len(warnings)
+                if warnings:
+                    logger.warning(
+                        "[Security] %s %s 检出可疑输入: %s",
+                        source.get("source_url", "?"),
+                        field,
+                        warnings,
+                    )
+        cleaned_sources.append(source)
+
+    if total_warnings > 0:
+        logger.warning(
+            "[Security] collect 阶段共拦截 %d 处可疑输入",
+            total_warnings,
+        )
+
+    logger.info("[CollectNode] 采集完成，共 %d 条", len(cleaned_sources))
+    return {"sources": cleaned_sources}
 
 
 def analyze_node(state: KBState) -> dict:
@@ -137,7 +163,7 @@ def analyze_node(state: KBState) -> dict:
         + "\n".join(items_text)
     )
 
-    result, usage = chat_json(prompt, system=system_prompt)
+    result, usage = chat_json(prompt, system=system_prompt, node_name="analyze")
     accumulate_usage(tracker, usage)
 
     analyses: list[dict] = []
@@ -224,7 +250,7 @@ def organize_node(state: KBState) -> dict:
             f"当前条目列表:\n{json.dumps(articles, ensure_ascii=False, indent=2)}"
         )
 
-        revised, usage = chat_json(prompt, system=system_prompt)
+        revised, usage = chat_json(prompt, system=system_prompt, node_name="revise")
         accumulate_usage(tracker, usage)
 
         if isinstance(revised, list):
@@ -254,8 +280,32 @@ def organize_node(state: KBState) -> dict:
         }
         formatted_articles.append(article)
 
-    logger.info("[OrganizeNode] 整理完成，输出 %d 条知识条目", len(formatted_articles))
-    return {"articles": formatted_articles, "cost_tracker": tracker}
+    masked_articles: list[dict] = []
+    total_pii = 0
+    for article in formatted_articles:
+        for field in ("summary", "content", "title"):
+            value = article.get(field)
+            if isinstance(value, str):
+                filtered, detections = filter_output(value, mask=True)
+                article[field] = filtered
+                total_pii += len(detections)
+                if detections:
+                    logger.warning(
+                        "[Security] %s %s 掩码 PII: %s",
+                        article.get("id", "?"),
+                        field,
+                        detections,
+                    )
+        masked_articles.append(article)
+
+    if total_pii > 0:
+        logger.warning(
+            "[Security] organize 阶段共掩码 %d 处 PII",
+            total_pii,
+        )
+
+    logger.info("[OrganizeNode] 整理完成，输出 %d 条知识条目", len(masked_articles))
+    return {"articles": masked_articles, "cost_tracker": tracker}
 
 
 def review_node(state: KBState) -> dict:
@@ -327,7 +377,7 @@ def review_node(state: KBState) -> dict:
         f"{json.dumps(articles_summary, ensure_ascii=False, indent=2)}"
     )
 
-    result, usage = chat_json(prompt, system=system_prompt)
+    result, usage = chat_json(prompt, system=system_prompt, node_name="review")
     accumulate_usage(tracker, usage)
 
     if not result or not isinstance(result, dict):

@@ -9,6 +9,7 @@ from __future__ import annotations
 import asyncio
 import json
 import logging
+import os
 import sys
 from pathlib import Path
 from typing import Any
@@ -24,8 +25,27 @@ from pipeline.model_client import (
     chat_with_retry,
     create_provider,
 )
+from tests.cost_guard import BudgetExceededError, CostGuard
 
 logger = logging.getLogger(__name__)
+
+_cost_guard: CostGuard | None = None
+
+
+def get_cost_guard() -> CostGuard:
+    """获取全局 CostGuard 实例，首次调用时按环境变量懒加载。"""
+    global _cost_guard
+
+    if _cost_guard is None:
+        budget_raw = os.getenv("BUDGET_YUAN", "1.0")
+        try:
+            budget_yuan = float(budget_raw)
+        except ValueError:
+            logger.warning("BUDGET_YUAN=%r 无效，使用默认预算 1.0 元", budget_raw)
+            budget_yuan = 1.0
+        _cost_guard = CostGuard(budget_yuan=budget_yuan)
+
+    return _cost_guard
 
 
 def _run_async(coro: Any) -> Any:
@@ -74,6 +94,7 @@ def chat(
     prompt: str,
     system: str = "你是一个有帮助的AI助手。",
     temperature: float = 0.7,
+    node_name: str = "unknown",
 ) -> tuple[str, dict]:
     """同步调用 LLM 并返回文本响应。
 
@@ -81,6 +102,7 @@ def chat(
         prompt: 用户输入的问题或指令。
         system: 系统提示词。
         temperature: 采样温度，范围 [0, 2]，默认 0.7。
+        node_name: 调用 LLM 的工作流节点名称。
 
     Returns:
         (text, usage) 元组：
@@ -102,13 +124,18 @@ def chat(
             await provider.close()
 
     response = _run_async(_call())
-    return response.content, _usage_to_dict(response.usage)
+    usage = _usage_to_dict(response.usage)
+    cost_guard = get_cost_guard()
+    cost_guard.record(node_name, usage, response.model)
+    cost_guard.check()
+    return response.content, usage
 
 
 def chat_json(
     prompt: str,
     system: str = "你是一个有帮助的AI助手。",
     temperature: float = 0.7,
+    node_name: str = "unknown",
 ) -> tuple[Any, dict]:
     """同步调用 LLM 并将响应解析为 JSON。
 
@@ -119,13 +146,19 @@ def chat_json(
         prompt: 用户输入的问题或指令。
         system: 系统提示词（应包含 JSON 输出要求）。
         temperature: 采样温度，范围 [0, 2]，默认 0.7。
+        node_name: 调用 LLM 的工作流节点名称。
 
     Returns:
         (parsed_json, usage) 元组：
             - parsed_json: 解析后的 Python 对象（dict/list），解析失败时为 None。
             - usage: Token 用量字典。
     """
-    text, usage = chat(prompt, system=system, temperature=temperature)
+    text, usage = chat(
+        prompt,
+        system=system,
+        temperature=temperature,
+        node_name=node_name,
+    )
 
     # 尝试提取 JSON（兼容 markdown 代码块包裹）
     content = text.strip()

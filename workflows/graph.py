@@ -22,6 +22,7 @@ if _project_root not in sys.path:
 from langgraph.graph import END, StateGraph
 
 from workflows.human_flag import human_flag_node
+from workflows.model_client import BudgetExceededError, get_cost_guard
 from workflows.nodes import (
     analyze_node,
     collect_node,
@@ -149,58 +150,69 @@ if __name__ == "__main__":
         },
     }
 
-    # 流式执行，打印每个节点的关键输出
-    for event in app.stream(initial_state):
-        for node_name, node_output in event.items():
-            logger.info("=" * 60)
-            logger.info("节点完成: %s", node_name)
+    try:
+        # 流式执行，打印每个节点的关键输出
+        for event in app.stream(initial_state):
+            for node_name, node_output in event.items():
+                logger.info("=" * 60)
+                logger.info("节点完成: %s", node_name)
 
-            if node_name == "plan":
-                plan = node_output.get("plan", {})
-                logger.info(
-                    "  策略: %s (target=%s)",
-                    plan.get("tier", "unknown"),
-                    plan.get("target_count", "?"),
-                )
+                if node_name == "plan":
+                    plan = node_output.get("plan", {})
+                    logger.info(
+                        "  策略: %s (target=%s)",
+                        plan.get("tier", "unknown"),
+                        plan.get("target_count", "?"),
+                    )
 
-            elif node_name == "collect":
-                count = len(node_output.get("sources", []))
-                logger.info("  采集到 %d 条原始数据", count)
+                elif node_name == "collect":
+                    count = len(node_output.get("sources", []))
+                    logger.info("  采集到 %d 条原始数据", count)
 
-            elif node_name == "analyze":
-                count = len(node_output.get("analyses", []))
-                logger.info("  分析完成 %d 条", count)
+                elif node_name == "analyze":
+                    count = len(node_output.get("analyses", []))
+                    logger.info("  分析完成 %d 条", count)
 
-            elif node_name == "organize":
-                count = len(node_output.get("articles", []))
-                logger.info("  整理后 %d 条知识条目", count)
+                elif node_name == "organize":
+                    count = len(node_output.get("articles", []))
+                    logger.info("  整理后 %d 条知识条目", count)
 
-            elif node_name == "review":
-                passed = node_output.get("review_passed", False)
-                iteration = node_output.get("iteration", 0)
-                feedback = node_output.get("review_feedback", "")
-                logger.info(
-                    "  第 %d 轮审核: %s",
-                    iteration,
-                    "通过" if passed else "未通过",
-                )
-                if feedback:
-                    logger.info("  反馈: %s", feedback[:100])
+                elif node_name == "review":
+                    passed = node_output.get("review_passed", False)
+                    iteration = node_output.get("iteration", 0)
+                    feedback = node_output.get("review_feedback", "")
+                    logger.info(
+                        "  第 %d 轮审核: %s",
+                        iteration,
+                        "通过" if passed else "未通过",
+                    )
+                    if feedback:
+                        logger.info("  反馈: %s", feedback[:100])
 
-            elif node_name == "revise":
-                count = len(node_output.get("analyses", []))
-                logger.info("  修订完成 %d 条", count)
+                elif node_name == "revise":
+                    count = len(node_output.get("analyses", []))
+                    logger.info("  修订完成 %d 条", count)
 
-            elif node_name == "human_flag":
-                logger.warning("  ⚠ 转入人工审核")
-                fb = node_output.get("review_feedback", "")
-                if fb:
-                    logger.info("  说明: %s", fb[:100])
+                elif node_name == "human_flag":
+                    logger.warning("  转入人工审核")
+                    fb = node_output.get("review_feedback", "")
+                    if fb:
+                        logger.info("  说明: %s", fb[:100])
 
-            elif node_name == "save":
-                count = len(node_output.get("articles", []))
-                logger.info("  保存 %d 条到 knowledge/articles/", count)
+                elif node_name == "save":
+                    count = len(node_output.get("articles", []))
+                    logger.info("  保存 %d 条到 knowledge/articles/", count)
 
-    # 打印 Token 用量统计
-    logger.info("=" * 60)
-    logger.info("工作流执行完毕")
+        logger.info("\n=== 工作流完成 ===")
+    except BudgetExceededError as exc:
+        logger.error("\n[FATAL] 预算熔断触发：%s", exc)
+
+    guard = get_cost_guard()
+    report = guard.get_report()
+    logger.info(
+        "\n[CostGuard] 总调用 %d 次 · 总成本 ¥%.6f",
+        report["total_calls"],
+        report["total_cost_yuan"],
+    )
+    logger.info("[CostGuard] 按节点：%s", report["cost_by_node"])
+    guard.save_report("knowledge/cost-report.json")
