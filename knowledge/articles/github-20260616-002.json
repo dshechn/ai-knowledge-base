@@ -1,0 +1,18 @@
+{
+  "id": "github-20260616-002",
+  "title": "Ksmashhero06/autonomous-vibe-newsletter-engine",
+  "source_url": "https://github.com/Ksmashhero06/autonomous-vibe-newsletter-engine",
+  "source": "github",
+  "summary": "该项目是一个完全免费的、多代理自主内容和技术新闻通讯管道，使用本地Python框架和Gemini API通过Google AI Studio构建。该项目是一个为期5天的渐进式项目，与Kaggle Vibe编码密集型项目的架构里程碑相对应。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T12:46:16.107929+00:00",
+  "published_at": "2026-06-16T12:44:48Z",
+  "collected_at": "2026-06-16T12:46:16.107929+00:00",
+  "description": "A 100% free, multi-agent autonomous content and technical newsletter pipeline built entirely using local Python frameworks and the Gemini API via Google AI Studio. Developed as a 5-day progressive project mapping to the architectural milestones of the Kaggle Vibe Coding Intensive."
+}

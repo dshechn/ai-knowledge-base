@@ -1,0 +1,18 @@
+{
+  "id": "github-20260616-003",
+  "title": "mila-bkv/rag-for-regulatory-documents",
+  "source_url": "https://github.com/mila-bkv/rag-for-regulatory-documents",
+  "source": "github",
+  "summary": "该系统利用检索增强生成（RAG）技术，针对俄罗斯AI监管文件（ГОСТ）进行问答，采用Qwen3和BGE-M3嵌入以及Qdrant向量数据库，实现高效的知识检索和问答推理。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "nlp",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T12:46:16.107929+00:00",
+  "published_at": "2026-06-16T12:42:06Z",
+  "collected_at": "2026-06-16T12:46:16.107929+00:00",
+  "description": "Retrieval-Augmented Generation (RAG) system for question answering over Russian AI regulatory documents (ГОСТ) using Qwen3, BGE-M3 embeddings, and Qdrant vector database."
+}

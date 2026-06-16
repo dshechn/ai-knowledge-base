@@ -1,0 +1,18 @@
+{
+  "id": "github-20260616-004",
+  "title": "RodrigueAI/lexcare-ai",
+  "source_url": "https://github.com/RodrigueAI/lexcare-ai",
+  "source": "github",
+  "summary": "RodrigueAI/lexcare-ai 是一个基于 FastAPI、LangChain 和向量数据库的检索增强生成平台，用于处理医疗法规、政策文件和监管更新。该平台利用先进的算法和架构，提供高效的文档检索和生成服务，适用于医疗行业的信息处理和分析。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "api"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T12:46:16.107929+00:00",
+  "published_at": "2026-06-16T12:41:04Z",
+  "collected_at": "2026-06-16T12:46:16.107929+00:00",
+  "description": "Retrieval-Augmented Generation (RAG) platform for healthcare legislation, policy documents, and regulatory updates using FastAPI, LangChain, and vector databases.Retrieval-Augmented Generation (RAG) platform for healthcare legislation, policy documents, and regulatory updates using FastAPI, LangChai"
+}

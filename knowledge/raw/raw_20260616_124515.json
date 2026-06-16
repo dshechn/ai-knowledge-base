@@ -1,0 +1,158 @@
+[
+  {
+    "title": "mayur294-lgtm/value-consulting-agents",
+    "url": "https://github.com/mayur294-lgtm/value-consulting-agents",
+    "source": "github",
+    "description": "Value Consulting Agent System - AI-powered consulting framework for ROI modeling, capability assessment, and strategic roadmapping",
+    "published_at": "2026-06-16T12:45:00Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": []
+    }
+  },
+  {
+    "title": "Ksmashhero06/autonomous-vibe-newsletter-engine",
+    "url": "https://github.com/Ksmashhero06/autonomous-vibe-newsletter-engine",
+    "source": "github",
+    "description": "A 100% free, multi-agent autonomous content and technical newsletter pipeline built entirely using local Python frameworks and the Gemini API via Google AI Studio. Developed as a 5-day progressive project mapping to the architectural milestones of the Kaggle Vibe Coding Intensive.",
+    "published_at": "2026-06-16T12:44:48Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "marco1900445/genera",
+    "url": "https://github.com/marco1900445/genera",
+    "source": "github",
+    "description": "🤖 Build generative large language models to simulate human-like behavior with intuitive tools and notebooks for easy local or cloud setup.",
+    "published_at": "2026-06-16T12:41:48Z",
+    "extra": {
+      "stars": 2,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "ai",
+        "api",
+        "azure",
+        "cloud",
+        "code-generator",
+        "generative-ai",
+        "generativeai",
+        "gpt",
+        "java",
+        "kubernetes",
+        "large-language-models",
+        "llm",
+        "python",
+        "pytorch",
+        "rest-client",
+        "restful-api",
+        "sdk",
+        "typescript"
+      ]
+    }
+  },
+  {
+    "title": "ritartistry/HAL",
+    "url": "https://github.com/ritartistry/HAL",
+    "source": "github",
+    "description": "HAL is a secure HTTP API Layer for Large Language Models, enabling seamless web API interactions and automatic tool generation from OpenAPI specs. 🚀🌐",
+    "published_at": "2026-06-16T12:23:46Z",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "analyze",
+        "compiler",
+        "cryptocurrency",
+        "cryptography",
+        "dsl",
+        "embedded",
+        "face-animation",
+        "fpga",
+        "go",
+        "gpu",
+        "halo",
+        "image-animation",
+        "integrated-circuits",
+        "javascript",
+        "network",
+        "objective-c",
+        "security",
+        "source-code"
+      ]
+    }
+  },
+  {
+    "title": "mila-bkv/rag-for-regulatory-documents",
+    "url": "https://github.com/mila-bkv/rag-for-regulatory-documents",
+    "source": "github",
+    "description": "Retrieval-Augmented Generation (RAG) system for question answering over Russian AI regulatory documents (ГОСТ) using Qwen3, BGE-M3 embeddings, and Qdrant vector database.",
+    "published_at": "2026-06-16T12:42:06Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "RodrigueAI/lexcare-ai",
+    "url": "https://github.com/RodrigueAI/lexcare-ai",
+    "source": "github",
+    "description": "Retrieval-Augmented Generation (RAG) platform for healthcare legislation, policy documents, and regulatory updates using FastAPI, LangChain, and vector databases.Retrieval-Augmented Generation (RAG) platform for healthcare legislation, policy documents, and regulatory updates using FastAPI, LangChain, and vector databases.",
+    "published_at": "2026-06-16T12:41:04Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "jd-opensource/xllm",
+    "url": "https://github.com/jd-opensource/xllm",
+    "source": "github",
+    "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators.",
+    "published_at": "2026-06-16T12:43:55Z",
+    "extra": {
+      "stars": 1333,
+      "language": "C++",
+      "topics": [
+        "deepseek",
+        "glm",
+        "inference",
+        "inference-engine",
+        "large-language-models",
+        "llm-inference",
+        "qwen"
+      ]
+    }
+  },
+  {
+    "title": "roshini0108/InferSim",
+    "url": "https://github.com/roshini0108/InferSim",
+    "source": "github",
+    "description": "🔍 Simulate LLM inference performance to identify bottlenecks and optimize models with InferSim, a lightweight and dependency-free Python tool.",
+    "published_at": "2026-06-16T12:41:09Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "deepseek",
+        "llm",
+        "llm-inference",
+        "qwen3",
+        "simulator"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

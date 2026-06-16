@@ -1,0 +1,18 @@
+{
+  "id": "github-20260616-001",
+  "title": "mayur294-lgtm/value-consulting-agents",
+  "source_url": "https://github.com/mayur294-lgtm/value-consulting-agents",
+  "source": "github",
+  "summary": "Value Consulting Agent System 是一个基于AI的咨询框架，用于ROI建模、能力评估和战略规划路线图。该系统通过模型训练和推理提供高效的数据分析和决策支持，适用于企业战略规划和投资回报分析。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T12:46:16.107929+00:00",
+  "published_at": "2026-06-16T12:45:00Z",
+  "collected_at": "2026-06-16T12:46:16.107929+00:00",
+  "description": "Value Consulting Agent System - AI-powered consulting framework for ROI modeling, capability assessment, and strategic roadmapping"
+}
