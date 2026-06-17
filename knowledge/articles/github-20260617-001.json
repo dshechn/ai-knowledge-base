@@ -1,0 +1,17 @@
+{
+  "id": "github-20260617-001",
+  "title": "nirholas/three.ws",
+  "source_url": "https://github.com/nirholas/three.ws",
+  "source": "github",
+  "summary": "nirholas/three.ws 是一个开源的3D AI代理框架，支持GLB/glTF头像，具备LLM大脑、记忆、情感和自主支付功能。该框架基于MCP服务器，支持x402、Solana/EVM，并使用Three.js进行渲染。它可以作为Web组件嵌入任何地方。提供角色工作室和动画画廊，支持OAuth 2.1认证。该框架具有浏览器原生特性。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "javascript",
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T12:10:49.155965+00:00",
+  "published_at": "2026-06-17T12:09:17Z",
+  "collected_at": "2026-06-17T12:10:49.155965+00:00",
+  "description": "Open-source 3D AI agent framework — GLB/glTF avatars with LLM brains, memory, emotions, and autonomous payments. MCP server · x402 · Solana/EVM · Three.js. Embed anywhere as a web component. Character studio, animation gallery, OAuth 2.1. Browser-native."
+}

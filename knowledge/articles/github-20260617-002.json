@@ -1,0 +1,18 @@
+{
+  "id": "github-20260617-002",
+  "title": "Hamza-Shahid555/GenAI-using-LangChain-",
+  "source_url": "https://github.com/Hamza-Shahid555/GenAI-using-LangChain-",
+  "source": "github",
+  "summary": "本项目利用LangChain构建基于大型语言模型（LLMs）的应用，如GPT，通过LangChain作为LLMs与实际数据和工具之间的桥梁，实现结构化和强大的应用开发。项目涉及的核心技术包括LLMs的训练、推理，以及LangChain的架构设计和性能优化，适用于生成AI领域的数据处理和工具集成。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "tooling"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T12:10:49.155965+00:00",
+  "published_at": "2026-06-17T11:16:30Z",
+  "collected_at": "2026-06-17T12:10:49.155965+00:00",
+  "description": "we will work on LangChain using in GenAi Generative AI with LangChain means building applications that use Large Language Models (LLMs) like GPT, but in a structured and powerful way.  🔹 What LangChain Does  LangChain acts as a bridge between LLMs and real-world data/tools."
+}

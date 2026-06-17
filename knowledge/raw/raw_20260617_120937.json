@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-06-17T12:08:26Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "nirholas/three.ws",
+    "url": "https://github.com/nirholas/three.ws",
+    "source": "github",
+    "description": "Open-source 3D AI agent framework — GLB/glTF avatars with LLM brains, memory, emotions, and autonomous payments. MCP server · x402 · Solana/EVM · Three.js. Embed anywhere as a web component. Character studio, animation gallery, OAuth 2.1. Browser-native.",
+    "published_at": "2026-06-17T12:09:17Z",
+    "extra": {
+      "stars": 62,
+      "language": "JavaScript",
+      "topics": [
+        "3d",
+        "ai-agent",
+        "animation",
+        "avatar",
+        "blockchain",
+        "character-studio",
+        "claude",
+        "embedding",
+        "erc",
+        "gltf",
+        "javascript",
+        "llm",
+        "mcp",
+        "oauth",
+        "onchain",
+        "three-js",
+        "typescript",
+        "vercel",
+        "web-component",
+        "webgl"
+      ]
+    }
+  },
+  {
+    "title": "pinthoz/attention-atlas",
+    "url": "https://github.com/pinthoz/attention-atlas",
+    "source": "github",
+    "description": "This repository hosts the code, experiments, and prototype developed for my Master’s thesis: Interpretable Large Language Models through Attention Mechanism Visualization. It provides tools for exploring attention patterns, assessing bias, and validating interpretability in LLMs.",
+    "published_at": "2026-06-17T11:25:48Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Hamza-Shahid555/GenAI-using-LangChain-",
+    "url": "https://github.com/Hamza-Shahid555/GenAI-using-LangChain-",
+    "source": "github",
+    "description": "we will work on LangChain using in GenAi Generative AI with LangChain means building applications that use Large Language Models (LLMs) like GPT, but in a structured and powerful way.  🔹 What LangChain Does  LangChain acts as a bridge between LLMs and real-world data/tools. ",
+    "published_at": "2026-06-17T11:16:30Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Aditri1507/AI-Document-Chat-Assistant",
+    "url": "https://github.com/Aditri1507/AI-Document-Chat-Assistant",
+    "source": "github",
+    "description": "DocuMind AI allows users to upload documents and ask questions based on the uploaded content. The application uses Retrieval-Augmented Generation (RAG) to provide contextual answers from document data instead of generic AI responses.",
+    "published_at": "2026-06-17T12:09:18Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "RamsNotes31/rutestripV2",
+    "url": "https://github.com/RamsNotes31/rutestripV2",
+    "source": "github",
+    "description": "Sistem informasi jalur pendakian gunung yang dilengkapi dengan Rekomendasi Berbasis AI (SBERT Content-Based Filtering) dan RAG (Retrieval-Augmented Generation) Chatbot menggunakan integrasi Google Gemini.",
+    "published_at": "2026-06-17T12:05:38Z",
+    "extra": {
+      "stars": 0,
+      "language": "Blade",
+      "topics": []
+    }
+  },
+  {
+    "title": "jd-opensource/xllm",
+    "url": "https://github.com/jd-opensource/xllm",
+    "source": "github",
+    "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators.",
+    "published_at": "2026-06-17T11:42:42Z",
+    "extra": {
+      "stars": 1340,
+      "language": "C++",
+      "topics": [
+        "deepseek",
+        "glm",
+        "inference",
+        "inference-engine",
+        "large-language-models",
+        "llm-inference",
+        "qwen"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-06-17T11:55:32Z",
+    "extra": {
+      "stars": 13895,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

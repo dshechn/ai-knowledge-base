@@ -1,0 +1,18 @@
+{
+  "id": "github-20260617-003",
+  "title": "Aditri1507/AI-Document-Chat-Assistant",
+  "source_url": "https://github.com/Aditri1507/AI-Document-Chat-Assistant",
+  "source": "github",
+  "summary": "DocuMind AI 是一个基于 JavaScript 开发的文档问答助手，利用检索增强生成（RAG）技术，从上传的文档中提供上下文相关的答案，而非通用的 AI 响应。该应用支持用户上传文档并基于内容提问，适用于需要从大量文档中快速获取信息的场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "javascript",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T12:10:49.155965+00:00",
+  "published_at": "2026-06-17T12:09:18Z",
+  "collected_at": "2026-06-17T12:10:49.155965+00:00",
+  "description": "DocuMind AI allows users to upload documents and ask questions based on the uploaded content. The application uses Retrieval-Augmented Generation (RAG) to provide contextual answers from document data instead of generic AI responses."
+}
