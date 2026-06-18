@@ -1,0 +1,18 @@
+{
+  "id": "github-20260618-005",
+  "title": "soumikchandra-ai/LegalRAG",
+  "source_url": "https://github.com/soumikchandra-ai/LegalRAG",
+  "source": "github",
+  "summary": "LegalRAG是一个基于LangChain构建的检索增强生成系统，允许用户与上传的Legal PDF文件进行聊天，并通过自然语言提问获取相关答案。该系统利用模型进行训练和推理，支持向量索引和缓存机制，适用于法律文档的问答场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T11:45:34.408348+00:00",
+  "published_at": "2026-06-18T11:41:26Z",
+  "collected_at": "2026-06-18T11:45:34.408348+00:00",
+  "description": "A Retrieval-Augmented Generation(RAG) system built with LangChain that allows users to chat with the the uploaded Legal PDFs and ask natural language questions and get relevant answers from the document."
+}

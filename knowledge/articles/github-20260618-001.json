@@ -1,0 +1,18 @@
+{
+  "id": "github-20260618-001",
+  "title": "afx-team/hebb-mind",
+  "source_url": "https://github.com/afx-team/hebb-mind",
+  "source": "github",
+  "summary": "Hebb-Mind 是一个受神经科学启发的记忆框架，专为 AI 代理设计，支持模型训练、推理和向量索引，采用缓存机制优化性能，并基于 Python 框架实现。该框架适用于需要高效记忆和推理能力的 AI 应用场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T11:45:34.408348+00:00",
+  "published_at": "2026-06-18T11:44:07Z",
+  "collected_at": "2026-06-18T11:45:34.408348+00:00",
+  "description": "Neuroscience-inspired memory framework for AI agents"
+}

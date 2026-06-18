@@ -1,0 +1,18 @@
+{
+  "id": "github-20260618-006",
+  "title": "DeanoC/SuperSonic",
+  "source_url": "https://github.com/DeanoC/SuperSonic",
+  "source": "github",
+  "summary": "DeanoC/SuperSonic 是一个使用 Rust 编写的性能优化型 LLM 推理框架，针对特定机器和模型进行优化，提供高效的推理性能和并发处理能力，适用于需要高性能和低延迟的分布式系统。",
+  "score": 8.0,
+  "tags": [
+    "rust",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T11:45:34.408348+00:00",
+  "published_at": "2026-06-18T11:21:10Z",
+  "collected_at": "2026-06-18T11:45:34.408348+00:00",
+  "description": "Performance Rust LLM inference optimized for specific machines and models"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260618-004",
+  "title": "hiwot7/rag-complaint-chatbot",
+  "source_url": "https://github.com/hiwot7/rag-complaint-chatbot",
+  "source": "github",
+  "summary": "该项目实现了一个基于RAG（检索增强生成）的金融投诉数据分析管道，使用all-MiniLM-L6-v2嵌入和ChromaDB/FAISS进行语义搜索，支持对金融投诉数据的分析和推理。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "nlp",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T11:45:34.408348+00:00",
+  "published_at": "2026-06-18T11:42:41Z",
+  "collected_at": "2026-06-18T11:45:34.408348+00:00",
+  "description": "A Retrieval-Augmented Generation (RAG) pipeline using all-MiniLM-L6-v2 embeddings and ChromaDB/FAISS to enable semantic search and analysis over financial complaint data."
+}

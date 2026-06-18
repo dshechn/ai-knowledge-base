@@ -1,0 +1,130 @@
+[
+  {
+    "title": "afx-team/hebb-mind",
+    "url": "https://github.com/afx-team/hebb-mind",
+    "source": "github",
+    "description": "Neuroscience-inspired memory framework for AI agents",
+    "published_at": "2026-06-18T11:44:07Z",
+    "extra": {
+      "stars": 15,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentmemory",
+        "claude-code",
+        "codex",
+        "llm",
+        "memory",
+        "neuroscience"
+      ]
+    }
+  },
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-06-18T11:44:08Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "tejaskawde/ai-kubernetes-upgrade-assistant",
+    "url": "https://github.com/tejaskawde/ai-kubernetes-upgrade-assistant",
+    "source": "github",
+    "description": "AI-powered Kubernetes Upgrade Readiness Assessment Tool that analyzes cluster resources, detects upgrade risks, and generates actionable reports using Python and Large Language Models.",
+    "published_at": "2026-06-18T11:25:12Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "GunaTeja777/Truth-Verification-Layer-TVL-for-LLMs",
+    "url": "https://github.com/GunaTeja777/Truth-Verification-Layer-TVL-for-LLMs",
+    "source": "github",
+    "description": "Truth Verification Layer (TVL) for LLMs is a tool that enhances the reliability of Large Language Models by verifying the accuracy of their outputs. It checks generated responses against trusted sources to flag or correct misinformation, improving the trustworthiness of LLM-based applications.",
+    "published_at": "2026-06-18T10:48:32Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "hiwot7/rag-complaint-chatbot",
+    "url": "https://github.com/hiwot7/rag-complaint-chatbot",
+    "source": "github",
+    "description": "A Retrieval-Augmented Generation (RAG) pipeline using all-MiniLM-L6-v2 embeddings and ChromaDB/FAISS to enable semantic search and analysis over financial complaint data.",
+    "published_at": "2026-06-18T11:42:41Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "soumikchandra-ai/LegalRAG",
+    "url": "https://github.com/soumikchandra-ai/LegalRAG",
+    "source": "github",
+    "description": "A Retrieval-Augmented Generation(RAG) system built with LangChain that allows users to chat with the the uploaded Legal PDFs and ask natural language questions and get relevant answers from the document.",
+    "published_at": "2026-06-18T11:41:26Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "DeanoC/SuperSonic",
+    "url": "https://github.com/DeanoC/SuperSonic",
+    "source": "github",
+    "description": "Performance Rust LLM inference optimized for specific machines and models",
+    "published_at": "2026-06-18T11:21:10Z",
+    "extra": {
+      "stars": 0,
+      "language": "Rust",
+      "topics": []
+    }
+  },
+  {
+    "title": "Happynood/llm-inference-benchmark",
+    "url": "https://github.com/Happynood/llm-inference-benchmark",
+    "source": "github",
+    "description": "Reproducible LLM inference optimization lab for comparing backends, quantization, latency, VRAM, and output sanity on local hardware.",
+    "published_at": "2026-06-18T10:45:16Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "cuda",
+        "gguf",
+        "inference",
+        "llama-cpp",
+        "llama-cpp-python",
+        "llm",
+        "llm-inference",
+        "local-ai-llm",
+        "machine-learning",
+        "nvidia",
+        "perfomance",
+        "python",
+        "quantization",
+        "reproducibility"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

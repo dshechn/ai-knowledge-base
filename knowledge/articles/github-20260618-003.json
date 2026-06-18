@@ -1,0 +1,18 @@
+{
+  "id": "github-20260618-003",
+  "title": "GunaTeja777/Truth-Verification-Layer-TVL-for-LLMs",
+  "source_url": "https://github.com/GunaTeja777/Truth-Verification-Layer-TVL-for-LLMs",
+  "source": "github",
+  "summary": "Truth-Verification-Layer (TVL) 是一个用于增强大型语言模型可靠性的工具，通过验证其输出的准确性来检查生成响应与可信来源的一致性，从而提高基于LLM应用的可信度。该工具采用Python编写，适用于需要高可靠性验证的场景，如问答系统、内容审核等。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T11:45:34.408348+00:00",
+  "published_at": "2026-06-18T10:48:32Z",
+  "collected_at": "2026-06-18T11:45:34.408348+00:00",
+  "description": "Truth Verification Layer (TVL) for LLMs is a tool that enhances the reliability of Large Language Models by verifying the accuracy of their outputs. It checks generated responses against trusted sources to flag or correct misinformation, improving the trustworthiness of LLM-based applications."
+}
