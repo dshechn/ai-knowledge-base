@@ -1,0 +1,147 @@
+[
+  {
+    "title": "mochenxin2025-png/skincare-products-skill",
+    "url": "https://github.com/mochenxin2025-png/skincare-products-skill",
+    "source": "github",
+    "description": "A dermatology-oriented AI agent framework for cosmetic formulation analysis. Evaluates skincare, body care, and hair care products by mechanism, formula logic, and scientific evidence — never by brand, marketing, or price.",
+    "published_at": "2026-06-19T11:57:59Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Elflare/elbot",
+    "url": "https://github.com/Elflare/elbot",
+    "source": "github",
+    "description": "\"Let ElBot Feel Everything.\" ElBot is a lightweight Agent/Chatbot framework written in  Go, it's token-efficient, easy to manage, and capable of perceiving the world. Suitable for personal assistants, platform bots, and orchestrated automation.",
+    "published_at": "2026-06-19T11:57:48Z",
+    "extra": {
+      "stars": 2,
+      "language": "Go",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "llm"
+      ]
+    }
+  },
+  {
+    "title": "engrsalman780-dotcom/syntaxpulse",
+    "url": "https://github.com/engrsalman780-dotcom/syntaxpulse",
+    "source": "github",
+    "description": "SyntaxPulse is an independent tech & AI blog covering large language models, developer tools, AI research, and the software shaping tomorrow. Deep dives, honest reviews, and clear thinking — twice a week.",
+    "published_at": "2026-06-19T11:30:07Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "yosh95/llm-secure-cli",
+    "url": "https://github.com/yosh95/llm-secure-cli",
+    "source": "github",
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Models (LLMs). It provides a unified, stable interface for any OpenAI-compatible API, including OpenRouter, OpenAI, Ollama, and LiteLLM, prioritizing cognitive focus, secure execution, and extensible automation.",
+    "published_at": "2026-06-19T10:40:15Z",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": [
+        "cli-app",
+        "llm-agent",
+        "llm-security",
+        "pqc",
+        "rust",
+        "zero-trust"
+      ]
+    }
+  },
+  {
+    "title": "Seraph-2000/GenAI-Learning-Lab",
+    "url": "https://github.com/Seraph-2000/GenAI-Learning-Lab",
+    "source": "github",
+    "description": "A hands-on repository documenting my journey from basic Retrieval-Augmented Generation (RAG) systems to production-style AI agents.",
+    "published_at": "2026-06-19T11:56:55Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "sikanderx/ai-resume-analyzer",
+    "url": "https://github.com/sikanderx/ai-resume-analyzer",
+    "source": "github",
+    "description": "An AI-powered application that analyzes resumes using Generative AI and Retrieval-Augmented Generation (RAG). It helps evaluate, summarize, and extract key insights from resumes using local LLMs via Ollama.",
+    "published_at": "2026-06-19T11:56:58Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "SidharthKriplani/genai-systems-lab",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab",
+    "source": "github",
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation, inference optimization, agent loops, evals, MCP, and production system reasoning.",
+    "published_at": "2026-06-19T11:54:09Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agents",
+        "ai-engineering",
+        "ai-pm",
+        "ai-systems",
+        "evals",
+        "generative-ai",
+        "inference",
+        "interactive-learning",
+        "javascript",
+        "llm",
+        "machine-learning",
+        "portfolio",
+        "production-ai",
+        "prompt-engineering",
+        "rag",
+        "react",
+        "system-design",
+        "tailwindcss",
+        "vector-database",
+        "vite"
+      ]
+    }
+  },
+  {
+    "title": "Happynood/llm-inference-benchmark",
+    "url": "https://github.com/Happynood/llm-inference-benchmark",
+    "source": "github",
+    "description": "Reproducible LLM inference optimization lab for comparing backends, quantization, latency, VRAM, and output sanity on local hardware.",
+    "published_at": "2026-06-19T11:41:56Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "cuda",
+        "gguf",
+        "inference",
+        "llama-cpp",
+        "llama-cpp-python",
+        "llm",
+        "llm-inference",
+        "local-ai-llm",
+        "machine-learning",
+        "nvidia",
+        "perfomance",
+        "python",
+        "quantization",
+        "reproducibility"
+      ]
+    }
+  }
+]

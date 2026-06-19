@@ -1,0 +1,18 @@
+{
+  "id": "github-20260619-001",
+  "title": "mochenxin2025-png/skincare-products-skill",
+  "source_url": "https://github.com/mochenxin2025-png/skincare-products-skill",
+  "source": "github",
+  "summary": "mochenxin2025-png/skincare-products-skill 是一个面向皮肤科的人工智能代理框架，用于化妆品配方分析。通过机制、配方逻辑和科学证据评估护肤品、身体护理产品和护发产品，而非品牌、营销或价格。该框架利用机器学习模型进行训练和推理，支持分布式架构和微服务设计，优化性能和并发处理。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T11:59:33.650169+00:00",
+  "published_at": "2026-06-19T11:57:59Z",
+  "collected_at": "2026-06-19T11:59:33.650169+00:00",
+  "description": "A dermatology-oriented AI agent framework for cosmetic formulation analysis. Evaluates skincare, body care, and hair care products by mechanism, formula logic, and scientific evidence — never by brand, marketing, or price."
+}

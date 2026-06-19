@@ -1,0 +1,18 @@
+{
+  "id": "github-20260619-002",
+  "title": "Elflare/elbot",
+  "source_url": "https://github.com/Elflare/elbot",
+  "source": "github",
+  "summary": "ElBot 是一个轻量级的 Go 语言编写的 Agent/Chatbot 框架，具有高效的令牌使用、易于管理和感知世界的能力。适用于个人助手、平台机器人以及编排自动化，具有潜在的性能和并发处理优势。",
+  "score": 8.0,
+  "tags": [
+    "go",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T11:59:33.650169+00:00",
+  "published_at": "2026-06-19T11:57:48Z",
+  "collected_at": "2026-06-19T11:59:33.650169+00:00",
+  "description": "\"Let ElBot Feel Everything.\" ElBot is a lightweight Agent/Chatbot framework written in  Go, it's token-efficient, easy to manage, and capable of perceiving the world. Suitable for personal assistants, platform bots, and orchestrated automation."
+}
