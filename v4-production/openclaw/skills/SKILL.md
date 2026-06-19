@@ -12,6 +12,15 @@ allowed-tools:
 
 # 知识库查询技能
 
+## 数据目录
+
+本技能在 `v4-production/openclaw/` 工作区运行，`knowledge/` 为软链接，指向项目根目录的实际知识库。
+
+| 路径 | 用途 |
+|------|------|
+| `knowledge/articles/*.json` | AI 分析后的结构化文章 |
+| `knowledge/raw/*.json` | 原始采集数据 |
+
 ## 使用场景
 
 - 用户询问知识库的统计信息（文件数量、来源分布、热门标签等）
