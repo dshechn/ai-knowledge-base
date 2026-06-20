@@ -1,0 +1,18 @@
+{
+  "id": "github-20260620-004",
+  "title": "rahimahgilani/pdf-chatbox",
+  "source_url": "https://github.com/rahimahgilani/pdf-chatbox",
+  "source": "github",
+  "summary": "该PDF Chatbot利用AI技术，允许用户通过自然语言查询上传文档并提问。基于RAG探索，结合ChromaDB和FAISS向量数据库，以及LangChain的LLM工作流程，实现上下文感知的文档理解。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "nlp",
+    "open-source"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T10:26:36.742157+00:00",
+  "published_at": "2026-06-20T10:25:02Z",
+  "collected_at": "2026-06-20T10:26:36.742157+00:00",
+  "description": "An AI-powered PDF Chatbot that allows users to upload documents and ask questions through natural language queries. Built to explore Retrieval-Augmented Generation (RAG), vector databases (ChromaDB & FAISS), embeddings, and LangChain-based LLM workflows for context-aware document understanding."
+}

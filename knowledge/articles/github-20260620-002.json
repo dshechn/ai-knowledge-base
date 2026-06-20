@@ -1,0 +1,18 @@
+{
+  "id": "github-20260620-002",
+  "title": "paramramit305-a11y/agentic-ai-youtube-analyzer",
+  "source_url": "https://github.com/paramramit305-a11y/agentic-ai-youtube-analyzer",
+  "source": "github",
+  "summary": "该项目使用Agno框架构建，通过Groq和YouTubeTools分析YouTube视频链接，返回时间戳化的视频分解。该项目展示了如何利用Agno框架进行视频内容分析，适用于需要视频内容摘要和解析的场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T10:26:36.742157+00:00",
+  "published_at": "2026-06-20T10:25:03Z",
+  "collected_at": "2026-06-20T10:26:36.742157+00:00",
+  "description": "Agno agent that takes a YouTube link and returns a timestamped breakdown of the video, using Groq + YouTubeTools. Built while learning the Agno framework."
+}

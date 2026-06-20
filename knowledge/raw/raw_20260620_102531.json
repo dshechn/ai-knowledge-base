@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Le-Who/gemaibotv2",
+    "url": "https://github.com/Le-Who/gemaibotv2",
+    "source": "github",
+    "description": "Open-source Telegram AI assistant framework with provider routing, streaming recovery, agentic research, multimodal tools, Mini App UI, and GraphRAG memory.",
+    "published_at": "2026-06-20T10:25:12Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-assistant",
+        "multimodal",
+        "oss",
+        "python",
+        "quart",
+        "rag",
+        "telegram-bot",
+        "telegram-mini-app"
+      ]
+    }
+  },
+  {
+    "title": "paramramit305-a11y/agentic-ai-youtube-analyzer",
+    "url": "https://github.com/paramramit305-a11y/agentic-ai-youtube-analyzer",
+    "source": "github",
+    "description": "Agno agent that takes a YouTube link and returns a timestamped breakdown of the video, using Groq + YouTubeTools. Built while learning the Agno framework.",
+    "published_at": "2026-06-20T10:25:03Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "yosh95/llm-secure-cli",
+    "url": "https://github.com/yosh95/llm-secure-cli",
+    "source": "github",
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Models (LLMs). It provides a unified, stable interface for any OpenAI-compatible API, including OpenRouter, OpenAI, Ollama, and LiteLLM, prioritizing cognitive focus, secure execution, and extensible automation.",
+    "published_at": "2026-06-20T09:54:00Z",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": [
+        "cli-app",
+        "llm-agent",
+        "llm-security",
+        "pqc",
+        "rust",
+        "zero-trust"
+      ]
+    }
+  },
+  {
+    "title": "jeevan2501/Agentic_System",
+    "url": "https://github.com/jeevan2501/Agentic_System",
+    "source": "github",
+    "description": "An Agentic AI System that leverages a locally hosted Large Language Model (LLM) to autonomously plan, reason, execute tasks, and utilize external tools. The system follows a multi-step reasoning workflow, enabling it to break down complex user requests into executable actions while maintaining context and providing transparent reasoning.",
+    "published_at": "2026-06-20T09:00:01Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "rahimahgilani/pdf-chatbox",
+    "url": "https://github.com/rahimahgilani/pdf-chatbox",
+    "source": "github",
+    "description": "An AI-powered PDF Chatbot that allows users to upload documents and ask questions through natural language queries. Built to explore Retrieval-Augmented Generation (RAG), vector databases (ChromaDB & FAISS), embeddings, and LangChain-based LLM workflows for context-aware document understanding.",
+    "published_at": "2026-06-20T10:25:02Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "chromadb",
+        "chunking",
+        "embeddings",
+        "faiss",
+        "langchain",
+        "rag",
+        "react",
+        "vector-database"
+      ]
+    }
+  },
+  {
+    "title": "taj-shabreen/NexusIQ-Research-Assistant",
+    "url": "https://github.com/taj-shabreen/NexusIQ-Research-Assistant",
+    "source": "github",
+    "description": "NexusIQ AI — An Advanced Retrieval-Augmented Generation (RAG) Intelligence Platform featuring Hybrid Retrieval, Semantic Search, Cross-Encoder Reranking, Source Grounding, Explainable Retrieval, Hallucination Detection, Evaluation Analytics, Multi-Document Reasoning, Smart Summarization, and Production-Ready Deployment.",
+    "published_at": "2026-06-20T10:24:00Z",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "SidharthKriplani/genai-systems-lab",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab",
+    "source": "github",
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation, inference optimization, agent loops, evals, MCP, and production system reasoning.",
+    "published_at": "2026-06-20T10:07:49Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agents",
+        "ai-engineering",
+        "ai-pm",
+        "ai-systems",
+        "evals",
+        "generative-ai",
+        "inference",
+        "interactive-learning",
+        "javascript",
+        "llm",
+        "machine-learning",
+        "portfolio",
+        "production-ai",
+        "prompt-engineering",
+        "rag",
+        "react",
+        "system-design",
+        "tailwindcss",
+        "vector-database",
+        "vite"
+      ]
+    }
+  },
+  {
+    "title": "ShaoZhi21/inference-engineering",
+    "url": "https://github.com/ShaoZhi21/inference-engineering",
+    "source": "github",
+    "description": "From neural network fundamentals to production LLM serving — transformers, KV cache, quantization, fine-tuning, and inference optimization.",
+    "published_at": "2026-06-20T09:46:47Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

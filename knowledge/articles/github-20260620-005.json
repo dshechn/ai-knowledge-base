@@ -1,0 +1,18 @@
+{
+  "id": "github-20260620-005",
+  "title": "taj-shabreen/NexusIQ-Research-Assistant",
+  "source_url": "https://github.com/taj-shabreen/NexusIQ-Research-Assistant",
+  "source": "github",
+  "summary": "NexusIQ AI 是一个高级的检索增强生成（RAG）智能平台，集成了混合检索、语义搜索、跨编码重排序、源定位、可解释检索、幻觉检测、评估分析、多文档推理、智能摘要和成品级部署等功能，适用于研究和数据分析。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T10:26:36.742157+00:00",
+  "published_at": "2026-06-20T10:24:00Z",
+  "collected_at": "2026-06-20T10:26:36.742157+00:00",
+  "description": "NexusIQ AI — An Advanced Retrieval-Augmented Generation (RAG) Intelligence Platform featuring Hybrid Retrieval, Semantic Search, Cross-Encoder Reranking, Source Grounding, Explainable Retrieval, Hallucination Detection, Evaluation Analytics, Multi-Document Reasoning, Smart Summarization, and Product"
+}
