@@ -1,0 +1,201 @@
+[
+  {
+    "title": "joslat/agent-memory-dotnet",
+    "url": "https://github.com/joslat/agent-memory-dotnet",
+    "source": "github",
+    "description": "An independent .NET implementation of a Neo4j-backed memory provider for AI agents. Persistent graph-native memory for Microsoft Agent Framework, with GraphRAG interoperability for Neo4j.",
+    "published_at": "2026-06-21T10:58:58Z",
+    "extra": {
+      "stars": 2,
+      "language": "C#",
+      "topics": []
+    }
+  },
+  {
+    "title": "syedafatimazahra321-svg/Multi-Agent-Code-Generator",
+    "url": "https://github.com/syedafatimazahra321-svg/Multi-Agent-Code-Generator",
+    "source": "github",
+    "description": "A multi-agent AI pipeline that turns plain English requirements into tested, working code. Requirements Analyst → Code Writer → Test Writer → Debugger, orchestrated with raw Claude API calls — no agent framework. Built using FastAPI & React.",
+    "published_at": "2026-06-21T10:58:40Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Harmpleomorphism9956/ovo-local-llm",
+    "url": "https://github.com/Harmpleomorphism9956/ovo-local-llm",
+    "source": "github",
+    "description": "Run large language models locally on your machine with this efficient deployment tool.",
+    "published_at": "2026-06-21T10:55:49Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "agentic-ide",
+        "apple-silicon",
+        "claude-code",
+        "deepseek",
+        "diffusers",
+        "gemma",
+        "huggingface",
+        "llama",
+        "lm-studio-alternative",
+        "local-llm",
+        "macos",
+        "mistral",
+        "mlx",
+        "ollama-alternative",
+        "on-device-ai",
+        "privacy-first",
+        "qwen",
+        "rust"
+      ]
+    }
+  },
+  {
+    "title": "donitb934/1Cat-vLLM",
+    "url": "https://github.com/donitb934/1Cat-vLLM",
+    "source": "github",
+    "description": "Optimize Tesla V100 GPUs for AWQ 4-bit inference with improved speed, stability, and support for modern large models like Qwen3.5 and MoE.",
+    "published_at": "2026-06-21T10:35:17Z",
+    "extra": {
+      "stars": 5,
+      "language": "Python",
+      "topics": [
+        "4x",
+        "api",
+        "cats",
+        "civ",
+        "cli",
+        "compiler",
+        "distributed",
+        "git",
+        "java",
+        "language",
+        "large-language-models",
+        "machine-learning",
+        "monitoring",
+        "realtime",
+        "tool",
+        "v"
+      ]
+    }
+  },
+  {
+    "title": "syntactic-orleanism949/logal-rag",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag",
+    "source": "github",
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from uploaded documents.",
+    "published_at": "2026-06-21T10:57:39Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": [
+        "agentic-ai",
+        "ai-logging-library",
+        "ai-privacy",
+        "ai-security",
+        "audit-logging",
+        "chatbot",
+        "ebpf",
+        "evaluation-framework",
+        "large-language-models",
+        "llmops",
+        "logging",
+        "multi-agent",
+        "openclaw",
+        "prampramelonmusk",
+        "presto",
+        "prompt-injection",
+        "retrieval-augmented-generation",
+        "telegram"
+      ]
+    }
+  },
+  {
+    "title": "nsk2k04/UniSphere-Rag-PDF-Chatbot",
+    "url": "https://github.com/nsk2k04/UniSphere-Rag-PDF-Chatbot",
+    "source": "github",
+    "description": "UniSphere is an AI-powered document intelligence platform that transforms PDFs into interactive knowledge bases using Retrieval-Augmented Generation (RAG), semantic search, vector embeddings, and large language models.",
+    "published_at": "2026-06-21T10:55:08Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "lergah/qwen36-27b-single-3090",
+    "url": "https://github.com/lergah/qwen36-27b-single-3090",
+    "source": "github",
+    "description": "Run Qwen3.6-27B models on a single RTX 3090 GPU using optimized inference configs. See club-3090 for active developments and updated configurations.",
+    "published_at": "2026-06-21T10:56:21Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "ab-testing",
+        "agent",
+        "agentscope-runtime",
+        "canary",
+        "chatgpt-api",
+        "customnodes",
+        "danmaku",
+        "flash-attention",
+        "kubernetes",
+        "large-language-models",
+        "llm",
+        "pretrained-models",
+        "progressive-delivery",
+        "qwen",
+        "qwen3-vl",
+        "react-native",
+        "tongyi",
+        "typescript",
+        "video-player",
+        "videodownload"
+      ]
+    }
+  },
+  {
+    "title": "desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant",
+    "url": "https://github.com/desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant",
+    "source": "github",
+    "description": "Run LLMs on any hardware with llama.cpp, TurboQuant KV compression, and ExpertFlow MoE tuning for faster local inference",
+    "published_at": "2026-06-21T10:49:27Z",
+    "extra": {
+      "stars": 2,
+      "language": null,
+      "topics": [
+        "ai",
+        "amd-gpu",
+        "cpp",
+        "cuda",
+        "gpu",
+        "inference",
+        "llama-cpp",
+        "llm",
+        "llm-inference",
+        "local-llm",
+        "machine-learning",
+        "mixture-of-experts",
+        "moe",
+        "ollama",
+        "openai-api",
+        "optimization",
+        "quantization",
+        "rocm"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

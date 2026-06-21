@@ -1,0 +1,17 @@
+{
+  "id": "github-20260621-001",
+  "title": "joslat/agent-memory-dotnet",
+  "source_url": "https://github.com/joslat/agent-memory-dotnet",
+  "source": "github",
+  "summary": "joslat/agent-memory-dotnet 是一个基于 Neo4j 的独立 .NET 内存提供者实现，为 AI 代理提供持久的图原生内存。它支持 Microsoft Agent Framework，并与 GraphRAG 兼容，适用于 Neo4j。该项目利用了图数据库的优势，为智能代理提供高效的内存管理，适用于需要复杂关系存储和推理的场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "database"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T11:00:12.410545+00:00",
+  "published_at": "2026-06-21T10:58:58Z",
+  "collected_at": "2026-06-21T11:00:12.410545+00:00",
+  "description": "An independent .NET implementation of a Neo4j-backed memory provider for AI agents. Persistent graph-native memory for Microsoft Agent Framework, with GraphRAG interoperability for Neo4j."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260621-003",
+  "title": "nsk2k04/UniSphere-Rag-PDF-Chatbot",
+  "source_url": "https://github.com/nsk2k04/UniSphere-Rag-PDF-Chatbot",
+  "source": "github",
+  "summary": "UniSphere是一个基于AI的文档智能平台，利用检索增强生成（RAG）、语义搜索、向量嵌入和大型语言模型，将PDF文件转换为交互式知识库。该平台支持PDF文档的智能处理，适用于需要高效文档分析和知识提取的场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T11:00:12.410545+00:00",
+  "published_at": "2026-06-21T10:55:08Z",
+  "collected_at": "2026-06-21T11:00:12.410545+00:00",
+  "description": "UniSphere is an AI-powered document intelligence platform that transforms PDFs into interactive knowledge bases using Retrieval-Augmented Generation (RAG), semantic search, vector embeddings, and large language models."
+}
