@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 _TG_ESCAPE_CHARS = "_*[]()~`>#+-=|{}.!"
 
 # 默认知识条目存储目录
-_DEFAULT_KNOWLEDGE_DIR = "openclaw/knowledge/articles"
+_DEFAULT_KNOWLEDGE_DIR = "knowledge/articles"
 
 
 def _escape_telegram(text: str) -> str:

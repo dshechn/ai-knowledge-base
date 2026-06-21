@@ -12,7 +12,7 @@ _PROJECT_ROOT = str(Path(__file__).resolve().parent.parent)
 if _PROJECT_ROOT not in sys.path:
     sys.path.insert(0, _PROJECT_ROOT)
 
-from distribution.formatter import (
+from openclaw.distribution.formatter import (
     _escape_telegram,
     _get_date,
     _get_score,
