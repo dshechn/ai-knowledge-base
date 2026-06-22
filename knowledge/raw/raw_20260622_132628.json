@@ -1,0 +1,161 @@
+[
+  {
+    "title": "elizaOS/eliza",
+    "url": "https://github.com/elizaOS/eliza",
+    "source": "github",
+    "description": "Open source agentic operating system",
+    "published_at": "2026-06-22T13:26:01Z",
+    "extra": {
+      "stars": 18616,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "autonomous",
+        "chatbot",
+        "crypto",
+        "discord",
+        "eliza",
+        "elizaos",
+        "framework",
+        "plugins",
+        "rag",
+        "slack",
+        "swarm",
+        "telegram"
+      ]
+    }
+  },
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-06-22T13:26:07Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "brandonhimpfen/awesome-llmops",
+    "url": "https://github.com/brandonhimpfen/awesome-llmops",
+    "source": "github",
+    "description": "A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).",
+    "published_at": "2026-06-22T13:22:11Z",
+    "extra": {
+      "stars": 17,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "llmops"
+      ]
+    }
+  },
+  {
+    "title": "ezdemo/agent4j",
+    "url": "https://github.com/ezdemo/agent4j",
+    "source": "github",
+    "description": "Agent4j is a pure-Java AI coding agent framework that integrates large language models (LLMs) with a rich, extensible tool system to create a programming assistant capable of autonomously understanding, writing, and debugging code. Inspired by AI coding agents such as Claude Code and Devin, it is built entirely on Java 17 .",
+    "published_at": "2026-06-22T12:46:22Z",
+    "extra": {
+      "stars": 2,
+      "language": "Java",
+      "topics": []
+    }
+  },
+  {
+    "title": "MrDoe/OpenCodeRAG",
+    "url": "https://github.com/MrDoe/OpenCodeRAG",
+    "source": "github",
+    "description": "OpenCodeRAG is a RAG (Retrieval-Augmented Generation) plugin for semantic code search powered by locally-hosted embedding models. It features a seamless integration with OpenCode and offers a CLI interface for external usage.",
+    "published_at": "2026-06-22T13:24:37Z",
+    "extra": {
+      "stars": 15,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "KamalSaiVoodika/RAG-Document-Chat",
+    "url": "https://github.com/KamalSaiVoodika/RAG-Document-Chat",
+    "source": "github",
+    "description": "A Flutter application implementing Retrieval-Augmented Generation (RAG) from scratch — upload a PDF or text document, then ask questions and get answers grounded specifically in that document's content, using Google Gemini for embeddings and generation.",
+    "published_at": "2026-06-22T13:24:21Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Openplan-pricklyedgedleaf841/MacKV-Opt",
+    "url": "https://github.com/Openplan-pricklyedgedleaf841/MacKV-Opt",
+    "source": "github",
+    "description": "Optimize KV cache and context settings for LLMs on Apple Silicon Macs to prevent memory pressure and ensure stable inference performance.",
+    "published_at": "2026-06-22T12:48:53Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "benchmark",
+        "gguf",
+        "kv-cache",
+        "llama-cpp",
+        "llm-inference",
+        "local-llm",
+        "long-context",
+        "macos",
+        "mlx",
+        "ollama",
+        "ollama-tools"
+      ]
+    }
+  },
+  {
+    "title": "riawat511/club-5060ti",
+    "url": "https://github.com/riawat511/club-5060ti",
+    "source": "github",
+    "description": "Optimize local LLM inference and benchmarking recipes for RTX 5060 Ti hardware configurations.",
+    "published_at": "2026-06-22T12:43:19Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": [
+        "agent-context",
+        "agora",
+        "cloud-native",
+        "clubhouse-client",
+        "clubhouse-lib",
+        "cpp",
+        "database",
+        "distributed-transactions",
+        "model-deployment",
+        "model-monitoring",
+        "mongodb",
+        "mysql",
+        "mysql-compatibility",
+        "scale",
+        "swift",
+        "tinywebserver",
+        "voice-chat",
+        "vue-router",
+        "webbench",
+        "webserver"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

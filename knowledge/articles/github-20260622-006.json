@@ -1,0 +1,18 @@
+{
+  "id": "github-20260622-006",
+  "title": "Openplan-pricklyedgedleaf841/MacKV-Opt",
+  "source_url": "https://github.com/Openplan-pricklyedgedleaf841/MacKV-Opt",
+  "source": "github",
+  "summary": "该项目优化了基于苹果硅Mac的LLM的KV缓存和上下文设置，以防止内存压力并确保稳定的推理性能。通过优化模型训练和推理过程中的缓存策略和并发处理，提高了性能和稳定性。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T13:27:38.553885+00:00",
+  "published_at": "2026-06-22T12:48:53Z",
+  "collected_at": "2026-06-22T13:27:38.553885+00:00",
+  "description": "Optimize KV cache and context settings for LLMs on Apple Silicon Macs to prevent memory pressure and ensure stable inference performance."
+}

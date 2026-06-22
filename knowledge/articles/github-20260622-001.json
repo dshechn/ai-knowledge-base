@@ -1,0 +1,18 @@
+{
+  "id": "github-20260622-001",
+  "title": "elizaOS/eliza",
+  "source_url": "https://github.com/elizaOS/eliza",
+  "source": "github",
+  "summary": "elizaOS是一个开源的智能操作系统，采用TypeScript编写，集成了AI和自主代理技术，支持聊天机器人等功能，具有高性能和分布式架构。该系统适用于构建智能应用和微服务架构。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T13:27:38.553885+00:00",
+  "published_at": "2026-06-22T13:26:01Z",
+  "collected_at": "2026-06-22T13:27:38.553885+00:00",
+  "description": "Open source agentic operating system"
+}
