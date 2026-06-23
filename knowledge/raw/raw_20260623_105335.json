@@ -1,0 +1,160 @@
+[
+  {
+    "title": "irahardianto/awesome-agv",
+    "url": "https://github.com/irahardianto/awesome-agv",
+    "source": "github",
+    "description": "Comprehensive sets of standards and practices designed to elevate the capabilities of AI coding agents.",
+    "published_at": "2026-06-23T10:53:24Z",
+    "extra": {
+      "stars": 147,
+      "language": "Shell",
+      "topics": [
+        "agent-rules",
+        "ai-agent",
+        "ai-coding",
+        "antigravity",
+        "best-practices",
+        "claude-code",
+        "coding-standards",
+        "framework",
+        "generative-ai",
+        "open-source",
+        "roo-code",
+        "software-architecture",
+        "software-design",
+        "software-engineering",
+        "software-testing",
+        "testing"
+      ]
+    }
+  },
+  {
+    "title": "NJJoshi/ai-agents-mcp",
+    "url": "https://github.com/NJJoshi/ai-agents-mcp",
+    "source": "github",
+    "description": "Demonstrate AI feature integration with spring AI framework",
+    "published_at": "2026-06-23T10:53:19Z",
+    "extra": {
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    }
+  },
+  {
+    "title": "zzazza651/llm-training-toolkit",
+    "url": "https://github.com/zzazza651/llm-training-toolkit",
+    "source": "github",
+    "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures",
+    "published_at": "2026-06-23T10:30:38Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "al123xiaaaa/subtitle_llm",
+    "url": "https://github.com/al123xiaaaa/subtitle_llm",
+    "source": "github",
+    "description": "This is a tool to translate .srt subtitle files using Large Language Models (LLMs). It generates a bilingual subtitle file containing both the original text and the translated text.",
+    "published_at": "2026-06-23T10:24:45Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "yahyakhokhar12/pdf-rag-chatbot",
+    "url": "https://github.com/yahyakhokhar12/pdf-rag-chatbot",
+    "source": "github",
+    "description": "AI-powered PDF chatbot using RAG (Retrieval-Augmented Generation). Built with FastAPI, LangChain, ChromaDB, and Next.js. Supports OpenAI and Gemini. Upload PDFs, ask questions, get cited answers.",
+    "published_at": "2026-06-23T10:51:56Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "infiniflow/ragflow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "source": "github",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "published_at": "2026-06-23T10:52:49Z",
+    "extra": {
+      "stars": 83427,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai",
+        "ai-agents",
+        "context-engine",
+        "context-management",
+        "llm-apps",
+        "rag",
+        "retrieval-augmented-generation"
+      ]
+    }
+  },
+  {
+    "title": "Openplan-pricklyedgedleaf841/MacKV-Opt",
+    "url": "https://github.com/Openplan-pricklyedgedleaf841/MacKV-Opt",
+    "source": "github",
+    "description": "Optimize KV cache and context settings for LLMs on Apple Silicon Macs to prevent memory pressure and ensure stable inference performance.",
+    "published_at": "2026-06-23T10:13:49Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "benchmark",
+        "gguf",
+        "kv-cache",
+        "llama-cpp",
+        "llm-inference",
+        "local-llm",
+        "long-context",
+        "macos",
+        "mlx",
+        "ollama",
+        "ollama-tools"
+      ]
+    }
+  },
+  {
+    "title": "riawat511/club-5060ti",
+    "url": "https://github.com/riawat511/club-5060ti",
+    "source": "github",
+    "description": "Optimize local LLM inference and benchmarking recipes for RTX 5060 Ti hardware configurations.",
+    "published_at": "2026-06-23T10:10:15Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": [
+        "agent-context",
+        "agora",
+        "cloud-native",
+        "clubhouse-client",
+        "clubhouse-lib",
+        "cpp",
+        "database",
+        "distributed-transactions",
+        "model-deployment",
+        "model-monitoring",
+        "mongodb",
+        "mysql",
+        "mysql-compatibility",
+        "scale",
+        "swift",
+        "tinywebserver",
+        "voice-chat",
+        "vue-router",
+        "webbench",
+        "webserver"
+      ]
+    }
+  }
+]

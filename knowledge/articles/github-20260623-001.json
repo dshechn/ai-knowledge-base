@@ -1,0 +1,18 @@
+{
+  "id": "github-20260623-001",
+  "title": "irahardianto/awesome-agv",
+  "source_url": "https://github.com/irahardianto/awesome-agv",
+  "source": "github",
+  "summary": "irahardianto/awesome-agv 提供了一套全面的AI编码代理标准和实践，旨在提升AI编码代理的能力。该项目使用Shell语言编写，涵盖了模型训练、推理、算法和架构等方面，适用于AI编码和自动化开发场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "tooling"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T10:54:28.957080+00:00",
+  "published_at": "2026-06-23T10:53:24Z",
+  "collected_at": "2026-06-23T10:54:28.957080+00:00",
+  "description": "Comprehensive sets of standards and practices designed to elevate the capabilities of AI coding agents."
+}

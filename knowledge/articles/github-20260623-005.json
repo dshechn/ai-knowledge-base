@@ -1,0 +1,18 @@
+{
+  "id": "github-20260623-005",
+  "title": "yahyakhokhar12/pdf-rag-chatbot",
+  "source_url": "https://github.com/yahyakhokhar12/pdf-rag-chatbot",
+  "source": "github",
+  "summary": "使用RAG（检索增强生成）技术的AI驱动PDF聊天机器人，基于FastAPI、LangChain、ChromaDB和Next.js构建。支持OpenAI和Gemini。用户可上传PDF文件，提问并获取引用答案。该项目结合了自然语言处理、分布式系统和微服务架构，旨在提高性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T10:54:28.957080+00:00",
+  "published_at": "2026-06-23T10:51:56Z",
+  "collected_at": "2026-06-23T10:54:28.957080+00:00",
+  "description": "AI-powered PDF chatbot using RAG (Retrieval-Augmented Generation). Built with FastAPI, LangChain, ChromaDB, and Next.js. Supports OpenAI and Gemini. Upload PDFs, ask questions, get cited answers."
+}

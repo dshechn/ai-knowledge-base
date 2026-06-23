@@ -1,0 +1,18 @@
+{
+  "id": "github-20260623-003",
+  "title": "zzazza651/llm-training-toolkit",
+  "source_url": "https://github.com/zzazza651/llm-training-toolkit",
+  "source": "github",
+  "summary": "zzazza651/llm-training-toolkit 是一个用于理解和实验大型语言模型训练和微调的项目，支持多种架构。该项目提供了模型训练、推理、算法和架构优化等功能，适用于对大型语言模型训练有兴趣的开发者和研究者。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T10:54:28.957080+00:00",
+  "published_at": "2026-06-23T10:30:38Z",
+  "collected_at": "2026-06-23T10:54:28.957080+00:00",
+  "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures"
+}
