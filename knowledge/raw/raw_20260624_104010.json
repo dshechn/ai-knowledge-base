@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-06-24T10:39:55Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "HANPU5838/QIANGHUA",
+    "url": "https://github.com/HANPU5838/QIANGHUA",
+    "source": "github",
+    "description": "QIANGHUA - Android AI Agent Deployment Framework",
+    "published_at": "2026-06-24T10:39:09Z",
+    "extra": {
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    }
+  },
+  {
+    "title": "jhon1995-04/gigacheck",
+    "url": "https://github.com/jhon1995-04/gigacheck",
+    "source": "github",
+    "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets.",
+    "published_at": "2026-06-24T10:36:59Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "abft",
+        "cuda",
+        "matrix-multiplication"
+      ]
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-06-24T10:25:15Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "ankushsingh003/BotoCop",
+    "url": "https://github.com/ankushsingh003/BotoCop",
+    "source": "github",
+    "description": "BotoCop is a sophisticated, AI-powered video compliance pipeline built to automate the auditing of video content against brand and regulatory guidelines. Leveraging a robust RAG (Retrieval-Augmented Generation) architecture and LLMops best practices, BotoCop transitions complex video data into actionable compliance insights.",
+    "published_at": "2026-06-24T10:40:00Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "SashaneJay/rag-pdf-chatbot",
+    "url": "https://github.com/SashaneJay/rag-pdf-chatbot",
+    "source": "github",
+    "description": "AI chatbot that answers questions from uploaded PDF documents using Retrieval-Augmented Generation (RAG).",
+    "published_at": "2026-06-24T10:39:47Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "marcossangomes/SmartLLM-Router",
+    "url": "https://github.com/marcossangomes/SmartLLM-Router",
+    "source": "github",
+    "description": "🔍 Optimize LLM requests by routing them to the best models, while leveraging semantic caching and real-time cost analytics for efficient resource use.",
+    "published_at": "2026-06-24T10:35:07Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "cache",
+        "chatgpt",
+        "claude-ai",
+        "claude-code",
+        "cost-optimization",
+        "deepseek",
+        "fastapi",
+        "hacktoberfest",
+        "inference",
+        "llm",
+        "machine-learning",
+        "ollama",
+        "openai",
+        "pyth",
+        "python",
+        "pytorch-transformer",
+        "semantic",
+        "transformer"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-06-24T10:33:43Z",
+    "extra": {
+      "stars": 13954,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

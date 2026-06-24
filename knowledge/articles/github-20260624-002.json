@@ -1,0 +1,17 @@
+{
+  "id": "github-20260624-002",
+  "title": "jhon1995-04/gigacheck",
+  "source_url": "https://github.com/jhon1995-04/gigacheck",
+  "source": "github",
+  "summary": "GigaCheck 是一个用于检测和分类大型语言模型的工具，通过优化工具和数据集，帮助更好地理解和分析 AI 输出。该项目利用矩阵乘法算法和 CUDA 加速，适用于分布式系统，支持并发处理，适用于 AI 和机器学习领域。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T10:41:24.873282+00:00",
+  "published_at": "2026-06-24T10:36:59Z",
+  "collected_at": "2026-06-24T10:41:24.873282+00:00",
+  "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets."
+}

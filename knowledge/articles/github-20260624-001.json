@@ -1,0 +1,18 @@
+{
+  "id": "github-20260624-001",
+  "title": "HANPU5838/QIANGHUA",
+  "source_url": "https://github.com/HANPU5838/QIANGHUA",
+  "source": "github",
+  "summary": "QIANGHUA是一个基于Java的Android AI代理部署框架，支持模型的训练、推理和向量索引，具备缓存机制和性能优化，适用于并发和分布式环境，支持微服务和容器化部署。",
+  "score": 8.0,
+  "tags": [
+    "java",
+    "ai",
+    "mobile"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T10:41:24.873282+00:00",
+  "published_at": "2026-06-24T10:39:09Z",
+  "collected_at": "2026-06-24T10:41:24.873282+00:00",
+  "description": "QIANGHUA - Android AI Agent Deployment Framework"
+}

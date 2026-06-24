@@ -1,0 +1,18 @@
+{
+  "id": "github-20260624-003",
+  "title": "Jame0077/mcp-code-mode",
+  "source_url": "https://github.com/Jame0077/mcp-code-mode",
+  "source": "github",
+  "summary": "该项目通过Code Execution MCP Server实现AI代码生成，将大型语言模型与模型上下文协议集成，以实现工具的无缝使用。核心技术包括模型集成、协议适配和代码生成算法，适用于需要高效代码生成的开发环境。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "tooling"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T10:41:24.873282+00:00",
+  "published_at": "2026-06-24T10:25:15Z",
+  "collected_at": "2026-06-24T10:41:24.873282+00:00",
+  "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use."
+}

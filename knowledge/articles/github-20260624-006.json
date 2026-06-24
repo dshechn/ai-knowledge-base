@@ -1,0 +1,18 @@
+{
+  "id": "github-20260624-006",
+  "title": "marcossangomes/SmartLLM-Router",
+  "source_url": "https://github.com/marcossangomes/SmartLLM-Router",
+  "source": "github",
+  "summary": "SmartLLM-Router通过智能路由优化LLM请求，将请求路由到最佳模型，同时利用语义缓存和实时成本分析以实现资源的高效使用。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T10:41:24.873282+00:00",
+  "published_at": "2026-06-24T10:35:07Z",
+  "collected_at": "2026-06-24T10:41:24.873282+00:00",
+  "description": "🔍 Optimize LLM requests by routing them to the best models, while leveraging semantic caching and real-time cost analytics for efficient resource use."
+}

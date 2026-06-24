@@ -1,0 +1,18 @@
+{
+  "id": "github-20260624-004",
+  "title": "ankushsingh003/BotoCop",
+  "source_url": "https://github.com/ankushsingh003/BotoCop",
+  "source": "github",
+  "summary": "BotoCop 是一个基于 AI 的视频合规性管道，利用 RAG 架构和 LLMops 最佳实践，自动化视频内容的品牌和监管指南审计，将复杂的视频数据转化为可操作的合规性见解。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T10:41:24.873282+00:00",
+  "published_at": "2026-06-24T10:40:00Z",
+  "collected_at": "2026-06-24T10:41:24.873282+00:00",
+  "description": "BotoCop is a sophisticated, AI-powered video compliance pipeline built to automate the auditing of video content against brand and regulatory guidelines. Leveraging a robust RAG (Retrieval-Augmented Generation) architecture and LLMops best practices, BotoCop transitions complex video data into actio"
+}
