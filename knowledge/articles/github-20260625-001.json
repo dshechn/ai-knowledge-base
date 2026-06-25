@@ -1,0 +1,18 @@
+{
+  "id": "github-20260625-001",
+  "title": "Cazzy121/velboard",
+  "source_url": "https://github.com/Cazzy121/velboard",
+  "source": "github",
+  "summary": "Cazzy121/velboard 是一个基于 Vel 框架的自动构建和更新仪表板的工具，利用 AI 代理实现动态和自我维护的数据视图。该项目通过 AI 代理技术优化了数据展示的自动化和性能，适用于需要实时监控和数据可视化的场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "javascript",
+    "ai",
+    "monitoring"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T10:34:26.276761+00:00",
+  "published_at": "2026-06-25T10:33:02Z",
+  "collected_at": "2026-06-25T10:34:26.276761+00:00",
+  "description": "Build and update dashboards automatically using AI agents on the Vel framework, enabling dynamic and self-maintaining data views."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260625-002",
+  "title": "VinamraLilariaa/wikipedia-rag-chatbot",
+  "source_url": "https://github.com/VinamraLilariaa/wikipedia-rag-chatbot",
+  "source": "github",
+  "summary": "VinamraLilariaa/wikipedia-rag-chatbot 是一个基于 Wikipedia 和 ChromaDB 的生产级检索增强生成聊天机器人，采用 FastAPI 和 Qwen 框架，支持高效的模型训练、推理和向量索引。该聊天机器人适用于需要快速响应和高质量对话的场景，如客服、教育等。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T10:34:26.276761+00:00",
+  "published_at": "2026-06-25T10:32:53Z",
+  "collected_at": "2026-06-25T10:34:26.276761+00:00",
+  "description": "Production-ready Retrieval Augmented Generation chatbot using Wikipedia, ChromaDB, FastAPI and Qwen."
+}

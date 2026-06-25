@@ -1,0 +1,168 @@
+[
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-06-25T10:33:16Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Cazzy121/velboard",
+    "url": "https://github.com/Cazzy121/velboard",
+    "source": "github",
+    "description": "Build and update dashboards automatically using AI agents on the Vel framework, enabling dynamic and self-maintaining data views.",
+    "published_at": "2026-06-25T10:33:02Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "claude",
+        "dashboard",
+        "monitoring",
+        "openclaw",
+        "panels",
+        "real-time",
+        "telegram"
+      ]
+    }
+  },
+  {
+    "title": "jhon1995-04/gigacheck",
+    "url": "https://github.com/jhon1995-04/gigacheck",
+    "source": "github",
+    "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets.",
+    "published_at": "2026-06-25T10:01:09Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "abft",
+        "cuda",
+        "matrix-multiplication"
+      ]
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-06-25T09:49:05Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "VinamraLilariaa/wikipedia-rag-chatbot",
+    "url": "https://github.com/VinamraLilariaa/wikipedia-rag-chatbot",
+    "source": "github",
+    "description": "Production-ready Retrieval Augmented Generation chatbot using Wikipedia, ChromaDB, FastAPI and Qwen.",
+    "published_at": "2026-06-25T10:32:53Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "mmoeedamjad/faq-rag-chatbot",
+    "url": "https://github.com/mmoeedamjad/faq-rag-chatbot",
+    "source": "github",
+    "description": "A small, from-scratch Retrieval-Augmented Generation (RAG) chatbot that answers support questions for PulseDesk, a fictional SaaS helpdesk product — grounded strictly in a fixed FAQ knowledge base, with no hallucinated answers.",
+    "published_at": "2026-06-25T10:32:13Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "MEXIHACKER/genesis-kernel",
+    "url": "https://github.com/MEXIHACKER/genesis-kernel",
+    "source": "github",
+    "description": "Optimize local LLM inference with Genesis Kernel, which fuses NF4 dequantization and matrix multiplication for efficient CPU execution without compilers.",
+    "published_at": "2026-06-25T10:27:09Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agent-systems",
+        "blockchain-technology",
+        "cryptography",
+        "distributed-systems",
+        "eira",
+        "ethereum-dapp",
+        "execution-time",
+        "fusion-energy",
+        "genesis",
+        "immutable-kernel",
+        "ipfs",
+        "low-latency",
+        "machine-speed",
+        "meta-science",
+        "open-source",
+        "php",
+        "public",
+        "science",
+        "technical",
+        "zero-trust"
+      ]
+    }
+  },
+  {
+    "title": "Mizistein/omlx",
+    "url": "https://github.com/Mizistein/omlx",
+    "source": "github",
+    "description": "🤖 Optimize LLM inference on Mac with continuous batching and SSD caching managed from your menu bar for efficient performance.",
+    "published_at": "2026-06-25T10:25:38Z",
+    "extra": {
+      "stars": 8,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "chatbot",
+        "inference-server",
+        "llm",
+        "macos",
+        "mlx",
+        "model-serving",
+        "openai-api"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
