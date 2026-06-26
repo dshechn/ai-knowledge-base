@@ -1,0 +1,18 @@
+{
+  "id": "github-20260626-001",
+  "title": "MervinPraison/PraisonAI",
+  "source_url": "https://github.com/MervinPraison/PraisonAI",
+  "source": "github",
+  "summary": "PraisonAI 是一个开源的AI工作平台，支持24/7的AI代理，能够自动研究、规划、编码和执行任务。它通过简单的代码部署，内置内存、RAG（Retrieval-Augmented Generation）和超过100个LLM（大型语言模型）的支持，旨在提高开发效率。，基于模型推理的架构",
+  "score": 9.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "tooling"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T10:44:09.236682+00:00",
+  "published_at": "2026-06-26T10:42:10Z",
+  "collected_at": "2026-06-26T10:44:09.236682+00:00",
+  "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs."
+}

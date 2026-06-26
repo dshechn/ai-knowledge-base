@@ -1,0 +1,18 @@
+{
+  "id": "github-20260626-005",
+  "title": "levvius/adaptive-speculative-decoding",
+  "source_url": "https://github.com/levvius/adaptive-speculative-decoding",
+  "source": "github",
+  "summary": "Levvius/adaptive-speculative-decoding 项目通过自适应预测解码技术优化大型语言模型（LLM）推理延迟，采用模型、训练、推理、算法和架构等核心技术，适用于需要高性能和低延迟的LLM推理场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T10:44:09.236682+00:00",
+  "published_at": "2026-06-26T10:18:21Z",
+  "collected_at": "2026-06-26T10:44:09.236682+00:00",
+  "description": "Adaptive speculative decoding for LLM inference latency optimization"
+}

@@ -1,0 +1,193 @@
+[
+  {
+    "title": "MervinPraison/PraisonAI",
+    "url": "https://github.com/MervinPraison/PraisonAI",
+    "source": "github",
+    "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
+    "published_at": "2026-06-26T10:42:10Z",
+    "extra": {
+      "stars": 8288,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agent-framework",
+        "ai-agent-sdk",
+        "ai-agents",
+        "ai-agents-framework",
+        "ai-agents-sdk",
+        "ai-framwork",
+        "aiagent",
+        "aiagentframework",
+        "aiagents",
+        "aiagentsframework",
+        "framework",
+        "hermes",
+        "hermes-agent",
+        "multi-agent",
+        "multi-agent-system",
+        "multi-agents",
+        "multi-ai-agents",
+        "openclaw"
+      ]
+    }
+  },
+  {
+    "title": "tsukhani/jclaw",
+    "url": "https://github.com/tsukhani/jclaw",
+    "source": "github",
+    "description": "Java-based Enterprise AI Harness — AI-powered automation platform built in pure Java on Abundent's fork of the Play Framework 1.x with a Nuxt frontend. Combines agent orchestration and job scheduling with no Spring, no Node.js, and no Python runtime.",
+    "published_at": "2026-06-26T10:41:50Z",
+    "extra": {
+      "stars": 5,
+      "language": "Java",
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "ai-assistant",
+        "automation",
+        "enterprise-ai-assistant",
+        "java",
+        "job-scheduling",
+        "nuxt",
+        "play-framework"
+      ]
+    }
+  },
+  {
+    "title": "ritartistry/HAL",
+    "url": "https://github.com/ritartistry/HAL",
+    "source": "github",
+    "description": "HAL is a secure HTTP API Layer for Large Language Models, enabling seamless web API interactions and automatic tool generation from OpenAPI specs. 🚀🌐",
+    "published_at": "2026-06-26T10:35:04Z",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "analyze",
+        "compiler",
+        "cryptocurrency",
+        "cryptography",
+        "dsl",
+        "embedded",
+        "face-animation",
+        "fpga",
+        "go",
+        "gpu",
+        "halo",
+        "image-animation",
+        "integrated-circuits",
+        "javascript",
+        "network",
+        "objective-c",
+        "security",
+        "source-code"
+      ]
+    }
+  },
+  {
+    "title": "Harmpleomorphism9956/ovo-local-llm",
+    "url": "https://github.com/Harmpleomorphism9956/ovo-local-llm",
+    "source": "github",
+    "description": "Run large language models locally on your machine with this efficient deployment tool.",
+    "published_at": "2026-06-26T10:01:55Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "agentic-ide",
+        "apple-silicon",
+        "claude-code",
+        "deepseek",
+        "diffusers",
+        "gemma",
+        "huggingface",
+        "llama",
+        "lm-studio-alternative",
+        "local-llm",
+        "macos",
+        "mistral",
+        "mlx",
+        "ollama-alternative",
+        "on-device-ai",
+        "privacy-first",
+        "qwen",
+        "rust"
+      ]
+    }
+  },
+  {
+    "title": "salgarpruthviraj7-dot/Nephrology-RAG-Assistant",
+    "url": "https://github.com/salgarpruthviraj7-dot/Nephrology-RAG-Assistant",
+    "source": "github",
+    "description": "A medical question-answering assistant built using Python, Streamlit, LangChain, Groq LLM, and Retrieval-Augmented Generation (RAG). This application allows users to ask questions related to kidney health and nephrology topics. The system retrieves relevant information from medical documents and generates simple, human-friendly responses.",
+    "published_at": "2026-06-26T10:40:29Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "tejasprof84/RAG_ocr_project",
+    "url": "https://github.com/tejasprof84/RAG_ocr_project",
+    "source": "github",
+    "description": "Built an intelligent document QA system using OCR and Retrieval-Augmented Generation (RAG). Extracts text from PDFs/images, converts it into embeddings, retrieves relevant content from a vector database, and generates accurate context-based answers using an LLM.",
+    "published_at": "2026-06-26T10:37:41Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "levvius/adaptive-speculative-decoding",
+    "url": "https://github.com/levvius/adaptive-speculative-decoding",
+    "source": "github",
+    "description": "Adaptive speculative decoding for LLM inference latency optimization",
+    "published_at": "2026-06-26T10:18:21Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "decoding",
+        "inference",
+        "large-language-models",
+        "latency",
+        "llm",
+        "nlp",
+        "optimization",
+        "speculative-decoding",
+        "text-generation"
+      ]
+    }
+  },
+  {
+    "title": "jd-opensource/xllm",
+    "url": "https://github.com/jd-opensource/xllm",
+    "source": "github",
+    "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators.",
+    "published_at": "2026-06-26T10:14:06Z",
+    "extra": {
+      "stars": 1369,
+      "language": "C++",
+      "topics": [
+        "deepseek",
+        "glm",
+        "inference",
+        "inference-engine",
+        "large-language-models",
+        "llm-inference",
+        "qwen"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

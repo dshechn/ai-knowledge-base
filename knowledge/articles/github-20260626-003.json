@@ -1,0 +1,18 @@
+{
+  "id": "github-20260626-003",
+  "title": "salgarpruthviraj7-dot/Nephrology-RAG-Assistant",
+  "source_url": "https://github.com/salgarpruthviraj7-dot/Nephrology-RAG-Assistant",
+  "source": "github",
+  "summary": "Nephrology-RAG-Assistant 是一个基于 Python、Streamlit、LangChain、Groq LLM 和检索增强生成 (RAG) 的医疗问答助手。该应用允许用户就肾脏健康和肾病相关主题提问，系统从医学文档中检索相关信息，并生成简单、人性化的回答。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T10:44:09.236682+00:00",
+  "published_at": "2026-06-26T10:40:29Z",
+  "collected_at": "2026-06-26T10:44:09.236682+00:00",
+  "description": "A medical question-answering assistant built using Python, Streamlit, LangChain, Groq LLM, and Retrieval-Augmented Generation (RAG). This application allows users to ask questions related to kidney health and nephrology topics. The system retrieves relevant information from medical documents and gen"
+}

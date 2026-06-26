@@ -1,0 +1,18 @@
+{
+  "id": "github-20260626-002",
+  "title": "tsukhani/jclaw",
+  "source_url": "https://github.com/tsukhani/jclaw",
+  "source": "github",
+  "summary": "jclaw是一个基于Java的企业级AI自动化平台，采用纯Java编写，基于Play Framework 1.x的分支，并集成了Nuxt前端。它结合了代理编排和作业调度，无需Spring、Node.js或Python运行时，适用于企业级AI自动化需求。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "java",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T10:44:09.236682+00:00",
+  "published_at": "2026-06-26T10:41:50Z",
+  "collected_at": "2026-06-26T10:44:09.236682+00:00",
+  "description": "Java-based Enterprise AI Harness — AI-powered automation platform built in pure Java on Abundent's fork of the Play Framework 1.x with a Nuxt frontend. Combines agent orchestration and job scheduling with no Spring, no Node.js, and no Python runtime."
+}
