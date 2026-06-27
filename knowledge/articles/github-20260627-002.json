@@ -1,0 +1,17 @@
+{
+  "id": "github-20260627-002",
+  "title": "Micro-Novelty/IntegratedPipeline-Specialized-Non-LLM-AI-Agent-Framework",
+  "source_url": "https://github.com/Micro-Novelty/IntegratedPipeline-Specialized-Non-LLM-AI-Agent-Framework",
+  "source": "github",
+  "summary": "IntegratedPipeline 是一个专为非LLM内存增强的AI代理框架设计的独立AI代理库，旨在为任何自主代理框架提供本地和协调的代理能力，高效运行于消费级机器到高端嵌入式系统，同时持续学习和高效运行。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T09:56:46.468499+00:00",
+  "published_at": "2026-06-27T09:52:40Z",
+  "collected_at": "2026-06-27T09:56:46.468499+00:00",
+  "description": "[~]  IntegratedPipeline is a standalone AI Agent Library for Non-LLM memory Augmented Agentic Framework, Specifically designed to provide Agentic capability for any Autonomous Agentic Framework locally and Coordinatively that runs efficiently on Consumer based machine to High end embedded systems, W"
+}

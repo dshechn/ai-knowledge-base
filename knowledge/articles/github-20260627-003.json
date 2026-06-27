@@ -1,0 +1,18 @@
+{
+  "id": "github-20260627-003",
+  "title": "Vaibhav200303/career-copilot",
+  "source_url": "https://github.com/Vaibhav200303/career-copilot",
+  "source": "github",
+  "summary": "基于FastAPI、PostgreSQL、pgvector和Ollama构建的AI驱动的职业智能平台。通过分析简历、识别技能差距、生成学习路线图、准备面试以及与智能职业助手聊天，使用检索增强生成（RAG）技术提供职业指导服务。，基于模型推理的架构",
+  "score": 9.0,
+  "tags": [
+    "python",
+    "ai",
+    "backend"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T09:56:46.468499+00:00",
+  "published_at": "2026-06-27T09:53:49Z",
+  "collected_at": "2026-06-27T09:56:46.468499+00:00",
+  "description": "AI-powered career intelligence platform built with FastAPI, PostgreSQL, pgvector, and Ollama. Analyze resumes, identify skill gaps, generate learning roadmaps, prepare for interviews, and chat with an intelligent career assistant using Retrieval-Augmented Generation (RAG)."
+}

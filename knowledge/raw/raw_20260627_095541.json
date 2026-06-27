@@ -1,0 +1,172 @@
+[
+  {
+    "title": "JK-Ai-Era/octopi",
+    "url": "https://github.com/JK-Ai-Era/octopi",
+    "source": "github",
+    "description": "Octopi 🐙 — AI Agent Harness Framework",
+    "published_at": "2026-06-27T09:53:48Z",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "Micro-Novelty/IntegratedPipeline-Specialized-Non-LLM-AI-Agent-Framework",
+    "url": "https://github.com/Micro-Novelty/IntegratedPipeline-Specialized-Non-LLM-AI-Agent-Framework",
+    "source": "github",
+    "description": "[~]  IntegratedPipeline is a standalone AI Agent Library for Non-LLM memory Augmented Agentic Framework, Specifically designed to provide Agentic capability for any Autonomous Agentic Framework locally and Coordinatively that runs efficiently on Consumer based machine to High end embedded systems, While continuously learning and runs efficiently.",
+    "published_at": "2026-06-27T09:52:40Z",
+    "extra": {
+      "stars": 8,
+      "language": "Python",
+      "topics": [
+        "ai-agent-library",
+        "ai-for-embedded-systems",
+        "arm64",
+        "edge-ai",
+        "edge-ai-agents",
+        "edge-devices",
+        "efficient-transformer",
+        "embedded-ai-systems",
+        "federated-learning-ai",
+        "geometric-deep-learning",
+        "local-ai-agents",
+        "machine-learning-algorithms",
+        "machine-learning-models",
+        "mlp-classifier",
+        "open-source",
+        "peer-to-peer",
+        "python",
+        "python-library",
+        "python-open-source-library",
+        "tinyml"
+      ]
+    }
+  },
+  {
+    "title": "ritartistry/HAL",
+    "url": "https://github.com/ritartistry/HAL",
+    "source": "github",
+    "description": "HAL is a secure HTTP API Layer for Large Language Models, enabling seamless web API interactions and automatic tool generation from OpenAPI specs. 🚀🌐",
+    "published_at": "2026-06-27T09:53:22Z",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "analyze",
+        "compiler",
+        "cryptocurrency",
+        "cryptography",
+        "dsl",
+        "embedded",
+        "face-animation",
+        "fpga",
+        "go",
+        "gpu",
+        "halo",
+        "image-animation",
+        "integrated-circuits",
+        "javascript",
+        "network",
+        "objective-c",
+        "security",
+        "source-code"
+      ]
+    }
+  },
+  {
+    "title": "yosh95/llm-secure-cli",
+    "url": "https://github.com/yosh95/llm-secure-cli",
+    "source": "github",
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Models (LLMs). It provides a unified, stable interface for any OpenAI-compatible API, including OpenRouter, OpenAI, Ollama, and LiteLLM, prioritizing cognitive focus, secure execution, and extensible automation.",
+    "published_at": "2026-06-27T09:32:06Z",
+    "extra": {
+      "stars": 1,
+      "language": "Rust",
+      "topics": [
+        "cli-app",
+        "llm-agent",
+        "llm-security",
+        "pqc",
+        "rust",
+        "zero-trust"
+      ]
+    }
+  },
+  {
+    "title": "Vaibhav200303/career-copilot",
+    "url": "https://github.com/Vaibhav200303/career-copilot",
+    "source": "github",
+    "description": "AI-powered career intelligence platform built with FastAPI, PostgreSQL, pgvector, and Ollama. Analyze resumes, identify skill gaps, generate learning roadmaps, prepare for interviews, and chat with an intelligent career assistant using Retrieval-Augmented Generation (RAG).",
+    "published_at": "2026-06-27T09:53:49Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "alembic-migrations",
+        "artificial-intelligence",
+        "backend",
+        "career",
+        "docker",
+        "fastapi",
+        "jwt",
+        "llm",
+        "ollama",
+        "pgvector-retrieval",
+        "postgresql-database",
+        "python",
+        "rag-pipeline",
+        "resume-analysis",
+        "semantic-search",
+        "sqlalchemy-orm",
+        "sqlalchemy-python",
+        "vector-database"
+      ]
+    }
+  },
+  {
+    "title": "maharshipandya3006/MediBot",
+    "url": "https://github.com/maharshipandya3006/MediBot",
+    "source": "github",
+    "description": "A Retrieval-Augmented Generation (RAG) powered medical chatbot that provides context aware, source grounded answers from a curated medical knowledge base(in this case : The 3rd edition of The Gale Encyclopedia of Medicine).  Instead of relying purely on LLM memory (which can hallucinate), this system retrieves relevant information from trusted docu",
+    "published_at": "2026-06-27T09:53:34Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "OmBhadiyadra/ml-systems-portfolio",
+    "url": "https://github.com/OmBhadiyadra/ml-systems-portfolio",
+    "source": "github",
+    "description": "ML systems engineering projects: distributed training, LLM optimization, and inference serving",
+    "published_at": "2026-06-27T09:54:56Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "source": "github",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "published_at": "2026-06-27T09:38:33Z",
+    "extra": {
+      "stars": 3017,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

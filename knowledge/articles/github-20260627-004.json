@@ -1,0 +1,18 @@
+{
+  "id": "github-20260627-004",
+  "title": "maharshipandya3006/MediBot",
+  "source_url": "https://github.com/maharshipandya3006/MediBot",
+  "source": "github",
+  "summary": "MediBot 是一个基于检索增强生成（RAG）的医学聊天机器人，它从精选的医学知识库（例如《盖尔医学百科全书》第三版）中检索相关信息，提供上下文感知、有据可查的答案。该系统不依赖于大型语言模型（LLM）的记忆，从而避免了幻觉问题，提高了答案的可靠性。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T09:56:46.468499+00:00",
+  "published_at": "2026-06-27T09:53:34Z",
+  "collected_at": "2026-06-27T09:56:46.468499+00:00",
+  "description": "A Retrieval-Augmented Generation (RAG) powered medical chatbot that provides context aware, source grounded answers from a curated medical knowledge base(in this case : The 3rd edition of The Gale Encyclopedia of Medicine).  Instead of relying purely on LLM memory (which can hallucinate), this syste"
+}

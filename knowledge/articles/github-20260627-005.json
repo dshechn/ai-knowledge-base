@@ -1,0 +1,18 @@
+{
+  "id": "github-20260627-005",
+  "title": "OmBhadiyadra/ml-systems-portfolio",
+  "source_url": "https://github.com/OmBhadiyadra/ml-systems-portfolio",
+  "source": "github",
+  "summary": "该项目提供了一系列机器学习系统工程实践项目，包括分布式训练、大型语言模型优化和推理服务。项目利用Python实现，涉及分布式系统架构、高性能算法和微服务设计，适用于需要构建高效机器学习系统的开发者。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T09:56:46.468499+00:00",
+  "published_at": "2026-06-27T09:54:56Z",
+  "collected_at": "2026-06-27T09:56:46.468499+00:00",
+  "description": "ML systems engineering projects: distributed training, LLM optimization, and inference serving"
+}
