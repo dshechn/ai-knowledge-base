@@ -1,0 +1,18 @@
+{
+  "id": "github-20260628-004",
+  "title": "amirshaikh321/VideoInsightAI",
+  "source_url": "https://github.com/amirshaikh321/VideoInsightAI",
+  "source": "github",
+  "summary": "该项目是一个基于AI的YouTube视频聊天机器人，利用检索增强生成（RAG）技术。它从YouTube视频中提取文本，生成嵌入向量，使用FAISS进行语义搜索，并通过LangChain和Gemini回答问题。该系统结合了视频分析、自然语言处理和分布式搜索架构，适用于需要智能问答和视频内容理解的场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "nlp",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T10:20:25.044905+00:00",
+  "published_at": "2026-06-28T10:18:24Z",
+  "collected_at": "2026-06-28T10:20:25.044905+00:00",
+  "description": "AI-powered YouTube Video Chatbot using Retrieval-Augmented Generation (RAG). Extracts YouTube transcripts, generates embeddings, performs semantic search with FAISS, and answers questions using LangChain and Gemini."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260628-006",
+  "title": "Pyrolignic-paydirt84/pse-vcipher-collapse",
+  "source_url": "https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse",
+  "source": "github",
+  "summary": "该项目通过使用POWER8向量指令和加密操作进行硬件优化的选择性剪枝，加速了大型语言模型（LLM）的推理过程，通过折叠注意力路径来提高性能。它利用了CPU的特定指令集来优化深度学习模型的推理，适用于需要高性能推理的场景。",
+  "score": 8.0,
+  "tags": [
+    "deep-learning",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T10:20:25.044905+00:00",
+  "published_at": "2026-06-28T10:13:34Z",
+  "collected_at": "2026-06-28T10:20:25.044905+00:00",
+  "description": "Accelerate LLM inference by collapsing attention paths with hardware-optimized selective pruning using POWER8 vector instructions and crypto operators."
+}

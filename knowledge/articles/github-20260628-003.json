@@ -1,0 +1,17 @@
+{
+  "id": "github-20260628-003",
+  "title": "Usuts/llm-stream",
+  "source_url": "https://github.com/Usuts/llm-stream",
+  "source": "github",
+  "summary": "Usuts/llm-stream 是一个使用轻量级 C++ 工具从 OpenAI 和 Anthropic 模型中流式传输响应的库，支持高效的大语言模型集成。该项目通过优化模型推理性能，适用于需要快速响应和低延迟的场景，如聊天机器人、数据分析和处理。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T10:20:25.044905+00:00",
+  "published_at": "2026-06-28T10:11:16Z",
+  "collected_at": "2026-06-28T10:20:25.044905+00:00",
+  "description": "Stream responses from OpenAI and Anthropic models with lightweight C++ tools for efficient large language model integration."
+}

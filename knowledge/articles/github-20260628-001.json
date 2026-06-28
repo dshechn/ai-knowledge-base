@@ -1,0 +1,18 @@
+{
+  "id": "github-20260628-001",
+  "title": "reactflowbrasil-lgtm/contract-first-agents",
+  "source_url": "https://github.com/reactflowbrasil-lgtm/contract-first-agents",
+  "source": "github",
+  "summary": "该项目使用研究支持的协议构建基于合约的多智能体AI协调，通过提升质量和减少集成错误来优化AI协作。它采用合约优先的方法，结合了智能体协调、API设计和自动化技术，适用于需要高性能和低错误率的分布式系统。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices",
+    "distributed-systems"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T10:20:25.044905+00:00",
+  "published_at": "2026-06-28T10:19:23Z",
+  "collected_at": "2026-06-28T10:20:25.044905+00:00",
+  "description": "Build contract-first multi-agent AI coordination with a research-backed protocol that boosts quality and cuts integration errors"
+}

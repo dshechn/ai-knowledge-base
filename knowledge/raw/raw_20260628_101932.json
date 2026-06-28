@@ -1,0 +1,214 @@
+[
+  {
+    "title": "reactflowbrasil-lgtm/contract-first-agents",
+    "url": "https://github.com/reactflowbrasil-lgtm/contract-first-agents",
+    "source": "github",
+    "description": "Build contract-first multi-agent AI coordination with a research-backed protocol that boosts quality and cuts integration errors",
+    "published_at": "2026-06-28T10:19:23Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": [
+        "agent-coordination",
+        "ai-coordination",
+        "ai-research",
+        "api-design",
+        "automation",
+        "chatgpt",
+        "contract-first",
+        "contract-review",
+        "developer-tools",
+        "framework",
+        "governance",
+        "integration-testing",
+        "lawyer",
+        "legal",
+        "llm",
+        "llm-ops",
+        "parallel-computing",
+        "software-engineering",
+        "testing"
+      ]
+    }
+  },
+  {
+    "title": "ocular-buffercountry141/agent-skill-bus",
+    "url": "https://github.com/ocular-buffercountry141/agent-skill-bus",
+    "source": "github",
+    "description": "Monitor, diagnose, and repair AI agent skills with runtime health checks, self-improvement, and dependency management for any agent framework",
+    "published_at": "2026-06-28T10:18:43Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "ai-agents",
+        "ai-operations",
+        "autonomous-agents",
+        "blast-radius",
+        "chromadb",
+        "context-engineering",
+        "crewai",
+        "dag-scheduler",
+        "framework-agnostic",
+        "knowledge-management",
+        "langgraph",
+        "llm",
+        "python",
+        "skill",
+        "skill-bus"
+      ]
+    }
+  },
+  {
+    "title": "donitb934/1Cat-vLLM",
+    "url": "https://github.com/donitb934/1Cat-vLLM",
+    "source": "github",
+    "description": "Optimize Tesla V100 GPUs for AWQ 4-bit inference with improved speed, stability, and support for modern large models like Qwen3.5 and MoE.",
+    "published_at": "2026-06-28T10:13:21Z",
+    "extra": {
+      "stars": 5,
+      "language": "Python",
+      "topics": [
+        "4x",
+        "api",
+        "cats",
+        "civ",
+        "cli",
+        "compiler",
+        "distributed",
+        "git",
+        "java",
+        "language",
+        "large-language-models",
+        "machine-learning",
+        "monitoring",
+        "realtime",
+        "tool",
+        "v"
+      ]
+    }
+  },
+  {
+    "title": "Usuts/llm-stream",
+    "url": "https://github.com/Usuts/llm-stream",
+    "source": "github",
+    "description": "Stream responses from OpenAI and Anthropic models with lightweight C++ tools for efficient large language model integration.",
+    "published_at": "2026-06-28T10:11:16Z",
+    "extra": {
+      "stars": 4,
+      "language": "C++",
+      "topics": [
+        "agents",
+        "audiollm",
+        "chatbot",
+        "data-analytics",
+        "data-processing",
+        "indexing",
+        "iot-analytics",
+        "kafka",
+        "llm",
+        "neural-speech-synthesis",
+        "rag",
+        "retrieval-augmented-generation",
+        "rust",
+        "stream",
+        "stream-processing",
+        "text-to-speech",
+        "time-series-analysis",
+        "tts",
+        "vercel"
+      ]
+    }
+  },
+  {
+    "title": "amirshaikh321/VideoInsightAI",
+    "url": "https://github.com/amirshaikh321/VideoInsightAI",
+    "source": "github",
+    "description": "AI-powered YouTube Video Chatbot using Retrieval-Augmented Generation (RAG). Extracts YouTube transcripts, generates embeddings, performs semantic search with FAISS, and answers questions using LangChain and Gemini.",
+    "published_at": "2026-06-28T10:18:24Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "code-with-muskan17/rag-based-ai-teaching-assistant",
+    "url": "https://github.com/code-with-muskan17/rag-based-ai-teaching-assistant",
+    "source": "github",
+    "description": "AI-powered teaching assistant that answers questions about course video lectures using Retrieval-Augmented Generation (RAG) — built with Whisper, Gemini embeddings, and Streamlit.",
+    "published_at": "2026-06-28T10:17:40Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "GetNyrex/strix-halo-guide",
+    "url": "https://github.com/GetNyrex/strix-halo-guide",
+    "source": "github",
+    "description": "Unlock fast, local LLM inference on AMD-powered mini PCs delivering 65-87 t/s for large models without cloud or subscription costs",
+    "published_at": "2026-06-28T10:14:19Z",
+    "extra": {
+      "stars": 2,
+      "language": "Shell",
+      "topics": [
+        "amd",
+        "asus-rog",
+        "beelink",
+        "cachyos",
+        "gfx1151",
+        "gguf",
+        "inference",
+        "linux-gaming",
+        "llama-cpp",
+        "llm",
+        "local-llm",
+        "mini-pc",
+        "ollama",
+        "optimization",
+        "rdna3",
+        "rocm",
+        "strix-halo",
+        "unified-memory"
+      ]
+    }
+  },
+  {
+    "title": "Pyrolignic-paydirt84/pse-vcipher-collapse",
+    "url": "https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse",
+    "source": "github",
+    "description": "Accelerate LLM inference by collapsing attention paths with hardware-optimized selective pruning using POWER8 vector instructions and crypto operators.",
+    "published_at": "2026-06-28T10:13:34Z",
+    "extra": {
+      "stars": 1,
+      "language": "C",
+      "topics": [
+        "aes",
+        "altivec",
+        "attention-mechanism",
+        "cpu-inference",
+        "deep-learning",
+        "hardware-acceleration",
+        "hebbian-learning",
+        "inference",
+        "llama-cpp",
+        "llm",
+        "machine-learning",
+        "non-bijunctive",
+        "power8",
+        "powerpc",
+        "transformer"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
