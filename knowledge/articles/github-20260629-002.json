@@ -1,0 +1,18 @@
+{
+  "id": "github-20260629-002",
+  "title": "kdeps/kdeps",
+  "source_url": "https://github.com/kdeps/kdeps",
+  "source": "github",
+  "summary": "kdeps/kdeps 是一个基于 YAML 的 AI 工作流程框架，支持本地运行和部署。它采用 AI 代理架构，提供工作流程管道和自主代理循环。支持构建、部署和导出为 Docker、K8s 或 ISO 格式，适用于 NVIDIA Inception 成员。该框架在 AI 领域具有较高的实用性和扩展性。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "go",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T12:24:11.205620+00:00",
+  "published_at": "2026-06-29T12:21:17Z",
+  "collected_at": "2026-06-29T12:24:11.205620+00:00",
+  "description": "Run AI workflows locally. Or deploy them anywhere. AI agent framework in YAML — workflow pipelines + autonomous agent loop. NVIDIA Inception member. Build, deploy, export as Docker/K8s/ISO."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260629-001",
+  "title": "eaglhuang/AI-Atomic-Framework",
+  "source_url": "https://github.com/eaglhuang/AI-Atomic-Framework",
+  "source": "github",
+  "summary": "AI-Atomic-Framework是一个基于TypeScript的框架，通过5D CID身份、7阶段生命周期、SHA256锚定的闭包证据和原子映射，实现N个编码代理并发修改一个仓库，提供了一种确定性的AI治理层，旨在确保裸AI编码的安全性。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T12:24:11.205620+00:00",
+  "published_at": "2026-06-29T12:22:17Z",
+  "collected_at": "2026-06-29T12:24:11.205620+00:00",
+  "description": "The safety brake for naked AI coding. A deterministic governance layer that lets N coding agents concurrently mutate one repo — via 5D CID identity, a 7-stage lifecycle, SHA256-anchored closure evidence, and atom maps that retire legacy modules through a gated replacement lifecycle."
+}

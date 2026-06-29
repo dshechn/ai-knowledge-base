@@ -1,0 +1,18 @@
+{
+  "id": "github-20260629-003",
+  "title": "tanushbhootra576/TheSuperRAG",
+  "source_url": "https://github.com/tanushbhootra576/TheSuperRAG",
+  "source": "github",
+  "summary": "TheSuperRAG是一个自修复的检索增强生成（RAG）后端，集成了混合搜索、重新排序、引用、置信度评分和实时文档管理。它使用FastAPI、LangChain、LangGraph和Qdrant提供高级文档摄取和聊天界面，支持高效的模型训练、推理和向量索引。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T12:24:11.205620+00:00",
+  "published_at": "2026-06-29T12:21:43Z",
+  "collected_at": "2026-06-29T12:24:11.205620+00:00",
+  "description": "TheSuperRAG is a Self-Healing Retrieval-Augmented Generation (RAG) backend with hybrid search, re-ranking, citations, confidence scoring, and live document management.  It provides an advanced document ingestion and chat interface using FastAPI, LangChain, LangGraph, and Qdrant."
+}

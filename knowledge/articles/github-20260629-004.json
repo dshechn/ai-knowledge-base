@@ -1,0 +1,18 @@
+{
+  "id": "github-20260629-004",
+  "title": "arsalanafzal010/SmartRAG",
+  "source_url": "https://github.com/arsalanafzal010/SmartRAG",
+  "source": "github",
+  "summary": "SmartRAG是一个高级的检索增强生成系统，利用模型和算法实现智能对话，支持文档、图像和音频文件的交互，适用于自动化和文档处理场景。，采用模块化架构，关注性能和算法优化",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T12:24:11.205620+00:00",
+  "published_at": "2026-06-29T12:20:31Z",
+  "collected_at": "2026-06-29T12:24:11.205620+00:00",
+  "description": "📄 Enable smart conversations with documents, images, and audio files using this advanced Retrieval-Augmented Generation system."
+}
