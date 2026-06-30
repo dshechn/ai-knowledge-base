@@ -1,0 +1,18 @@
+{
+  "id": "github-20260630-004",
+  "title": "https-Mujtaba007/Youtube-Chatbot-using-RAG",
+  "source_url": "https://github.com/https-Mujtaba007/Youtube-Chatbot-using-RAG",
+  "source": "github",
+  "summary": "该开源项目实现了一个基于RAG（检索增强生成）的YouTube聊天机器人，通过提取视频字幕并存储在Chroma向量数据库中，使用LangChain、Hugging Face和Streamlit进行用户问题的推理和回答。该项目展示了如何结合多种技术和框架构建一个高效、可扩展的聊天机器人架构。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T10:49:11.465023+00:00",
+  "published_at": "2026-06-30T10:46:06Z",
+  "collected_at": "2026-06-30T10:49:11.465023+00:00",
+  "description": "A Retrieval-Augmented Generation (RAG) chatbot that extracts YouTube video transcripts, stores them in a Chroma vector database, and answers user questions using LangChain, Hugging Face, and Streamlit"
+}

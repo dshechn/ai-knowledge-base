@@ -1,0 +1,17 @@
+{
+  "id": "github-20260630-003",
+  "title": "umamanipraharshitha/Whatsapp_ai_extended-version",
+  "source_url": "https://github.com/umamanipraharshitha/Whatsapp_ai_extended-version",
+  "source": "github",
+  "summary": "基于WhatsApp的AI助手，结合了RAG（检索增强生成）技术，提供医疗知识库问答功能。用户可通过WhatsApp设置、查看和取消提醒，同时提问获取答案。该助手利用JavaScript实现，适用于需要便捷医疗信息查询的场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T10:49:11.465023+00:00",
+  "published_at": "2026-06-30T10:47:24Z",
+  "collected_at": "2026-06-30T10:49:11.465023+00:00",
+  "description": "A WhatsApp-based AI assistant that combines reminders with Retrieval-Augmented Generation (RAG) for Q&A. Users can schedule, list, and cancel reminders via WhatsApp while asking questions answered from a medical knowledge base."
+}

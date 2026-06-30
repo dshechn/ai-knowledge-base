@@ -1,0 +1,18 @@
+{
+  "id": "github-20260630-006",
+  "title": "p2kalita/LLM_Inference_Optimization",
+  "source_url": "https://github.com/p2kalita/LLM_Inference_Optimization",
+  "source": "github",
+  "summary": "该项目通过优化模型推理过程，显著提升大规模语言模型（LLM）的性能和效率。采用高效的缓存策略和分布式架构，实现快速且并发的推理任务处理，适用于需要高性能LLM推理的场景。",
+  "score": 9.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "performance"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T10:49:11.465023+00:00",
+  "published_at": "2026-06-30T10:35:03Z",
+  "collected_at": "2026-06-30T10:49:11.465023+00:00",
+  "description": ""
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260630-002",
+  "title": "othmane55/claude-collective-intelligence",
+  "source_url": "https://github.com/othmane55/claude-collective-intelligence",
+  "source": "github",
+  "summary": "Claude的智能体群框架加速AI协作，利用消息队列提升头脑风暴、投票和导师制，支持AI智能体间的通信。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T10:49:11.465023+00:00",
+  "published_at": "2026-06-30T10:47:12Z",
+  "collected_at": "2026-06-30T10:49:11.465023+00:00",
+  "description": "🧠 Accelerate AI collaboration with Claude's agent swarm framework, leveraging message queues for enhanced brainstorming, voting, and mentorship."
+}

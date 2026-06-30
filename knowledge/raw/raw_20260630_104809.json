@@ -1,0 +1,173 @@
+[
+  {
+    "title": "sariekiriyuu/smartEMS-MultiAgent-Demo",
+    "url": "https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo",
+    "source": "github",
+    "description": "⚡ Simulate and visualize energy management with a multi-agent AI framework for real-time insights and efficient resource utilization.",
+    "published_at": "2026-06-30T10:47:48Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "energy-analytics",
+        "energy-management",
+        "energy-optimization",
+        "ess-management",
+        "hils-simulation",
+        "hybrid-ai",
+        "llm",
+        "mcp",
+        "multi-agent-system",
+        "smart-grid",
+        "solar-energy"
+      ]
+    }
+  },
+  {
+    "title": "othmane55/claude-collective-intelligence",
+    "url": "https://github.com/othmane55/claude-collective-intelligence",
+    "source": "github",
+    "description": "🧠 Accelerate AI collaboration with Claude's agent swarm framework, leveraging message queues for enhanced brainstorming, voting, and mentorship.",
+    "published_at": "2026-06-30T10:47:12Z",
+    "extra": {
+      "stars": 4,
+      "language": "JavaScript",
+      "topics": [
+        "agent-communication",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "collaborative-ai",
+        "distributed-systems",
+        "git-worktree",
+        "github-config",
+        "message-queue",
+        "multi-agent-systems",
+        "nodejs",
+        "opencode",
+        "rabbitmq",
+        "real-time",
+        "swarm-intelligence",
+        "task-distribution",
+        "voting-system"
+      ]
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-06-30T10:39:11Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "mercurycontaminated-sandarac557/KnapsackRL",
+    "url": "https://github.com/mercurycontaminated-sandarac557/KnapsackRL",
+    "source": "github",
+    "description": "🎯 Optimize exploration budgets in Reinforcement Learning with KnapsackRL for more effective trajectory discovery in Large Language Models (LLMs).",
+    "published_at": "2026-06-30T10:33:22Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "algorithms",
+        "data-science",
+        "data-structures",
+        "deep-learning",
+        "dynamic-programming",
+        "knapsack-problem",
+        "machine-learning",
+        "open-source",
+        "optimization",
+        "python",
+        "reinforcement-learning",
+        "research",
+        "simulation",
+        "tool"
+      ]
+    }
+  },
+  {
+    "title": "umamanipraharshitha/Whatsapp_ai_extended-version",
+    "url": "https://github.com/umamanipraharshitha/Whatsapp_ai_extended-version",
+    "source": "github",
+    "description": "A WhatsApp-based AI assistant that combines reminders with Retrieval-Augmented Generation (RAG) for Q&A. Users can schedule, list, and cancel reminders via WhatsApp while asking questions answered from a medical knowledge base.",
+    "published_at": "2026-06-30T10:47:24Z",
+    "extra": {
+      "stars": 2,
+      "language": "JavaScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "https-Mujtaba007/Youtube-Chatbot-using-RAG",
+    "url": "https://github.com/https-Mujtaba007/Youtube-Chatbot-using-RAG",
+    "source": "github",
+    "description": "A Retrieval-Augmented Generation (RAG) chatbot that extracts YouTube video transcripts, stores them in a Chroma vector database, and answers user questions using LangChain, Hugging Face, and Streamlit",
+    "published_at": "2026-06-30T10:46:06Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "LightY-01/llm-inference-engine",
+    "url": "https://github.com/LightY-01/llm-inference-engine",
+    "source": "github",
+    "description": "A high-performance LLM inference engine built from scratch in PyTorch, implementing KV-caching, continuous batching, and speculative decoding to optimize serving throughput.",
+    "published_at": "2026-06-30T10:45:58Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "p2kalita/LLM_Inference_Optimization",
+    "url": "https://github.com/p2kalita/LLM_Inference_Optimization",
+    "source": "github",
+    "description": "",
+    "published_at": "2026-06-30T10:35:03Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

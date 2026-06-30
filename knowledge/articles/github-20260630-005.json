@@ -1,0 +1,18 @@
+{
+  "id": "github-20260630-005",
+  "title": "LightY-01/llm-inference-engine",
+  "source_url": "https://github.com/LightY-01/llm-inference-engine",
+  "source": "github",
+  "summary": "LightY-01/llm-inference-engine 是一个基于 PyTorch 的高性能 LLM 推理引擎，通过实现 KV 缓存、连续批处理和推测解码来优化服务吞吐量，适用于需要高效推理的场景。",
+  "score": 9.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "performance"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T10:49:11.465023+00:00",
+  "published_at": "2026-06-30T10:45:58Z",
+  "collected_at": "2026-06-30T10:49:11.465023+00:00",
+  "description": "A high-performance LLM inference engine built from scratch in PyTorch, implementing KV-caching, continuous batching, and speculative decoding to optimize serving throughput."
+}
