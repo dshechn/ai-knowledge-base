@@ -1,0 +1,18 @@
+{
+  "id": "github-20260701-003",
+  "title": "murderface-cpu/enterprise-rag",
+  "source_url": "https://github.com/murderface-cpu/enterprise-rag",
+  "source": "github",
+  "summary": "Murderface-cpu/enterprise-rag 是一个生产级检索增强生成系统，可在 Vercel 上端到端运行，无需管理任何基础设施。该系统利用先进的模型训练和推理技术，结合向量索引和缓存机制，提供高性能的检索增强生成服务，适用于需要快速生成文本内容的场景。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T11:17:20.451504+00:00",
+  "published_at": "2026-07-01T11:13:00Z",
+  "collected_at": "2026-07-01T11:17:20.451504+00:00",
+  "description": "Production-grade Retrieval-Augmented Generation system designed to run end-to-end on Vercel with zero infrastructure to manage."
+}

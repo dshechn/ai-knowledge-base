@@ -1,0 +1,18 @@
+{
+  "id": "github-20260701-001",
+  "title": "desousajhonny/leanOS",
+  "source_url": "https://github.com/desousajhonny/leanOS",
+  "source": "github",
+  "summary": "LeanOS是一个面向AI产品团队的agent-native启动操作系统框架和CLI，通过优化工作流程和提供高效的命令行工具，提升团队开发效率。该框架支持分布式架构和微服务设计，强调性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T11:17:20.451504+00:00",
+  "published_at": "2026-07-01T11:16:17Z",
+  "collected_at": "2026-07-01T11:17:20.451504+00:00",
+  "description": "LeanOS: agent-native startup operating system framework and CLI for founder-led AI product teams."
+}

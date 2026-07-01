@@ -1,0 +1,18 @@
+{
+  "id": "github-20260701-004",
+  "title": "wdnmd-ctmd/ArmInfer-Bench",
+  "source_url": "https://github.com/wdnmd-ctmd/ArmInfer-Bench",
+  "source": "github",
+  "summary": "ArmInfer-Bench是一个开源的LLM推理优化和一键式基准测试工具，支持Arm64架构，用于提高模型推理性能。该工具集成了llama.cpp和KleidiAI技术，适用于分布式系统和微服务架构。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "performance",
+    "distributed-systems"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T11:17:20.451504+00:00",
+  "published_at": "2026-07-01T10:46:08Z",
+  "collected_at": "2026-07-01T11:17:20.451504+00:00",
+  "description": "Open-source, CI-reproducible Arm64 LLM inference optimization & one-command benchmark toolkit (llama.cpp + KleidiAI)."
+}

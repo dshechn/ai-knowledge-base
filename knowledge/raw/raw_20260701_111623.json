@@ -1,0 +1,165 @@
+[
+  {
+    "title": "desousajhonny/leanOS",
+    "url": "https://github.com/desousajhonny/leanOS",
+    "source": "github",
+    "description": "LeanOS: agent-native startup operating system framework and CLI for founder-led AI product teams.",
+    "published_at": "2026-07-01T11:16:17Z",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-workflows",
+        "ai-agents",
+        "business-os",
+        "cli",
+        "founder-tools",
+        "leanos",
+        "npm-package",
+        "product-ops",
+        "startup"
+      ]
+    }
+  },
+  {
+    "title": "elizaOS/eliza",
+    "url": "https://github.com/elizaOS/eliza",
+    "source": "github",
+    "description": "Open source agentic operating system",
+    "published_at": "2026-07-01T11:14:41Z",
+    "extra": {
+      "stars": 18660,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "autonomous",
+        "chatbot",
+        "crypto",
+        "discord",
+        "eliza",
+        "elizaos",
+        "framework",
+        "plugins",
+        "rag",
+        "slack",
+        "swarm",
+        "telegram"
+      ]
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-07-01T11:09:58Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "mercurycontaminated-sandarac557/KnapsackRL",
+    "url": "https://github.com/mercurycontaminated-sandarac557/KnapsackRL",
+    "source": "github",
+    "description": "🎯 Optimize exploration budgets in Reinforcement Learning with KnapsackRL for more effective trajectory discovery in Large Language Models (LLMs).",
+    "published_at": "2026-07-01T11:03:42Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "algorithms",
+        "data-science",
+        "data-structures",
+        "deep-learning",
+        "dynamic-programming",
+        "knapsack-problem",
+        "machine-learning",
+        "open-source",
+        "optimization",
+        "python",
+        "reinforcement-learning",
+        "research",
+        "simulation",
+        "tool"
+      ]
+    }
+  },
+  {
+    "title": "Aniking1/Semantic-Chunking-RAG-System",
+    "url": "https://github.com/Aniking1/Semantic-Chunking-RAG-System",
+    "source": "github",
+    "description": "This project implements a Retrieval-Augmented Generation (RAG) system that allows users to upload documents and ask questions about them using natural language.",
+    "published_at": "2026-07-01T11:14:12Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "murderface-cpu/enterprise-rag",
+    "url": "https://github.com/murderface-cpu/enterprise-rag",
+    "source": "github",
+    "description": "Production-grade Retrieval-Augmented Generation system designed to run end-to-end on Vercel with zero infrastructure to manage.",
+    "published_at": "2026-07-01T11:13:00Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "roshini0108/InferSim",
+    "url": "https://github.com/roshini0108/InferSim",
+    "source": "github",
+    "description": "🔍 Simulate LLM inference performance to identify bottlenecks and optimize models with InferSim, a lightweight and dependency-free Python tool.",
+    "published_at": "2026-07-01T10:50:44Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "deepseek",
+        "llm",
+        "llm-inference",
+        "qwen3",
+        "simulator"
+      ]
+    }
+  },
+  {
+    "title": "wdnmd-ctmd/ArmInfer-Bench",
+    "url": "https://github.com/wdnmd-ctmd/ArmInfer-Bench",
+    "source": "github",
+    "description": "Open-source, CI-reproducible Arm64 LLM inference optimization & one-command benchmark toolkit (llama.cpp + KleidiAI).",
+    "published_at": "2026-07-01T10:46:08Z",
+    "extra": {
+      "stars": 0,
+      "language": "Shell",
+      "topics": []
+    }
+  }
+]
