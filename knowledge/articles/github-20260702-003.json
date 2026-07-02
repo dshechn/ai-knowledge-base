@@ -1,0 +1,18 @@
+{
+  "id": "github-20260702-003",
+  "title": "HarshitBilagi/Hybrid-Token-Efficient-Routing-Agent",
+  "source_url": "https://github.com/HarshitBilagi/Hybrid-Token-Efficient-Routing-Agent",
+  "source": "github",
+  "summary": "HarshitBilagi/Hybrid-Token-Efficient-Routing-Agent 是一个自主路由层，在推理时决定是否将查询发送到轻量级本地模型（Intel AI Boost NPU）或强大的远程 LLM（Groq/Fireworks AI），以优化令牌使用同时保持准确度。该项目作为受 AMD 开发者黑客马拉松 ACT II 问题启发的组合项目构建，采用 Python 语言实现。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T10:28:13.001173+00:00",
+  "published_at": "2026-07-02T10:25:13Z",
+  "collected_at": "2026-07-02T10:28:13.001173+00:00",
+  "description": "An autonomous routing layer that decides at inference time whether to send a query to a lightweight local model (Intel AI Boost NPU) or a powerful remote LLM (Groq/Fireworks AI), optimizing for token usage while maintaining accuracy constraints.  Built as a portfolio project inspired by the AMD Deve"
+}

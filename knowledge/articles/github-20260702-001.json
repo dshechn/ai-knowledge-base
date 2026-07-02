@@ -1,0 +1,18 @@
+{
+  "id": "github-20260702-001",
+  "title": "yzfly/awesome-context-engineering",
+  "source_url": "https://github.com/yzfly/awesome-context-engineering",
+  "source": "github",
+  "summary": "yzfly/awesome-context-engineering 是一个收集了人工智能代理和大型语言模型（LLMs）上下文工程资源、论文、工具和最佳实践的精选集合。该项目旨在帮助开发者更好地理解和应用上下文工程，提高AI模型的性能和实用性。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T10:28:13.001173+00:00",
+  "published_at": "2026-07-02T09:27:04Z",
+  "collected_at": "2026-07-02T10:28:13.001173+00:00",
+  "description": "A curated collection of resources, papers, tools, and best practices for Context Engineering in AI agents and Large Language Models (LLMs)."
+}

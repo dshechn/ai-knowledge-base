@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-07-02T10:27:24Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "elizaOS/eliza",
+    "url": "https://github.com/elizaOS/eliza",
+    "source": "github",
+    "description": "Open source agentic operating system",
+    "published_at": "2026-07-02T10:26:42Z",
+    "extra": {
+      "stars": 18672,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "autonomous",
+        "chatbot",
+        "crypto",
+        "discord",
+        "eliza",
+        "elizaos",
+        "framework",
+        "plugins",
+        "rag",
+        "slack",
+        "swarm",
+        "telegram"
+      ]
+    }
+  },
+  {
+    "title": "yzfly/awesome-context-engineering",
+    "url": "https://github.com/yzfly/awesome-context-engineering",
+    "source": "github",
+    "description": "A curated collection of resources, papers, tools, and best practices for Context Engineering in AI agents and Large Language Models (LLMs).",
+    "published_at": "2026-07-02T09:27:04Z",
+    "extra": {
+      "stars": 110,
+      "language": null,
+      "topics": [
+        "awesome-context",
+        "awesome-context-engineering",
+        "claude",
+        "claude-code",
+        "context-engineering",
+        "manus",
+        "prompt-engineering",
+        "prompt-engineering-techniques"
+      ]
+    }
+  },
+  {
+    "title": "Hamza-Shahid555/GenAI-using-LangChain-",
+    "url": "https://github.com/Hamza-Shahid555/GenAI-using-LangChain-",
+    "source": "github",
+    "description": "we will work on LangChain using in GenAi Generative AI with LangChain means building applications that use Large Language Models (LLMs) like GPT, but in a structured and powerful way.  🔹 What LangChain Does  LangChain acts as a bridge between LLMs and real-world data/tools. ",
+    "published_at": "2026-07-02T09:17:05Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Priyankjetani/llm-doc-qa",
+    "url": "https://github.com/Priyankjetani/llm-doc-qa",
+    "source": "github",
+    "description": "Developed an LLM-powered Document Question Answering (QA) system that enables users to upload documents (PDF, DOCX, or TXT) and ask natural language questions. The application uses a Retrieval-Augmented Generation (RAG) pipeline to extract document content, split it into semantic chunks, generate vector embeddings, retrieve the most relevant.",
+    "published_at": "2026-07-02T10:26:52Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "charlesbulabula/enterprise-rag-system",
+    "url": "https://github.com/charlesbulabula/enterprise-rag-system",
+    "source": "github",
+    "description": "Production-grade Retrieval-Augmented Generation system for enterprise knowledge bases",
+    "published_at": "2026-07-02T10:26:10Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "anthropic",
+        "langchain",
+        "llm",
+        "pinecone",
+        "python",
+        "rag",
+        "vector-search"
+      ]
+    }
+  },
+  {
+    "title": "HarshitBilagi/Hybrid-Token-Efficient-Routing-Agent",
+    "url": "https://github.com/HarshitBilagi/Hybrid-Token-Efficient-Routing-Agent",
+    "source": "github",
+    "description": "An autonomous routing layer that decides at inference time whether to send a query to a lightweight local model (Intel AI Boost NPU) or a powerful remote LLM (Groq/Fireworks AI), optimizing for token usage while maintaining accuracy constraints.  Built as a portfolio project inspired by the AMD Developer Hackathon ACT II problem statement.",
+    "published_at": "2026-07-02T10:25:13Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "p2kalita/LLM_Inference_Optimization",
+    "url": "https://github.com/p2kalita/LLM_Inference_Optimization",
+    "source": "github",
+    "description": "",
+    "published_at": "2026-07-02T10:04:34Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
