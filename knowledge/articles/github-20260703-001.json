@@ -1,0 +1,18 @@
+{
+  "id": "github-20260703-001",
+  "title": "MajidFQ/documind-rag",
+  "source_url": "https://github.com/MajidFQ/documind-rag",
+  "source": "github",
+  "summary": "documind-rag是一个基于RAG的聊天系统，支持PDF/DOCX文档交互，采用双分块策略、跨编码器重排序和自动忠实度/幻觉检查层。使用FastAPI、ChromaDB、sentence-transformers和Groq LLM构建，适用于需要高效文档检索和生成的场景。，基于模型推理的架构",
+  "score": 9.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T10:26:41.770709+00:00",
+  "published_at": "2026-07-03T10:25:34Z",
+  "collected_at": "2026-07-03T10:26:41.770709+00:00",
+  "description": "A Retrieval-Augmented Generation (RAG) system for chatting with PDF/DOCX documents — featuring dual chunking strategies, cross-encoder reranking, and an automated faithfulness/hallucination-check layer. Built with FastAPI, ChromaDB, sentence-transformers, and Groq LLM."
+}

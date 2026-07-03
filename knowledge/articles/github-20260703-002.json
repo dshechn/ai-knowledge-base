@@ -1,0 +1,18 @@
+{
+  "id": "github-20260703-002",
+  "title": "thimbleberrysystems/distill-rank",
+  "source_url": "https://github.com/thimbleberrysystems/distill-rank",
+  "source": "github",
+  "summary": "Distill-Rank通过数学矩阵分解（SVD）去除冗余权重，将大型LLM模型转化为低秩版本，优化推理速度和内存占用，实现大规模LLM与消费级硬件的兼容。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "python"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T10:26:41.770709+00:00",
+  "published_at": "2026-07-03T10:23:53Z",
+  "collected_at": "2026-07-03T10:26:41.770709+00:00",
+  "description": "Distill-Rank bridges the gap between massive LLMs and consumer hardware. It uses mathematical matrix decomposition (SVD) to strip away redundant weights, delivering a distilled, low-rank version of the model optimized for faster inference and lower memory footprints."
+}
