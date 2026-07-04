@@ -1,0 +1,17 @@
+{
+  "id": "github-20260704-001",
+  "title": "NicolasBohn/NexQuant",
+  "source_url": "https://github.com/NicolasBohn/NexQuant",
+  "source": "github",
+  "summary": "NexQuant是一个基于多智能体框架的自主AI量化策略研究代理，采用模型训练和推理技术，支持分布式架构和并发处理，适用于算法交易和回测场景，使用Python语言实现，具有算法和架构创新性，适用于金融科技领域。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T09:59:24.219720+00:00",
+  "published_at": "2026-07-04T09:58:29Z",
+  "collected_at": "2026-07-04T09:59:24.219720+00:00",
+  "description": "NexQuant is an autonomous AI agent for quantitative strategy research. Built on a multi-agent framework"
+}

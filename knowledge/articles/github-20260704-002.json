@@ -1,0 +1,18 @@
+{
+  "id": "github-20260704-002",
+  "title": "nitingawali27/rag-knowledge-explorer",
+  "source_url": "https://github.com/nitingawali27/rag-knowledge-explorer",
+  "source": "github",
+  "summary": "RAG-Knowledge-Explorer 是一个基于 Python 的检索增强生成（RAG）探索工具，用于智能文档摄取、语义搜索、嵌入、向量数据库和AI驱动的问答。它利用模型训练和推理技术，结合向量索引和缓存机制，提供高效的文档检索和问答服务。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T09:59:24.219720+00:00",
+  "published_at": "2026-07-04T09:58:09Z",
+  "collected_at": "2026-07-04T09:59:24.219720+00:00",
+  "description": "A Retrieval-Augmented Generation (RAG) Explorer for intelligent document ingestion, semantic search, embeddings, vector databases, and AI-powered question answering."
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "NicolasBohn/NexQuant",
+    "url": "https://github.com/NicolasBohn/NexQuant",
+    "source": "github",
+    "description": "NexQuant is an autonomous AI agent for quantitative strategy research. Built on a multi-agent framework",
+    "published_at": "2026-07-04T09:58:29Z",
+    "extra": {
+      "stars": 3,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "algorithmic-trading",
+        "autonomous-agents",
+        "backtesting",
+        "eurusd",
+        "forex",
+        "foundation-models",
+        "ftmo",
+        "kronos",
+        "llm",
+        "multi-agent",
+        "optuna",
+        "python",
+        "pytorch",
+        "quantitative-finance",
+        "streamlit",
+        "trading-bot"
+      ]
+    }
+  },
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-07-04T09:57:42Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "jhon1995-04/gigacheck",
+    "url": "https://github.com/jhon1995-04/gigacheck",
+    "source": "github",
+    "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets.",
+    "published_at": "2026-07-04T09:58:33Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "abft",
+        "cuda",
+        "matrix-multiplication"
+      ]
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-07-04T09:46:00Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "nitingawali27/rag-knowledge-explorer",
+    "url": "https://github.com/nitingawali27/rag-knowledge-explorer",
+    "source": "github",
+    "description": "A Retrieval-Augmented Generation (RAG) Explorer for intelligent document ingestion, semantic search, embeddings, vector databases, and AI-powered question answering.",
+    "published_at": "2026-07-04T09:58:09Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Anziya25/enterprise-rag-faiss-openai",
+    "url": "https://github.com/Anziya25/enterprise-rag-faiss-openai",
+    "source": "github",
+    "description": "Production-ready Retrieval Augmented Generation using FAISS and OpenAI",
+    "published_at": "2026-07-04T09:54:40Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "marcossangomes/SmartLLM-Router",
+    "url": "https://github.com/marcossangomes/SmartLLM-Router",
+    "source": "github",
+    "description": "🔍 Optimize LLM requests by routing them to the best models, while leveraging semantic caching and real-time cost analytics for efficient resource use.",
+    "published_at": "2026-07-04T09:56:28Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "cache",
+        "chatgpt",
+        "claude-ai",
+        "claude-code",
+        "cost-optimization",
+        "deepseek",
+        "fastapi",
+        "hacktoberfest",
+        "inference",
+        "llm",
+        "machine-learning",
+        "ollama",
+        "openai",
+        "pyth",
+        "python",
+        "pytorch-transformer",
+        "semantic",
+        "transformer"
+      ]
+    }
+  },
+  {
+    "title": "roshini0108/InferSim",
+    "url": "https://github.com/roshini0108/InferSim",
+    "source": "github",
+    "description": "🔍 Simulate LLM inference performance to identify bottlenecks and optimize models with InferSim, a lightweight and dependency-free Python tool.",
+    "published_at": "2026-07-04T09:27:25Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "deepseek",
+        "llm",
+        "llm-inference",
+        "qwen3",
+        "simulator"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
