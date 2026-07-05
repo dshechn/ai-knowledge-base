@@ -1,0 +1,18 @@
+{
+  "id": "github-20260705-001",
+  "title": "harumiWeb/xlflow",
+  "source_url": "https://github.com/harumiWeb/xlflow",
+  "source": "github",
+  "summary": "xlflow是一个基于Go语言的CLI框架，专为编辑、测试、运行、跟踪和比较Excel VBA项目而设计，支持AI-Agent集成，适用于自动化和开发者工具。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "go",
+    "devops",
+    "tooling"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T10:03:16.376659+00:00",
+  "published_at": "2026-07-05T10:00:38Z",
+  "collected_at": "2026-07-05T10:03:16.376659+00:00",
+  "description": "AI-Agent-ready CLI framework for editing, testing, running, tracing, and diffing Excel VBA projects."
+}

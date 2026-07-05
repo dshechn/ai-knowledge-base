@@ -1,0 +1,18 @@
+{
+  "id": "github-20260705-003",
+  "title": "Arpitrathore766/Nifty-RAG-bot",
+  "source_url": "https://github.com/Arpitrathore766/Nifty-RAG-bot",
+  "source": "github",
+  "summary": "Nifty-RAG-bot 是一个基于AI的金融助手，使用Python编写，能够抓取每日Nifty 50市场数据，处理非结构化企业文档（PDF），并通过Agentic RAG（检索增强生成）技术回答用户查询。该工具结合了数据抓取、文档处理和AI推理技术，适用于金融分析和自动化。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "ml"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T10:03:16.376659+00:00",
+  "published_at": "2026-07-05T09:59:11Z",
+  "collected_at": "2026-07-05T10:03:16.376659+00:00",
+  "description": "An AI-powered financial assistant that scrapes daily Nifty 50 market data, processes unstructured corporate documents (PDFs), and answers user queries using Agentic RAG (Retrieval-Augmented Generation)."
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-07-05T10:01:41Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "harumiWeb/xlflow",
+    "url": "https://github.com/harumiWeb/xlflow",
+    "source": "github",
+    "description": "AI-Agent-ready CLI framework for editing, testing, running, tracing, and diffing Excel VBA projects.",
+    "published_at": "2026-07-05T10:00:38Z",
+    "extra": {
+      "stars": 8,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "automation",
+        "cli",
+        "com",
+        "developer-tools",
+        "excel",
+        "excel-automation",
+        "excel-vba",
+        "golang",
+        "linting",
+        "spreadsheet",
+        "testing",
+        "vba",
+        "vba-tools",
+        "windows"
+      ]
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-07-05T10:00:28Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "mercurycontaminated-sandarac557/KnapsackRL",
+    "url": "https://github.com/mercurycontaminated-sandarac557/KnapsackRL",
+    "source": "github",
+    "description": "🎯 Optimize exploration budgets in Reinforcement Learning with KnapsackRL for more effective trajectory discovery in Large Language Models (LLMs).",
+    "published_at": "2026-07-05T09:54:43Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "algorithms",
+        "data-science",
+        "data-structures",
+        "deep-learning",
+        "dynamic-programming",
+        "knapsack-problem",
+        "machine-learning",
+        "open-source",
+        "optimization",
+        "python",
+        "reinforcement-learning",
+        "research",
+        "simulation",
+        "tool"
+      ]
+    }
+  },
+  {
+    "title": "kjgdgch65g/nl-rag-qdrant-legal",
+    "url": "https://github.com/kjgdgch65g/nl-rag-qdrant-legal",
+    "source": "github",
+    "description": "📄 Explore Retrieval-Augmented Generation for legal document Q&A, leveraging QDrant and Ollama AI models with C# and .NET 9.0.",
+    "published_at": "2026-07-05T10:02:16Z",
+    "extra": {
+      "stars": 6,
+      "language": "C#",
+      "topics": [
+        "ai",
+        "chatbot",
+        "csharp",
+        "dotnet",
+        "kernelmemory",
+        "legal-documents",
+        "legal-tech",
+        "legaltech",
+        "llm",
+        "local-ai",
+        "ollama",
+        "qdrant",
+        "rag",
+        "retrieval-augmented-generation",
+        "semantic-search",
+        "vector-search"
+      ]
+    }
+  },
+  {
+    "title": "Arpitrathore766/Nifty-RAG-bot",
+    "url": "https://github.com/Arpitrathore766/Nifty-RAG-bot",
+    "source": "github",
+    "description": "An AI-powered financial assistant that scrapes daily Nifty 50 market data, processes unstructured corporate documents (PDFs), and answers user queries using Agentic RAG (Retrieval-Augmented Generation).",
+    "published_at": "2026-07-05T09:59:11Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "roshini0108/InferSim",
+    "url": "https://github.com/roshini0108/InferSim",
+    "source": "github",
+    "description": "🔍 Simulate LLM inference performance to identify bottlenecks and optimize models with InferSim, a lightweight and dependency-free Python tool.",
+    "published_at": "2026-07-05T09:42:18Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "deepseek",
+        "llm",
+        "llm-inference",
+        "qwen3",
+        "simulator"
+      ]
+    }
+  },
+  {
+    "title": "sgtrusty/wssch",
+    "url": "https://github.com/sgtrusty/wssch",
+    "source": "github",
+    "description": "Takes care of you while you code for them 🫰🎇",
+    "published_at": "2026-07-05T09:01:31Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "agentic",
+        "ai",
+        "bubblewrap",
+        "bwrap",
+        "claude",
+        "gpt",
+        "inference",
+        "llm",
+        "mcp",
+        "node",
+        "opencode",
+        "optimization",
+        "security",
+        "token",
+        "typescript",
+        "virtualization",
+        "workspace"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

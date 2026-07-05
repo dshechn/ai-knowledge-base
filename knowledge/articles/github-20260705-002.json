@@ -1,0 +1,17 @@
+{
+  "id": "github-20260705-002",
+  "title": "kjgdgch65g/nl-rag-qdrant-legal",
+  "source_url": "https://github.com/kjgdgch65g/nl-rag-qdrant-legal",
+  "source": "github",
+  "summary": "本项目利用QDrant向量数据库和Ollama AI模型，通过C#和.NET 9.0实现法律文档问答的检索增强生成，采用分布式架构，支持高并发和缓存机制，适用于法律行业知识库。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "distributed-systems"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T10:03:16.376659+00:00",
+  "published_at": "2026-07-05T10:02:16Z",
+  "collected_at": "2026-07-05T10:03:16.376659+00:00",
+  "description": "📄 Explore Retrieval-Augmented Generation for legal document Q&A, leveraging QDrant and Ollama AI models with C# and .NET 9.0."
+}

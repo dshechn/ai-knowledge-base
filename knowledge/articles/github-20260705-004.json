@@ -1,0 +1,18 @@
+{
+  "id": "github-20260705-004",
+  "title": "sgtrusty/wssch",
+  "source_url": "https://github.com/sgtrusty/wssch",
+  "source": "github",
+  "summary": "wssch 是一个基于 TypeScript 开发的工具，旨在提高编程效率。它通过智能代理（agentic）技术，结合 AI 和 bubblewrap 功能，为开发者提供代码训练、推理和向量索引等智能服务，同时支持缓存和框架集成，适用于分布式微服务架构，旨在提升开发性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T10:03:16.376659+00:00",
+  "published_at": "2026-07-05T09:01:31Z",
+  "collected_at": "2026-07-05T10:03:16.376659+00:00",
+  "description": "Takes care of you while you code for them 🫰🎇"
+}
