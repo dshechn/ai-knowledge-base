@@ -1,0 +1,18 @@
+{
+  "id": "github-20260706-002",
+  "title": "hjqcan/GoodMemory",
+  "source_url": "https://github.com/hjqcan/GoodMemory",
+  "source": "github",
+  "summary": "GoodMemory 是一个可插拔的用户记忆层，专为 AI 应用设计，旨在帮助 chatbox、copilot、agent 和 workflow assistant 在不重训模型的情况下记住用户。它关注记忆的存储、更新、检索、压缩、引用、删除以及跨边界控制，是一个个人上下文引擎/记忆层。该工具利用 TypeScript 开发，适用于需要高效记忆管理的 AI 应用场景。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T11:54:46.736230+00:00",
+  "published_at": "2026-07-06T11:52:56Z",
+  "collected_at": "2026-07-06T11:54:46.736230+00:00",
+  "description": "GoodMemory 是一个面向 AI 应用的**可插拔用户记忆层**。  它不替代： - LLM - agent framework - 向量数据库 - RAG 系统  它专注解决一个更具体的问题：  > **如何让任何 chatbox / copilot / agent / workflow assistant 在不重训模型的前提下，真正“记住用户”。**  GoodMemory 的核心不是“存更多”，而是：  - 记什么 - 何时更新 - 如何检索 - 如何压缩 - 为什么引用 - 如何删除 - 如何控制跨 agent / 跨项目 / 跨租户边界  它的本质是一个：  > **Perso"
+}

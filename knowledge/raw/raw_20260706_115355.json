@@ -1,0 +1,152 @@
+[
+  {
+    "title": "SeJonJ/SAGE",
+    "url": "https://github.com/SeJonJ/SAGE",
+    "source": "github",
+    "description": "System for Agentic Governance & Engineering — runtime-selectable AI harness framework",
+    "published_at": "2026-07-06T11:53:15Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "hjqcan/GoodMemory",
+    "url": "https://github.com/hjqcan/GoodMemory",
+    "source": "github",
+    "description": "GoodMemory 是一个面向 AI 应用的**可插拔用户记忆层**。  它不替代： - LLM - agent framework - 向量数据库 - RAG 系统  它专注解决一个更具体的问题：  > **如何让任何 chatbox / copilot / agent / workflow assistant 在不重训模型的前提下，真正“记住用户”。**  GoodMemory 的核心不是“存更多”，而是：  - 记什么 - 何时更新 - 如何检索 - 如何压缩 - 为什么引用 - 如何删除 - 如何控制跨 agent / 跨项目 / 跨租户边界  它的本质是一个：  > **Personal Context Engine / Memory Layer for AI Apps**",
+    "published_at": "2026-07-06T11:52:56Z",
+    "extra": {
+      "stars": 3,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-07-06T11:32:24Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "mercurycontaminated-sandarac557/KnapsackRL",
+    "url": "https://github.com/mercurycontaminated-sandarac557/KnapsackRL",
+    "source": "github",
+    "description": "🎯 Optimize exploration budgets in Reinforcement Learning with KnapsackRL for more effective trajectory discovery in Large Language Models (LLMs).",
+    "published_at": "2026-07-06T11:26:19Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "algorithms",
+        "data-science",
+        "data-structures",
+        "deep-learning",
+        "dynamic-programming",
+        "knapsack-problem",
+        "machine-learning",
+        "open-source",
+        "optimization",
+        "python",
+        "reinforcement-learning",
+        "research",
+        "simulation",
+        "tool"
+      ]
+    }
+  },
+  {
+    "title": "samiremon2001/youtube-rag-chatbot",
+    "url": "https://github.com/samiremon2001/youtube-rag-chatbot",
+    "source": "github",
+    "description": "A Retrieval-Augmented Generation (RAG) chatbot that answers questions about YouTube videos using transcript retrieval, ChromaDB, LangChain, LLM, FastAPI, and React.",
+    "published_at": "2026-07-06T11:51:23Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "vibhark04/Genai",
+    "url": "https://github.com/vibhark04/Genai",
+    "source": "github",
+    "description": "Developed a Bias-Aware Retrieval-Augmented Generation (RAG) conversational AI system that detects and neutralises biased user queries, retrieves verified evidence using Sentence-BERT from the FEVER dataset, and generates factual responses with FLAN-T5, significantly reducing hallucinations and improving fairness and reliability in AI-generated text",
+    "published_at": "2026-07-06T11:51:38Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "marcossangomes/SmartLLM-Router",
+    "url": "https://github.com/marcossangomes/SmartLLM-Router",
+    "source": "github",
+    "description": "🔍 Optimize LLM requests by routing them to the best models, while leveraging semantic caching and real-time cost analytics for efficient resource use.",
+    "published_at": "2026-07-06T11:42:52Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "cache",
+        "chatgpt",
+        "claude-ai",
+        "claude-code",
+        "cost-optimization",
+        "deepseek",
+        "fastapi",
+        "hacktoberfest",
+        "inference",
+        "llm",
+        "machine-learning",
+        "ollama",
+        "openai",
+        "pyth",
+        "python",
+        "pytorch-transformer",
+        "semantic",
+        "transformer"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA/Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "source": "github",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "published_at": "2026-07-06T11:34:14Z",
+    "extra": {
+      "stars": 3122,
+      "language": "Python",
+      "topics": []
+    }
+  }
+]

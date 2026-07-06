@@ -1,0 +1,18 @@
+{
+  "id": "github-20260706-004",
+  "title": "vibhark04/Genai",
+  "source_url": "https://github.com/vibhark04/Genai",
+  "source": "github",
+  "summary": "Genai 是一个基于 Bias-Aware RAG 的对话式 AI 系统，通过 Sentence-BERT 检测和中和用户查询中的偏见，使用 FEVER 数据集检索验证的证据，并利用 FLAN-T5 生成事实性回应，显著降低幻觉并提高 AI 文本生成的公平性和可靠性。，基于模型推理的架构",
+  "score": 9.0,
+  "tags": [
+    "ai",
+    "nlp",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T11:54:46.736230+00:00",
+  "published_at": "2026-07-06T11:51:38Z",
+  "collected_at": "2026-07-06T11:54:46.736230+00:00",
+  "description": "Developed a Bias-Aware Retrieval-Augmented Generation (RAG) conversational AI system that detects and neutralises biased user queries, retrieves verified evidence using Sentence-BERT from the FEVER dataset, and generates factual responses with FLAN-T5, significantly reducing hallucinations and impro"
+}

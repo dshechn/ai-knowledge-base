@@ -1,0 +1,18 @@
+{
+  "id": "github-20260706-003",
+  "title": "samiremon2001/youtube-rag-chatbot",
+  "source_url": "https://github.com/samiremon2001/youtube-rag-chatbot",
+  "source": "github",
+  "summary": "该开源项目实现了一个基于检索增强生成（RAG）的YouTube视频问答聊天机器人，利用转录检索、ChromaDB、LangChain、LLM、FastAPI和React技术，通过视频转录和数据库检索来回答用户问题，适用于需要视频内容理解的场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "frontend"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T11:54:46.736230+00:00",
+  "published_at": "2026-07-06T11:51:23Z",
+  "collected_at": "2026-07-06T11:54:46.736230+00:00",
+  "description": "A Retrieval-Augmented Generation (RAG) chatbot that answers questions about YouTube videos using transcript retrieval, ChromaDB, LangChain, LLM, FastAPI, and React."
+}
