@@ -1,0 +1,16 @@
+{
+  "id": "github-20260707-002",
+  "title": "parapet-ai/parapet",
+  "source_url": "https://github.com/parapet-ai/parapet",
+  "source": "github",
+  "summary": "Parapet-ai/Parapet 是一个本地优先的AI代理框架，具有5层容器加固。它可以在本地运行Ollama模型，无需云服务、遥测或API密钥。通过iptables、DNS水坑、seccomp和只读rootfs提供安全保护，支持离线推理。",
+  "score": 8.0,
+  "tags": [
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T10:45:10.272105+00:00",
+  "published_at": "2026-07-07T10:44:01Z",
+  "collected_at": "2026-07-07T10:45:10.272105+00:00",
+  "description": "Local-first AI agent framework with 5-layer container hardening. Runs Ollama models offline behind iptables, DNS sinkhole, seccomp, and read-only rootfs. No cloud, no telemetry, no API keys."
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "chiivy/aist",
+    "url": "https://github.com/chiivy/aist",
+    "source": "github",
+    "description": "Agentic Injection Security Tester —  open source prompt injection testing framework  for AI agents",
+    "published_at": "2026-07-07T10:44:15Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "parapet-ai/parapet",
+    "url": "https://github.com/parapet-ai/parapet",
+    "source": "github",
+    "description": "Local-first AI agent framework with 5-layer container hardening. Runs Ollama models offline behind iptables, DNS sinkhole, seccomp, and read-only rootfs. No cloud, no telemetry, no API keys.",
+    "published_at": "2026-07-07T10:44:01Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "container-hardening",
+        "docker",
+        "local-ai",
+        "mit-license",
+        "offline",
+        "ollama",
+        "privacy",
+        "security",
+        "self-hosted"
+      ]
+    }
+  },
+  {
+    "title": "ritartistry/HAL",
+    "url": "https://github.com/ritartistry/HAL",
+    "source": "github",
+    "description": "HAL is a secure HTTP API Layer for Large Language Models, enabling seamless web API interactions and automatic tool generation from OpenAPI specs. 🚀🌐",
+    "published_at": "2026-07-07T10:35:15Z",
+    "extra": {
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "analyze",
+        "compiler",
+        "cryptocurrency",
+        "cryptography",
+        "dsl",
+        "embedded",
+        "face-animation",
+        "fpga",
+        "go",
+        "gpu",
+        "halo",
+        "image-animation",
+        "integrated-circuits",
+        "javascript",
+        "network",
+        "objective-c",
+        "security",
+        "source-code"
+      ]
+    }
+  },
+  {
+    "title": "hsk9988660/LangChain-AI-Assistant",
+    "url": "https://github.com/hsk9988660/LangChain-AI-Assistant",
+    "source": "github",
+    "description": "An intelligent AI assistant built with LangChain and Python that integrates Large Language Models (LLMs) with tools, memory, and retrieval capabilities. The project demonstrates how to build production-ready AI applications using prompt engineering, chains, agents, and Retrieval-Augmented Generation (RAG).",
+    "published_at": "2026-07-07T10:32:51Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "TheodoreKether/sage_rag",
+    "url": "https://github.com/TheodoreKether/sage_rag",
+    "source": "github",
+    "description": "SAGE-RAG: A Structure-Aware Graph Evidence Retrieval framework for Budget-Adaptive Retrieval-Augmented Generation over standard and regulatory documents.",
+    "published_at": "2026-07-06T10:00:46Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "GNANESWARKOKKIRALA/Ai-RAG-Chatbot",
+    "url": "https://github.com/GNANESWARKOKKIRALA/Ai-RAG-Chatbot",
+    "source": "github",
+    "description": "Ai-Rag-Chatbot is an intelligent question-answering system that lets users upload documents and get instant, accurate answers. It combines Retrieval-Augmented Generation (RAG) with ChromaDB for semantic search and LLaMA 3.3 70B via Groq API for AI-powered responses .",
+    "published_at": "2026-07-07T10:40:12Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "source": "github",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "published_at": "2026-07-07T10:32:45Z",
+    "extra": {
+      "stars": 3151,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "lounishamroun/tiny-inference-optimization-lab",
+    "url": "https://github.com/lounishamroun/tiny-inference-optimization-lab",
+    "source": "github",
+    "description": "A from-scratch LLM inference optimization playground: PyTorch baseline → torch.compile → Triton kernels → profiling → KV-cache experiments.",
+    "published_at": "2026-07-07T10:28:51Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  }
+]

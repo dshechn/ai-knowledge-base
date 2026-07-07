@@ -1,0 +1,18 @@
+{
+  "id": "github-20260707-004",
+  "title": "TheodoreKether/sage_rag",
+  "source_url": "https://github.com/TheodoreKether/sage_rag",
+  "source": "github",
+  "summary": "SAGE-RAG是一个结构感知图证据检索框架，用于在标准法规文档上进行预算自适应检索增强生成。该框架通过图结构分析和向量索引优化检索性能，支持API和SDK调用，适用于分布式微服务架构，并注重性能和并发处理。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T10:45:10.272105+00:00",
+  "published_at": "2026-07-06T10:00:46Z",
+  "collected_at": "2026-07-07T10:45:10.272105+00:00",
+  "description": "SAGE-RAG: A Structure-Aware Graph Evidence Retrieval framework for Budget-Adaptive Retrieval-Augmented Generation over standard and regulatory documents."
+}

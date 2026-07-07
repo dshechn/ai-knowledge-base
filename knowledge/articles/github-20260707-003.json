@@ -1,0 +1,18 @@
+{
+  "id": "github-20260707-003",
+  "title": "hsk9988660/LangChain-AI-Assistant",
+  "source_url": "https://github.com/hsk9988660/LangChain-AI-Assistant",
+  "source": "github",
+  "summary": "LangChain-AI-Assistant 是一个基于 LangChain 和 Python 构建的智能 AI 助手，它将大型语言模型（LLMs）与工具、记忆和检索能力集成。该项目展示了如何使用提示工程、链、代理和检索增强生成（RAG）构建生产就绪的 AI 应用程序。，基于模型推理的架构",
+  "score": 9.0,
+  "tags": [
+    "ai",
+    "python",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T10:45:10.272105+00:00",
+  "published_at": "2026-07-07T10:32:51Z",
+  "collected_at": "2026-07-07T10:45:10.272105+00:00",
+  "description": "An intelligent AI assistant built with LangChain and Python that integrates Large Language Models (LLMs) with tools, memory, and retrieval capabilities. The project demonstrates how to build production-ready AI applications using prompt engineering, chains, agents, and Retrieval-Augmented Generation"
+}
