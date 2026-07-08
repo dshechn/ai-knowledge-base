@@ -1,0 +1,196 @@
+[
+  {
+    "title": "MervinPraison/PraisonAI",
+    "url": "https://github.com/MervinPraison/PraisonAI",
+    "source": "github",
+    "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
+    "published_at": "2026-07-08T10:05:35Z",
+    "extra": {
+      "stars": 8360,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agent-framework",
+        "ai-agent-sdk",
+        "ai-agents",
+        "ai-agents-framework",
+        "ai-agents-sdk",
+        "ai-framwork",
+        "aiagent",
+        "aiagentframework",
+        "aiagents",
+        "aiagentsframework",
+        "framework",
+        "hermes",
+        "hermes-agent",
+        "multi-agent",
+        "multi-agent-system",
+        "multi-agents",
+        "multi-ai-agents",
+        "openclaw"
+      ]
+    }
+  },
+  {
+    "title": "sotirischatzimiltis/AI-for-RAN-Resilience",
+    "url": "https://github.com/sotirischatzimiltis/AI-for-RAN-Resilience",
+    "source": "github",
+    "description": "Agentic simulation framework for signaling-storm resilience in Open RAN",
+    "published_at": "2026-07-08T10:05:29Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "jhon1995-04/gigacheck",
+    "url": "https://github.com/jhon1995-04/gigacheck",
+    "source": "github",
+    "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets.",
+    "published_at": "2026-07-08T10:02:39Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "abft",
+        "cuda",
+        "matrix-multiplication"
+      ]
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-07-08T09:50:10Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "Islam1264/RAG-Interview-Questions-and-Answers-Hub",
+    "url": "https://github.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub",
+    "source": "github",
+    "description": "🚀 Explore 100+ RAG interview questions and answers to prepare effectively for your next job interview in the field of retrieval-augmented generation.",
+    "published_at": "2026-07-08T10:04:30Z",
+    "extra": {
+      "stars": 4,
+      "language": null,
+      "topics": [
+        "cncf",
+        "deep-learning",
+        "dune-2000",
+        "game-engine",
+        "interview-practice",
+        "javascript",
+        "leetcode",
+        "list",
+        "machine-learning",
+        "raft-consensus-algorithm",
+        "react",
+        "react16",
+        "real-time-strategy",
+        "strategy-game-engine",
+        "tiberian-dawn"
+      ]
+    }
+  },
+  {
+    "title": "infiniflow/ragflow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "source": "github",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "published_at": "2026-07-08T10:05:42Z",
+    "extra": {
+      "stars": 84585,
+      "language": "Go",
+      "topics": [
+        "agentic-ai",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai",
+        "ai-agents",
+        "context-engine",
+        "context-management",
+        "llm-apps",
+        "rag",
+        "retrieval-augmented-generation"
+      ]
+    }
+  },
+  {
+    "title": "marcossangomes/SmartLLM-Router",
+    "url": "https://github.com/marcossangomes/SmartLLM-Router",
+    "source": "github",
+    "description": "🔍 Optimize LLM requests by routing them to the best models, while leveraging semantic caching and real-time cost analytics for efficient resource use.",
+    "published_at": "2026-07-08T10:00:49Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "cache",
+        "chatgpt",
+        "claude-ai",
+        "claude-code",
+        "cost-optimization",
+        "deepseek",
+        "fastapi",
+        "hacktoberfest",
+        "inference",
+        "llm",
+        "machine-learning",
+        "ollama",
+        "openai",
+        "pyth",
+        "python",
+        "pytorch-transformer",
+        "semantic",
+        "transformer"
+      ]
+    }
+  },
+  {
+    "title": "Kparos000/LLM-Inference-Optimization-Suite",
+    "url": "https://github.com/Kparos000/LLM-Inference-Optimization-Suite",
+    "source": "github",
+    "description": "",
+    "published_at": "2026-07-08T09:59:07Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

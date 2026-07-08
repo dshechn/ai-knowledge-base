@@ -1,0 +1,18 @@
+{
+  "id": "github-20260708-003",
+  "title": "Kparos000/LLM-Inference-Optimization-Suite",
+  "source_url": "https://github.com/Kparos000/LLM-Inference-Optimization-Suite",
+  "source": "github",
+  "summary": "LLM-Inference-Optimization-Suite 是一个基于 Python 的开源项目，专注于大型语言模型（LLM）的推理优化。该项目通过模型训练、推理加速、向量索引优化和缓存策略，显著提升了LLM的推理性能。它适用于需要高性能LLM推理的场景，如自然语言处理和机器学习应用。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T10:06:40.820839+00:00",
+  "published_at": "2026-07-08T09:59:07Z",
+  "collected_at": "2026-07-08T10:06:40.820839+00:00",
+  "description": ""
+}

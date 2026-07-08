@@ -1,0 +1,18 @@
+{
+  "id": "github-20260708-001",
+  "title": "sotirischatzimiltis/AI-for-RAN-Resilience",
+  "source_url": "https://github.com/sotirischatzimiltis/AI-for-RAN-Resilience",
+  "source": "github",
+  "summary": "该开源项目是一个用于Open RAN信号风暴抵抗的代理模拟框架，利用机器学习模型进行训练和推理，优化网络架构和性能，支持分布式和微服务架构，旨在提高网络的鲁棒性和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T10:06:40.820839+00:00",
+  "published_at": "2026-07-08T10:05:29Z",
+  "collected_at": "2026-07-08T10:06:40.820839+00:00",
+  "description": "Agentic simulation framework for signaling-storm resilience in Open RAN"
+}
