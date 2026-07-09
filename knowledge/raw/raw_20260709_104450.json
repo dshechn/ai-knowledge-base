@@ -1,0 +1,172 @@
+[
+  {
+    "title": "mayf3/openclaw-skills",
+    "url": "https://github.com/mayf3/openclaw-skills",
+    "source": "github",
+    "description": "Original, handcrafted OpenClaw AI agent skills — browser automation, image generation, search, learning framework, and daily utilities",
+    "published_at": "2026-07-09T10:43:57Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-07-09T10:43:35Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Eternal-Wanderer-Vegetable/FlexiWeb_Stream_Scraper",
+    "url": "https://github.com/Eternal-Wanderer-Vegetable/FlexiWeb_Stream_Scraper",
+    "source": "github",
+    "description": "An LLM web-chat scraping tool that mimics API functionality, supporting a wide range of Large Language Models. 一个模仿API功能的LLM网页聊天文本抓取工具，支持多种大语言模型。",
+    "published_at": "2026-07-09T10:31:44Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "deepseek-api",
+        "gemini-api",
+        "grok-api",
+        "llm-tools",
+        "openai-api",
+        "playwright-automation",
+        "python",
+        "qwen-api",
+        "web-scraping"
+      ]
+    }
+  },
+  {
+    "title": "jhon1995-04/gigacheck",
+    "url": "https://github.com/jhon1995-04/gigacheck",
+    "source": "github",
+    "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets.",
+    "published_at": "2026-07-09T10:30:50Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "abft",
+        "cuda",
+        "matrix-multiplication"
+      ]
+    }
+  },
+  {
+    "title": "asadali031/ai-studies",
+    "url": "https://github.com/asadali031/ai-studies",
+    "source": "github",
+    "description": "🤖 Build professional AI systems from scratch with a complete roadmap for Retrieval-Augmented Generation (RAG) studies and applications.",
+    "published_at": "2026-07-09T10:44:19Z",
+    "extra": {
+      "stars": 2,
+      "language": null,
+      "topics": [
+        "ai",
+        "awesome",
+        "azure-ai-engineer",
+        "azure-ai-engineer-ai-102",
+        "azure-ai-engineer-exam",
+        "azure-ai-engineers",
+        "business-process-automation",
+        "customer-engagement",
+        "customer-support",
+        "data-science",
+        "free",
+        "low-code",
+        "lowcode",
+        "machine-learning",
+        "process-automation",
+        "python",
+        "sam",
+        "segment-anything",
+        "social-network-analysis",
+        "workflow-automation"
+      ]
+    }
+  },
+  {
+    "title": "persona-net/rag-pipeline-dashboard",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard",
+    "source": "github",
+    "description": "📊 Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly dashboard.",
+    "published_at": "2026-07-09T10:42:35Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "aiforsocialgood",
+        "dashboard",
+        "databricks",
+        "elixir",
+        "faiss",
+        "faiss-vector-database",
+        "llama-cpp",
+        "macos",
+        "nodejs",
+        "openai",
+        "pgvector",
+        "pipeline",
+        "rag",
+        "rag-pipeline",
+        "spark",
+        "text-embedding",
+        "tweet-analysis",
+        "typescript",
+        "vector-database"
+      ]
+    }
+  },
+  {
+    "title": "boyazzam/kvcache-autotune",
+    "url": "https://github.com/boyazzam/kvcache-autotune",
+    "source": "github",
+    "description": "🚀 Optimize your KVCache performance with automatic tuning for efficient resource management and improved speed in LLM applications.",
+    "published_at": "2026-07-09T10:42:20Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "deep-learning",
+        "huggingface",
+        "inference",
+        "kv-cache",
+        "llm",
+        "machine-learning",
+        "nlp",
+        "optimization",
+        "pytorch",
+        "transformers"
+      ]
+    }
+  },
+  {
+    "title": "lounishamroun/tiny-inference-optimization-lab",
+    "url": "https://github.com/lounishamroun/tiny-inference-optimization-lab",
+    "source": "github",
+    "description": "A from-scratch LLM inference optimization playground: PyTorch baseline → torch.compile → Triton kernels → profiling → KV-cache experiments.",
+    "published_at": "2026-07-09T10:32:00Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

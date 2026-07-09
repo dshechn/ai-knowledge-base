@@ -1,0 +1,17 @@
+{
+  "id": "github-20260709-003",
+  "title": "persona-net/rag-pipeline-dashboard",
+  "source_url": "https://github.com/persona-net/rag-pipeline-dashboard",
+  "source": "github",
+  "summary": "Persona-Net的RAG-Pipeline Dashboard是一个基于TypeScript构建的实时监控和文档处理的用户友好型仪表板，用于管理检索增强生成（RAG）管道，支持实时监控和文档处理，适用于需要高效管理RAG模型训练、推理和性能监控的场景。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-09T10:45:31.870235+00:00",
+  "published_at": "2026-07-09T10:42:35Z",
+  "collected_at": "2026-07-09T10:45:31.870235+00:00",
+  "description": "📊 Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly dashboard."
+}
