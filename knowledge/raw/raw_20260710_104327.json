@@ -1,0 +1,218 @@
+[
+  {
+    "title": "ARTPARK-SAHAI-ORG/calibrate-backend",
+    "url": "https://github.com/ARTPARK-SAHAI-ORG/calibrate-backend",
+    "source": "github",
+    "description": "Backend for Calibrate, a framework for evaluating AI agents: speech-to-text, text-to-speech, LLM evaluation, end-to-end simulations",
+    "published_at": "2026-07-10T10:43:12Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-engineering",
+        "ai-evals",
+        "ai-evaluation",
+        "ai-evaluation-framework",
+        "ai-evaluation-tools",
+        "asr-evaluation",
+        "llm-benchmark",
+        "llm-evals",
+        "llm-evaluation",
+        "llm-evaluation-framework",
+        "pipecat",
+        "stt-benchmark",
+        "tts-evaluation",
+        "voice-agent-evals",
+        "voice-agents",
+        "voice-ai"
+      ]
+    }
+  },
+  {
+    "title": "YASSERRMD/Ancora",
+    "url": "https://github.com/YASSERRMD/Ancora",
+    "source": "github",
+    "description": "Rust-core agentic framework with durable journal, exactly-once replay, Ed25519 A2A identity, and MCP tool server. Bindings for Go, Python, TypeScript, .NET, and Java via C ABI.",
+    "published_at": "2026-07-10T10:43:04Z",
+    "extra": {
+      "stars": 2,
+      "language": "Rust",
+      "topics": [
+        "a2a-protocol",
+        "agentic-framework",
+        "ai",
+        "ai-agents",
+        "dotnet",
+        "ffi",
+        "framework",
+        "go",
+        "java",
+        "journal",
+        "llm",
+        "local-first",
+        "mcp",
+        "multi-agent",
+        "ollama",
+        "open-source",
+        "opentelemetry",
+        "python",
+        "rust",
+        "typescript"
+      ]
+    }
+  },
+  {
+    "title": "jhon1995-04/gigacheck",
+    "url": "https://github.com/jhon1995-04/gigacheck",
+    "source": "github",
+    "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets.",
+    "published_at": "2026-07-10T10:31:40Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "abft",
+        "cuda",
+        "matrix-multiplication"
+      ]
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-07-10T10:18:42Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "persona-net/rag-pipeline-dashboard",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard",
+    "source": "github",
+    "description": "📊 Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly dashboard.",
+    "published_at": "2026-07-10T10:43:08Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": [
+        "aiforsocialgood",
+        "dashboard",
+        "databricks",
+        "elixir",
+        "faiss",
+        "faiss-vector-database",
+        "llama-cpp",
+        "macos",
+        "nodejs",
+        "openai",
+        "pgvector",
+        "pipeline",
+        "rag",
+        "rag-pipeline",
+        "spark",
+        "text-embedding",
+        "tweet-analysis",
+        "typescript",
+        "vector-database"
+      ]
+    }
+  },
+  {
+    "title": "opnsrcntrbtr/sebi-circular-rag",
+    "url": "https://github.com/opnsrcntrbtr/sebi-circular-rag",
+    "source": "github",
+    "description": "A local-first, Apple-Silicon Retrieval-Augmented Generation system over Indian SEBI circulars. It scrapes official circulars, segments and indexes them, retrieves with hybrid search + cross-encoder reranking, generates grounded answers with an abstention gate, and returns citations with supersession status and a faithfulness check — behind a config",
+    "published_at": "2026-07-10T10:41:12Z",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": []
+    }
+  },
+  {
+    "title": "boyazzam/kvcache-autotune",
+    "url": "https://github.com/boyazzam/kvcache-autotune",
+    "source": "github",
+    "description": "🚀 Optimize your KVCache performance with automatic tuning for efficient resource management and improved speed in LLM applications.",
+    "published_at": "2026-07-10T10:43:02Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "deep-learning",
+        "huggingface",
+        "inference",
+        "kv-cache",
+        "llm",
+        "machine-learning",
+        "nlp",
+        "optimization",
+        "pytorch",
+        "transformers"
+      ]
+    }
+  },
+  {
+    "title": "marcossangomes/SmartLLM-Router",
+    "url": "https://github.com/marcossangomes/SmartLLM-Router",
+    "source": "github",
+    "description": "🔍 Optimize LLM requests by routing them to the best models, while leveraging semantic caching and real-time cost analytics for efficient resource use.",
+    "published_at": "2026-07-10T10:29:10Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "cache",
+        "chatgpt",
+        "claude-ai",
+        "claude-code",
+        "cost-optimization",
+        "deepseek",
+        "fastapi",
+        "hacktoberfest",
+        "inference",
+        "llm",
+        "machine-learning",
+        "ollama",
+        "openai",
+        "pyth",
+        "python",
+        "pytorch-transformer",
+        "semantic",
+        "transformer"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
