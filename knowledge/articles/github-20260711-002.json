@@ -1,0 +1,18 @@
+{
+  "id": "github-20260711-002",
+  "title": "joheli/oneshot",
+  "source_url": "https://github.com/joheli/oneshot",
+  "source": "github",
+  "summary": "oneshot 是一个用于向大型语言模型发送单次、无状态的请求的轻量级命令行工具。它支持高效的模型推理和API调用，适用于需要快速处理大量请求的场景，如聊天机器人、问答系统等。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "api"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T09:16:38.370086+00:00",
+  "published_at": "2026-07-11T09:14:45Z",
+  "collected_at": "2026-07-11T09:16:38.370086+00:00",
+  "description": "oneshot is a small command-line tool for sending single, stateless requests to large language models."
+}

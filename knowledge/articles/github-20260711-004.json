@@ -1,0 +1,18 @@
+{
+  "id": "github-20260711-004",
+  "title": "ashen4444/epsa-rag",
+  "source_url": "https://github.com/ashen4444/epsa-rag",
+  "source": "github",
+  "summary": "EPSA-RAG是一个研究级系统，利用混合检索和证据路径充分性剪枝，实现高效的跨跳检索增强生成。该系统采用Python编写，支持高效的模型训练和推理，适用于需要高性能和低内存消耗的场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T09:16:38.370086+00:00",
+  "published_at": "2026-07-11T09:07:13Z",
+  "collected_at": "2026-07-11T09:16:38.370086+00:00",
+  "description": "Research-grade EPSA-RAG system for token-efficient multi-hop Retrieval-Augmented Generation using hybrid retrieval and evidence path sufficiency pruning."
+}

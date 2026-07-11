@@ -1,0 +1,18 @@
+{
+  "id": "github-20260711-005",
+  "title": "Sheikh-Anas-Tauseef/rag-pdf-chatbot",
+  "source_url": "https://github.com/Sheikh-Anas-Tauseef/rag-pdf-chatbot",
+  "source": "github",
+  "summary": "该开源项目实现了一个基于RAG管道的对话式问答机器人，能够从PDF文档中提取信息并回答问题。使用LangChain、Groq LLM API、ChromaDB、HuggingFace embeddings和Gradio界面构建，支持多PDF上传和记住聊天历史。核心技术包括模型训练、推理、向量索引和缓存，应用场景为需要从PDF文档中快速获取信息的场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T09:16:38.370086+00:00",
+  "published_at": "2026-07-11T09:05:57Z",
+  "collected_at": "2026-07-11T09:16:38.370086+00:00",
+  "description": "A conversational QA bot that answers questions from PDF documents using a Retrieval-Augmented Generation (RAG) pipeline — built with LangChain, Groq LLM API, ChromaDB, HuggingFace embeddings, and a Gradio interface. Supports multi-PDF upload and remembers chat history for follow-up questions."
+}

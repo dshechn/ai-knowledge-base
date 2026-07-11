@@ -1,0 +1,18 @@
+{
+  "id": "github-20260711-006",
+  "title": "nvmmonkey/kvcache-coordinated-latency",
+  "source_url": "https://github.com/nvmmonkey/kvcache-coordinated-latency",
+  "source": "github",
+  "summary": "该项目在vLLM 0.4.1上实现了基于LTR的LLM推理调度，通过交换预emption提升了2.1倍性能。同时，通过KV-cache优化（TurboQuant/KVmix）在Llama-3.1-8B模型上实现了协调延迟。项目使用Python语言，涉及模型训练、推理、缓存优化和分布式架构。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T09:16:38.370086+00:00",
+  "published_at": "2026-07-11T08:56:20Z",
+  "collected_at": "2026-07-11T09:16:38.370086+00:00",
+  "description": "Capstone (CSCI 6806): LTR-based LLM inference scheduling reproduced on vLLM 0.4.1 (2.1x via swap preemption) + KV-cache optimizations (TurboQuant/KVmix) on Llama-3.1-8B."
+}

@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-07-11T09:15:19Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "AgentMaturity/AgentMaturityCompass",
+    "url": "https://github.com/AgentMaturity/AgentMaturityCompass",
+    "source": "github",
+    "description": "Evidence-based maturity framework for AI agents — 235 questions, 5 layers, CLI + SDK. Score, red-team, and ship with proof.",
+    "published_at": "2026-07-11T09:14:45Z",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "ai-safety",
+        "governance",
+        "llm-evaluation",
+        "maturity-model",
+        "red-teaming"
+      ]
+    }
+  },
+  {
+    "title": "joheli/oneshot",
+    "url": "https://github.com/joheli/oneshot",
+    "source": "github",
+    "description": "oneshot is a small command-line tool for sending single, stateless requests to large language models.",
+    "published_at": "2026-07-11T09:14:45Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "yamadashy/repomix",
+    "url": "https://github.com/yamadashy/repomix",
+    "source": "github",
+    "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+    "published_at": "2026-07-11T09:05:14Z",
+    "extra": {
+      "stars": 27057,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "anthropic",
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "developer-tools",
+        "gemini",
+        "genai",
+        "generative-ai",
+        "gpt",
+        "javascript",
+        "language-model",
+        "llama",
+        "llm",
+        "mcp",
+        "nodejs",
+        "openai",
+        "typescript"
+      ]
+    }
+  },
+  {
+    "title": "ashen4444/epsa-rag",
+    "url": "https://github.com/ashen4444/epsa-rag",
+    "source": "github",
+    "description": "Research-grade EPSA-RAG system for token-efficient multi-hop Retrieval-Augmented Generation using hybrid retrieval and evidence path sufficiency pruning.",
+    "published_at": "2026-07-11T09:07:13Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Sheikh-Anas-Tauseef/rag-pdf-chatbot",
+    "url": "https://github.com/Sheikh-Anas-Tauseef/rag-pdf-chatbot",
+    "source": "github",
+    "description": "A conversational QA bot that answers questions from PDF documents using a Retrieval-Augmented Generation (RAG) pipeline — built with LangChain, Groq LLM API, ChromaDB, HuggingFace embeddings, and a Gradio interface. Supports multi-PDF upload and remembers chat history for follow-up questions.",
+    "published_at": "2026-07-11T09:05:57Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "SidharthKriplani/genai-systems-lab",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab",
+    "source": "github",
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation, inference optimization, agent loops, evals, MCP, and production system reasoning.",
+    "published_at": "2026-07-11T09:10:36Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agents",
+        "ai-engineering",
+        "ai-pm",
+        "ai-systems",
+        "evals",
+        "generative-ai",
+        "inference",
+        "interactive-learning",
+        "javascript",
+        "llm",
+        "machine-learning",
+        "portfolio",
+        "production-ai",
+        "prompt-engineering",
+        "rag",
+        "react",
+        "system-design",
+        "tailwindcss",
+        "vector-database",
+        "vite"
+      ]
+    }
+  },
+  {
+    "title": "nvmmonkey/kvcache-coordinated-latency",
+    "url": "https://github.com/nvmmonkey/kvcache-coordinated-latency",
+    "source": "github",
+    "description": "Capstone (CSCI 6806): LTR-based LLM inference scheduling reproduced on vLLM 0.4.1 (2.1x via swap preemption) + KV-cache optimizations (TurboQuant/KVmix) on Llama-3.1-8B.",
+    "published_at": "2026-07-11T08:56:20Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  }
+]
