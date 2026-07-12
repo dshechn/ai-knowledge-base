@@ -1,0 +1,233 @@
+[
+  {
+    "title": "Parham11657/SmartAgent",
+    "url": "https://github.com/Parham11657/SmartAgent",
+    "source": "github",
+    "description": "This project provides a step-by-step guide on how to create, deploy, and monetize AI agents. Learn how to use powerful AI frameworks, automate workflows, and turn your creations into profitable tools. Perfect for developers, entrepreneurs, and AI enthusiasts.",
+    "published_at": "2026-07-12T09:41:57Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "ocular-buffercountry141/agent-skill-bus",
+    "url": "https://github.com/ocular-buffercountry141/agent-skill-bus",
+    "source": "github",
+    "description": "Monitor, diagnose, and repair AI agent skills with runtime health checks, self-improvement, and dependency management for any agent framework",
+    "published_at": "2026-07-12T09:41:37Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "ai-agents",
+        "ai-operations",
+        "autonomous-agents",
+        "blast-radius",
+        "chromadb",
+        "context-engineering",
+        "crewai",
+        "dag-scheduler",
+        "framework-agnostic",
+        "knowledge-management",
+        "langgraph",
+        "llm",
+        "python",
+        "skill",
+        "skill-bus"
+      ]
+    }
+  },
+  {
+    "title": "donitb934/1Cat-vLLM",
+    "url": "https://github.com/donitb934/1Cat-vLLM",
+    "source": "github",
+    "description": "Optimize Tesla V100 GPUs for AWQ 4-bit inference with improved speed, stability, and support for modern large models like Qwen3.5 and MoE.",
+    "published_at": "2026-07-12T09:35:55Z",
+    "extra": {
+      "stars": 5,
+      "language": "Python",
+      "topics": [
+        "4x",
+        "api",
+        "cats",
+        "civ",
+        "cli",
+        "compiler",
+        "distributed",
+        "git",
+        "java",
+        "language",
+        "large-language-models",
+        "machine-learning",
+        "monitoring",
+        "realtime",
+        "tool",
+        "v"
+      ]
+    }
+  },
+  {
+    "title": "Usuts/llm-stream",
+    "url": "https://github.com/Usuts/llm-stream",
+    "source": "github",
+    "description": "Stream responses from OpenAI and Anthropic models with lightweight C++ tools for efficient large language model integration.",
+    "published_at": "2026-07-12T09:33:42Z",
+    "extra": {
+      "stars": 4,
+      "language": "C++",
+      "topics": [
+        "agents",
+        "audiollm",
+        "chatbot",
+        "data-analytics",
+        "data-processing",
+        "indexing",
+        "iot-analytics",
+        "kafka",
+        "llm",
+        "neural-speech-synthesis",
+        "rag",
+        "retrieval-augmented-generation",
+        "rust",
+        "stream",
+        "stream-processing",
+        "text-to-speech",
+        "time-series-analysis",
+        "tts",
+        "vercel"
+      ]
+    }
+  },
+  {
+    "title": "Daubingweirdie414/multimodal-rag",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag",
+    "source": "github",
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generation with source citations.",
+    "published_at": "2026-07-12T09:38:50Z",
+    "extra": {
+      "stars": 3,
+      "language": "Python",
+      "topics": [
+        "fine-tuning",
+        "gemini",
+        "gpt",
+        "information-retrieval",
+        "langchain",
+        "large-language-models",
+        "machine-learning",
+        "multimodal",
+        "multimodal-large-language-models",
+        "openai",
+        "python",
+        "question-answering",
+        "retrieval-augmented-generation",
+        "semantic-search",
+        "summarization",
+        "transformers",
+        "vector-database"
+      ]
+    }
+  },
+  {
+    "title": "alfasmartagency-droid/rag-doctor",
+    "url": "https://github.com/alfasmartagency-droid/rag-doctor",
+    "source": "github",
+    "description": "Diagnose and debug Retrieval Augmented Generation pipelines by analyzing traces to identify and fix issues affecting answer quality and relevance.",
+    "published_at": "2026-07-12T09:38:17Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "agentic-ai",
+        "ai-agents-framework",
+        "ai-debugging",
+        "ai-healthcare-assistant",
+        "developer-tools",
+        "doctor-ai",
+        "duckduckgo-search",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "langchain",
+        "langgraph-tools",
+        "large-language-models",
+        "llamaindex",
+        "llm",
+        "llm-decision-graph",
+        "medical-chatbot",
+        "mlops",
+        "multi-agent-systems",
+        "rag"
+      ]
+    }
+  },
+  {
+    "title": "GetNyrex/strix-halo-guide",
+    "url": "https://github.com/GetNyrex/strix-halo-guide",
+    "source": "github",
+    "description": "Unlock fast, local LLM inference on AMD-powered mini PCs delivering 65-87 t/s for large models without cloud or subscription costs",
+    "published_at": "2026-07-12T09:37:05Z",
+    "extra": {
+      "stars": 2,
+      "language": "Shell",
+      "topics": [
+        "amd",
+        "asus-rog",
+        "beelink",
+        "cachyos",
+        "gfx1151",
+        "gguf",
+        "inference",
+        "linux-gaming",
+        "llama-cpp",
+        "llm",
+        "local-llm",
+        "mini-pc",
+        "ollama",
+        "optimization",
+        "rdna3",
+        "rocm",
+        "strix-halo",
+        "unified-memory"
+      ]
+    }
+  },
+  {
+    "title": "Pyrolignic-paydirt84/pse-vcipher-collapse",
+    "url": "https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse",
+    "source": "github",
+    "description": "Accelerate LLM inference by collapsing attention paths with hardware-optimized selective pruning using POWER8 vector instructions and crypto operators.",
+    "published_at": "2026-07-12T09:36:20Z",
+    "extra": {
+      "stars": 1,
+      "language": "C",
+      "topics": [
+        "aes",
+        "altivec",
+        "attention-mechanism",
+        "cpu-inference",
+        "deep-learning",
+        "hardware-acceleration",
+        "hebbian-learning",
+        "inference",
+        "llama-cpp",
+        "llm",
+        "machine-learning",
+        "non-bijunctive",
+        "power8",
+        "powerpc",
+        "transformer"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
