@@ -1,0 +1,18 @@
+{
+  "id": "github-20260713-005",
+  "title": "AkshaiaSai/auto-rag",
+  "source_url": "https://github.com/AkshaiaSai/auto-rag",
+  "source": "github",
+  "summary": "Auto-RAG是一个探索自主迭代检索的RAG系统实验性研究项目，帮助LLMs决定何时搜索、如何细化查询以及何时收集足够的证据。该项目采用了一种新的、更具代理性的检索增强生成方法，旨在展示研究、学习和本地实验的新途径。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-13T10:50:03.797297+00:00",
+  "published_at": "2026-07-13T10:48:26Z",
+  "collected_at": "2026-07-13T10:50:03.797297+00:00",
+  "description": "Auto-RAG is an experimental research project exploring autonomous iterative retrieval for RAG systems. It helps LLMs decide when to search, how to refine queries, and when enough evidence has been gathered. Built to showcase a newer, agentic approach to retrieval-augmented generation. Designed for r"
+}

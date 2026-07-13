@@ -1,0 +1,18 @@
+{
+  "id": "github-20260713-002",
+  "title": "AbdulrazzaqDevelopment/no-commit",
+  "source_url": "https://github.com/AbdulrazzaqDevelopment/no-commit",
+  "source": "github",
+  "summary": "一个基于TypeScript的通用框架，允许AI代理进行内容创作和编排，但不直接引用任何最终确定领域变更的元素。该框架支持AI在多个领域中进行创作，适用于需要灵活性和可扩展性的应用场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-13T10:50:03.797297+00:00",
+  "published_at": "2026-07-13T10:48:10Z",
+  "collected_at": "2026-07-13T10:50:03.797297+00:00",
+  "description": "Domain-agnostic TypeScript framework where an AI agent can draft, compose, and stage work, but never holds a reference to anything that finalizes a domain mutation."
+}

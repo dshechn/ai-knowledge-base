@@ -1,0 +1,17 @@
+{
+  "id": "github-20260713-004",
+  "title": "HKUDS/LightRAG",
+  "source_url": "https://github.com/HKUDS/LightRAG",
+  "source": "github",
+  "summary": "LightRAG是一个基于检索增强的生成模型，采用简单的架构实现快速的知识图谱检索和生成。该模型通过优化向量索引和缓存机制，显著提升了检索和推理的性能，适用于需要快速知识检索和生成的场景。",
+  "score": 9.0,
+  "tags": [
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-13T10:50:03.797297+00:00",
+  "published_at": "2026-07-13T10:43:19Z",
+  "collected_at": "2026-07-13T10:50:03.797297+00:00",
+  "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+}

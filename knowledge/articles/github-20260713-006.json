@@ -1,0 +1,18 @@
+{
+  "id": "github-20260713-006",
+  "title": "lcbootyneet/NanoStorage",
+  "source_url": "https://github.com/lcbootyneet/NanoStorage",
+  "source": "github",
+  "summary": "NanoStorage通过原生GZIP压缩优化LocalStorage，实现数据存储量提升10倍，同时提供轻量级、非阻塞的API，提升性能。该项目利用了压缩算法和缓存机制，适用于需要大量数据存储和高效访问的场景。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "database",
+    "performance"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-13T10:50:03.797297+00:00",
+  "published_at": "2026-07-13T10:42:29Z",
+  "collected_at": "2026-07-13T10:50:03.797297+00:00",
+  "description": "🗜️ Optimize LocalStorage with native GZIP compression to store 10x more data, enhancing performance with a lightweight, non-blocking API."
+}

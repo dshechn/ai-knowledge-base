@@ -1,0 +1,159 @@
+[
+  {
+    "title": "riyogarta/syne",
+    "url": "https://github.com/riyogarta/syne",
+    "source": "github",
+    "description": "AI Agent Framework with Unlimited Memory — PostgreSQL-native, self-evolving, near-zero cost",
+    "published_at": "2026-07-13T10:48:04Z",
+    "extra": {
+      "stars": 14,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "chatbot",
+        "gemini",
+        "llm",
+        "memory",
+        "pgvector",
+        "postgresql",
+        "python",
+        "semantic-search",
+        "telegram-bot"
+      ]
+    }
+  },
+  {
+    "title": "AbdulrazzaqDevelopment/no-commit",
+    "url": "https://github.com/AbdulrazzaqDevelopment/no-commit",
+    "source": "github",
+    "description": "Domain-agnostic TypeScript framework where an AI agent can draft, compose, and stage work, but never holds a reference to anything that finalizes a domain mutation.",
+    "published_at": "2026-07-13T10:48:10Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "OlyaKud/Knowledge-Conflicts-in-Tool-Augmented-Large-Language-Models",
+    "url": "https://github.com/OlyaKud/Knowledge-Conflicts-in-Tool-Augmented-Large-Language-Models",
+    "source": "github",
+    "description": "",
+    "published_at": "2026-07-13T10:41:24Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "jhon1995-04/gigacheck",
+    "url": "https://github.com/jhon1995-04/gigacheck",
+    "source": "github",
+    "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets.",
+    "published_at": "2026-07-13T10:22:17Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "abft",
+        "cuda",
+        "matrix-multiplication"
+      ]
+    }
+  },
+  {
+    "title": "HKUDS/LightRAG",
+    "url": "https://github.com/HKUDS/LightRAG",
+    "source": "github",
+    "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "published_at": "2026-07-13T10:43:19Z",
+    "extra": {
+      "stars": 37608,
+      "language": "Python",
+      "topics": [
+        "genai",
+        "gpt",
+        "gpt-4",
+        "graphrag",
+        "knowledge-graph",
+        "large-language-models",
+        "llm",
+        "rag",
+        "retrieval-augmented-generation"
+      ]
+    }
+  },
+  {
+    "title": "AkshaiaSai/auto-rag",
+    "url": "https://github.com/AkshaiaSai/auto-rag",
+    "source": "github",
+    "description": "Auto-RAG is an experimental research project exploring autonomous iterative retrieval for RAG systems. It helps LLMs decide when to search, how to refine queries, and when enough evidence has been gathered. Built to showcase a newer, agentic approach to retrieval-augmented generation. Designed for research, learning, and local experimentation.",
+    "published_at": "2026-07-13T10:48:26Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Mizistein/omlx",
+    "url": "https://github.com/Mizistein/omlx",
+    "source": "github",
+    "description": "🤖 Optimize LLM inference on Mac with continuous batching and SSD caching managed from your menu bar for efficient performance.",
+    "published_at": "2026-07-13T10:48:14Z",
+    "extra": {
+      "stars": 8,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "chatbot",
+        "inference-server",
+        "llm",
+        "macos",
+        "mlx",
+        "model-serving",
+        "openai-api"
+      ]
+    }
+  },
+  {
+    "title": "lcbootyneet/NanoStorage",
+    "url": "https://github.com/lcbootyneet/NanoStorage",
+    "source": "github",
+    "description": "🗜️ Optimize LocalStorage with native GZIP compression to store 10x more data, enhancing performance with a lightweight, non-blocking API.",
+    "published_at": "2026-07-13T10:42:29Z",
+    "extra": {
+      "stars": 6,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "automation",
+        "browser-use",
+        "comet",
+        "game",
+        "gotrue",
+        "inference",
+        "lightweight",
+        "llm",
+        "multi-agent",
+        "nlp",
+        "playwright",
+        "pytorch",
+        "s3",
+        "server",
+        "websocket-server"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
