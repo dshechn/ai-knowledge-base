@@ -1,0 +1,158 @@
+[
+  {
+    "title": "openlegion-ai/landing",
+    "url": "https://github.com/openlegion-ai/landing",
+    "source": "github",
+    "description": "Landing page for OpenLegion — the open-source, container-isolated AI agent framework",
+    "published_at": "2026-07-14T09:44:50Z",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "landing-page",
+        "nextjs",
+        "openlegion",
+        "tailwindcss"
+      ]
+    }
+  },
+  {
+    "title": "Mouseww/hakimi-agent",
+    "url": "https://github.com/Mouseww/hakimi-agent",
+    "source": "github",
+    "description": "High-performance AI agent framework in Rust",
+    "published_at": "2026-07-14T09:44:31Z",
+    "extra": {
+      "stars": 6,
+      "language": "Rust",
+      "topics": []
+    }
+  },
+  {
+    "title": "roomkangali/droid-llm-hunter",
+    "url": "https://github.com/roomkangali/droid-llm-hunter",
+    "source": "github",
+    "description": " Droid LLM Hunter is a tool to scan for vulnerabilities in Android applications using Large Language Models (LLMs). ",
+    "published_at": "2026-07-14T09:28:06Z",
+    "extra": {
+      "stars": 190,
+      "language": "Python",
+      "topics": [
+        "android",
+        "scanning-tool",
+        "vulnerability-scanners"
+      ]
+    }
+  },
+  {
+    "title": "jhon1995-04/gigacheck",
+    "url": "https://github.com/jhon1995-04/gigacheck",
+    "source": "github",
+    "description": "🔍 Detect and classify large language models with GigaCheck, enabling better understanding and analysis of AI outputs through streamlined tools and datasets.",
+    "published_at": "2026-07-14T09:25:31Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "abft",
+        "cuda",
+        "matrix-multiplication"
+      ]
+    }
+  },
+  {
+    "title": "skayikci/aetheria-discover",
+    "url": "https://github.com/skayikci/aetheria-discover",
+    "source": "github",
+    "description": "Aetheria Discover — an AI-native, multi-tenant Knowledge Discovery Platform. It allows enterprise customers to ingest massive, messy unstructured documents (PDFs, Markdown, Word) and query them through conversational, highly grounded RAG (Retrieval-Augmented Generation) interfaces.",
+    "published_at": "2026-07-14T09:44:58Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "asadali031/ai-studies",
+    "url": "https://github.com/asadali031/ai-studies",
+    "source": "github",
+    "description": "🤖 Build professional AI systems from scratch with a complete roadmap for Retrieval-Augmented Generation (RAG) studies and applications.",
+    "published_at": "2026-07-14T09:42:50Z",
+    "extra": {
+      "stars": 2,
+      "language": null,
+      "topics": [
+        "ai",
+        "awesome",
+        "azure-ai-engineer",
+        "azure-ai-engineer-ai-102",
+        "azure-ai-engineer-exam",
+        "azure-ai-engineers",
+        "business-process-automation",
+        "customer-engagement",
+        "customer-support",
+        "data-science",
+        "free",
+        "low-code",
+        "lowcode",
+        "machine-learning",
+        "process-automation",
+        "python",
+        "sam",
+        "segment-anything",
+        "social-network-analysis",
+        "workflow-automation"
+      ]
+    }
+  },
+  {
+    "title": "boyazzam/kvcache-autotune",
+    "url": "https://github.com/boyazzam/kvcache-autotune",
+    "source": "github",
+    "description": "🚀 Optimize your KVCache performance with automatic tuning for efficient resource management and improved speed in LLM applications.",
+    "published_at": "2026-07-14T09:40:20Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "deep-learning",
+        "huggingface",
+        "inference",
+        "kv-cache",
+        "llm",
+        "machine-learning",
+        "nlp",
+        "optimization",
+        "pytorch",
+        "transformers"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-07-14T09:34:27Z",
+    "extra": {
+      "stars": 14114,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

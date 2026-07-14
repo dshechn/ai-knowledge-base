@@ -1,0 +1,18 @@
+{
+  "id": "github-20260714-004",
+  "title": "skayikci/aetheria-discover",
+  "source_url": "https://github.com/skayikci/aetheria-discover",
+  "source": "github",
+  "summary": "Aetheria Discover 是一个面向企业的AI原生知识发现平台，支持多租户。它能够处理大量杂乱无章的非结构化文档（如PDF、Markdown、Word），并通过对话式、高度定制的RAG（检索增强生成）接口进行查询。该平台利用模型训练和推理技术，提供高效的文档索引和缓存机制，适用于需要高性能并发访问和分布式架构的场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "database"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T09:46:41.257910+00:00",
+  "published_at": "2026-07-14T09:44:58Z",
+  "collected_at": "2026-07-14T09:46:41.257910+00:00",
+  "description": "Aetheria Discover — an AI-native, multi-tenant Knowledge Discovery Platform. It allows enterprise customers to ingest massive, messy unstructured documents (PDFs, Markdown, Word) and query them through conversational, highly grounded RAG (Retrieval-Augmented Generation) interfaces."
+}

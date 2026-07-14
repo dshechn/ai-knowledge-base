@@ -1,0 +1,18 @@
+{
+  "id": "github-20260714-001",
+  "title": "openlegion-ai/landing",
+  "source_url": "https://github.com/openlegion-ai/landing",
+  "source": "github",
+  "summary": "OpenLegion 是一个开源的容器隔离 AI 代理框架，支持模型训练、推理和分布式架构。该框架采用 TypeScript 编写，利用 Next.js 和 Tailwind CSS 构建了用户友好的着陆页，适用于需要高性能和并发处理的 AI 应用场景。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T09:46:41.257910+00:00",
+  "published_at": "2026-07-14T09:44:50Z",
+  "collected_at": "2026-07-14T09:46:41.257910+00:00",
+  "description": "Landing page for OpenLegion — the open-source, container-isolated AI agent framework"
+}

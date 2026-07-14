@@ -1,0 +1,18 @@
+{
+  "id": "github-20260714-002",
+  "title": "Mouseww/hakimi-agent",
+  "source_url": "https://github.com/Mouseww/hakimi-agent",
+  "source": "github",
+  "summary": "Hakimi-agent 是一个使用 Rust 编写的性能卓越的 AI 代理框架，支持高效的模型训练、推理和算法优化，适用于分布式系统和微服务架构，具有并发处理和缓存机制，适用于高性能计算场景。",
+  "score": 8.0,
+  "tags": [
+    "rust",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T09:46:41.257910+00:00",
+  "published_at": "2026-07-14T09:44:31Z",
+  "collected_at": "2026-07-14T09:46:41.257910+00:00",
+  "description": "High-performance AI agent framework in Rust"
+}
