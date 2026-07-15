@@ -1,0 +1,18 @@
+{
+  "id": "github-20260715-004",
+  "title": "r9s-ai/llm-spec",
+  "source_url": "https://github.com/r9s-ai/llm-spec",
+  "source": "github",
+  "summary": "r9s-ai/llm-spec 是一个基于规范驱动的用于大型语言模型 API 的符合性测试和验证工具。它支持对模型推理、算法架构和性能进行测试，适用于分布式系统和微服务架构，旨在提高大型语言模型 API 的质量和可靠性。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T09:49:53.461262+00:00",
+  "published_at": "2026-07-15T09:25:34Z",
+  "collected_at": "2026-07-15T09:49:53.461262+00:00",
+  "description": "A specification-driven conformance testing and validation tool for Large Language Model APIs."
+}

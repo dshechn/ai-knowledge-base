@@ -1,0 +1,18 @@
+{
+  "id": "github-20260715-001",
+  "title": "kstevica/captain-claw",
+  "source_url": "https://github.com/kstevica/captain-claw",
+  "source": "github",
+  "summary": "Captain Claw 是一个自托管的框架，用于编排专家 AI 代理的舰队，支持集成推理和完整的代理编码流程，模型无关且本地友好。该框架适用于需要高效管理和协调大量 AI 代理的场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T09:49:53.461262+00:00",
+  "published_at": "2026-07-15T09:48:27Z",
+  "collected_at": "2026-07-15T09:49:53.461262+00:00",
+  "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly."
+}

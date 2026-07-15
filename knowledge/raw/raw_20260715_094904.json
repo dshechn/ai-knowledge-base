@@ -1,0 +1,167 @@
+[
+  {
+    "title": "kstevica/captain-claw",
+    "url": "https://github.com/kstevica/captain-claw",
+    "source": "github",
+    "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.",
+    "published_at": "2026-07-15T09:48:27Z",
+    "extra": {
+      "stars": 161,
+      "language": "Python",
+      "topics": [
+        "agent-orchestration",
+        "agentic-coding",
+        "agentic-workflow",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "autonomous-agents",
+        "claw",
+        "cli",
+        "code-review",
+        "langchain-alternative",
+        "llm",
+        "llm-inference",
+        "local-llm",
+        "multi-agent",
+        "multiagent",
+        "ollama",
+        "openai",
+        "python",
+        "self-hosted"
+      ]
+    }
+  },
+  {
+    "title": "deepset-ai/haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "source": "github",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+    "published_at": "2026-07-15T09:48:04Z",
+    "extra": {
+      "stars": 25900,
+      "language": "MDX",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "gemini",
+        "generative-ai",
+        "gpt-4",
+        "information-retrieval",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "nlp",
+        "orchestration",
+        "python",
+        "pytorch",
+        "question-answering",
+        "rag",
+        "retrieval-augmented-generation",
+        "semantic-search",
+        "summarization",
+        "transformers"
+      ]
+    }
+  },
+  {
+    "title": "ykhing/llm-training-toolkit",
+    "url": "https://github.com/ykhing/llm-training-toolkit",
+    "source": "github",
+    "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures.",
+    "published_at": "2026-07-15T09:48:03Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "r9s-ai/llm-spec",
+    "url": "https://github.com/r9s-ai/llm-spec",
+    "source": "github",
+    "description": "A specification-driven conformance testing and validation tool for Large Language Model APIs.",
+    "published_at": "2026-07-15T09:25:34Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "Overtekk/RAG-against-the-machine",
+    "url": "https://github.com/Overtekk/RAG-against-the-machine",
+    "source": "github",
+    "description": "Build a Retrieval-Augmented Generation (RAG) system that can answer questions about a codebase",
+    "published_at": "2026-07-15T09:46:41Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "tasneemu-13/TraceAI",
+    "url": "https://github.com/tasneemu-13/TraceAI",
+    "source": "github",
+    "description": "A full-stack missing person search platform built with FastAPI, NiceGUI, and MySQL. Integrates MediaPipe computer vision, Scikit-learn (KNN), and local LLMs (Ollama Llama3) for Retrieval-Augmented Generation (RAG) case timelines.",
+    "published_at": "2026-07-15T09:46:20Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-07-15T09:37:38Z",
+    "extra": {
+      "stars": 14123,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "Openplan-pricklyedgedleaf841/MacKV-Opt",
+    "url": "https://github.com/Openplan-pricklyedgedleaf841/MacKV-Opt",
+    "source": "github",
+    "description": "Optimize KV cache and context settings for LLMs on Apple Silicon Macs to prevent memory pressure and ensure stable inference performance.",
+    "published_at": "2026-07-15T09:20:26Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "benchmark",
+        "gguf",
+        "kv-cache",
+        "llama-cpp",
+        "llm-inference",
+        "local-llm",
+        "long-context",
+        "macos",
+        "mlx",
+        "ollama",
+        "ollama-tools"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

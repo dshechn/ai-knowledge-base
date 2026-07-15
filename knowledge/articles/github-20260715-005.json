@@ -1,0 +1,18 @@
+{
+  "id": "github-20260715-005",
+  "title": "Overtekk/RAG-against-the-machine",
+  "source_url": "https://github.com/Overtekk/RAG-against-the-machine",
+  "source": "github",
+  "summary": "Overtekk/RAG-against-the-machine 是一个基于 Python 的检索增强生成系统，旨在通过索引代码库中的文档来回答关于代码的问题。该系统利用模型进行训练和推理，支持高效的向量搜索和缓存机制，适用于代码库的快速问答和文档搜索。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T09:49:53.461262+00:00",
+  "published_at": "2026-07-15T09:46:41Z",
+  "collected_at": "2026-07-15T09:49:53.461262+00:00",
+  "description": "Build a Retrieval-Augmented Generation (RAG) system that can answer questions about a codebase"
+}

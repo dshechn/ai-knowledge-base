@@ -1,0 +1,18 @@
+{
+  "id": "github-20260715-006",
+  "title": "tasneemu-13/TraceAI",
+  "source_url": "https://github.com/tasneemu-13/TraceAI",
+  "source": "github",
+  "summary": "TraceAI 是一个全栈失踪人口搜索平台，使用 FastAPI 和 NiceGUI 构建，集成 MediaPipe 计算机视觉、Scikit-learn KNN 算法和本地 LLMs (Ollama Llama3) 进行检索增强生成（RAG），以提升案件时间线的搜索性能。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "computer-vision"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T09:49:53.461262+00:00",
+  "published_at": "2026-07-15T09:46:20Z",
+  "collected_at": "2026-07-15T09:49:53.461262+00:00",
+  "description": "A full-stack missing person search platform built with FastAPI, NiceGUI, and MySQL. Integrates MediaPipe computer vision, Scikit-learn (KNN), and local LLMs (Ollama Llama3) for Retrieval-Augmented Generation (RAG) case timelines."
+}

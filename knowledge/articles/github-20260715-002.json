@@ -1,0 +1,18 @@
+{
+  "id": "github-20260715-002",
+  "title": "deepset-ai/haystack",
+  "source_url": "https://github.com/deepset-ai/haystack",
+  "source": "github",
+  "summary": "deepset-ai/haystack 是一个开源的 AI 工作流框架，用于构建具有上下文工程能力的生产级大型语言模型（LLM）应用。它支持模块化管道和代理工作流程设计，提供对检索、路由、内存和生成的显式控制。适用于可扩展的代理、RAG、多模态应用、语义搜索和对话系统。，基于模型推理的架构",
+  "score": 9.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T09:49:53.461262+00:00",
+  "published_at": "2026-07-15T09:48:04Z",
+  "collected_at": "2026-07-15T09:49:53.461262+00:00",
+  "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and"
+}
