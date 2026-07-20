@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-003",
+  "title": "EduardEdi14/Proiect_AgentAI_ProductManager",
+  "source_url": "https://github.com/EduardEdi14/Proiect_AgentAI_ProductManager",
+  "source": "github",
+  "summary": "该项目是一个基于Python的AI代理，充当产品经理的虚拟助手。它利用大型语言模型（LLMs）和功能调用/工具框架，能够自主计算和分析关键业务和产品性能指标（KPIs）。该AI代理适用于产品管理和业务分析。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "ml"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T10:38:27.296700+00:00",
+  "published_at": "2026-07-20T10:24:59Z",
+  "collected_at": "2026-07-20T10:38:27.296700+00:00",
+  "description": "My AI agent is a virtual assistant built in Python, designed to act as an experienced Product Manager. The project leverages LLMs (Large Language Models) integrated with a Function Calling / Tools framework, allowing the AI to autonomously calculate and analyze key business and product performance i"
+}

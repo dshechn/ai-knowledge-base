@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-002",
+  "title": "hassamwaleed/agent-orchestrator-framework",
+  "source_url": "https://github.com/hassamwaleed/agent-orchestrator-framework",
+  "source": "github",
+  "summary": "该框架通过AI代理实现自动化开发流程，包括计划、编码、测试和部署，提高开发效率。采用分布式架构和微服务设计，支持并发处理和性能优化，适用于需要快速迭代和大规模部署的AI应用。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices",
+    "distributed-systems"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T10:38:27.296700+00:00",
+  "published_at": "2026-07-20T10:36:30Z",
+  "collected_at": "2026-07-20T10:38:27.296700+00:00",
+  "description": "Turn Your AI Agent Into a Full Developer Team: Plan, Code, Test & Ship in One Sprint 2026"
+}

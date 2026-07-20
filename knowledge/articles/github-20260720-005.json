@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-005",
+  "title": "wafaashour499/Egyptian-Artifacts-Assistant",
+  "source_url": "https://github.com/wafaashour499/Egyptian-Artifacts-Assistant",
+  "source": "github",
+  "summary": "该开源项目是一个基于AI的检索增强生成系统，通过语义搜索和自然语言问答功能，使用ChromaDB、Sentence Transformers、Groq和Streamlit等技术，让用户能够探索埃及博物馆的文物。该项目结合了模型训练、推理和向量索引，适用于文化遗产数字化展示。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T10:38:27.296700+00:00",
+  "published_at": "2026-07-20T10:37:17Z",
+  "collected_at": "2026-07-20T10:38:27.296700+00:00",
+  "description": "An AI-powered Retrieval-Augmented Generation (RAG) system that enables users to explore Egyptian museum artifacts through semantic search and natural language question answering using ChromaDB, Sentence Transformers, Groq, and Streamlit."
+}

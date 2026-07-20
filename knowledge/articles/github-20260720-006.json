@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-006",
+  "title": "GambzA/cookbook-chatbot-using-rag",
+  "source_url": "https://github.com/GambzA/cookbook-chatbot-using-rag",
+  "source": "github",
+  "summary": "该项目使用Python实现了一个基于检索增强生成（RAG）的聊天机器人。它结合了模型训练、推理和向量索引技术，通过缓存和API框架优化性能。项目展示了如何构建一个高效的聊天机器人架构，适用于分布式和微服务环境。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "ml"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T10:38:27.296700+00:00",
+  "published_at": "2026-07-20T10:37:27Z",
+  "collected_at": "2026-07-20T10:38:27.296700+00:00",
+  "description": "AI Engineering Learning 2: Retrieval-Augmented Generation"
+}

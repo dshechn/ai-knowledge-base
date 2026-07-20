@@ -1,0 +1,151 @@
+[
+  {
+    "title": "agents-flex/agents-flex",
+    "url": "https://github.com/agents-flex/agents-flex",
+    "source": "github",
+    "description": "Agents-flex is A lightweight Java AI agent development framework (positioned as a counterpart to Spring AI). It supports features such as RAG, MCP, Skills, Text2SQL , LLM Wiki, Sub-agents, Web Search, TTS (synchronous and streaming), and STT.",
+    "published_at": "2026-07-20T10:37:33Z",
+    "extra": {
+      "stars": 1036,
+      "language": "Java",
+      "topics": [
+        "agent",
+        "ai",
+        "chatbot",
+        "chatgpt",
+        "gpt",
+        "langchain4j",
+        "llama3",
+        "llm",
+        "ollama",
+        "spring-ai"
+      ]
+    }
+  },
+  {
+    "title": "hassamwaleed/agent-orchestrator-framework",
+    "url": "https://github.com/hassamwaleed/agent-orchestrator-framework",
+    "source": "github",
+    "description": "Turn Your AI Agent Into a Full Developer Team: Plan, Code, Test & Ship in One Sprint 2026",
+    "published_at": "2026-07-20T10:36:30Z",
+    "extra": {
+      "stars": 1,
+      "language": "HTML",
+      "topics": [
+        "ai-coding",
+        "application",
+        "backend",
+        "claude-code",
+        "code-review",
+        "codex",
+        "developer-tools",
+        "engineering-workflow",
+        "full",
+        "full-stack",
+        "gstack",
+        "ipv6-address",
+        "ipv6-support",
+        "javascript",
+        "middleware",
+        "rust",
+        "rust-wasm",
+        "stack",
+        "web"
+      ]
+    }
+  },
+  {
+    "title": "EduardEdi14/Proiect_AgentAI_ProductManager",
+    "url": "https://github.com/EduardEdi14/Proiect_AgentAI_ProductManager",
+    "source": "github",
+    "description": "My AI agent is a virtual assistant built in Python, designed to act as an experienced Product Manager. The project leverages LLMs (Large Language Models) integrated with a Function Calling / Tools framework, allowing the AI to autonomously calculate and analyze key business and product performance indicators (KPIs).",
+    "published_at": "2026-07-20T10:24:59Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "hjiang13/awesome-Large-Language-Model-4-IRs-in-Compiler",
+    "url": "https://github.com/hjiang13/awesome-Large-Language-Model-4-IRs-in-Compiler",
+    "source": "github",
+    "description": "A curated list of research papers, datasets, tools, and benchmarks on applying Large Language Models (LLMs) to Compiler Intermediate Representations (IR) and Optimization.",
+    "published_at": "2026-07-20T09:25:40Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "wafaashour499/Egyptian-Artifacts-Assistant",
+    "url": "https://github.com/wafaashour499/Egyptian-Artifacts-Assistant",
+    "source": "github",
+    "description": "An AI-powered Retrieval-Augmented Generation (RAG) system that enables users to explore Egyptian museum artifacts through semantic search and natural language question answering using ChromaDB, Sentence Transformers, Groq, and Streamlit.",
+    "published_at": "2026-07-20T10:37:17Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "GambzA/cookbook-chatbot-using-rag",
+    "url": "https://github.com/GambzA/cookbook-chatbot-using-rag",
+    "source": "github",
+    "description": "AI Engineering Learning 2: Retrieval-Augmented Generation",
+    "published_at": "2026-07-20T10:37:27Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-07-20T10:28:09Z",
+    "extra": {
+      "stars": 14161,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "xLLM-AI/xllm",
+    "url": "https://github.com/xLLM-AI/xllm",
+    "source": "github",
+    "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation.",
+    "published_at": "2026-07-20T09:34:08Z",
+    "extra": {
+      "stars": 1478,
+      "language": "C++",
+      "topics": [
+        "deepseek",
+        "glm",
+        "inference",
+        "inference-engine",
+        "large-language-models",
+        "llm-inference",
+        "qwen"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]
