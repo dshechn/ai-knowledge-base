@@ -1,0 +1,215 @@
+[
+  {
+    "title": "hackneyblechnaceae288/agentprobe",
+    "url": "https://github.com/hackneyblechnaceae288/agentprobe",
+    "source": "github",
+    "description": "Test, record, and replay AI agents locally and in CI with a private pytest-style framework",
+    "published_at": "2026-07-27T10:58:48Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agentic-coding",
+        "ai-agent-evaluation",
+        "ai-safety",
+        "ai-testing",
+        "anthropic",
+        "coding-agents",
+        "context-engineering",
+        "developer-tools",
+        "evaluation",
+        "langchain",
+        "llm",
+        "llm-ops",
+        "local-first",
+        "opencode",
+        "pytest"
+      ]
+    }
+  },
+  {
+    "title": "gemstack-land/the-framework",
+    "url": "https://github.com/gemstack-land/the-framework",
+    "source": "github",
+    "description": "Autonomous AI programming. Stop babysitting your coding agents. You make the important decisions; AI does the rest.",
+    "published_at": "2026-07-27T10:59:22Z",
+    "extra": {
+      "stars": 7,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "donitb934/1Cat-vLLM",
+    "url": "https://github.com/donitb934/1Cat-vLLM",
+    "source": "github",
+    "description": "Optimize Tesla V100 GPUs for AWQ 4-bit inference with improved speed, stability, and support for modern large models like Qwen3.5 and MoE.",
+    "published_at": "2026-07-27T10:43:46Z",
+    "extra": {
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "4x",
+        "api",
+        "cats",
+        "civ",
+        "cli",
+        "compiler",
+        "distributed",
+        "git",
+        "java",
+        "language",
+        "large-language-models",
+        "machine-learning",
+        "monitoring",
+        "realtime",
+        "tool",
+        "v"
+      ]
+    }
+  },
+  {
+    "title": "Usuts/llm-stream",
+    "url": "https://github.com/Usuts/llm-stream",
+    "source": "github",
+    "description": "Stream responses from OpenAI and Anthropic models with lightweight C++ tools for efficient large language model integration.",
+    "published_at": "2026-07-27T10:42:12Z",
+    "extra": {
+      "stars": 5,
+      "language": "C++",
+      "topics": [
+        "agents",
+        "audiollm",
+        "chatbot",
+        "data-analytics",
+        "data-processing",
+        "indexing",
+        "iot-analytics",
+        "kafka",
+        "llm",
+        "neural-speech-synthesis",
+        "rag",
+        "retrieval-augmented-generation",
+        "rust",
+        "stream",
+        "stream-processing",
+        "text-to-speech",
+        "time-series-analysis",
+        "tts",
+        "vercel"
+      ]
+    }
+  },
+  {
+    "title": "cannedfoodssunbonnet729/laravel-rag",
+    "url": "https://github.com/cannedfoodssunbonnet729/laravel-rag",
+    "source": "github",
+    "description": "Build a Laravel RAG pipeline for retrieval-augmented generation with driver-based vector stores and Prism PHP support",
+    "published_at": "2026-07-27T10:57:44Z",
+    "extra": {
+      "stars": 1,
+      "language": "PHP",
+      "topics": [
+        "ai-agent",
+        "copilot",
+        "document-ingestion",
+        "gemini",
+        "html",
+        "laravel",
+        "local",
+        "pg-vector",
+        "python",
+        "qdrant",
+        "rag",
+        "rag-as-service",
+        "ragkit",
+        "sqlite-vec",
+        "vector-search"
+      ]
+    }
+  },
+  {
+    "title": "Tomas-Mart/llm-rag-spring",
+    "url": "https://github.com/Tomas-Mart/llm-rag-spring",
+    "source": "github",
+    "description": "llm-rag-spring — это backend-приложение на Java (Spring Boot), которое реализует RAG-пайплайн (Retrieval-Augmented Generation) для работы с локальными LLM-моделями (Ollama) и векторным поиском (pgvector). Позволяет загружать документы, разбивать их на чанки, генерировать эмбеддинги и отвечать на вопросы на основе загруженных данных.",
+    "published_at": "2026-07-27T10:56:55Z",
+    "extra": {
+      "stars": 0,
+      "language": "Java",
+      "topics": []
+    }
+  },
+  {
+    "title": "desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant",
+    "url": "https://github.com/desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant",
+    "source": "github",
+    "description": "Run LLMs on any hardware with llama.cpp, TurboQuant KV compression, and ExpertFlow MoE tuning for faster local inference",
+    "published_at": "2026-07-27T10:57:45Z",
+    "extra": {
+      "stars": 3,
+      "language": null,
+      "topics": [
+        "ai",
+        "amd-gpu",
+        "cpp",
+        "cuda",
+        "gpu",
+        "inference",
+        "llama-cpp",
+        "llm",
+        "llm-inference",
+        "local-llm",
+        "machine-learning",
+        "mixture-of-experts",
+        "moe",
+        "ollama",
+        "openai-api",
+        "optimization",
+        "quantization",
+        "rocm"
+      ]
+    }
+  },
+  {
+    "title": "IbadKhalid7/turboquant-model",
+    "url": "https://github.com/IbadKhalid7/turboquant-model",
+    "source": "github",
+    "description": "Optimize LLM inference with near-optimal 4-bit weight quantization and on-the-fly dequantization for lower memory use and faster matmul",
+    "published_at": "2026-07-27T10:55:22Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "apple-sili",
+        "attention",
+        "compression",
+        "cuda",
+        "desktop-app",
+        "huggingface",
+        "inference-optimization",
+        "kv-cache",
+        "llm",
+        "metal",
+        "mlx",
+        "multi-model",
+        "on-device-ai",
+        "python",
+        "pytorch",
+        "quansloth",
+        "rocm",
+        "transformer",
+        "vllm"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Flag/gray out comments complaining about AI/LLM use in posts/comments?",
+    "url": "https://news.ycombinator.com/item?id=48376612",
+    "source": "rss",
+    "description": "It's getting tedious. Predictably devolves into \"How do you know it's AI/LLM?\" & \"I know because of these tells...\"Reminds me of years past and constant litany of complaints about paywalls. Such comments have for the most part disappeared.\n\nComments URL: https://news.ycombinator.com/item?id=48376612\nPoints: 3\n# Comments: 2",
+    "published_at": "Tue, 02 Jun 2026 21:32:34 +0000",
+    "extra": {}
+  }
+]

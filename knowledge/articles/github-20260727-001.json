@@ -1,0 +1,18 @@
+{
+  "id": "github-20260727-001",
+  "title": "hackneyblechnaceae288/agentprobe",
+  "source_url": "https://github.com/hackneyblechnaceae288/agentprobe",
+  "source": "github",
+  "summary": "agentprobe 是一个用于测试、记录和回放 AI 代理的私有 pytest-style 框架，支持本地和 CI 环境，适用于 AI 代理的测试和评估，涉及模型训练、推理和算法性能优化。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T11:00:29.119650+00:00",
+  "published_at": "2026-07-27T10:58:48Z",
+  "collected_at": "2026-07-27T11:00:29.119650+00:00",
+  "description": "Test, record, and replay AI agents locally and in CI with a private pytest-style framework"
+}

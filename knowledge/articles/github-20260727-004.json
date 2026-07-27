@@ -1,0 +1,18 @@
+{
+  "id": "github-20260727-004",
+  "title": "Tomas-Mart/llm-rag-spring",
+  "source_url": "https://github.com/Tomas-Mart/llm-rag-spring",
+  "source": "github",
+  "summary": "llm-rag-spring 是一个基于 Java (Spring Boot) 的后端应用程序，实现了 RAG (Retrieval-Augmented Generation) 流程，用于处理本地 LLM (Ollama) 模型和 pgvector 向量搜索。它支持文档的加载、分块、生成嵌入以及基于这些数据的问答，适用于需要高效文档检索和生成的场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "java",
+    "ai",
+    "backend"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T11:00:29.119650+00:00",
+  "published_at": "2026-07-27T10:56:55Z",
+  "collected_at": "2026-07-27T11:00:29.119650+00:00",
+  "description": "llm-rag-spring — это backend-приложение на Java (Spring Boot), которое реализует RAG-пайплайн (Retrieval-Augmented Generation) для работы с локальными LLM-моделями (Ollama) и векторным поиском (pgvector). Позволяет загружать документы, разбивать их на чанки, генерировать эмбеддинги и отвечать на воп"
+}

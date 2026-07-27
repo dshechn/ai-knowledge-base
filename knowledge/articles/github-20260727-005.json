@@ -1,0 +1,18 @@
+{
+  "id": "github-20260727-005",
+  "title": "IbadKhalid7/turboquant-model",
+  "source_url": "https://github.com/IbadKhalid7/turboquant-model",
+  "source": "github",
+  "summary": "该项目通过近最优的4位权重量化以及动态反量化技术优化了大型语言模型（LLM）的推理过程，旨在降低内存使用并加快矩阵乘法运算，适用于需要高性能和低内存消耗的场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "performance"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T11:00:29.119650+00:00",
+  "published_at": "2026-07-27T10:55:22Z",
+  "collected_at": "2026-07-27T11:00:29.119650+00:00",
+  "description": "Optimize LLM inference with near-optimal 4-bit weight quantization and on-the-fly dequantization for lower memory use and faster matmul"
+}

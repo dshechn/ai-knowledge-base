@@ -1,0 +1,17 @@
+{
+  "id": "github-20260727-003",
+  "title": "cannedfoodssunbonnet729/laravel-rag",
+  "source_url": "https://github.com/cannedfoodssunbonnet729/laravel-rag",
+  "source": "github",
+  "summary": "该项目为Laravel框架构建了一个检索增强生成（RAG）管道，支持基于驱动器的向量存储和Prism PHP库，旨在提高生成模型的性能和效率，适用于需要文档检索和生成的应用场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T11:00:29.119650+00:00",
+  "published_at": "2026-07-27T10:57:44Z",
+  "collected_at": "2026-07-27T11:00:29.119650+00:00",
+  "description": "Build a Laravel RAG pipeline for retrieval-augmented generation with driver-based vector stores and Prism PHP support"
+}
