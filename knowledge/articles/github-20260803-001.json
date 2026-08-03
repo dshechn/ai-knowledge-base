@@ -1,0 +1,18 @@
+{
+  "id": "github-20260803-001",
+  "title": "veryfront/veryfront-code",
+  "source_url": "https://github.com/veryfront/veryfront-code",
+  "source": "github",
+  "summary": "veryfront-code 是一个使用 TypeScript 和 React 构建的端到端框架，用于开发 AI 应用和智能代理。支持 Node.js、Deno 和 Bun，适用于构建具有对话式 AI 功能的应用程序，具有高性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T11:11:00.814790+00:00",
+  "published_at": "2026-08-03T11:09:42Z",
+  "collected_at": "2026-08-03T11:11:00.814790+00:00",
+  "description": "Full-stack framework for building AI apps and agents with TypeScript and React. Works with Node.js, Deno, and Bun."
+}

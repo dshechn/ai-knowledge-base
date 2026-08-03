@@ -1,0 +1,18 @@
+{
+  "id": "github-20260803-005",
+  "title": "jafthaambershandre-commits/shandreFirstRAG",
+  "source_url": "https://github.com/jafthaambershandre-commits/shandreFirstRAG",
+  "source": "github",
+  "summary": "使用Node.js、FAISS、Transformers.js和OpenRouter构建的检索增强生成（RAG）学生手册助手，利用向量索引和模型推理提高性能，适用于教育场景。",
+  "score": 8.0,
+  "tags": [
+    "javascript",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T11:11:00.814790+00:00",
+  "published_at": "2026-08-03T11:08:35Z",
+  "collected_at": "2026-08-03T11:11:00.814790+00:00",
+  "description": "Retrieval-Augmented Generation (RAG) Student Handbook Assistant built with Node.js, FAISS, Transformers.js and OpenRouter."
+}

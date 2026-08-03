@@ -1,0 +1,134 @@
+[
+  {
+    "title": "veryfront/veryfront-code",
+    "url": "https://github.com/veryfront/veryfront-code",
+    "source": "github",
+    "description": "Full-stack framework for building AI apps and agents with TypeScript and React. Works with Node.js, Deno, and Bun.",
+    "published_at": "2026-08-03T11:09:42Z",
+    "extra": {
+      "stars": 8,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "aiagents",
+        "bun",
+        "conversational-ai",
+        "deno",
+        "framework",
+        "fullstack",
+        "llm",
+        "mcp",
+        "nodejs",
+        "reactjs",
+        "tailwindcss",
+        "typescript",
+        "workflows"
+      ]
+    }
+  },
+  {
+    "title": "enzoduit/output-first-agentic-ops",
+    "url": "https://github.com/enzoduit/output-first-agentic-ops",
+    "source": "github",
+    "description": "The Output-First Framework for Agentic AI in Production — by Enzo Duit",
+    "published_at": "2026-08-03T11:09:07Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": [
+        "agent-first",
+        "agentic-ai",
+        "ai-framework",
+        "ofa",
+        "output-first"
+      ]
+    }
+  },
+  {
+    "title": "ezdemo/loopra",
+    "url": "https://github.com/ezdemo/loopra",
+    "source": "github",
+    "description": "Agent4j is a pure-Java AI coding agent framework that integrates large language models (LLMs) with a rich, extensible tool system to create a programming assistant capable of autonomously understanding, writing, and debugging code. Inspired by AI coding agents such as Claude Code and Devin, it is built entirely on Java 17 .",
+    "published_at": "2026-08-03T10:43:18Z",
+    "extra": {
+      "stars": 1,
+      "language": "Java",
+      "topics": []
+    }
+  },
+  {
+    "title": "dr-mushtaq/Agentic-AI",
+    "url": "https://github.com/dr-mushtaq/Agentic-AI",
+    "source": "github",
+    "description": "A complete, beginner-friendly Agentic AI learning roadmap featuring Python tutorials, autonomous AI agents, Large Language Models, tool calling, memory, planning, Retrieval-Augmented Generation, multi-agent systems, practical projects, and curated learning resources.",
+    "published_at": "2026-08-03T10:38:58Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "jafthaambershandre-commits/shandreFirstRAG",
+    "url": "https://github.com/jafthaambershandre-commits/shandreFirstRAG",
+    "source": "github",
+    "description": "Retrieval-Augmented Generation (RAG) Student Handbook Assistant built with Node.js, FAISS, Transformers.js and OpenRouter.",
+    "published_at": "2026-08-03T11:08:35Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "adi542/documind-ai",
+    "url": "https://github.com/adi542/documind-ai",
+    "source": "github",
+    "description": "Production-ready Retrieval-Augmented Generation (RAG) backend built with FastAPI, FAISS, Sentence Transformers, and OpenAI.",
+    "published_at": "2026-08-03T11:06:04Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Robert-Song/LLM-RIO",
+    "url": "https://github.com/Robert-Song/LLM-RIO",
+    "source": "github",
+    "description": "LLM Router for Inference Optimization",
+    "published_at": "2026-08-03T11:05:06Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "cloudrift-ai/emmy",
+    "url": "https://github.com/cloudrift-ai/emmy",
+    "source": "github",
+    "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for popular models or create your own with custom configurations. Run benchmarks across different GPU types and configurations, track results, and share experiments with the community.",
+    "published_at": "2026-08-03T10:53:04Z",
+    "extra": {
+      "stars": 68,
+      "language": "Python",
+      "topics": [
+        "compilers",
+        "gpu-computing",
+        "inference",
+        "llm-inference",
+        "llmops"
+      ]
+    }
+  },
+  {
+    "title": "Show HN: KBlip – turns AI/LLM news across 100 sources into daily digest threads",
+    "url": "https://kblip.com/releases",
+    "source": "rss",
+    "description": "Hi HN, maker here.KBlip watches Reddit, HN, arXiv, GitHub, YouTube, and ~100 RSS/blog feeds for anything\nAI-related, clusters same-story coverage into a single \"thread\" (every source linked as\nevidence), and sorts it into 5 feeds: Releases, News, Social, Developments (research + hardware),\nProducts/Ideas, and Trending.My daily routine to catch-up on the current happenings related to AI/LLM takes a big chunk of my time and I had to do multiple hops between different products and even worse sometimes I find myself lost in a rabbit hole in any of those products. Wanted to have better visibility and have everything aggregated in one place that takes less time and effort just to catch-up which also cuts off the noise/redundancy.A few things to highlight: a daily digest per section (one-sentence TL;DR), \nan audio \"brief me\" mode if you'd rather listen than read, and it installs as a PWA.Solo project, self-hosted on a VPS, DeepSeek + Voyage for the LLM/embedding side. No accounts, no ads, no tracking.\n\nComments URL: https://news.ycombinator.com/item?id=49072174\nPoints: 2\n# Comments: 2",
+    "published_at": "Mon, 27 Jul 2026 16:41:10 +0000",
+    "extra": {}
+  }
+]

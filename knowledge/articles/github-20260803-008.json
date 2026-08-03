@@ -1,0 +1,18 @@
+{
+  "id": "github-20260803-008",
+  "title": "cloudrift-ai/emmy",
+  "source_url": "https://github.com/cloudrift-ai/emmy",
+  "source": "github",
+  "summary": "Emmy是一个用于在GPU服务器上基准测试和部署优化后的LLM模型的Python工具。它支持从预定义的优化食谱中选择或自定义配置来创建模型。用户可以在不同的GPU类型和配置上运行基准测试，跟踪结果并与社区分享实验。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T11:11:00.814790+00:00",
+  "published_at": "2026-08-03T10:53:04Z",
+  "collected_at": "2026-08-03T11:11:00.814790+00:00",
+  "description": "Benchmark and deploy optimized LLM models on GPU servers with vLLM or SGLang. Chose from a list of optimized recipes for popular models or create your own with custom configurations. Run benchmarks across different GPU types and configurations, track results, and share experiments with the community"
+}

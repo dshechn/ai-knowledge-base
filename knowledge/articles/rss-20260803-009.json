@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260803-009",
+  "title": "Show HN: KBlip – turns AI/LLM news across 100 sources into daily digest threads",
+  "source_url": "https://kblip.com/releases",
+  "source": "rss",
+  "summary": "KBlip通过监控100多个来源的AI/LLM相关新闻，将相同主题的内容聚类成单个线程，并提供五个分类的每日摘要，包括发布、新闻、社交、发展和产品/想法。该项目利用AI和LLM技术，提高用户获取AI领域最新动态的效率。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "llm",
+    "open-source"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T11:11:00.814790+00:00",
+  "published_at": "Mon, 27 Jul 2026 16:41:10 +0000",
+  "collected_at": "2026-08-03T11:11:00.814790+00:00",
+  "description": "Hi HN, maker here.KBlip watches Reddit, HN, arXiv, GitHub, YouTube, and ~100 RSS/blog feeds for anything\nAI-related, clusters same-story coverage into a single \"thread\" (every source linked as\nevidence), and sorts it into 5 feeds: Releases, News, Social, Developments (research + hardware),\nProducts/"
+}

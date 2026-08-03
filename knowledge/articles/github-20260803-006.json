@@ -1,0 +1,18 @@
+{
+  "id": "github-20260803-006",
+  "title": "adi542/documind-ai",
+  "source_url": "https://github.com/adi542/documind-ai",
+  "source": "github",
+  "summary": "基于FastAPI、FAISS、Sentence Transformers和OpenAI构建的生产级检索增强生成（RAG）后端，支持高效的模型训练、推理和向量索引，适用于构建智能问答系统和文档搜索应用。",
+  "score": 9.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T11:11:00.814790+00:00",
+  "published_at": "2026-08-03T11:06:04Z",
+  "collected_at": "2026-08-03T11:11:00.814790+00:00",
+  "description": "Production-ready Retrieval-Augmented Generation (RAG) backend built with FastAPI, FAISS, Sentence Transformers, and OpenAI."
+}
