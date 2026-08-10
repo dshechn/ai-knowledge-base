@@ -1,0 +1,18 @@
+{
+  "id": "github-20260810-002",
+  "title": "somithaasri/Agentic-AI-projects",
+  "source_url": "https://github.com/somithaasri/Agentic-AI-projects",
+  "source": "github",
+  "summary": "该项目收集了在探索Agentic AI、大型语言模型框架和MCP（多智能体协同规划）过程中构建的真实世界AI智能体项目。项目使用Python语言实现，涉及模型训练、推理、算法架构和分布式系统设计，适用于需要AI智能体解决方案的场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T09:04:56.039122+00:00",
+  "published_at": "2026-08-10T09:01:48Z",
+  "collected_at": "2026-08-10T09:04:56.039122+00:00",
+  "description": "A collection of real-world AI agent projects built while exploring Agentic AI, LLM frameworks, and MCP."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260810-007",
+  "title": "alejandrogg15/Minimax-H3-Turbo",
+  "source_url": "https://github.com/alejandrogg15/Minimax-H3-Turbo",
+  "source": "github",
+  "summary": "Minimax-H3-Turbo通过批量推理和优化的NFE/LoRA比较加速视频生成。该项目使用Python实现，利用模型训练和推理技术，优化了视频生成过程的性能和并发处理。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "algorithm",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T09:04:56.039122+00:00",
+  "published_at": "2026-08-10T08:53:45Z",
+  "collected_at": "2026-08-10T09:04:56.039122+00:00",
+  "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons."
+}

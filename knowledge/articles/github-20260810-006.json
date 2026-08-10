@@ -1,0 +1,18 @@
+{
+  "id": "github-20260810-006",
+  "title": "Ayuxh09/LLM-Benchmarks",
+  "source_url": "https://github.com/Ayuxh09/LLM-Benchmarks",
+  "source": "github",
+  "summary": "LLM-Benchmarks是一个以研究为导向的平台，用于跨不同模型、量化级别、解码策略和硬件配置优化LLM推理性能。它测量延迟、吞吐量、内存使用、令牌生成速度和输出质量，以确定高效LLM的最佳精度-性能权衡。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "performance"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T09:04:56.039122+00:00",
+  "published_at": "2026-08-10T08:56:37Z",
+  "collected_at": "2026-08-10T09:04:56.039122+00:00",
+  "description": "A research-oriented platform for benchmarking and optimizing LLM inference performance across different models, quantization levels, decoding strategies, and hardware configurations. It measures latency, throughput, memory usage, token generation speed, and output quality to identify the best accura"
+}

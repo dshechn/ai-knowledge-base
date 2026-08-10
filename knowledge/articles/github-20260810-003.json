@@ -1,0 +1,18 @@
+{
+  "id": "github-20260810-003",
+  "title": "ADATA-TRUSTA/AI-Scaler-Toolkit",
+  "source_url": "https://github.com/ADATA-TRUSTA/AI-Scaler-Toolkit",
+  "source": "github",
+  "summary": "ADATA-TRUSTA/AI-Scaler-Toolkit 是一个高效的工具包，帮助公司部署大型语言模型，通过内存卸载到DRAM或SSD来降低成本。它支持模型训练、推理，并优化了向量索引和缓存机制，适用于分布式架构和微服务环境，旨在提升性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T09:04:56.039122+00:00",
+  "published_at": "2026-08-10T08:21:25Z",
+  "collected_at": "2026-08-10T09:04:56.039122+00:00",
+  "description": "A cost-efficient toolkit for helping company deploy Large Language Models with memory offload to DRAM or SSD."
+}

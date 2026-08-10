@@ -1,0 +1,140 @@
+[
+  {
+    "title": "selormwalker/nexus-agent-bridge",
+    "url": "https://github.com/selormwalker/nexus-agent-bridge",
+    "source": "github",
+    "description": "A lightweight, extensible framework for connecting AI agents to local tools and system capabilities.",
+    "published_at": "2026-08-10T09:02:56Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "somithaasri/Agentic-AI-projects",
+    "url": "https://github.com/somithaasri/Agentic-AI-projects",
+    "source": "github",
+    "description": "A collection of real-world AI agent projects built while exploring Agentic AI, LLM frameworks, and MCP.",
+    "published_at": "2026-08-10T09:01:48Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Usuts/llm-stream",
+    "url": "https://github.com/Usuts/llm-stream",
+    "source": "github",
+    "description": "Stream responses from OpenAI and Anthropic models with lightweight C++ tools for efficient large language model integration.",
+    "published_at": "2026-08-10T08:37:33Z",
+    "extra": {
+      "stars": 4,
+      "language": "C++",
+      "topics": [
+        "agents",
+        "audiollm",
+        "chatbot",
+        "data-analytics",
+        "data-processing",
+        "indexing",
+        "iot-analytics",
+        "kafka",
+        "llm",
+        "neural-speech-synthesis",
+        "rag",
+        "retrieval-augmented-generation",
+        "rust",
+        "stream",
+        "stream-processing",
+        "text-to-speech",
+        "time-series-analysis",
+        "tts",
+        "vercel"
+      ]
+    }
+  },
+  {
+    "title": "ADATA-TRUSTA/AI-Scaler-Toolkit",
+    "url": "https://github.com/ADATA-TRUSTA/AI-Scaler-Toolkit",
+    "source": "github",
+    "description": "A cost-efficient toolkit for helping company deploy Large Language Models with memory offload to DRAM or SSD.",
+    "published_at": "2026-08-10T08:21:25Z",
+    "extra": {
+      "stars": 17,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "allen-li1231/treehop-rag",
+    "url": "https://github.com/allen-li1231/treehop-rag",
+    "source": "github",
+    "description": "Highly Efficient Query Rewriter for Passage Retrieval in the realm of Retrieval-Augmented Generation (RAG)",
+    "published_at": "2026-08-10T08:58:18Z",
+    "extra": {
+      "stars": 30,
+      "language": "Python",
+      "topics": [
+        "efficient",
+        "information-retrieval",
+        "multihop-question-answering",
+        "retrieval-augmented-generation"
+      ]
+    }
+  },
+  {
+    "title": "gadesrinam0-code/ai-rag-project",
+    "url": "https://github.com/gadesrinam0-code/ai-rag-project",
+    "source": "github",
+    "description": "An AI-powered Retrieval-Augmented Generation (RAG) application built with React, FastAPI, FAISS, Hugging Face Embeddings, and Groq LLM. Users can upload PDF documents and ask questions to receive context-aware answers from the uploaded content.",
+    "published_at": "2026-08-10T08:56:53Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Ayuxh09/LLM-Benchmarks",
+    "url": "https://github.com/Ayuxh09/LLM-Benchmarks",
+    "source": "github",
+    "description": "A research-oriented platform for benchmarking and optimizing LLM inference performance across different models, quantization levels, decoding strategies, and hardware configurations. It measures latency, throughput, memory usage, token generation speed, and output quality to identify the best accuracy–performance trade-offs for efficient LLMS",
+    "published_at": "2026-08-10T08:56:37Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "alejandrogg15/Minimax-H3-Turbo",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo",
+    "source": "github",
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "published_at": "2026-08-10T08:53:45Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "cemu-emulator",
+        "comfy",
+        "comfyui-nodes",
+        "deepseek-v3",
+        "document-analysis",
+        "emulator",
+        "image-to-video",
+        "layout-analysis",
+        "llm",
+        "llm-agent",
+        "ocr",
+        "pdf",
+        "pytorch",
+        "text-to-image-generation",
+        "wiiu"
+      ]
+    }
+  }
+]

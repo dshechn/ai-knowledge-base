@@ -1,0 +1,18 @@
+{
+  "id": "github-20260810-004",
+  "title": "allen-li1231/treehop-rag",
+  "source_url": "https://github.com/allen-li1231/treehop-rag",
+  "source": "github",
+  "summary": "TreeHop-RAG是一个高效的查询重写器，用于检索增强生成（RAG）领域的段落检索。它通过优化查询重写策略，显著提升了检索性能，适用于多跳问答和RAG应用。，采用模块化架构，关注性能和算法优化",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T09:04:56.039122+00:00",
+  "published_at": "2026-08-10T08:58:18Z",
+  "collected_at": "2026-08-10T09:04:56.039122+00:00",
+  "description": "Highly Efficient Query Rewriter for Passage Retrieval in the realm of Retrieval-Augmented Generation (RAG)"
+}
