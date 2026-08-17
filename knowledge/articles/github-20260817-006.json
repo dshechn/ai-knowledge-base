@@ -1,0 +1,18 @@
+{
+  "id": "github-20260817-006",
+  "title": "rafiunshoron/rag-chunking-strategies",
+  "source_url": "https://github.com/rafiunshoron/rag-chunking-strategies",
+  "source": "github",
+  "summary": "该项目提供了现代检索增强生成（RAG）的chunking策略的实战实现和实验。它使用Python语言，专注于模型训练、推理和向量索引，旨在优化RAG的性能和并发处理。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T08:28:54.466793+00:00",
+  "published_at": "2026-08-17T08:24:51Z",
+  "collected_at": "2026-08-17T08:28:54.466793+00:00",
+  "description": "Hands-on implementations and experiments with modern chunking strategies for Retrieval-Augmented Generation (RAG)."
+}

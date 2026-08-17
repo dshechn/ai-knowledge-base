@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260817-009",
+  "title": "Debian has begun voting on the future of AI/LLM contributions",
+  "source_url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+  "source": "rss",
+  "summary": "Debian 社区正在对 AI/LLM 贡献的未来进行投票，涉及模型训练、推理算法和分布式架构的讨论，旨在提升性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "distributed-systems"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T08:28:54.466793+00:00",
+  "published_at": "Sat, 15 Aug 2026 09:20:07 +0000",
+  "collected_at": "2026-08-17T08:28:54.466793+00:00",
+  "description": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html\nComments URL: https://news.ycombinator.com/item?id=49309050\nPoints: 66\n# Comments: 54"
+}

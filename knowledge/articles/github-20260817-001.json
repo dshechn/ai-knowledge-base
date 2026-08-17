@@ -1,0 +1,18 @@
+{
+  "id": "github-20260817-001",
+  "title": "PlagueHO/foundry-agentic-workshop",
+  "source_url": "https://github.com/PlagueHO/foundry-agentic-workshop",
+  "source": "github",
+  "summary": "该实验性实验室通过Azure AI Foundry提供端到端的环境配置脚本，帮助工程师从L200级别提升至L300级别，构建基于Azure的智能代理解决方案。包括基于提示的代理、多代理工具、Python中的Microsoft Agent Framework以及Foundry IQ知识检索。涉及模型训练、推理、架构设计和性能优化等技术。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T08:28:54.466793+00:00",
+  "published_at": "2026-08-17T08:27:28Z",
+  "collected_at": "2026-08-17T08:28:54.466793+00:00",
+  "description": "A hands-on lab that takes engineers from L200 to L300 building agentic solutions on Azure AI Foundry — hosted and prompt-based agents, multi-agent tools, the Microsoft Agent Framework in Python, and Foundry IQ knowledge retrieval — with scripts to provision the shared lab environment end-to-end."
+}

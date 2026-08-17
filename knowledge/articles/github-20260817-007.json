@@ -1,0 +1,18 @@
+{
+  "id": "github-20260817-007",
+  "title": "kvcache-ai/ktransformers",
+  "source_url": "https://github.com/kvcache-ai/ktransformers",
+  "source": "github",
+  "summary": "ktransformers是一个灵活的框架，用于体验异构LLM推理/微调优化。该框架支持多种模型训练和推理优化，适用于分布式系统和微服务架构，旨在提高性能和并发处理能力。",
+  "score": 9.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T08:28:54.466793+00:00",
+  "published_at": "2026-08-17T08:25:30Z",
+  "collected_at": "2026-08-17T08:28:54.466793+00:00",
+  "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations"
+}

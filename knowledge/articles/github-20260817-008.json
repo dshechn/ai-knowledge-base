@@ -1,0 +1,18 @@
+{
+  "id": "github-20260817-008",
+  "title": "vireshkoli/LLM-Inference-Optimization",
+  "source_url": "https://github.com/vireshkoli/LLM-Inference-Optimization",
+  "source": "github",
+  "summary": "该项目对量化Llama-3.1-8B服务（vLLM vs SGLang）在NVIDIA A40上的延迟、吞吐量、质量和成本进行了严格的基准测试，包括泊松到达、尾部延迟、帕累托前沿，并提供了一种可审计的方法。项目使用Python语言实现，专注于模型推理优化。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T08:28:54.466793+00:00",
+  "published_at": "2026-08-17T08:15:04Z",
+  "collected_at": "2026-08-17T08:28:54.466793+00:00",
+  "description": "Rigorous open-loop latency/throughput/quality/cost benchmarking of quantized Llama-3.1-8B serving (vLLM vs SGLang) on an NVIDIA A40 — Poisson arrivals, tail latency, Pareto frontier, and a methodology you can audit."
+}

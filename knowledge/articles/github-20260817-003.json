@@ -1,0 +1,17 @@
+{
+  "id": "github-20260817-003",
+  "title": "VaishnaviBhise05/agent-mvp",
+  "source_url": "https://github.com/VaishnaviBhise05/agent-mvp",
+  "source": "github",
+  "summary": "Agent MVP 是一个基于大型语言模型（LLMs）的AI智能代理的MVP，用于自动化任务。该项目展示了智能代理的核心功能，包括推理、任务执行和与外部工具和服务的无缝集成。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "javascript"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T08:28:54.466793+00:00",
+  "published_at": "2026-08-17T08:00:09Z",
+  "collected_at": "2026-08-17T08:28:54.466793+00:00",
+  "description": "Agent MVP is a Minimum Viable Product (MVP) of an AI-powered agent designed to automate tasks using Large Language Models (LLMs), APIs, and modern AI technologies. The project demonstrates the core capabilities of an intelligent agent, including reasoning, task execution, and seamless integration wi"
+}

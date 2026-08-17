@@ -1,0 +1,112 @@
+[
+  {
+    "title": "PlagueHO/foundry-agentic-workshop",
+    "url": "https://github.com/PlagueHO/foundry-agentic-workshop",
+    "source": "github",
+    "description": "A hands-on lab that takes engineers from L200 to L300 building agentic solutions on Azure AI Foundry — hosted and prompt-based agents, multi-agent tools, the Microsoft Agent Framework in Python, and Foundry IQ knowledge retrieval — with scripts to provision the shared lab environment end-to-end.",
+    "published_at": "2026-08-17T08:27:28Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "MarcelRoozekrans/Thalos.NET",
+    "url": "https://github.com/MarcelRoozekrans/Thalos.NET",
+    "source": "github",
+    "description": "Hermes-style, ZeroAlloc-native agent framework for .NET on Microsoft Agent Framework, with AI.Sentinel security and MCP tools",
+    "published_at": "2026-08-17T08:27:05Z",
+    "extra": {
+      "stars": 0,
+      "language": "C#",
+      "topics": []
+    }
+  },
+  {
+    "title": "VaishnaviBhise05/agent-mvp",
+    "url": "https://github.com/VaishnaviBhise05/agent-mvp",
+    "source": "github",
+    "description": " Agent MVP is a Minimum Viable Product (MVP) of an AI-powered agent designed to automate tasks using Large Language Models (LLMs), APIs, and modern AI technologies. The project demonstrates the core capabilities of an intelligent agent, including reasoning, task execution, and seamless integration with external tools and services.  ",
+    "published_at": "2026-08-17T08:00:09Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "git",
+        "github",
+        "llms",
+        "pyhton",
+        "vscode"
+      ]
+    }
+  },
+  {
+    "title": "karthikabinav/llm-training-toolkit",
+    "url": "https://github.com/karthikabinav/llm-training-toolkit",
+    "source": "github",
+    "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures.",
+    "published_at": "2026-08-17T07:36:29Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Coi-Zhi/Space-Growing-A-Multi-Step-Neural-Framework-for-3D-Architectural-Completion",
+    "url": "https://github.com/Coi-Zhi/Space-Growing-A-Multi-Step-Neural-Framework-for-3D-Architectural-Completion",
+    "source": "github",
+    "description": "utilizing voxel grids as a fundamental spatial syntax,Retrieval-Augmented Generation (RAG) system driven by a Transformer architecture. The model generates structures iteratively through two distinct stages: a \"Bridge\" phase,and a \"Grow\" phase.",
+    "published_at": "2026-08-17T08:26:31Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "rafiunshoron/rag-chunking-strategies",
+    "url": "https://github.com/rafiunshoron/rag-chunking-strategies",
+    "source": "github",
+    "description": "Hands-on implementations and experiments with modern chunking strategies for Retrieval-Augmented Generation (RAG).",
+    "published_at": "2026-08-17T08:24:51Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "kvcache-ai/ktransformers",
+    "url": "https://github.com/kvcache-ai/ktransformers",
+    "source": "github",
+    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "published_at": "2026-08-17T08:25:30Z",
+    "extra": {
+      "stars": 19244,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "vireshkoli/LLM-Inference-Optimization",
+    "url": "https://github.com/vireshkoli/LLM-Inference-Optimization",
+    "source": "github",
+    "description": "Rigorous open-loop latency/throughput/quality/cost benchmarking of quantized Llama-3.1-8B serving (vLLM vs SGLang) on an NVIDIA A40 — Poisson arrivals, tail latency, Pareto frontier, and a methodology you can audit.",
+    "published_at": "2026-08-17T08:15:04Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Debian has begun voting on the future of AI/LLM contributions",
+    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+    "source": "rss",
+    "description": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html\nComments URL: https://news.ycombinator.com/item?id=49309050\nPoints: 66\n# Comments: 54",
+    "published_at": "Sat, 15 Aug 2026 09:20:07 +0000",
+    "extra": {}
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260817-005",
+  "title": "Coi-Zhi/Space-Growing-A-Multi-Step-Neural-Framework-for-3D-Architectural-Completion",
+  "source_url": "https://github.com/Coi-Zhi/Space-Growing-A-Multi-Step-Neural-Framework-for-3D-Architectural-Completion",
+  "source": "github",
+  "summary": "该开源项目利用体素网格作为基本的空间语法，结合Transformer架构的检索增强生成（RAG）系统，通过两个阶段迭代生成3D建筑结构：'Bridge'阶段和'Grow'阶段，实现了高效的3D建筑完成模型。",
+  "score": 8.0,
+  "tags": [
+    "deep-learning",
+    "architecture",
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T08:28:54.466793+00:00",
+  "published_at": "2026-08-17T08:26:31Z",
+  "collected_at": "2026-08-17T08:28:54.466793+00:00",
+  "description": "utilizing voxel grids as a fundamental spatial syntax,Retrieval-Augmented Generation (RAG) system driven by a Transformer architecture. The model generates structures iteratively through two distinct stages: a \"Bridge\" phase,and a \"Grow\" phase."
+}

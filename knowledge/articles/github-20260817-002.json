@@ -1,0 +1,17 @@
+{
+  "id": "github-20260817-002",
+  "title": "MarcelRoozekrans/Thalos.NET",
+  "source_url": "https://github.com/MarcelRoozekrans/Thalos.NET",
+  "source": "github",
+  "summary": "Thalos.NET是一个基于.NET的Hermes风格的零内存分配原生代理框架，利用Microsoft Agent Framework，集成了AI.Sentinel安全工具和MCP管理工具，适用于高性能和低延迟的应用场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "microservices",
+    "distributed-systems"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T08:28:54.466793+00:00",
+  "published_at": "2026-08-17T08:27:05Z",
+  "collected_at": "2026-08-17T08:28:54.466793+00:00",
+  "description": "Hermes-style, ZeroAlloc-native agent framework for .NET on Microsoft Agent Framework, with AI.Sentinel security and MCP tools"
+}
