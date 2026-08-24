@@ -1,0 +1,18 @@
+{
+  "id": "github-20260824-004",
+  "title": "daimonionnn/ik-llama-toolkit",
+  "source_url": "https://github.com/daimonionnn/ik-llama-toolkit",
+  "source": "github",
+  "summary": "ik-llama-toolkit是一个用于运行大型语言模型的命令行推理服务器和基准测试工具，适用于GPU VRAM不足的情况。针对RTX PRO 6000和Deepseek v4闪存进行优化，支持大型模型的高效推理和性能测试。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "tooling"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T08:34:16.725527+00:00",
+  "published_at": "2026-08-24T07:40:38Z",
+  "collected_at": "2026-08-24T08:34:16.725527+00:00",
+  "description": "A one-command inference server and benchmark harness for running large language models that don't fit in your GPU's VRAM. Optimized for RTX PRO 6000 and Deepseek v4 flash"
+}

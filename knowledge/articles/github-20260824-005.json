@@ -1,0 +1,18 @@
+{
+  "id": "github-20260824-005",
+  "title": "saZen73/aster-row-ai-agent",
+  "source_url": "https://github.com/saZen73/aster-row-ai-agent",
+  "source": "github",
+  "summary": "saZen73/aster-row-ai-agent 是一个简单、可靠且保护隐私的AI辅助代理，用于Aster & Row任务。该系统采用检索增强生成（RAG）技术，实现精确的政策引用和确定性的工具调用，以安全地查询订单状态，同时不泄露内部数据或个人身份信息（PII）。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T08:34:16.725527+00:00",
+  "published_at": "2026-08-24T08:27:41Z",
+  "collected_at": "2026-08-24T08:34:16.725527+00:00",
+  "description": "A simple, reliable, privacy-preserving AI support agent built for the Aster & Row assignment. The system utilizes Retrieval-Augmented Generation (RAG) for accurate policy citation and deterministic tool-calling to securely look up order statuses without exposing internal data or PII."
+}

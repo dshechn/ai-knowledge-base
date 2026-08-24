@@ -1,0 +1,18 @@
+{
+  "id": "github-20260824-002",
+  "title": "Kaustubhgupta28/EduGuard-AI",
+  "source_url": "https://github.com/Kaustubhgupta28/EduGuard-AI",
+  "source": "github",
+  "summary": "EduGuard-AI是一个基于LangGraph和Groq的代理多智能体学术诚信框架，利用模型训练和推理技术，通过向量索引和缓存机制，实现高效的数据处理和性能优化，适用于学术诚信监控和检测。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T08:34:16.725527+00:00",
+  "published_at": "2026-08-24T08:32:31Z",
+  "collected_at": "2026-08-24T08:34:16.725527+00:00",
+  "description": "Agentic Multi-Agent Academic Integrity Framework using LangGraph and Groq"
+}

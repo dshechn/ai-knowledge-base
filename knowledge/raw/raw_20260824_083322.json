@@ -1,0 +1,125 @@
+[
+  {
+    "title": "AgentEra/Agently-Skills",
+    "url": "https://github.com/AgentEra/Agently-Skills",
+    "source": "github",
+    "description": "Agently AI application development framework's official collection of agent skills",
+    "published_at": "2026-08-20T08:03:09Z",
+    "extra": {
+      "stars": 25,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Kaustubhgupta28/EduGuard-AI",
+    "url": "https://github.com/Kaustubhgupta28/EduGuard-AI",
+    "source": "github",
+    "description": "Agentic Multi-Agent Academic Integrity Framework using LangGraph and Groq",
+    "published_at": "2026-08-24T08:32:31Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "xenotaur/LCATS",
+    "url": "https://github.com/xenotaur/LCATS",
+    "source": "github",
+    "description": "Large language model version of the Captain's Advisory Tool System",
+    "published_at": "2026-08-24T07:57:01Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "daimonionnn/ik-llama-toolkit",
+    "url": "https://github.com/daimonionnn/ik-llama-toolkit",
+    "source": "github",
+    "description": "A one-command inference server and benchmark harness for running large language models that don't fit in your GPU's VRAM. Optimized for RTX PRO 6000 and Deepseek v4 flash",
+    "published_at": "2026-08-24T07:40:38Z",
+    "extra": {
+      "stars": 0,
+      "language": "Shell",
+      "topics": [
+        "cuda",
+        "deepseek",
+        "deepseek-v4",
+        "deepseek-v4-flash",
+        "ik-llama-cpp",
+        "llama-cpp",
+        "llm",
+        "mxfp4",
+        "nvidia",
+        "rtx",
+        "rtx-6000",
+        "rtx-pro-6000"
+      ]
+    }
+  },
+  {
+    "title": "saZen73/aster-row-ai-agent",
+    "url": "https://github.com/saZen73/aster-row-ai-agent",
+    "source": "github",
+    "description": "A simple, reliable, privacy-preserving AI support agent built for the Aster & Row assignment. The system utilizes Retrieval-Augmented Generation (RAG) for accurate policy citation and deterministic tool-calling to securely look up order statuses without exposing internal data or PII.",
+    "published_at": "2026-08-24T08:27:41Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "mubix-dev/pdf-rag-chat",
+    "url": "https://github.com/mubix-dev/pdf-rag-chat",
+    "source": "github",
+    "description": "My first RAG project — chat with your PDFs using FastAPI, ChromaDB, fastembed, and Groq, with a React frontend. Built to learn retrieval-augmented generation from scratch.",
+    "published_at": "2026-08-24T08:32:51Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-08-24T08:30:56Z",
+    "extra": {
+      "stars": 14459,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "zhaolin-amd/llm-paper-radar",
+    "url": "https://github.com/zhaolin-amd/llm-paper-radar",
+    "source": "github",
+    "description": "Daily LLM inference optimization paper digest",
+    "published_at": "2026-08-24T08:02:24Z",
+    "extra": {
+      "stars": 11,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
+    "url": "https://www.blackbench.ai/",
+    "source": "rss",
+    "description": "Article URL: https://www.blackbench.ai/\nComments URL: https://news.ycombinator.com/item?id=49382540\nPoints: 3\n# Comments: 2",
+    "published_at": "Fri, 21 Aug 2026 01:26:01 +0000",
+    "extra": {}
+  }
+]

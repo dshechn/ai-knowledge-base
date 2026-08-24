@@ -1,0 +1,17 @@
+{
+  "id": "github-20260824-006",
+  "title": "mubix-dev/pdf-rag-chat",
+  "source_url": "https://github.com/mubix-dev/pdf-rag-chat",
+  "source": "github",
+  "summary": "该项目利用FastAPI、ChromaDB、fastembed和Groq构建了一个基于React的前端，实现了与PDF文件进行对话的功能。项目从头开始学习检索增强生成技术，核心技术包括模型训练、推理、向量索引和缓存机制。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "fullstack"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T08:34:16.725527+00:00",
+  "published_at": "2026-08-24T08:32:51Z",
+  "collected_at": "2026-08-24T08:34:16.725527+00:00",
+  "description": "My first RAG project — chat with your PDFs using FastAPI, ChromaDB, fastembed, and Groq, with a React frontend. Built to learn retrieval-augmented generation from scratch."
+}
