@@ -1,0 +1,16 @@
+{
+  "id": "github-20260831-005",
+  "title": "QuentinElGuay/portfolio-ai-tour-guide",
+  "source_url": "https://github.com/QuentinElGuay/portfolio-ai-tour-guide",
+  "source": "github",
+  "summary": "QuentinElGuay的AI旅游助手项目使用RAG技术，从PDF旅游指南中提取知识来回答游客问题，为法国假期提供个性化服务。该项目是2026年LLM Zoomcamp的毕业设计，采用Python编写，结合了模型训练、推理和向量索引技术，适用于旅游信息查询和个性化推荐场景。",
+  "score": 8.0,
+  "tags": [
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T15:34:57.101909+00:00",
+  "published_at": "2026-08-31T13:22:01Z",
+  "collected_at": "2026-08-31T15:34:57.101909+00:00",
+  "description": "AI travel assistant to prepare your holidays in France, using Retrieval-Augmented Generation (RAG) to answer travelers' questions using knowledge from PDF tourism guides. Built as the capstone project for the 2026 LLM Zoomcamp."
+}

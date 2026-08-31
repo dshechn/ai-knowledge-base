@@ -1,0 +1,18 @@
+{
+  "id": "github-20260831-002",
+  "title": "ZzjNoMercy/ai_wiki",
+  "source_url": "https://github.com/ZzjNoMercy/ai_wiki",
+  "source": "github",
+  "summary": "ai_wiki 是一个结构化、基于证据的 LLM、AI 代理、模型、框架和工程实践的维基百科。它旨在为人工智能领域提供全面的技术信息和工程实践指导，支持模型训练、推理和算法研究。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "ml",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T15:34:57.101909+00:00",
+  "published_at": "2026-08-31T15:22:00Z",
+  "collected_at": "2026-08-31T15:34:57.101909+00:00",
+  "description": "A structured, evidence-backed wiki for LLMs, AI agents, models, frameworks, and engineering practices."
+}

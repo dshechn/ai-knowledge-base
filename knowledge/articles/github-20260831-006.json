@@ -1,0 +1,17 @@
+{
+  "id": "github-20260831-006",
+  "title": "troublemutuva/rag-chatbot",
+  "source_url": "https://github.com/troublemutuva/rag-chatbot",
+  "source": "github",
+  "summary": "基于FastAPI、LangChain、Gemini 3.6和Pinecone向量存储的检索增强生成（RAG）聊天机器人后端。该项目利用先进的模型和算法实现高效的推理和向量索引，适用于构建高性能的聊天机器人应用。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T15:34:57.101909+00:00",
+  "published_at": "2026-08-31T15:26:11Z",
+  "collected_at": "2026-08-31T15:34:57.101909+00:00",
+  "description": "🤖 Retrieval-Augmented Generation (RAG) backend powered by FastAPI + LangChain + Gemini 3.6 + Pinecone vector store."
+}

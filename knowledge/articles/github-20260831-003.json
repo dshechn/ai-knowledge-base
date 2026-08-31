@@ -1,0 +1,18 @@
+{
+  "id": "github-20260831-003",
+  "title": "evelyyyyynnnnn/1.0-Secure-Ai-Agent-Infrastructure",
+  "source_url": "https://github.com/evelyyyyynnnnn/1.0-Secure-Ai-Agent-Infrastructure",
+  "source": "github",
+  "summary": "该项目利用大型语言模型、区块链技术和分布式架构构建安全AI代理系统的基础设施。核心技术包括模型训练、推理、分布式架构设计，以及区块链的认证和授权机制。适用于构建高性能、高安全性的AI代理系统。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "distributed-systems",
+    "security"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T15:34:57.101909+00:00",
+  "published_at": "2026-08-23T19:22:47Z",
+  "collected_at": "2026-08-31T15:34:57.101909+00:00",
+  "description": "Research prototypes and infrastructure tools for building secure AI agent systems using large language models, blockchain technologies, and distributed architectures."
+}

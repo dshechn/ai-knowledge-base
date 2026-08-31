@@ -1,0 +1,18 @@
+{
+  "id": "github-20260831-007",
+  "title": "Savi-Swar/nanoserve",
+  "source_url": "https://github.com/Savi-Swar/nanoserve",
+  "source": "github",
+  "summary": "Savi-Swar/nanoserve 是一个从头开始构建的 LLM 推理服务器，使用 Python 和 PyTorch，无需自定义 CUDA。它支持从简单批处理到连续批处理，以及分页的键值缓存。项目还进行了对已发布优化的诚实审计，以衡量噪声阈值。该服务器适用于需要高性能和可扩展性的机器学习系统。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "ml"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T15:34:57.101909+00:00",
+  "published_at": "2026-08-31T15:32:19Z",
+  "collected_at": "2026-08-31T15:34:57.101909+00:00",
+  "description": "From-scratch LLM inference server (Python/PyTorch, no custom CUDA): naive to continuous batching to paged KV cache, plus an honest audit of published optimizations against a measured noise floor."
+}

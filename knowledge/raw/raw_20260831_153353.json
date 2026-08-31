@@ -1,0 +1,146 @@
+[
+  {
+    "title": "AstrBotDevs/AstrBot",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "source": "github",
+    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "published_at": "2026-08-31T15:30:36Z",
+    "extra": {
+      "stars": 39856,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "astrbot",
+        "chatbot",
+        "chatgpt",
+        "discord",
+        "docker",
+        "gemini",
+        "gpt",
+        "llama",
+        "llm",
+        "mcp",
+        "openai",
+        "python",
+        "qq",
+        "qqbot",
+        "telegram"
+      ]
+    }
+  },
+  {
+    "title": "ZzjNoMercy/ai_wiki",
+    "url": "https://github.com/ZzjNoMercy/ai_wiki",
+    "source": "github",
+    "description": "A structured, evidence-backed wiki for LLMs, AI agents, models, frameworks, and engineering practices.",
+    "published_at": "2026-08-31T15:22:00Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "evelyyyyynnnnn/1.0-Secure-Ai-Agent-Infrastructure",
+    "url": "https://github.com/evelyyyyynnnnn/1.0-Secure-Ai-Agent-Infrastructure",
+    "source": "github",
+    "description": "Research prototypes and infrastructure tools for building secure AI agent systems using large language models, blockchain technologies, and distributed architectures.",
+    "published_at": "2026-08-23T19:22:47Z",
+    "extra": {
+      "stars": 191,
+      "language": "Solidity",
+      "topics": []
+    }
+  },
+  {
+    "title": "akshayaramesh123/Exploring-AI-Tools-GenAI-and-LLM-Applications",
+    "url": "https://github.com/akshayaramesh123/Exploring-AI-Tools-GenAI-and-LLM-Applications",
+    "source": "github",
+    "description": "A complete learning repository documenting my journey through AI Tools, Generative AI, Prompt Engineering, and Large Language Models (LLMs).",
+    "published_at": "2026-08-31T15:12:30Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "QuentinElGuay/portfolio-ai-tour-guide",
+    "url": "https://github.com/QuentinElGuay/portfolio-ai-tour-guide",
+    "source": "github",
+    "description": "AI travel assistant to prepare your holidays in France, using Retrieval-Augmented Generation (RAG) to answer travelers' questions using knowledge from PDF tourism guides. Built as the capstone project for the 2026 LLM Zoomcamp.",
+    "published_at": "2026-08-31T13:22:01Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai-assistants",
+        "llm-zoomcamp",
+        "rag-chatbot"
+      ]
+    }
+  },
+  {
+    "title": "troublemutuva/rag-chatbot",
+    "url": "https://github.com/troublemutuva/rag-chatbot",
+    "source": "github",
+    "description": "🤖 Retrieval-Augmented Generation (RAG) backend powered by FastAPI + LangChain + Gemini 3.6 + Pinecone vector store.",
+    "published_at": "2026-08-31T15:26:11Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Savi-Swar/nanoserve",
+    "url": "https://github.com/Savi-Swar/nanoserve",
+    "source": "github",
+    "description": "From-scratch LLM inference server (Python/PyTorch, no custom CUDA): naive to continuous batching to paged KV cache, plus an honest audit of published optimizations against a measured noise floor.",
+    "published_at": "2026-08-31T15:32:19Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "continuous-batching",
+        "inference",
+        "llm",
+        "ml-systems",
+        "paged-attention",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "guelfoweb/orbit",
+    "url": "https://github.com/guelfoweb/orbit",
+    "source": "github",
+    "description": "Local agentic AI runtime optimized for CPU-only consumer hardware, tool use and efficient local inference.",
+    "published_at": "2026-08-31T14:54:01Z",
+    "extra": {
+      "stars": 15,
+      "language": "Python",
+      "topics": [
+        "agent-cli",
+        "cpu-only",
+        "gemma4-26b-a4b",
+        "llama-cpp",
+        "llm",
+        "local-llm",
+        "python",
+        "qwen-code",
+        "qwen3",
+        "tool-calling"
+      ]
+    }
+  },
+  {
+    "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
+    "url": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+    "source": "rss",
+    "description": "Article URL: https://www.phoronix.com/news/AI-DoS-Attack-Maintainers\nComments URL: https://news.ycombinator.com/item?id=49437339\nPoints: 5\n# Comments: 1",
+    "published_at": "Tue, 25 Aug 2026 17:12:34 +0000",
+    "extra": {}
+  }
+]

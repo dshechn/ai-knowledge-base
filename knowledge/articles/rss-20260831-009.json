@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-009",
+  "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
+  "source_url": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+  "source": "rss",
+  "summary": "开源维护者面临AI/LLM滥用导致的拒绝服务攻击，通过大量模型推理请求消耗服务器资源，影响项目维护。此问题揭示了开源社区在应对新型攻击方式上的挑战，需要加强架构和性能优化。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "security",
+    "distributed-systems"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T15:34:57.101909+00:00",
+  "published_at": "Tue, 25 Aug 2026 17:12:34 +0000",
+  "collected_at": "2026-08-31T15:34:57.101909+00:00",
+  "description": "Article URL: https://www.phoronix.com/news/AI-DoS-Attack-Maintainers\nComments URL: https://news.ycombinator.com/item?id=49437339\nPoints: 5\n# Comments: 1"
+}
