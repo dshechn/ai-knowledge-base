@@ -1,0 +1,18 @@
+{
+  "id": "github-20260907-005",
+  "title": "intel/enterprise-inference",
+  "source_url": "https://github.com/intel/enterprise-inference",
+  "source": "github",
+  "summary": "Intel企业级高性能LLM服务，基于Kubernetes，支持OpenAI兼容推理。利用vLLM和OpenVINO™模型服务器，通过统一AI网关提供生产级模型服务、路由和安全功能，具备NUMA感知CPU优化，适用于Intel® Xeon®处理器。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "kubernetes",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T13:44:42.733836+00:00",
+  "published_at": "2026-09-07T13:31:43Z",
+  "collected_at": "2026-09-07T13:44:42.733836+00:00",
+  "description": "Enterprise-grade, high-performance LLM serving on Kubernetes. OpenAI-compatible inference powered by vLLM and OpenVINO™ Model Server behind a unified AI gateway, with NUMA-aware CPU optimization for Intel® Xeon® - production model serving, routing, and security built in."
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "title": "yangqiongtech/yangqiong-agent-harness",
+    "url": "https://github.com/yangqiongtech/yangqiong-agent-harness",
+    "source": "github",
+    "description": "泱穹 Agent Harness 是一套用纯 Java 构建的企业级 AI Agent 运行时框架，ReAct 循环、六大范式、子代理编排、持久化执行、安全护栏、全链路可观测，零 Spring 依赖。Enterprise-grade AI Agent runtime framework in pure Java — ReAct loop, 6 paradigms, sub-agent orchestration, durable execution, guardrails, observability. No Spring required.",
+    "published_at": "2026-09-07T13:43:53Z",
+    "extra": {
+      "stars": 2,
+      "language": "Java",
+      "topics": []
+    }
+  },
+  {
+    "title": "Cyrax321/CONTINUUM",
+    "url": "https://github.com/Cyrax321/CONTINUUM",
+    "source": "github",
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an idempotent action ledger that refuses duplicate side effects, and a hash-chained tamper-evident event log, all exposed as a deny-by-default MCP server. Framework-agnostic, Python 3.11+.",
+    "published_at": "2026-09-07T13:43:31Z",
+    "extra": {
+      "stars": 27,
+      "language": "Python",
+      "topics": [
+        "agent-framework",
+        "ai-agents",
+        "checkpointing",
+        "crash-recovery",
+        "durable-execution",
+        "fault-tolerance",
+        "hacktoberfest",
+        "langchain",
+        "langgraph",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "observability",
+        "openai",
+        "pydantic",
+        "python",
+        "recovery",
+        "sqlite"
+      ]
+    }
+  },
+  {
+    "title": "yamadashy/repomix",
+    "url": "https://github.com/yamadashy/repomix",
+    "source": "github",
+    "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+    "published_at": "2026-09-07T13:38:43Z",
+    "extra": {
+      "stars": 28228,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "anthropic",
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "developer-tools",
+        "gemini",
+        "genai",
+        "generative-ai",
+        "gpt",
+        "javascript",
+        "language-model",
+        "llama",
+        "llm",
+        "mcp",
+        "nodejs",
+        "openai",
+        "typescript"
+      ]
+    }
+  },
+  {
+    "title": "hjiang13/awesome-Large-Language-Model-4-IRs-in-Compiler",
+    "url": "https://github.com/hjiang13/awesome-Large-Language-Model-4-IRs-in-Compiler",
+    "source": "github",
+    "description": "A curated list of research papers, datasets, tools, and benchmarks on applying Large Language Models (LLMs) to Compiler Intermediate Representations (IR) and Optimization.",
+    "published_at": "2026-09-07T12:05:04Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "123shriya-commits/rag-document-qa-chatbot",
+    "url": "https://github.com/123shriya-commits/rag-document-qa-chatbot",
+    "source": "github",
+    "description": "A Retrieval-Augmented Generation (RAG) chatbot for answering questions from PDF and text documents using FAISS, Sentence Transformers, and FLAN-T5.",
+    "published_at": "2026-09-07T13:42:29Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "gokifujiya/eu-ai-act-rag",
+    "url": "https://github.com/gokifujiya/eu-ai-act-rag",
+    "source": "github",
+    "description": "Retrieval-Augmented Generation (RAG) system for Regulation (EU) 2024/1689 (EU AI Act)",
+    "published_at": "2026-09-07T13:38:51Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "xLLM-AI/xllm",
+    "url": "https://github.com/xLLM-AI/xllm",
+    "source": "github",
+    "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation.",
+    "published_at": "2026-09-07T13:36:28Z",
+    "extra": {
+      "stars": 1562,
+      "language": "C++",
+      "topics": [
+        "deepseek",
+        "glm",
+        "inference",
+        "inference-engine",
+        "large-language-models",
+        "llm-inference",
+        "qwen"
+      ]
+    }
+  },
+  {
+    "title": "intel/enterprise-inference",
+    "url": "https://github.com/intel/enterprise-inference",
+    "source": "github",
+    "description": "Enterprise-grade, high-performance LLM serving on Kubernetes. OpenAI-compatible inference powered by vLLM and OpenVINO™ Model Server behind a unified AI gateway, with NUMA-aware CPU optimization for Intel® Xeon® - production model serving, routing, and security built in.",
+    "published_at": "2026-09-07T13:31:43Z",
+    "extra": {
+      "stars": 4,
+      "language": "Shell",
+      "topics": [
+        "genai",
+        "generative-ai",
+        "inference-server",
+        "kubernetes",
+        "llm-inference",
+        "llm-serving",
+        "llmops",
+        "mlops",
+        "model-serving",
+        "openai",
+        "openai-api",
+        "openai-compatible",
+        "vllm"
+      ]
+    }
+  },
+  {
+    "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
+    "url": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+    "source": "rss",
+    "description": "Article URL: https://www.phoronix.com/news/AI-DoS-Attack-Maintainers\nComments URL: https://news.ycombinator.com/item?id=49437339\nPoints: 5\n# Comments: 1",
+    "published_at": "Tue, 25 Aug 2026 17:12:34 +0000",
+    "extra": {}
+  }
+]

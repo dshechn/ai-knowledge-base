@@ -1,0 +1,18 @@
+{
+  "id": "github-20260907-002",
+  "title": "Cyrax321/CONTINUUM",
+  "source_url": "https://github.com/Cyrax321/CONTINUUM",
+  "source": "github",
+  "summary": "CONTINUUM是一个用于长期运行AI代理的可验证语义恢复框架。它提供了语义检查点、幂等动作账本和防篡改事件日志，并通过默认拒绝访问的MCP服务器暴露。该框架不依赖于特定框架，支持Python 3.11及以上版本，适用于需要稳定性和可恢复性的AI代理应用。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T13:44:42.733836+00:00",
+  "published_at": "2026-09-07T13:43:31Z",
+  "collected_at": "2026-09-07T13:44:42.733836+00:00",
+  "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an idempotent action ledger that refuses duplicate side effects, and a hash-chained tamper-evident event log, all exposed as a deny-by-default MCP server. Framework-agnostic, Python 3.1"
+}

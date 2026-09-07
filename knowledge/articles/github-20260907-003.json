@@ -1,0 +1,18 @@
+{
+  "id": "github-20260907-003",
+  "title": "123shriya-commits/rag-document-qa-chatbot",
+  "source_url": "https://github.com/123shriya-commits/rag-document-qa-chatbot",
+  "source": "github",
+  "summary": "该开源项目是一个基于RAG（检索增强生成）的聊天机器人，利用FAISS进行向量索引，Sentence Transformers进行句子表示，以及FLAN-T5进行文本生成，用于从PDF和文本文档中回答问题。项目采用Python编写，适用于需要从大量文档中快速检索和生成回答的场景。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T13:44:42.733836+00:00",
+  "published_at": "2026-09-07T13:42:29Z",
+  "collected_at": "2026-09-07T13:44:42.733836+00:00",
+  "description": "A Retrieval-Augmented Generation (RAG) chatbot for answering questions from PDF and text documents using FAISS, Sentence Transformers, and FLAN-T5."
+}

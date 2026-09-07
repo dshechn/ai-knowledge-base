@@ -1,0 +1,18 @@
+{
+  "id": "github-20260907-001",
+  "title": "yangqiongtech/yangqiong-agent-harness",
+  "source_url": "https://github.com/yangqiongtech/yangqiong-agent-harness",
+  "source": "github",
+  "summary": "泱穹 Agent Harness 是一个纯 Java 构建的企业级 AI Agent 运行时框架，支持 ReAct 循环、六大范式、子代理编排、持久化执行、安全防护和全链路可观测性，无需 Spring 依赖。该框架适用于构建高性能、可扩展的 AI 应用。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "java",
+    "ai",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T13:44:42.733836+00:00",
+  "published_at": "2026-09-07T13:43:53Z",
+  "collected_at": "2026-09-07T13:44:42.733836+00:00",
+  "description": "泱穹 Agent Harness 是一套用纯 Java 构建的企业级 AI Agent 运行时框架，ReAct 循环、六大范式、子代理编排、持久化执行、安全护栏、全链路可观测，零 Spring 依赖。Enterprise-grade AI Agent runtime framework in pure Java — ReAct loop, 6 paradigms, sub-agent orchestration, durable execution, guardrails, observability. No Spring required."
+}
