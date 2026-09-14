@@ -1,0 +1,17 @@
+{
+  "id": "github-20260914-002",
+  "title": "asklokesh/loki-mode",
+  "source_url": "https://github.com/asklokesh/loki-mode",
+  "source": "github",
+  "summary": "Loki-mode 是一个多智能体自主软件开发生命周期（SDLC）框架，支持从规格到部署应用程序的全过程。它使用PRD、GitHub issue、OpenAPI/JSON/YAML或简短描述来规范应用。框架集成了5个AI提供商和8个质量关卡，旨在提高开发效率和性能。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "devops"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T14:30:14.957898+00:00",
+  "published_at": "2026-09-14T14:28:40Z",
+  "collected_at": "2026-09-14T14:30:14.957898+00:00",
+  "description": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 8 quality gates."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260914-003",
+  "title": "Nasurudeen31/Langchain",
+  "source_url": "https://github.com/Nasurudeen31/Langchain",
+  "source": "github",
+  "summary": "LangChain是一个开源框架，简化了使用大型语言模型构建应用程序的过程。它允许开发者将LLMs与外部数据、工具和工作流程连接，支持Python和JavaScript，提高了开发效率和性能。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T14:30:14.957898+00:00",
+  "published_at": "2026-09-14T14:07:25Z",
+  "collected_at": "2026-09-14T14:30:14.957898+00:00",
+  "description": "LangChain is an open-source framework that simplifies building applications using large language models.   It helps developers connect LLMs with external data, tools and workflows and is available in both Python and JavaScript."
+}

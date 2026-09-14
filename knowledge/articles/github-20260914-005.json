@@ -1,0 +1,18 @@
+{
+  "id": "github-20260914-005",
+  "title": "Yashh-DevOps/document-rag-assistant",
+  "source_url": "https://github.com/Yashh-DevOps/document-rag-assistant",
+  "source": "github",
+  "summary": "Yashh-DevOps/document-rag-assistant 是一个基于文档的检索增强生成（RAG）应用，使用 LangChain、ChromaDB、Groq、Hugging Face 嵌入和 Streamlit 构建，允许用户上传文档并通过上下文感知的问答与内容交互。该应用采用模块化设计，支持高性能的文档检索和推理，适用于构建知识库和智能问答系统。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T14:30:14.957898+00:00",
+  "published_at": "2026-09-14T14:27:08Z",
+  "collected_at": "2026-09-14T14:30:14.957898+00:00",
+  "description": "A modular document-based Retrieval-Augmented Generation (RAG) application that enables users to upload documents and interact with their content through context-aware question answering. Built with LangChain, ChromaDB, Groq, Hugging Face embeddings, and Streamlit."
+}

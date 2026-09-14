@@ -1,0 +1,18 @@
+{
+  "id": "github-20260914-006",
+  "title": "sadmanHT/RagEval",
+  "source_url": "https://github.com/sadmanHT/RagEval",
+  "source": "github",
+  "summary": "RAG-Eval是一个基于大型、杂乱的真实世界文档语料库的检索增强生成系统，支持多种格式的财务报告、法律合同和研究论文。该项目将检索系统视为一等工程问题，适用于生产环境，并使用Python语言实现。，采用模块化架构，关注性能和算法优化",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T14:30:14.957898+00:00",
+  "published_at": "2026-09-14T14:26:48Z",
+  "collected_at": "2026-09-14T14:30:14.957898+00:00",
+  "description": "RAG-Eval is a production-grade Retrieval-Augmented Generation system built over a large, messy, real-world document corpus of mixed-format financial reports, legal contracts, and research papers. Unlike tutorial-level RAG projects, RAG-Eval treats the retrieval system as a first-class engineering pr"
+}

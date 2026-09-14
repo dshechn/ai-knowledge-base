@@ -1,0 +1,143 @@
+[
+  {
+    "title": "tylerdh12/agent-reliability-toolkit",
+    "url": "https://github.com/tylerdh12/agent-reliability-toolkit",
+    "source": "github",
+    "description": "Open-source testing framework for AI agents. Test for the 7 failure modes before production deployment.",
+    "published_at": "2026-09-14T14:28:40Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "pytest",
+        "python",
+        "reliability",
+        "testing"
+      ]
+    }
+  },
+  {
+    "title": "asklokesh/loki-mode",
+    "url": "https://github.com/asklokesh/loki-mode",
+    "source": "github",
+    "description": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 8 quality gates.",
+    "published_at": "2026-09-14T14:28:40Z",
+    "extra": {
+      "stars": 1058,
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "aider",
+        "anthropic",
+        "autonomous",
+        "ci-cd",
+        "claude",
+        "cline",
+        "code-review",
+        "devops",
+        "gemini",
+        "github-action",
+        "github-issues",
+        "loki-mode",
+        "multi-agent",
+        "openai-codex",
+        "openapi",
+        "pull-request-review",
+        "sdlc",
+        "spec-driven-development"
+      ]
+    }
+  },
+  {
+    "title": "Nasurudeen31/Langchain",
+    "url": "https://github.com/Nasurudeen31/Langchain",
+    "source": "github",
+    "description": "LangChain is an open-source framework that simplifies building applications using large language models.   It helps developers connect LLMs with external data, tools and workflows and is available in both Python and JavaScript.",
+    "published_at": "2026-09-14T14:07:25Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "yuvasriram2909/Scribe-AI",
+    "url": "https://github.com/yuvasriram2909/Scribe-AI",
+    "source": "github",
+    "description": "Scribe AI email sender is an automated software tool powered by large language models that autonomously drafts, personalizes, and sends emails based on real-time data.",
+    "published_at": "2026-09-14T14:00:48Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "Yashh-DevOps/document-rag-assistant",
+    "url": "https://github.com/Yashh-DevOps/document-rag-assistant",
+    "source": "github",
+    "description": "A modular document-based Retrieval-Augmented Generation (RAG) application that enables users to upload documents and interact with their content through context-aware question answering. Built with LangChain, ChromaDB, Groq, Hugging Face embeddings, and Streamlit.",
+    "published_at": "2026-09-14T14:27:08Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "sadmanHT/RagEval",
+    "url": "https://github.com/sadmanHT/RagEval",
+    "source": "github",
+    "description": "RAG-Eval is a production-grade Retrieval-Augmented Generation system built over a large, messy, real-world document corpus of mixed-format financial reports, legal contracts, and research papers. Unlike tutorial-level RAG projects, RAG-Eval treats the retrieval system as a first-class engineering problem.",
+    "published_at": "2026-09-14T14:26:48Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "source": "github",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "published_at": "2026-09-14T14:28:58Z",
+    "extra": {
+      "stars": 3801,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "guelfoweb/orbit",
+    "url": "https://github.com/guelfoweb/orbit",
+    "source": "github",
+    "description": "Local agentic AI runtime optimized for CPU-only consumer hardware, tool use and efficient local inference.",
+    "published_at": "2026-09-14T14:10:09Z",
+    "extra": {
+      "stars": 15,
+      "language": "Python",
+      "topics": [
+        "agent-cli",
+        "cpu-only",
+        "llama-cpp",
+        "llm",
+        "local-llm",
+        "python",
+        "tool-calling"
+      ]
+    }
+  },
+  {
+    "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
+    "url": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+    "source": "rss",
+    "description": "Article URL: https://www.phoronix.com/news/AI-DoS-Attack-Maintainers\nComments URL: https://news.ycombinator.com/item?id=49437339\nPoints: 5\n# Comments: 1",
+    "published_at": "Tue, 25 Aug 2026 17:12:34 +0000",
+    "extra": {}
+  }
+]

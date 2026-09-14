@@ -1,0 +1,17 @@
+{
+  "id": "github-20260914-004",
+  "title": "yuvasriram2909/Scribe-AI",
+  "source_url": "https://github.com/yuvasriram2909/Scribe-AI",
+  "source": "github",
+  "summary": "Scribe-AI 是一款基于大型语言模型的自动化电子邮件发送工具，能够根据实时数据自动草稿、个性化并发送电子邮件。该工具利用模型训练和推理技术，结合缓存和API调用，实现高效邮件发送，适用于需要自动化电子邮件管理的场景。",
+  "score": 8.0,
+  "tags": [
+    "javascript",
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T14:30:14.957898+00:00",
+  "published_at": "2026-09-14T14:00:48Z",
+  "collected_at": "2026-09-14T14:30:14.957898+00:00",
+  "description": "Scribe AI email sender is an automated software tool powered by large language models that autonomously drafts, personalizes, and sends emails based on real-time data."
+}
