@@ -1,0 +1,18 @@
+{
+  "id": "github-20260921-004",
+  "title": "Nithusikan01/Medical-Student-Assistant",
+  "source_url": "https://github.com/Nithusikan01/Medical-Student-Assistant",
+  "source": "github",
+  "summary": "Medical-Student-Assistant 是一款针对医学生的生产级检索增强生成（RAG）助手，具备混合检索、跨编码重排序、会话感知记忆和全面的评估流程，能够从医学文档中提供准确、基于上下文的问答。，采用模块化架构，关注性能和算法优化",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T14:39:11.827739+00:00",
+  "published_at": "2026-09-21T14:37:51Z",
+  "collected_at": "2026-09-21T14:39:11.827739+00:00",
+  "description": "A production-ready Retrieval-Augmented Generation (RAG) assistant for medical students, featuring hybrid retrieval, cross-encoder reranking, conversation-aware memory, and comprehensive evaluation pipelines for accurate, context-grounded question answering from medical documents."
+}

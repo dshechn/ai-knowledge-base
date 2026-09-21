@@ -1,0 +1,17 @@
+{
+  "id": "github-20260921-001",
+  "title": "Mubder/kazma",
+  "source_url": "https://github.com/Mubder/kazma",
+  "source": "github",
+  "summary": "Kazma是一个自主AI代理框架，采用LangGraph大脑和群集编排，以阿拉伯语为起点，具备人类在环安全机制。该框架支持模型训练、推理和算法优化，适用于阿拉伯语自然语言处理和微服务架构。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T14:39:11.827739+00:00",
+  "published_at": "2026-09-21T14:36:57Z",
+  "collected_at": "2026-09-21T14:39:11.827739+00:00",
+  "description": "Autonomous AI agent framework — LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety."
+}

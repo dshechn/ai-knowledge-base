@@ -1,0 +1,18 @@
+{
+  "id": "github-20260921-003",
+  "title": "Hawk3388/solver",
+  "source_url": "https://github.com/Hawk3388/solver",
+  "source": "github",
+  "summary": "Hawk3388/solver 是一个基于 AI 的工具，利用定制训练的 YOLO 目标检测模型和多模态大型语言模型（如 Google Gemini 或本地 Ollama 模型）自动检测并填补语言练习册中的空白。该工具结合了模型训练、推理和算法，适用于语言学习场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "ml",
+    "python"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T14:39:11.827739+00:00",
+  "published_at": "2026-09-21T13:49:19Z",
+  "collected_at": "2026-09-21T14:39:11.827739+00:00",
+  "description": "An AI-powered tool that automatically detects and fills in blank gaps on language worksheets (e.g., fill-in-the-blank, cloze tests, grammar exercises). It combines a custom-trained YOLO object detection model with a multimodal large language model (Google Gemini or a local Ollama model) to locate ga"
+}

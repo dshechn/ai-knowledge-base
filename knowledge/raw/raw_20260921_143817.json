@@ -1,0 +1,169 @@
+[
+  {
+    "title": "Mubder/kazma",
+    "url": "https://github.com/Mubder/kazma",
+    "source": "github",
+    "description": "Autonomous AI agent framework — LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
+    "published_at": "2026-09-21T14:36:57Z",
+    "extra": {
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "arabic",
+        "arabic-ai",
+        "arabic-nlp",
+        "hitl",
+        "knowledge-base",
+        "knowledge-graph",
+        "langgraph",
+        "multi-platform",
+        "rag",
+        "research",
+        "swarm",
+        "swarm-intelligence",
+        "web-scraping"
+      ]
+    }
+  },
+  {
+    "title": "BuilderIO/agent-native",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "source": "github",
+    "description": "A framework for building agentic apps",
+    "published_at": "2026-09-21T14:37:16Z",
+    "extra": {
+      "stars": 5666,
+      "language": "TypeScript",
+      "topics": [
+        "agent-native",
+        "agents",
+        "ai",
+        "react",
+        "typescript"
+      ]
+    }
+  },
+  {
+    "title": "Usuts/llm-stream",
+    "url": "https://github.com/Usuts/llm-stream",
+    "source": "github",
+    "description": "Stream responses from OpenAI and Anthropic models with lightweight C++ tools for efficient large language model integration.",
+    "published_at": "2026-09-21T14:04:07Z",
+    "extra": {
+      "stars": 4,
+      "language": "C++",
+      "topics": [
+        "agents",
+        "audiollm",
+        "chatbot",
+        "data-analytics",
+        "data-processing",
+        "indexing",
+        "iot-analytics",
+        "kafka",
+        "llm",
+        "neural-speech-synthesis",
+        "rag",
+        "retrieval-augmented-generation",
+        "rust",
+        "stream",
+        "stream-processing",
+        "text-to-speech",
+        "time-series-analysis",
+        "tts",
+        "vercel"
+      ]
+    }
+  },
+  {
+    "title": "Hawk3388/solver",
+    "url": "https://github.com/Hawk3388/solver",
+    "source": "github",
+    "description": "An AI-powered tool that automatically detects and fills in blank gaps on language worksheets (e.g., fill-in-the-blank, cloze tests, grammar exercises). It combines a custom-trained YOLO object detection model with a multimodal large language model (Google Gemini or a local Ollama model) to locate gaps and generate correct answers.",
+    "published_at": "2026-09-21T13:49:19Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "HKUDS/LightRAG",
+    "url": "https://github.com/HKUDS/LightRAG",
+    "source": "github",
+    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+    "published_at": "2026-09-21T14:38:10Z",
+    "extra": {
+      "stars": 39800,
+      "language": "Python",
+      "topics": [
+        "docling",
+        "genai",
+        "gpt",
+        "graphrag",
+        "knowledge-graph",
+        "large-language-models",
+        "llm",
+        "mineru",
+        "rag",
+        "ragas",
+        "retrieval-augmented-generation"
+      ]
+    }
+  },
+  {
+    "title": "Nithusikan01/Medical-Student-Assistant",
+    "url": "https://github.com/Nithusikan01/Medical-Student-Assistant",
+    "source": "github",
+    "description": "A production-ready Retrieval-Augmented Generation (RAG) assistant for medical students, featuring hybrid retrieval, cross-encoder reranking, conversation-aware memory, and comprehensive evaluation pipelines for accurate, context-grounded question answering from medical documents.",
+    "published_at": "2026-09-21T14:37:51Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "vireshkoli/LLM-Inference-Optimization",
+    "url": "https://github.com/vireshkoli/LLM-Inference-Optimization",
+    "source": "github",
+    "description": "Rigorous open-loop latency/throughput/quality/cost benchmarking of quantized Llama-3.1-8B serving (vLLM vs SGLang) on an NVIDIA A40 — Poisson arrivals, tail latency, Pareto frontier, and a methodology you can audit.",
+    "published_at": "2026-09-21T14:37:13Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "alejandrogg15/Minimax-H3-Turbo",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo",
+    "source": "github",
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "published_at": "2026-09-21T14:20:43Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "cemu-emulator",
+        "comfy",
+        "comfyui-nodes",
+        "deepseek-v3",
+        "document-analysis",
+        "emulator",
+        "image-to-video",
+        "layout-analysis",
+        "llm",
+        "llm-agent",
+        "ocr",
+        "pdf",
+        "pytorch",
+        "text-to-image-generation",
+        "wiiu"
+      ]
+    }
+  }
+]

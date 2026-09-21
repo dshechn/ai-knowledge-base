@@ -1,0 +1,18 @@
+{
+  "id": "github-20260921-002",
+  "title": "BuilderIO/agent-native",
+  "source_url": "https://github.com/BuilderIO/agent-native",
+  "source": "github",
+  "summary": "BuilderIO/agent-native 是一个用于构建智能应用的框架，支持使用 TypeScript 和 React 进行开发。该框架集成了人工智能和机器学习模型，提供高效的训练和推理功能，适用于构建具有智能代理功能的微服务架构应用。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T14:39:11.827739+00:00",
+  "published_at": "2026-09-21T14:37:16Z",
+  "collected_at": "2026-09-21T14:39:11.827739+00:00",
+  "description": "A framework for building agentic apps"
+}
