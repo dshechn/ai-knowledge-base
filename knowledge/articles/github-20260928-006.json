@@ -1,0 +1,18 @@
+{
+  "id": "github-20260928-006",
+  "title": "Gauravjha87/HireFit-Analyzer",
+  "source_url": "https://github.com/Gauravjha87/HireFit-Analyzer",
+  "source": "github",
+  "summary": "HireFit Analyzer 是一个基于 AI 的工具，通过比较候选人的简历与职位描述来生成匹配分数、技能差距分析和个性化面试问题。它利用检索增强生成（RAG）技术，确保每个洞察和问题都基于简历和职位描述的实际内容。该工具适用于招聘流程中，通过提高匹配准确性和效率来优化人才筛选。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "nlp",
+    "open-source"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-28T16:09:35.892716+00:00",
+  "published_at": "2026-09-28T16:04:54Z",
+  "collected_at": "2026-09-28T16:09:35.892716+00:00",
+  "description": "HireFit Analyzer is an AI-powered tool that compares a candidate's resume against a job description and generates a match score, a skill gap analysis, and a personalized set of interview questions. Built on Retrieval-Augmented Generation (RAG), it grounds every insight and question in the actual con"
+}

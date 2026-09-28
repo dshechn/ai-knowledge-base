@@ -1,0 +1,18 @@
+{
+  "id": "github-20260928-007",
+  "title": "tonythetiger168/helioslm",
+  "source_url": "https://github.com/tonythetiger168/helioslm",
+  "source": "github",
+  "summary": "HeliosLM是一个基于PyTorch的深度学习模型，采用DeepSeek-V3/K3风格的LLM堆栈，提供精确的磁盘层专家流、键值前缀池、MTP盈亏平衡遥测和门控配置演化的优化。支持60个测试，全部通过CPU验证，适用于需要高性能和精确推理的场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-28T16:09:35.892716+00:00",
+  "published_at": "2026-09-28T15:48:39Z",
+  "collected_at": "2026-09-28T16:09:35.892716+00:00",
+  "description": "Pure-PyTorch DeepSeek-V3/K3-style LLM stack where every serving optimization ships with a bit-exactness oracle: disk-tier expert streaming, KV prefix pool, MTP break-even telemetry, oracle-gated config evolution. 60 tests, all CPU-verified."
+}

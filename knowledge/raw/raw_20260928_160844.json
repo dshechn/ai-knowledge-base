@@ -1,0 +1,138 @@
+[
+  {
+    "title": "conda-forge/agent-framework-azure-ai-search-feedstock",
+    "url": "https://github.com/conda-forge/agent-framework-azure-ai-search-feedstock",
+    "source": "github",
+    "description": "A conda-smithy repository for agent-framework-azure-ai-search.",
+    "published_at": "2026-09-28T16:08:00Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "mjcdata/agent-builder",
+    "url": "https://github.com/mjcdata/agent-builder",
+    "source": "github",
+    "description": "A security focused, portable framework that helps nontechnical users design, create, and evolve AI agents using any capable LLM and editable workspace.",
+    "published_at": "2026-09-28T16:06:55Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "asanderson/llm-redact",
+    "url": "https://github.com/asanderson/llm-redact",
+    "source": "github",
+    "description": "Large Language Model (LLM) information redactor that prevents private information from being sent to LLMs from agentic tools by substituting placeholders for private information on outgoing requests and then replaces the placeholders on the incoming responses seamlessly for the agentic tool users.",
+    "published_at": "2026-09-28T16:06:19Z",
+    "extra": {
+      "stars": 7,
+      "language": "Python",
+      "topics": [
+        "agentic",
+        "ai",
+        "ai-agents",
+        "ai-tools",
+        "claude-code-plugin",
+        "codex-plugin",
+        "cursor-plugin",
+        "llm",
+        "ner",
+        "opencode-plugin",
+        "privacy",
+        "proxy",
+        "python",
+        "python3"
+      ]
+    }
+  },
+  {
+    "title": "SanjayR857/ai-agents-with-mcp",
+    "url": "https://github.com/SanjayR857/ai-agents-with-mcp",
+    "source": "github",
+    "description": "This repository explores how Agentic AI systems can be built and orchestrated using the Model Context Protocol (MCP). It provides structured notes, examples, and experiments around connecting large language model (LLM) agents to external tools, servers, and applications via MCP.",
+    "published_at": "2026-09-28T15:04:40Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "ADOGBO/Assistant-RAG-Mairie",
+    "url": "https://github.com/ADOGBO/Assistant-RAG-Mairie",
+    "source": "github",
+    "description": "Assistant virtuel basé sur Retrieval-Augmented Generation (RAG) permettant de répondre à des questions.",
+    "published_at": "2026-09-28T16:05:03Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Gauravjha87/HireFit-Analyzer",
+    "url": "https://github.com/Gauravjha87/HireFit-Analyzer",
+    "source": "github",
+    "description": "HireFit Analyzer is an AI-powered tool that compares a candidate's resume against a job description and generates a match score, a skill gap analysis, and a personalized set of interview questions. Built on Retrieval-Augmented Generation (RAG), it grounds every insight and question in the actual content of the resume and the JD.",
+    "published_at": "2026-09-28T16:04:54Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "tonythetiger168/helioslm",
+    "url": "https://github.com/tonythetiger168/helioslm",
+    "source": "github",
+    "description": "Pure-PyTorch DeepSeek-V3/K3-style LLM stack where every serving optimization ships with a bit-exactness oracle: disk-tier expert streaming, KV prefix pool, MTP break-even telemetry, oracle-gated config evolution. 60 tests, all CPU-verified.",
+    "published_at": "2026-09-28T15:48:39Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agent-harness",
+        "deepseek-v3",
+        "evaluation-harness",
+        "expert-streaming",
+        "fp8",
+        "gguf",
+        "grpo",
+        "inference",
+        "linear-attention",
+        "llm",
+        "mixture-of-experts",
+        "mla",
+        "moe",
+        "prefix-cache",
+        "pytorch",
+        "quantization",
+        "reference-implementation",
+        "speculative-decoding"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-09-28T15:47:41Z",
+    "extra": {
+      "stars": 14729,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  }
+]

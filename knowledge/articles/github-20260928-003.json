@@ -1,0 +1,17 @@
+{
+  "id": "github-20260928-003",
+  "title": "asanderson/llm-redact",
+  "source_url": "https://github.com/asanderson/llm-redact",
+  "source": "github",
+  "summary": "LLM信息红actor，通过在出站请求中用占位符替换私人信息，防止私人信息通过代理工具发送到LLM，并在代理工具用户接收响应时无缝替换占位符，保护隐私。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "security"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-28T16:09:35.892716+00:00",
+  "published_at": "2026-09-28T16:06:19Z",
+  "collected_at": "2026-09-28T16:09:35.892716+00:00",
+  "description": "Large Language Model (LLM) information redactor that prevents private information from being sent to LLMs from agentic tools by substituting placeholders for private information on outgoing requests and then replaces the placeholders on the incoming responses seamlessly for the agentic tool users."
+}

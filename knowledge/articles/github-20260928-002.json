@@ -1,0 +1,18 @@
+{
+  "id": "github-20260928-002",
+  "title": "mjcdata/agent-builder",
+  "source_url": "https://github.com/mjcdata/agent-builder",
+  "source": "github",
+  "summary": "mjcdata/agent-builder 是一个以安全为核心的可移植框架，帮助非技术用户使用任何具备能力的 LLM（大型语言模型）和可编辑的工作空间设计、创建和演进 AI 代理。该框架支持模型训练、推理和算法优化，适用于需要安全、高性能和可扩展的 AI 代理架构。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "security",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-28T16:09:35.892716+00:00",
+  "published_at": "2026-09-28T16:06:55Z",
+  "collected_at": "2026-09-28T16:09:35.892716+00:00",
+  "description": "A security focused, portable framework that helps nontechnical users design, create, and evolve AI agents using any capable LLM and editable workspace."
+}

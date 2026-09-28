@@ -1,0 +1,18 @@
+{
+  "id": "github-20260928-004",
+  "title": "SanjayR857/ai-agents-with-mcp",
+  "source_url": "https://github.com/SanjayR857/ai-agents-with-mcp",
+  "source": "github",
+  "summary": "该仓库探讨了如何使用模型上下文协议（MCP）构建和编排Agentic AI系统。它提供了关于如何将大型语言模型（LLM）代理连接到外部工具、服务器和应用程序的笔记、示例和实验。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "distributed-systems"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-28T16:09:35.892716+00:00",
+  "published_at": "2026-09-28T15:04:40Z",
+  "collected_at": "2026-09-28T16:09:35.892716+00:00",
+  "description": "This repository explores how Agentic AI systems can be built and orchestrated using the Model Context Protocol (MCP). It provides structured notes, examples, and experiments around connecting large language model (LLM) agents to external tools, servers, and applications via MCP."
+}
