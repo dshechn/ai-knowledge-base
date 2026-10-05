@@ -1,0 +1,175 @@
+[
+  {
+    "title": "elizaOS/eliza",
+    "url": "https://github.com/elizaOS/eliza",
+    "source": "github",
+    "description": "Open source agentic operating system",
+    "published_at": "2026-10-05T16:28:55Z",
+    "extra": {
+      "stars": 19540,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "autonomous",
+        "chatbot",
+        "crypto",
+        "discord",
+        "eliza",
+        "elizaos",
+        "framework",
+        "plugins",
+        "rag",
+        "slack",
+        "swarm",
+        "telegram"
+      ]
+    }
+  },
+  {
+    "title": "vedantwankhade123/Brown",
+    "url": "https://github.com/vedantwankhade123/Brown",
+    "source": "github",
+    "description": "Autonomous, privacy-first local AI Agent framework for Windows. Features offline Ollama & Gemini integration, on-device Whisper STT & Kokoro TTS voice, MCP tools, and seamless desktop automation in a sleek glassmorphic interface.",
+    "published_at": "2026-10-05T16:27:47Z",
+    "extra": {
+      "stars": 3,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "electron",
+        "electron-app",
+        "gemini",
+        "gemini-api",
+        "kokoro-tts",
+        "local-llm",
+        "mcp",
+        "ollama",
+        "privacy",
+        "voice-assistant",
+        "whisper-speech-to-text",
+        "windows"
+      ]
+    }
+  },
+  {
+    "title": "karthikabinav/llm-training-toolkit",
+    "url": "https://github.com/karthikabinav/llm-training-toolkit",
+    "source": "github",
+    "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures.",
+    "published_at": "2026-10-05T16:21:27Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "Jame0077/mcp-code-mode",
+    "url": "https://github.com/Jame0077/mcp-code-mode",
+    "source": "github",
+    "description": "🤖 Enable AI code generation using the Code Execution MCP Server, integrating large language models with the Model Context Protocol for seamless tool use.",
+    "published_at": "2026-10-05T15:37:49Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-tools",
+        "azure",
+        "chatmode",
+        "claude-code",
+        "code-analysis",
+        "code-execution",
+        "code-search",
+        "copilot",
+        "developer-tools",
+        "embeddings",
+        "gemini-pro",
+        "lambda",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "podman",
+        "python",
+        "token-optimization"
+      ]
+    }
+  },
+  {
+    "title": "luckydhepe/Multi-Agent-Customer-Support-System-",
+    "url": "https://github.com/luckydhepe/Multi-Agent-Customer-Support-System-",
+    "source": "github",
+    "description": " Developed a multi-agent customer support system using LangGraph and LangChain to automate ticket resolution and reduce manual support overhead.– Integrated a Retrieval-Augmented Generation (RAG) pipeline over a simulated knowledge base to ground LLM responses in factual, domain-specific documentation.",
+    "published_at": "2026-10-05T16:28:16Z",
+    "extra": {
+      "stars": 0,
+      "language": "Dockerfile",
+      "topics": []
+    }
+  },
+  {
+    "title": "Tejasri-Vallepu/Healthcare-RAG",
+    "url": "https://github.com/Tejasri-Vallepu/Healthcare-RAG",
+    "source": "github",
+    "description": "Healthcare Research Assistant using Retrieval-Augmented Generation (RAG)",
+    "published_at": "2026-10-05T16:27:02Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-10-05T16:13:19Z",
+    "extra": {
+      "stars": 14763,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "riawat511/club-5060ti",
+    "url": "https://github.com/riawat511/club-5060ti",
+    "source": "github",
+    "description": "Optimize local LLM inference and benchmarking recipes for RTX 5060 Ti hardware configurations.",
+    "published_at": "2026-10-05T16:06:56Z",
+    "extra": {
+      "stars": 0,
+      "language": "HTML",
+      "topics": [
+        "agent-context",
+        "agora",
+        "cloud-native",
+        "clubhouse-client",
+        "clubhouse-lib",
+        "cpp",
+        "database",
+        "distributed-transactions",
+        "model-deployment",
+        "model-monitoring",
+        "mongodb",
+        "mysql",
+        "mysql-compatibility",
+        "scale",
+        "swift",
+        "tinywebserver",
+        "voice-chat",
+        "vue-router",
+        "webbench",
+        "webserver"
+      ]
+    }
+  }
+]

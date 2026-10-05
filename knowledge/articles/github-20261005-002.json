@@ -1,0 +1,18 @@
+{
+  "id": "github-20261005-002",
+  "title": "luckydhepe/Multi-Agent-Customer-Support-System-",
+  "source_url": "https://github.com/luckydhepe/Multi-Agent-Customer-Support-System-",
+  "source": "github",
+  "summary": "开发了一个多智能体客户支持系统，利用LangGraph和LangChain自动化工单解决，降低人工支持负担。集成检索增强生成（RAG）管道，在模拟知识库上实现，确保LLM响应基于事实、特定领域的文档。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-05T16:30:26.770245+00:00",
+  "published_at": "2026-10-05T16:28:16Z",
+  "collected_at": "2026-10-05T16:30:26.770245+00:00",
+  "description": "Developed a multi-agent customer support system using LangGraph and LangChain to automate ticket resolution and reduce manual support overhead.– Integrated a Retrieval-Augmented Generation (RAG) pipeline over a simulated knowledge base to ground LLM responses in factual, domain-specific documentatio"
+}
