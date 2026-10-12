@@ -1,0 +1,18 @@
+{
+  "id": "github-20261012-006",
+  "title": "NehaAnalyzes/llm-mental-health-assistant",
+  "source_url": "https://github.com/NehaAnalyzes/llm-mental-health-assistant",
+  "source": "github",
+  "summary": "基于RAG的心理健康助手，利用向量嵌入进行语义文档检索，并通过LangChain、ChromaDB和Gemini LLM生成基于上下文的响应。采用Streamlit构建对话界面，提供心理健康咨询。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "nlp"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-12T17:04:59.121279+00:00",
+  "published_at": "2026-10-12T17:02:41Z",
+  "collected_at": "2026-10-12T17:04:59.121279+00:00",
+  "description": "Retrieval-Augmented Generation (RAG) based mental health assistant that performs semantic document retrieval using vector embeddings and generates grounded, context-aware responses via a conversational Streamlit interface. Built with LangChain, ChromaDB, and Gemini LLM."
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "title": "leroyoakley777/GTM-Wiki",
+    "url": "https://github.com/leroyoakley777/GTM-Wiki",
+    "source": "github",
+    "description": "Open-source Go-to-Market wiki for founders, operators, and builders. Covers frameworks, playbooks, roles, tools, and agentic GTM.",
+    "published_at": "2026-10-12T17:03:13Z",
+    "extra": {
+      "stars": 0,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "documentation",
+        "docusaurus",
+        "go-to-market",
+        "sales"
+      ]
+    }
+  },
+  {
+    "title": "pipecat-ai/pipecat",
+    "url": "https://github.com/pipecat-ai/pipecat",
+    "source": "github",
+    "description": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.",
+    "published_at": "2026-10-12T17:02:48Z",
+    "extra": {
+      "stars": 16395,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "chatbot-framework",
+        "chatbots",
+        "real-time",
+        "voice",
+        "voice-assistant"
+      ]
+    }
+  },
+  {
+    "title": "AgenticMCP/llm-training-toolkit",
+    "url": "https://github.com/AgenticMCP/llm-training-toolkit",
+    "source": "github",
+    "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures.",
+    "published_at": "2026-10-12T16:42:23Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "pacoEzq/simulation-capsule",
+    "url": "https://github.com/pacoEzq/simulation-capsule",
+    "source": "github",
+    "description": "Simulation Capsules: CFD results distilled for large language models. Spec, example capsules, STAR-CCM+ macros and tools behind a 10-part tutorial series, plus Side Runs articles.",
+    "published_at": "2026-10-12T16:10:29Z",
+    "extra": {
+      "stars": 0,
+      "language": "Java",
+      "topics": [
+        "cfd",
+        "context-engineering",
+        "file-format",
+        "llm",
+        "llm-tools",
+        "llms-txt",
+        "postprocessing",
+        "scientific-visualization",
+        "simulation",
+        "star-ccm",
+        "star-ccm-plus",
+        "tokenization"
+      ]
+    }
+  },
+  {
+    "title": "NaumanEngineer/Healthcare_Document_Intelligence_RAG",
+    "url": "https://github.com/NaumanEngineer/Healthcare_Document_Intelligence_RAG",
+    "source": "github",
+    "description": "Governed healthcare document intelligence and retrieval-augmented generation system for evidence-grounded operational decision support.",
+    "published_at": "2026-10-12T17:03:45Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "NehaAnalyzes/llm-mental-health-assistant",
+    "url": "https://github.com/NehaAnalyzes/llm-mental-health-assistant",
+    "source": "github",
+    "description": "Retrieval-Augmented Generation (RAG) based mental health assistant that performs semantic document retrieval using vector embeddings and generates grounded, context-aware responses via a conversational Streamlit interface. Built with LangChain, ChromaDB, and Gemini LLM.",
+    "published_at": "2026-10-12T17:02:41Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "lvyufeng/PocketLLM",
+    "url": "https://github.com/lvyufeng/PocketLLM",
+    "source": "github",
+    "description": "Inference engine for large language models on consumer GPUs, with deep optimization for older hardware",
+    "published_at": "2026-10-12T17:03:50Z",
+    "extra": {
+      "stars": 54,
+      "language": "Python",
+      "topics": [
+        "ascend",
+        "consumer-gpu",
+        "cuda",
+        "deepseek",
+        "glm",
+        "inference",
+        "inference-engine",
+        "llm",
+        "minimax",
+        "moe",
+        "pytorch",
+        "quantization",
+        "qwen",
+        "rtx-2080-ti"
+      ]
+    }
+  },
+  {
+    "title": "harshitpratap1113-glitch/tokenshield",
+    "url": "https://github.com/harshitpratap1113-glitch/tokenshield",
+    "source": "github",
+    "description": "Multi-Modal Pre-Inference Optimization Gateway for LLMs & Vision APIs (70% - 88% token reduction)",
+    "published_at": "2026-10-12T17:00:31Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "llm",
+        "prompt-compression",
+        "python",
+        "token-optimization",
+        "vision"
+      ]
+    }
+  },
+  {
+    "title": "AMD Boosting AI/LLM Performance for Radeon iGPUs as Much as 18~23% with Linux7.4",
+    "url": "https://www.phoronix.com/review/amd-perfopt",
+    "source": "rss",
+    "description": "Article URL: https://www.phoronix.com/review/amd-perfopt\nComments URL: https://news.ycombinator.com/item?id=49900455\nPoints: 2\n# Comments: 0",
+    "published_at": "Tue, 29 Sep 2026 20:59:43 +0000",
+    "extra": {}
+  }
+]

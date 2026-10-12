@@ -1,0 +1,16 @@
+{
+  "id": "github-20261012-002",
+  "title": "pipecat-ai/pipecat",
+  "source_url": "https://github.com/pipecat-ai/pipecat",
+  "source": "github",
+  "summary": "pipecat-ai/pipecat 是一个开源框架，用于构建语音代理、多模态应用和实时人工智能系统。该框架支持实时推理、多模态数据处理和分布式架构，适用于构建高性能的AI应用。",
+  "score": 9.0,
+  "tags": [
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-12T17:04:59.121279+00:00",
+  "published_at": "2026-10-12T17:02:48Z",
+  "collected_at": "2026-10-12T17:04:59.121279+00:00",
+  "description": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community."
+}

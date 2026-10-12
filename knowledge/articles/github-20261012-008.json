@@ -1,0 +1,17 @@
+{
+  "id": "github-20261012-008",
+  "title": "harshitpratap1113-glitch/tokenshield",
+  "source_url": "https://github.com/harshitpratap1113-glitch/tokenshield",
+  "source": "github",
+  "summary": "Tokenshield 是一个多模态预推理优化网关，用于大型语言模型（LLMs）和视觉API，通过优化模型推理过程中的token使用，实现了70% - 88%的token减少，提高了性能和效率，适用于需要高性能和低延迟的场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "python"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-12T17:04:59.121279+00:00",
+  "published_at": "2026-10-12T17:00:31Z",
+  "collected_at": "2026-10-12T17:04:59.121279+00:00",
+  "description": "Multi-Modal Pre-Inference Optimization Gateway for LLMs & Vision APIs (70% - 88% token reduction)"
+}

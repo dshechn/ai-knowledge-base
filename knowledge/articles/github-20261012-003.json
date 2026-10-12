@@ -1,0 +1,18 @@
+{
+  "id": "github-20261012-003",
+  "title": "AgenticMCP/llm-training-toolkit",
+  "source_url": "https://github.com/AgenticMCP/llm-training-toolkit",
+  "source": "github",
+  "summary": "AgenticMCP/llm-training-toolkit是一个用于理解和实验大型语言模型训练和微调的项目，支持多种架构。该项目提供了模型训练、推理、算法和架构优化等功能，适用于需要高性能和可扩展性的语言模型训练场景。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-12T17:04:59.121279+00:00",
+  "published_at": "2026-10-12T16:42:23Z",
+  "collected_at": "2026-10-12T17:04:59.121279+00:00",
+  "description": "A learning project for understanding and experimenting with large language model training and fine-tuning across different architectures."
+}

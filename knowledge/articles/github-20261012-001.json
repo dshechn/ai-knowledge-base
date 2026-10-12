@@ -1,0 +1,16 @@
+{
+  "id": "github-20261012-001",
+  "title": "leroyoakley777/GTM-Wiki",
+  "source_url": "https://github.com/leroyoakley777/GTM-Wiki",
+  "source": "github",
+  "summary": "GTM-Wiki 是一个开源的Go-to-Market指南，为创始人、运营者和构建者提供框架、操作手册、角色、工具和代理GTM的指南。该项目使用Docusaurus框架构建，以JavaScript编写，适用于销售和市场营销领域。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-12T17:04:59.121279+00:00",
+  "published_at": "2026-10-12T17:03:13Z",
+  "collected_at": "2026-10-12T17:04:59.121279+00:00",
+  "description": "Open-source Go-to-Market wiki for founders, operators, and builders. Covers frameworks, playbooks, roles, tools, and agentic GTM."
+}

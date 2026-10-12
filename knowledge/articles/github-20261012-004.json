@@ -1,0 +1,17 @@
+{
+  "id": "github-20261012-004",
+  "title": "pacoEzq/simulation-capsule",
+  "source_url": "https://github.com/pacoEzq/simulation-capsule",
+  "source": "github",
+  "summary": "Simulation Capsules项目利用CFD结果为大型语言模型提供数据蒸馏，包含STAR-CCM+宏和工具，以及10个教程系列和Side Runs文章。该项目通过Java实现，适用于CFD和LLM工具领域。",
+  "score": 8.0,
+  "tags": [
+    "java",
+    "llm"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-12T17:04:59.121279+00:00",
+  "published_at": "2026-10-12T16:10:29Z",
+  "collected_at": "2026-10-12T17:04:59.121279+00:00",
+  "description": "Simulation Capsules: CFD results distilled for large language models. Spec, example capsules, STAR-CCM+ macros and tools behind a 10-part tutorial series, plus Side Runs articles."
+}

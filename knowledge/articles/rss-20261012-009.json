@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261012-009",
+  "title": "AMD Boosting AI/LLM Performance for Radeon iGPUs as Much as 18~23% with Linux7.4",
+  "source_url": "https://www.phoronix.com/review/amd-perfopt",
+  "source": "rss",
+  "summary": "本文介绍了AMD针对Linux 7.4操作系统优化的AI/LLM性能提升，通过改进模型推理和算法架构，使得Radeon集成显卡的性能提升高达18~23%。该优化旨在提高AI和大型语言模型在Radeon iGPU上的运行效率。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "deep-learning",
+    "performance"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-12T17:04:59.121279+00:00",
+  "published_at": "Tue, 29 Sep 2026 20:59:43 +0000",
+  "collected_at": "2026-10-12T17:04:59.121279+00:00",
+  "description": "Article URL: https://www.phoronix.com/review/amd-perfopt\nComments URL: https://news.ycombinator.com/item?id=49900455\nPoints: 2\n# Comments: 0"
+}
