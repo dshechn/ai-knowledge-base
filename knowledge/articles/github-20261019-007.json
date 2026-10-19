@@ -1,0 +1,18 @@
+{
+  "id": "github-20261019-007",
+  "title": "ClassLeaderTalksAI/nano-inference",
+  "source_url": "https://github.com/ClassLeaderTalksAI/nano-inference",
+  "source": "github",
+  "summary": "ClassLeaderTalksAI/nano-inference 是一个基于 vLLM 的最小化、教育性大型语言模型推理服务平台，探索分布式调度、键值缓存感知路由、负载均衡和性能优化技术，适用于教育和研究。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T15:04:42.953322+00:00",
+  "published_at": "2026-10-19T14:19:33Z",
+  "collected_at": "2026-10-19T15:04:42.953322+00:00",
+  "description": "A minimal, educational LLM inference serving platform build with vLLM, exploring distributed scheduling, KV-cache-aware routing, load balancing, and performance optimization"
+}

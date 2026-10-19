@@ -1,0 +1,18 @@
+{
+  "id": "github-20261019-005",
+  "title": "hassanbasheir580-rgb/RAGdoll",
+  "source_url": "https://github.com/hassanbasheir580-rgb/RAGdoll",
+  "source": "github",
+  "summary": "RAGdoll 是一个基于 Python 的检索增强生成应用程序，用于与 PDF 和其他文档进行聊天。它利用模型进行训练和推理，实现向量索引和缓存机制，支持分布式架构和微服务设计，旨在提升性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T15:04:42.953322+00:00",
+  "published_at": "2026-10-19T15:03:02Z",
+  "collected_at": "2026-10-19T15:04:42.953322+00:00",
+  "description": "A Retrieval-Augmented Generation (RAG) application for chatting with PDFs and other documents."
+}

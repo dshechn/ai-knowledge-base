@@ -1,0 +1,18 @@
+{
+  "id": "github-20261019-003",
+  "title": "cadumeneses/us-agent",
+  "source_url": "https://github.com/cadumeneses/us-agent",
+  "source": "github",
+  "summary": "us-agent 是一个使用大型语言模型和Web信息系统分类法对用户故事进行分类的工具，支持通过API进行推理，并采用分布式架构以提高性能和并发处理能力。",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T15:04:42.953322+00:00",
+  "published_at": "2026-10-19T14:18:16Z",
+  "collected_at": "2026-10-19T15:04:42.953322+00:00",
+  "description": "A tool that classifies user stories using a web information system taxonomy and large language models."
+}

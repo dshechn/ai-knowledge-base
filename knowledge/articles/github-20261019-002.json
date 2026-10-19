@@ -1,0 +1,18 @@
+{
+  "id": "github-20261019-002",
+  "title": "icdev-ai/icdev",
+  "source_url": "https://github.com/icdev-ai/icdev",
+  "source": "github",
+  "summary": "icdev-ai/icdev 是一个基于 AI 的软件开发生命周期（SDLC）自动化系统，支持多框架合规性自动化，包括 NIST 800-53、FedRAMP、CMMC、STIG。系统包含 16 个 AI 代理、13 个设计画布，使用 FORGE 框架和 ANVIL 构建工作流程，并支持自动生成 ATO（Authority to Operate）就绪的工件。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "devops"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T15:04:42.953322+00:00",
+  "published_at": "2026-10-19T15:03:00Z",
+  "collected_at": "2026-10-19T15:04:42.953322+00:00",
+  "description": "The System That Builds Systems. AI-powered SDLC with multi-framework compliance automation (NIST 800-53, FedRAMP, CMMC, STIG), 16 AI agents, 13 design canvases, FORGE framework, ANVIL build workflow, and ATO-ready artifact generation."
+}

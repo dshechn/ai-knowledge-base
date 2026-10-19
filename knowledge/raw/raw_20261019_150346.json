@@ -1,0 +1,155 @@
+[
+  {
+    "title": "MrPeppersDev/agent-infrastructure-landscape",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+    "source": "github",
+    "description": "AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+    "published_at": "2026-10-19T15:03:12Z",
+    "extra": {
+      "stars": 5,
+      "language": "HTML",
+      "topics": [
+        "agent-frameworks",
+        "agent-infrastructure",
+        "agent-memory",
+        "ai-agents",
+        "ai-memory-systems",
+        "ai-research",
+        "catalog",
+        "knowledge-graph",
+        "langchain",
+        "letta",
+        "llm",
+        "llm-memory",
+        "mcp",
+        "mcp-server",
+        "mem0",
+        "rag",
+        "sveltekit",
+        "vector-database",
+        "zep"
+      ]
+    }
+  },
+  {
+    "title": "icdev-ai/icdev",
+    "url": "https://github.com/icdev-ai/icdev",
+    "source": "github",
+    "description": "The System That Builds Systems. AI-powered SDLC with multi-framework compliance automation (NIST 800-53, FedRAMP, CMMC, STIG), 16 AI agents, 13 design canvases, FORGE framework, ANVIL build workflow, and ATO-ready artifact generation.",
+    "published_at": "2026-10-19T15:03:00Z",
+    "extra": {
+      "stars": 5,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "cadumeneses/us-agent",
+    "url": "https://github.com/cadumeneses/us-agent",
+    "source": "github",
+    "description": "A tool that classifies user stories using a web information system taxonomy and large language models.",
+    "published_at": "2026-10-19T14:18:16Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "Exonfang/gdllm-godot-agentic-harness",
+    "url": "https://github.com/Exonfang/gdllm-godot-agentic-harness",
+    "source": "github",
+    "description": "A fully transparent in-editor agentic harness for large language models inside Godot Engine. Connect to any LLM provider via API (or use your ChatGPT sub) and provide your agents the tools, context management, and guidance to effectively complete most tasks in Godot. Every action the agent takes is fully surfaced and persists in session history.",
+    "published_at": "2026-10-19T13:48:15Z",
+    "extra": {
+      "stars": 38,
+      "language": "GDScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-harness",
+        "godot",
+        "godot-addon",
+        "godot-plugin",
+        "llm"
+      ]
+    }
+  },
+  {
+    "title": "hassanbasheir580-rgb/RAGdoll",
+    "url": "https://github.com/hassanbasheir580-rgb/RAGdoll",
+    "source": "github",
+    "description": "A Retrieval-Augmented Generation (RAG) application for chatting with PDFs and other documents.",
+    "published_at": "2026-10-19T15:03:02Z",
+    "extra": {
+      "stars": 2,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Kerstink2871/VectorRAG.Net",
+    "url": "https://github.com/Kerstink2871/VectorRAG.Net",
+    "source": "github",
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented Generation). Core search is based on Random Hyperplane LSH candidate generation with exact rerank by dot/cosine.",
+    "published_at": "2026-10-19T15:02:36Z",
+    "extra": {
+      "stars": 0,
+      "language": "C#",
+      "topics": [
+        "ann-search",
+        "approximate-nearest-neighbor",
+        "artificial-intelligence",
+        "bm25",
+        "document-search",
+        "embedded-database",
+        "embeddings",
+        "high-performance",
+        "hybrid-search",
+        "in-memory-database",
+        "knowledge-base",
+        "llm",
+        "low-latency",
+        "rag",
+        "retrieval-augmented-generation",
+        "search-engine",
+        "semantic-search",
+        "simd",
+        "vector-database",
+        "vector-search"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA/Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "source": "github",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "published_at": "2026-10-19T14:53:36Z",
+    "extra": {
+      "stars": 5368,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "ClassLeaderTalksAI/nano-inference",
+    "url": "https://github.com/ClassLeaderTalksAI/nano-inference",
+    "source": "github",
+    "description": "A minimal, educational LLM inference serving platform build with vLLM, exploring distributed scheduling, KV-cache-aware routing, load balancing, and performance optimization",
+    "published_at": "2026-10-19T14:19:33Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "Linux Kernel Developers Plan to Remove \"Assisted-By\" Tag Requirement for AI/LLM",
+    "url": "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req",
+    "source": "rss",
+    "description": "Article URL: https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req\nComments URL: https://news.ycombinator.com/item?id=50072133\nPoints: 5\n# Comments: 1",
+    "published_at": "Tue, 13 Oct 2026 14:15:04 +0000",
+    "extra": {}
+  }
+]

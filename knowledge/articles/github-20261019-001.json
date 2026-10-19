@@ -1,0 +1,16 @@
+{
+  "id": "github-20261019-001",
+  "title": "MrPeppersDev/agent-infrastructure-landscape",
+  "source_url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+  "source": "github",
+  "summary": "该项目提供了一个全面的AI代理内存和基础设施比较目录，涵盖912个系统，68个列，包括内存层、代理框架、运行时、向量存储、知识图谱、MCP服务器和基准测试。支持通过类型化边缘、血缘关系和引用进行搜索。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T15:04:42.953322+00:00",
+  "published_at": "2026-10-19T15:03:12Z",
+  "collected_at": "2026-10-19T15:04:42.953322+00:00",
+  "description": "AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20261019-006",
+  "title": "Kerstink2871/VectorRAG.Net",
+  "source_url": "https://github.com/Kerstink2871/VectorRAG.Net",
+  "source": "github",
+  "summary": "VectorRAG.Net 是一个基于 .NET 的高性能向量数据库库，用于语义搜索和检索增强生成（RAG）。它采用随机超平面局部敏感哈希（LSH）进行候选生成，并通过点积/余弦相似度进行精确重排序。该库适用于高性能的语义搜索和RAG应用。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T15:04:42.953322+00:00",
+  "published_at": "2026-10-19T15:02:36Z",
+  "collected_at": "2026-10-19T15:04:42.953322+00:00",
+  "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented Generation). Core search is based on Random Hyperplane LSH candidate generation with exact rerank by dot/cosine."
+}

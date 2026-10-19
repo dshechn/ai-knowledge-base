@@ -1,0 +1,16 @@
+{
+  "id": "github-20261019-004",
+  "title": "Exonfang/gdllm-godot-agentic-harness",
+  "source_url": "https://github.com/Exonfang/gdllm-godot-agentic-harness",
+  "source": "github",
+  "summary": "Godot引擎中的大型语言模型编辑器插件，通过API连接LLM提供商，为Godot中的代理提供工具、上下文管理和指导，实现任务的高效完成。支持会话历史记录，具有透明性和持久性。",
+  "score": 8.0,
+  "tags": [
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T15:04:42.953322+00:00",
+  "published_at": "2026-10-19T13:48:15Z",
+  "collected_at": "2026-10-19T15:04:42.953322+00:00",
+  "description": "A fully transparent in-editor agentic harness for large language models inside Godot Engine. Connect to any LLM provider via API (or use your ChatGPT sub) and provide your agents the tools, context management, and guidance to effectively complete most tasks in Godot. Every action the agent takes is "
+}
