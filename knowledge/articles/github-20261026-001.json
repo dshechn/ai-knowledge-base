@@ -1,0 +1,17 @@
+{
+  "id": "github-20261026-001",
+  "title": "rtmorobe08-lab/ai-assurance-platform",
+  "source_url": "https://github.com/rtmorobe08-lab/ai-assurance-platform",
+  "source": "github",
+  "summary": "该平台提供实用的AI治理、代理边界和风险保障框架，针对小型和中型企业（SMMEs）定制，旨在通过模型训练、推理和算法优化，提升AI系统的性能和安全性，同时支持分布式架构和微服务设计。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-26T14:38:04.931634+00:00",
+  "published_at": "2026-10-26T14:36:35Z",
+  "collected_at": "2026-10-26T14:38:04.931634+00:00",
+  "description": "Pragmatic AI governance, agent guardrails, and risk assurance frameworks tailored for SMMEs."
+}

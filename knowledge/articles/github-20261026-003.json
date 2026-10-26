@@ -1,0 +1,18 @@
+{
+  "id": "github-20261026-003",
+  "title": "modelsell/modelsell-cli",
+  "source_url": "https://github.com/modelsell/modelsell-cli",
+  "source": "github",
+  "summary": "modelsell/modelsell-cli 是一个用于自动化配置主流 CLI 工具（如 Codex、Claude Code、Gemini CLI 和 OpenClaw）的命令行工具，支持使用任何大型语言模型。该项目通过简化配置流程，提高了开发效率和用户体验。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "javascript",
+    "ai",
+    "tooling"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-26T14:38:04.931634+00:00",
+  "published_at": "2026-10-26T14:19:08Z",
+  "collected_at": "2026-10-26T14:38:04.931634+00:00",
+  "description": "Used to automate the configuration of mainstream CLI tools—such as Codex, Claude Code, Gemini CLI, and OpenClaw—and supports the use of any large language model."
+}

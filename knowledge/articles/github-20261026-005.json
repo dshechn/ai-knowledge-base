@@ -1,0 +1,18 @@
+{
+  "id": "github-20261026-005",
+  "title": "Shruchika17/VideoMind",
+  "source_url": "https://github.com/Shruchika17/VideoMind",
+  "source": "github",
+  "summary": "VideoMind 是一个基于 Streamlit 的应用程序，它将 YouTube 的字幕转换为交互式导师，利用检索增强生成 (RAG) 和 LangGraph 工作流程。该应用通过模型训练和推理，将视频内容转化为可交互的问答形式，适用于教育和学习场景。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-26T14:38:04.931634+00:00",
+  "published_at": "2026-10-26T14:34:42Z",
+  "collected_at": "2026-10-26T14:38:04.931634+00:00",
+  "description": "A Streamlit app that turns a YouTube transcript into an interactive tutor using retrieval-augmented generation (RAG) and a LangGraph workflow."
+}

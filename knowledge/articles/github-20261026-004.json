@@ -1,0 +1,18 @@
+{
+  "id": "github-20261026-004",
+  "title": "AityPrachetha/RAGShield",
+  "source_url": "https://github.com/AityPrachetha/RAGShield",
+  "source": "github",
+  "summary": "RAGShield是一个多层安全框架，用于检测提示注入攻击并保护检索增强生成（RAG）应用。该框架采用先进的算法和分布式架构，通过缓存和向量索引优化性能，同时支持微服务和容器化部署，提供API和SDK以方便集成。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "security",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-26T14:38:04.931634+00:00",
+  "published_at": "2026-10-26T14:36:50Z",
+  "collected_at": "2026-10-26T14:38:04.931634+00:00",
+  "description": "A multi-layer security framework for detecting prompt injection attacks and protecting Retrieval-Augmented Generation (RAG) applications."
+}

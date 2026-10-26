@@ -1,0 +1,16 @@
+{
+  "id": "github-20261026-007",
+  "title": "hrabanazviking/RuneForgeAI-Project-Aesir",
+  "source_url": "https://github.com/hrabanazviking/RuneForgeAI-Project-Aesir",
+  "source": "github",
+  "summary": "RuneForgeAI-Project-Aesir 是一个基于Bare-metal Mojo推理引擎，专为本地主权设计。它具备零拷贝GGUF解析、分页的PagedAttention KV缓存和无状态采样器。针对消费级硬件优化，消除了对云的依赖和冗余，以在边缘提供高性能、私有的AI服务。",
+  "score": 8.0,
+  "tags": [
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-26T14:38:04.931634+00:00",
+  "published_at": "2026-10-26T14:10:55Z",
+  "collected_at": "2026-10-26T14:38:04.931634+00:00",
+  "description": "Bare-metal Mojo inference engine designed for local sovereignty. Features zero-copy GGUF parsing, PagedAttention KV caching, and a stateless sampler. Optimized for consumer hardware, it eliminates cloud dependency and bloat to deliver high-performance, private AI directly on the edge."
+}
