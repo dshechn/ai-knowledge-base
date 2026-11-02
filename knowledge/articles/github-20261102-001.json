@@ -1,0 +1,17 @@
+{
+  "id": "github-20261102-001",
+  "title": "kh0pper/crow",
+  "source_url": "https://github.com/kh0pper/crow",
+  "source": "github",
+  "summary": "kh0pper/crow是一个模块化、代理框架和MCP平台，允许用户自托管。用户可以构建和运行自己的AI代理，连接Claude Code、Claude Desktop或Cursor作为原生MCP连接器，自托管应用程序，并通过加密P2P共享。该框架支持本地或云模型，开源，适用于构建AI代理和自托管应用。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-02T17:30:25.843803+00:00",
+  "published_at": "2026-11-02T17:29:09Z",
+  "collected_at": "2026-11-02T17:30:25.843803+00:00",
+  "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude Desktop, or Cursor as a native MCP connector, self-host your apps, and share over encrypted P2P — on hardware you own, with local or cloud models. Open source."
+}

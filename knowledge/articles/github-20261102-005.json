@@ -1,0 +1,18 @@
+{
+  "id": "github-20261102-005",
+  "title": "khatijaliya26/Invoice-RAG-Chatbot",
+  "source_url": "https://github.com/khatijaliya26/Invoice-RAG-Chatbot",
+  "source": "github",
+  "summary": "该项目是一个交互式的发票问答聊天机器人，利用Docling、检索增强生成（RAG）、Sentence Transformers、FAISS和Llama 3.2算法，通过Gradio界面实现发票处理、摘要和基于源头的响应。核心技术包括模型训练、向量索引和推理，适用于发票处理和问答系统。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "nlp",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-02T17:30:25.843803+00:00",
+  "published_at": "2026-11-02T17:24:10Z",
+  "collected_at": "2026-11-02T17:30:25.843803+00:00",
+  "description": "An interactive invoice question-answering chatbot using Docling, Retrieval-Augmented Generation (RAG), Sentence Transformers, FAISS and Llama 3.2, with a Gradio interface for invoice processing, summarization and source-grounded responses."
+}

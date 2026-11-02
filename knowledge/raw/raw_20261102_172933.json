@@ -1,0 +1,158 @@
+[
+  {
+    "title": "kh0pper/crow",
+    "url": "https://github.com/kh0pper/crow",
+    "source": "github",
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude Desktop, or Cursor as a native MCP connector, self-host your apps, and share over encrypted P2P — on hardware you own, with local or cloud models. Open source.",
+    "published_at": "2026-11-02T17:29:09Z",
+    "extra": {
+      "stars": 26,
+      "language": "JavaScript",
+      "topics": [
+        "agent-framework",
+        "ai-agents",
+        "bot-builder",
+        "home-server",
+        "llm",
+        "local-first",
+        "mcp",
+        "model-context-protocol",
+        "nodejs",
+        "p2p",
+        "personal-ai",
+        "privacy",
+        "self-hosted"
+      ]
+    }
+  },
+  {
+    "title": "attest-framework/attest",
+    "url": "https://github.com/attest-framework/attest",
+    "source": "github",
+    "description": "Open-source testing framework for AI agents. Deterministic assertions first, LLM-as-judge last.",
+    "published_at": "2026-11-02T17:28:37Z",
+    "extra": {
+      "stars": 4,
+      "language": "Go",
+      "topics": []
+    }
+  },
+  {
+    "title": "arichiardi/ar-llm",
+    "url": "https://github.com/arichiardi/ar-llm",
+    "source": "github",
+    "description": "A repository dedicated to my Large Language Model tools, skills and workflows.",
+    "published_at": "2026-11-02T15:59:44Z",
+    "extra": {
+      "stars": 1,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "josStorer/RWKV-Runner",
+    "url": "https://github.com/josStorer/RWKV-Runner",
+    "source": "github",
+    "description": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
+    "published_at": "2026-11-02T15:43:05Z",
+    "extra": {
+      "stars": 6498,
+      "language": "TypeScript",
+      "topics": [
+        "api",
+        "api-client",
+        "chatgpt",
+        "llm",
+        "rwkv",
+        "tool",
+        "wails"
+      ]
+    }
+  },
+  {
+    "title": "khatijaliya26/Invoice-RAG-Chatbot",
+    "url": "https://github.com/khatijaliya26/Invoice-RAG-Chatbot",
+    "source": "github",
+    "description": "An interactive invoice question-answering chatbot using Docling, Retrieval-Augmented Generation (RAG), Sentence Transformers, FAISS and Llama 3.2, with a Gradio interface for invoice processing, summarization and source-grounded responses.",
+    "published_at": "2026-11-02T17:24:10Z",
+    "extra": {
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "topics": []
+    }
+  },
+  {
+    "title": "herearemypersonalprojects/RAG-FRONTEND",
+    "url": "https://github.com/herearemypersonalprojects/RAG-FRONTEND",
+    "source": "github",
+    "description": "An Angular frontend for a Retrieval-Augmented Generation (RAG) question-answering application. Users can enter a question and view the latest question and answer in a simple chat interface.",
+    "published_at": "2026-11-02T17:21:54Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "AMD-Ecosystem/ai-ecosystem",
+    "url": "https://github.com/AMD-Ecosystem/ai-ecosystem",
+    "source": "github",
+    "description": "This repository contains documentation for the ROCm AI ecosystem: framework installation and setup, large-scale model training, LLM and diffusion serving, and performance optimization on AMD GPUs. The ecosystem builds on the ROCm Core SDK, which provides GPU runtimes (HIP), compilers, and math libraries for accelerated workloads.",
+    "published_at": "2026-11-02T17:29:18Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-ecosystem",
+        "benchmark",
+        "deep-learning-frameworks",
+        "distributed-inference",
+        "inference",
+        "llm",
+        "ml-frameworks",
+        "optimization",
+        "performance",
+        "rocm",
+        "training",
+        "tutorial",
+        "validation"
+      ]
+    }
+  },
+  {
+    "title": "amm-ds/portfolio",
+    "url": "https://github.com/amm-ds/portfolio",
+    "source": "github",
+    "description": "Ten reproducible ML/AI case studies — agentic AI & RAG, demand forecasting, anomaly detection, NLP fine-tuning, churn, VRPTW optimization, LLM inference serving, uplift modeling — with live API endpoints, typed contracts, DVC pipelines, and honest baselines throughout.",
+    "published_at": "2026-11-02T17:25:59Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "data-science",
+        "dvc",
+        "fastapi",
+        "llm",
+        "machine-learning",
+        "mlops",
+        "portfolio",
+        "pydantic",
+        "pytorch",
+        "rag",
+        "react",
+        "scikit-learn",
+        "typescript"
+      ]
+    }
+  },
+  {
+    "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+    "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+    "source": "rss",
+    "description": "Article URL: https://www.phoronix.com/news/PostgreSQL-19-Late\nComments URL: https://news.ycombinator.com/item?id=50317562\nPoints: 3\n# Comments: 0",
+    "published_at": "Sat, 31 Oct 2026 16:25:38 +0000",
+    "extra": {}
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "github-20261102-002",
+  "title": "attest-framework/attest",
+  "source_url": "https://github.com/attest-framework/attest",
+  "source": "github",
+  "summary": "attest-framework/attest 是一个开源的 AI 代理测试框架，强调先进行确定性断言，最后由大型语言模型进行判断。该框架利用 Go 语言的高效性能，支持分布式测试和并发执行，适用于构建高性能、可扩展的 AI 应用。",
+  "score": 8.0,
+  "tags": [
+    "go",
+    "ai",
+    "testing"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-02T17:30:25.843803+00:00",
+  "published_at": "2026-11-02T17:28:37Z",
+  "collected_at": "2026-11-02T17:30:25.843803+00:00",
+  "description": "Open-source testing framework for AI agents. Deterministic assertions first, LLM-as-judge last."
+}
