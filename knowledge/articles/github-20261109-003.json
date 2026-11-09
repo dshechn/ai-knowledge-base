@@ -1,0 +1,18 @@
+{
+  "id": "github-20261109-003",
+  "title": "dr-mushtaq/Awesome-Agentic-Resources",
+  "source_url": "https://github.com/dr-mushtaq/Awesome-Agentic-Resources",
+  "source": "github",
+  "summary": "提供全面的、适合初学者的Agentic AI学习路线图，包括Python教程、自主AI代理、大型语言模型、工具调用、记忆、规划、检索增强生成、多智能体系统、实际项目和精选学习资源。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "ml",
+    "python"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-09T17:53:56.691668+00:00",
+  "published_at": "2026-11-09T16:26:17Z",
+  "collected_at": "2026-11-09T17:53:56.691668+00:00",
+  "description": "A complete, beginner-friendly Agentic AI learning roadmap featuring Python tutorials, autonomous AI agents, Large Language Models, tool calling, memory, planning, Retrieval-Augmented Generation, multi-agent systems, practical projects, and curated learning resources."
+}

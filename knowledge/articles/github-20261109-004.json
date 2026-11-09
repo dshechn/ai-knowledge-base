@@ -1,0 +1,18 @@
+{
+  "id": "github-20261109-004",
+  "title": "williamdoring-prog/addressable_semantic_memory",
+  "source_url": "https://github.com/williamdoring-prog/addressable_semantic_memory",
+  "source": "github",
+  "summary": "该工具旨在帮助语言模型在原始源材料大于可用上下文窗口时保持准确的信息和组织。通过可寻址语义记忆技术，优化模型训练和推理性能，适用于处理大规模文本数据。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "ml"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-09T17:53:56.691668+00:00",
+  "published_at": "2026-11-09T15:53:05Z",
+  "collected_at": "2026-11-09T17:53:56.691668+00:00",
+  "description": "An experimental tool to help language models keep accurate information and organization when original source material is larger than the available context window."
+}

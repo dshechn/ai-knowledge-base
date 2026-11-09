@@ -1,0 +1,135 @@
+[
+  {
+    "title": "altromon/AI-SDLC",
+    "url": "https://github.com/altromon/AI-SDLC",
+    "source": "github",
+    "description": "Next-gen Software Development Life Cycle (SDLC) framework for human-AI agent collaboration. Combines arc42/NAF v4, Spec-Driven Development, Security-by-Design, deterministic quality gates, and OSS license governance.",
+    "published_at": "2026-11-09T17:53:07Z",
+    "extra": {
+      "stars": 2,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "akan-team/akanjs",
+    "url": "https://github.com/akan-team/akanjs",
+    "source": "github",
+    "description": "The TypeScript framework, agents included. Web, iOS, Android, macOS, Windows and Linux. Your server and database. And the AI agents your users already talk to.",
+    "published_at": "2026-11-09T17:52:56Z",
+    "extra": {
+      "stars": 359,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "bun",
+        "clientside-rendering",
+        "framework",
+        "full-stack",
+        "hybrid-apps",
+        "monorepo",
+        "server",
+        "serverside-rendering",
+        "sqlite3",
+        "typescript"
+      ]
+    }
+  },
+  {
+    "title": "dr-mushtaq/Awesome-Agentic-Resources",
+    "url": "https://github.com/dr-mushtaq/Awesome-Agentic-Resources",
+    "source": "github",
+    "description": "A complete, beginner-friendly Agentic AI learning roadmap featuring Python tutorials, autonomous AI agents, Large Language Models, tool calling, memory, planning, Retrieval-Augmented Generation, multi-agent systems, practical projects, and curated learning resources.",
+    "published_at": "2026-11-09T16:26:17Z",
+    "extra": {
+      "stars": 1,
+      "language": null,
+      "topics": []
+    }
+  },
+  {
+    "title": "williamdoring-prog/addressable_semantic_memory",
+    "url": "https://github.com/williamdoring-prog/addressable_semantic_memory",
+    "source": "github",
+    "description": "An experimental tool to help language models keep accurate information and organization when original source material is larger than the available context window. ",
+    "published_at": "2026-11-09T15:53:05Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "aaminaaaa/PaperPilot",
+    "url": "https://github.com/aaminaaaa/PaperPilot",
+    "source": "github",
+    "description": "An AI-powered PDF chatbot that lets users upload documents and ask questions using Retrieval-Augmented Generation (RAG)",
+    "published_at": "2026-11-09T17:49:48Z",
+    "extra": {
+      "stars": 0,
+      "language": "CSS",
+      "topics": []
+    }
+  },
+  {
+    "title": "bugrabastaban/Cve-Rag-Project",
+    "url": "https://github.com/bugrabastaban/Cve-Rag-Project",
+    "source": "github",
+    "description": "A Turkish CVE retrieval-augmented generation application using BGE-M3, PostgreSQL, pgvector and Groq.",
+    "published_at": "2026-11-09T17:49:18Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source": "github",
+    "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+    "published_at": "2026-11-09T17:25:54Z",
+    "extra": {
+      "stars": 15047,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "title": "huggingface/optimum-intel",
+    "url": "https://github.com/huggingface/optimum-intel",
+    "source": "github",
+    "description": "🤗 Optimum Intel: Accelerate inference with Intel optimization tools",
+    "published_at": "2026-11-09T17:01:58Z",
+    "extra": {
+      "stars": 627,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "asr",
+        "diffusers",
+        "llm",
+        "omni",
+        "openvino",
+        "openvino-genai",
+        "optimization",
+        "transformers",
+        "tts",
+        "vlm"
+      ]
+    }
+  },
+  {
+    "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+    "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+    "source": "rss",
+    "description": "Article URL: https://www.phoronix.com/news/PostgreSQL-19-Late\nComments URL: https://news.ycombinator.com/item?id=50317562\nPoints: 3\n# Comments: 0",
+    "published_at": "Sat, 31 Oct 2026 16:25:38 +0000",
+    "extra": {}
+  }
+]

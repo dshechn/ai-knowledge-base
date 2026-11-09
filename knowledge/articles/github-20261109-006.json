@@ -1,0 +1,18 @@
+{
+  "id": "github-20261109-006",
+  "title": "bugrabastaban/Cve-Rag-Project",
+  "source_url": "https://github.com/bugrabastaban/Cve-Rag-Project",
+  "source": "github",
+  "summary": "Cve-Rag-Project 是一个使用 BGE-M3 模型、PostgreSQL 数据库、pgvector 向量索引和 Groq 进行 CVE 检索增强生成应用的土耳其项目。该项目通过模型训练和推理，结合向量索引和缓存技术，实现高效的安全漏洞信息检索和分析。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "database",
+    "security"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-09T17:53:56.691668+00:00",
+  "published_at": "2026-11-09T17:49:18Z",
+  "collected_at": "2026-11-09T17:53:56.691668+00:00",
+  "description": "A Turkish CVE retrieval-augmented generation application using BGE-M3, PostgreSQL, pgvector and Groq."
+}

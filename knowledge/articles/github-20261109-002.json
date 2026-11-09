@@ -1,0 +1,17 @@
+{
+  "id": "github-20261109-002",
+  "title": "akan-team/akanjs",
+  "source_url": "https://github.com/akan-team/akanjs",
+  "source": "github",
+  "summary": "Akanjs 是一个全栈 TypeScript 框架，支持 Web、iOS、Android、macOS、Windows 和 Linux 平台。它集成了 AI 代理，允许用户与服务器和数据库交互，并通过 AI 代理进行对话。该框架提供了一站式解决方案，包括前端渲染和后端服务。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-09T17:53:56.691668+00:00",
+  "published_at": "2026-11-09T17:52:56Z",
+  "collected_at": "2026-11-09T17:53:56.691668+00:00",
+  "description": "The TypeScript framework, agents included. Web, iOS, Android, macOS, Windows and Linux. Your server and database. And the AI agents your users already talk to."
+}

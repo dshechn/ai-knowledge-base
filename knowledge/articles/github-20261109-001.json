@@ -1,0 +1,18 @@
+{
+  "id": "github-20261109-001",
+  "title": "altromon/AI-SDLC",
+  "source_url": "https://github.com/altromon/AI-SDLC",
+  "source": "github",
+  "summary": "AI-SDLC 是一个下一代软件开发生命周期（SDLC）框架，旨在实现人与AI代理的协作。该框架融合了arc42/NAF v4标准、规范驱动开发、安全设计原则、确定性的质量关卡以及开源许可证治理。它支持人工智能在软件开发过程中的应用，提高开发效率和安全性。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "typescript",
+    "ai",
+    "architecture"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-09T17:53:56.691668+00:00",
+  "published_at": "2026-11-09T17:53:07Z",
+  "collected_at": "2026-11-09T17:53:56.691668+00:00",
+  "description": "Next-gen Software Development Life Cycle (SDLC) framework for human-AI agent collaboration. Combines arc42/NAF v4, Spec-Driven Development, Security-by-Design, deterministic quality gates, and OSS license governance."
+}
