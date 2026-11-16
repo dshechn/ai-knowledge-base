@@ -1,0 +1,130 @@
+[
+  {
+    "title": "NVIDIA/SkillEvaluator",
+    "url": "https://github.com/NVIDIA/SkillEvaluator",
+    "source": "github",
+    "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+    "published_at": "2026-11-16T17:34:11Z",
+    "extra": {
+      "stars": 2442,
+      "language": "Python",
+      "topics": [
+        "agent-evaluation",
+        "agent-plugins",
+        "agent-security",
+        "agent-skills",
+        "agentic-ai",
+        "benchmark",
+        "claude-code",
+        "codex",
+        "evaluate",
+        "evaluation",
+        "plugin",
+        "plugin-evaluation",
+        "security-scanner",
+        "skill-eval",
+        "skill-evals",
+        "skill-evaluation",
+        "skill-evaluator",
+        "skills"
+      ]
+    }
+  },
+  {
+    "title": "BuilderIO/agent-native",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "source": "github",
+    "description": "A framework for building agentic apps",
+    "published_at": "2026-11-16T16:25:12Z",
+    "extra": {
+      "stars": 7710,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "agent-native",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "framework",
+        "generative-ui",
+        "mcp",
+        "open-source",
+        "react",
+        "typescript"
+      ]
+    }
+  },
+  {
+    "title": "hjiang13/awesome-Large-Language-Model-4-IRs-in-Compiler",
+    "url": "https://github.com/hjiang13/awesome-Large-Language-Model-4-IRs-in-Compiler",
+    "source": "github",
+    "description": "A curated list of research papers, datasets, tools, and benchmarks on applying Large Language Models (LLMs) to Compiler Intermediate Representations (IR) and Optimization.",
+    "published_at": "2026-11-16T17:27:57Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "projectdiscovery/aix",
+    "url": "https://github.com/projectdiscovery/aix",
+    "source": "github",
+    "description": "AIx is a cli tool to interact with Large Language Models (LLM) APIs.",
+    "published_at": "2026-11-05T13:22:52Z",
+    "extra": {
+      "stars": 318,
+      "language": "Go",
+      "topics": []
+    }
+  },
+  {
+    "title": "Dyresty/enterprise-hybrid-rag",
+    "url": "https://github.com/Dyresty/enterprise-hybrid-rag",
+    "source": "github",
+    "description": "A production-style Retrieval-Augmented Generation (RAG) platform designed to process enterprise documents and provide intelligent question answering using modern LLM application architecture. ",
+    "published_at": "2026-08-19T19:57:24Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "lavanito/python-rag-textbook",
+    "url": "https://github.com/lavanito/python-rag-textbook",
+    "source": "github",
+    "description": "Annotated Python code for a textbook on retrieval-augmented generation (RAG), built on national accounts manuals and a GDP-statistics corpus. Readable, tested, not production code. Runs locally with open-source tools: Ollama, Qwen3, sentence-transformers, bm25s and Chroma.",
+    "published_at": "2026-11-07T17:07:38Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "NVIDIA/Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "source": "github",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "published_at": "2026-11-16T17:29:50Z",
+    "extra": {
+      "stars": 5613,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "RomanSnusoed/llm-inference-optimization-lab",
+    "url": "https://github.com/RomanSnusoed/llm-inference-optimization-lab",
+    "source": "github",
+    "description": "GPU-accelerated LLM inference, model serving, performance benchmarking, and NVIDIA optimization experiments.",
+    "published_at": "2026-11-16T17:16:24Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  }
+]

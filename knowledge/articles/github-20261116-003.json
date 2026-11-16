@@ -1,0 +1,18 @@
+{
+  "id": "github-20261116-003",
+  "title": "Dyresty/enterprise-hybrid-rag",
+  "source_url": "https://github.com/Dyresty/enterprise-hybrid-rag",
+  "source": "github",
+  "summary": "Dyresty/enterprise-hybrid-rag 是一个面向生产环境的检索增强生成（RAG）平台，利用现代大型语言模型（LLM）应用架构处理企业文档，提供智能问答服务。该平台采用分布式架构，支持缓存和并发处理，适用于企业级应用。",
+  "score": 8.0,
+  "tags": [
+    "python",
+    "ai",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-16T17:35:36.201858+00:00",
+  "published_at": "2026-08-19T19:57:24Z",
+  "collected_at": "2026-11-16T17:35:36.201858+00:00",
+  "description": "A production-style Retrieval-Augmented Generation (RAG) platform designed to process enterprise documents and provide intelligent question answering using modern LLM application architecture."
+}

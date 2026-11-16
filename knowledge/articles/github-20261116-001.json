@@ -1,0 +1,18 @@
+{
+  "id": "github-20261116-001",
+  "title": "NVIDIA/SkillEvaluator",
+  "source_url": "https://github.com/NVIDIA/SkillEvaluator",
+  "source": "github",
+  "summary": "NVIDIA/SkillEvaluator是一个多层级框架，用于评估AI代理技能，包括质量门控、语义重叠检测、合成评估数据集生成和实时代理评估，以衡量技能对代理行为的影响。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "algorithm",
+    "microservices"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-16T17:35:36.201858+00:00",
+  "published_at": "2026-11-16T17:34:11Z",
+  "collected_at": "2026-11-16T17:35:36.201858+00:00",
+  "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
+}
