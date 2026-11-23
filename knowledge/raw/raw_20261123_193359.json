@@ -1,0 +1,177 @@
+[
+  {
+    "title": "cTuningLabs/cmeta",
+    "url": "https://github.com/cTuningLabs/cmeta",
+    "source": "github",
+    "description": "Common Meta Framework (cMeta/cX): keep code, data, models, workflows and notes as plain folders with metadata, linked by stable IDs and used through one CLI and one Python API - for collaborative & reproducible R&D, benchmarking and knowledge management that people, organizations and AI agents can share, extend and build upon. Minimal dependencies.",
+    "published_at": "2026-11-12T14:25:11Z",
+    "extra": {
+      "stars": 9,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "aiops",
+        "artifact-evaluation",
+        "benchmarking",
+        "cli",
+        "collaboration",
+        "collective-knowledge",
+        "ctuning",
+        "knowledge-graph",
+        "metadata",
+        "mlops",
+        "open-science",
+        "portability",
+        "provenance",
+        "python",
+        "reproducibility",
+        "research-software",
+        "reusability",
+        "workflow-automation"
+      ]
+    }
+  },
+  {
+    "title": "PreethiVarshaM/ai-agent-ui-standards",
+    "url": "https://github.com/PreethiVarshaM/ai-agent-ui-standards",
+    "source": "github",
+    "description": "An evidence-first onboarding kit for AI coding agents. It maps existing frontend architecture, guides initial decisions for new projects, and turns agreed UI conventions into a reusable project baseline—across frameworks and agents.",
+    "published_at": "2026-11-23T19:31:49Z",
+    "extra": {
+      "stars": 0,
+      "language": null,
+      "topics": [
+        "accessibility",
+        "agent-skills",
+        "ai-agents",
+        "design-systems",
+        "developer-tools",
+        "framework-agnostic",
+        "frontend",
+        "ui-engineering"
+      ]
+    }
+  },
+  {
+    "title": "pacoEzq/simulation-capsule",
+    "url": "https://github.com/pacoEzq/simulation-capsule",
+    "source": "github",
+    "description": "Simulation Capsules: CFD results distilled for large language models. Spec, example capsules, STAR-CCM+ macros and tools behind a 10-part tutorial series, plus Side Runs articles.",
+    "published_at": "2026-11-11T18:11:37Z",
+    "extra": {
+      "stars": 0,
+      "language": "Java",
+      "topics": [
+        "cfd",
+        "context-engineering",
+        "file-format",
+        "llm",
+        "llm-tools",
+        "llms-txt",
+        "postprocessing",
+        "scientific-visualization",
+        "simulation",
+        "star-ccm",
+        "star-ccm-plus",
+        "tokenization"
+      ]
+    }
+  },
+  {
+    "title": "hjiang13/awesome-Large-Language-Model-4-IRs-in-Compiler",
+    "url": "https://github.com/hjiang13/awesome-Large-Language-Model-4-IRs-in-Compiler",
+    "source": "github",
+    "description": "A curated list of research papers, datasets, tools, and benchmarks on applying Large Language Models (LLMs) to Compiler Intermediate Representations (IR) and Optimization.",
+    "published_at": "2026-11-21T20:36:56Z",
+    "extra": {
+      "stars": 1,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "RONAK-BHORANIYA/CampusHire",
+    "url": "https://github.com/RONAK-BHORANIYA/CampusHire",
+    "source": "github",
+    "description": "Built a continuously updated Retrieval-Augmented Generation (RAG) system for querying training-and-placement policies, company JDs, eligibility criteria, deadlines, and placement notices through a centralized knowledge base. ",
+    "published_at": "2026-11-23T19:32:13Z",
+    "extra": {
+      "stars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  },
+  {
+    "title": "deejay94/ragdocs",
+    "url": "https://github.com/deejay94/ragdocs",
+    "source": "github",
+    "description": "AI-powered developer documentation assistant using retrieval-augmented generation (RAG)",
+    "published_at": "2026-11-23T19:14:04Z",
+    "extra": {
+      "stars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  },
+  {
+    "title": "uxlfoundation/oneDNN",
+    "url": "https://github.com/uxlfoundation/oneDNN",
+    "source": "github",
+    "description": "Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.",
+    "published_at": "2026-11-23T12:28:38Z",
+    "extra": {
+      "stars": 4096,
+      "language": "C++",
+      "topics": [
+        "aarch64",
+        "ace",
+        "amx",
+        "arm",
+        "avx10",
+        "convolution",
+        "cpp",
+        "deep-learning",
+        "inference",
+        "intel-gpu",
+        "llm",
+        "matmul",
+        "mxfp8",
+        "oneapi",
+        "onednn",
+        "performance",
+        "risc-v",
+        "sycl",
+        "x64",
+        "x86-64"
+      ]
+    }
+  },
+  {
+    "title": "guelfoweb/orbit",
+    "url": "https://github.com/guelfoweb/orbit",
+    "source": "github",
+    "description": "Local agentic AI runtime optimized for CPU-only consumer hardware, tool use and efficient local inference.",
+    "published_at": "2026-09-28T15:44:47Z",
+    "extra": {
+      "stars": 18,
+      "language": "Python",
+      "topics": [
+        "agent-cli",
+        "cpu-only",
+        "llama-cpp",
+        "llm",
+        "local-llm",
+        "python",
+        "tool-calling"
+      ]
+    }
+  },
+  {
+    "title": "Ask HN: Where are you on the spectrum of AI/LLM adoption?",
+    "url": "https://news.ycombinator.com/item?id=50527647",
+    "source": "rss",
+    "description": "- Personal user (not using in work)- Auto-complete only- Adopted agents, write specs + reviews code- Adopted agents, write specs, no code review- Adopted agents, no specs, no code review- Moved back from agents to Auto-complete only- Moved away from LLMs altogether\n\nComments URL: https://news.ycombinator.com/item?id=50527647\nPoints: 4\n# Comments: 7",
+    "published_at": "Tue, 17 Nov 2026 05:00:16 +0000",
+    "extra": {}
+  }
+]

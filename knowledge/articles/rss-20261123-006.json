@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261123-006",
+  "title": "Ask HN: Where are you on the spectrum of AI/LLM adoption?",
+  "source_url": "https://news.ycombinator.com/item?id=50527647",
+  "source": "rss",
+  "summary": "讨论了不同用户在AI/LLM（大型语言模型）采用程度上的差异，包括个人用户、自动补全、采用代理编写规范和代码、仅采用代理编写规范不进行代码审查、仅使用自动补全以及完全放弃LLM的情况。，基于模型推理的架构",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "llm",
+    "deep-learning"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-23T19:35:06.312912+00:00",
+  "published_at": "Tue, 17 Nov 2026 05:00:16 +0000",
+  "collected_at": "2026-11-23T19:35:06.312912+00:00",
+  "description": "- Personal user (not using in work)- Auto-complete only- Adopted agents, write specs + reviews code- Adopted agents, write specs, no code review- Adopted agents, no specs, no code review- Moved back from agents to Auto-complete only- Moved away from LLMs altogether\n\nComments URL: https://news.ycombi"
+}

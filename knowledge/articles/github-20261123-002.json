@@ -1,0 +1,17 @@
+{
+  "id": "github-20261123-002",
+  "title": "PreethiVarshaM/ai-agent-ui-standards",
+  "source_url": "https://github.com/PreethiVarshaM/ai-agent-ui-standards",
+  "source": "github",
+  "summary": "提供AI编码代理的证据优先入职套件，映射现有前端架构，指导新项目的初始决策，并将约定的UI约定转化为跨框架和代理的可重复项目基线。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "frontend"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-23T19:35:06.312912+00:00",
+  "published_at": "2026-11-23T19:31:49Z",
+  "collected_at": "2026-11-23T19:35:06.312912+00:00",
+  "description": "An evidence-first onboarding kit for AI coding agents. It maps existing frontend architecture, guides initial decisions for new projects, and turns agreed UI conventions into a reusable project baseline—across frameworks and agents."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20261123-001",
+  "title": "cTuningLabs/cmeta",
+  "source_url": "https://github.com/cTuningLabs/cmeta",
+  "source": "github",
+  "summary": "cMeta/cX是一个通用元框架，通过稳定ID将代码、数据、模型、工作流程和笔记作为普通文件夹与元数据链接，通过一个CLI和一个Python API进行使用，旨在支持协作、可重复的R&D、基准测试和知识管理，便于人们、组织以及AI代理共享、扩展和构建。该项目具有最小依赖性。",
+  "score": 8.0,
+  "tags": [
+    "ai",
+    "python"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-23T19:35:06.312912+00:00",
+  "published_at": "2026-11-12T14:25:11Z",
+  "collected_at": "2026-11-23T19:35:06.312912+00:00",
+  "description": "Common Meta Framework (cMeta/cX): keep code, data, models, workflows and notes as plain folders with metadata, linked by stable IDs and used through one CLI and one Python API - for collaborative & reproducible R&D, benchmarking and knowledge management that people, organizations and AI agents can s"
+}

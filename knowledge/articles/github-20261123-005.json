@@ -1,0 +1,18 @@
+{
+  "id": "github-20261123-005",
+  "title": "uxlfoundation/oneDNN",
+  "source_url": "https://github.com/uxlfoundation/oneDNN",
+  "source": "github",
+  "summary": "oneDNN是一个开源的深度学习操作库，针对CPU（x64、AArch64、RISC-V）和Intel GPU进行优化，支持矩阵乘法、卷积、注意力等操作。它被PyTorch、TensorFlow、OpenVINO和ONNX Runtime等框架使用，旨在提高深度学习模型的训练和推理性能。",
+  "score": 9.0,
+  "tags": [
+    "deep-learning",
+    "performance",
+    "algorithm"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-23T19:35:06.312912+00:00",
+  "published_at": "2026-11-23T12:28:38Z",
+  "collected_at": "2026-11-23T19:35:06.312912+00:00",
+  "description": "Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime."
+}
